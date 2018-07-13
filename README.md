@@ -9,6 +9,6 @@ Firstly, you need to create a github account (and confirm your email address).
  5. Once finished, complete **Commit changes** part with your message (basically, why you did this modification..) and **Commit** (Save) your changes.
  6. Click on **Create pull request** 
  7. You can leave a comment or leave as is.
- 8. Click on **Create pull request** and we're **done** !
+ 8. Click on **Create pull request** and we're **Done !**
  
 > **Note:** If you nees to update another file you simply navigate to the root folder by clicking on **WHASQ/ whasq-translations** link.
