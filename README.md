@@ -11,6 +11,7 @@ Firstly, you need to create a github account (and confirm your email address).
  7. You can leave a comment or leave as is.
  8. Click on **Create pull request** and we're **Done !**
  
+ 
 > **Note 1:** If you nees to update another file you simply navigate to the root folder by clicking on **WHASQ/ whasq-translations** link.
 
 > **Note 2:** Please **do not** alter any other part of file like tags.. Focus on modification of the words respecting *spaces*, *quotes* and *emojis* too 😉!
