@@ -1,0 +1,15 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    {% include('email/header.es.html.twig') %}
+    <tr>
+        <td bgcolor="#ffffff" style="padding: 20px 20px 20px 20px; font-family:Arial, Helvetica, sans-serif;font-size:14px;">
+            Buenos días,<br /><br />
+            solicitaste los datos personales almacenados en la aplicación de whasq para la cuenta: {{ user.email }}<br />
+            Encuentra a continuación un enlace para descargarlos:<br />
+            <a href="{{ link }}">Descargar mis datos Whasq</a><br />
+            Cuidado, este enlace solo esta disponible 48H.
+        </td>
+     </tr>
+    {% include('email/footer.es.html.twig') %}
+{% endblock %}

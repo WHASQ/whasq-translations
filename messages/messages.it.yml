@@ -1,0 +1,68 @@
+error:
+    action.not.allowed: Azione non autorizzata
+    action.save.failed: Errore durante la registrazione
+    action.data.invalid: I dati inviati non sono corretti
+    user.locked: Questo utente è stato bloccato
+    user.deleted: Questo utente è stato eliminato
+    user.bad.credentials: Errore di autenticazione
+    user.bad.checksum: Impossibile di modificare la password perché non è corretto il checksum
+    user.email.already.in.use: L'indirizzo email è già stato registrato
+    user.email.unknow: Nessun utente trovato
+    answer.not.champion: Quest risposta non è una soluzione
+    answer.not.found: Questa risposta non esiste o è stata eliminata
+    answer.deletion.by.author: Solo l'autore può eliminare una risposta
+    answer.edition.by.author: Solo l'autore può modificare una risposta
+    answer.report.himself: Un utente non può segnalare la sua risposta
+    whasq.already.champion: C'è già una soluzione per questo whasq
+    whasq.answer.same.user: L'autore di un whasq e l'autore della risposta sono il stesso utente
+    whasq.read.not.allow: Quest'utente non può vedere le risposte di questo whasq
+    whasq.only.author.action: Solo l'autore può effettuare quest'azione
+    whasq.deleted: Questo whasq è stato eliminato
+    whasq.inexisting: Questo whasq non esiste
+    whasq.not.resolved.yet: Questo whasq non è stato ancora risolto
+    whasq.already.estimated.owner: Questo whasq ha ricevuto una stima dall' autore
+    whasq.already.estimated.resolver: Si è verificato un errore
+    whasq.estimation.mismatch: Si è verificato un errore
+    whasq.blacklisted: Questo whasq è stato segnalato
+    whasq.edit.with.answer: Questo whasq non può essere modificato perché ci sono già risposte
+    recommendation.already.exist: Hai già consigliato questo talento
+    recommendation.accept: Solo un utente consigliato può accettare un suggerimento
+    recommendation.refuse : L'utente ha già questo talento. Il suggerimento è stato rifiutato
+    recommendation.waiting: Il suggerimento non è più in attesa di conferma
+    store.any.public: Non esiste un store pubblico
+    user.profile.already.updated: Il tuo profilo può essere aggiornato solo una volta, contatta il tuo administratore
+    user.search.empty: Nessuna ricerca inserita
+    email.invalid: Adresse e-mail non valide
+    fullname.invalid: Invalid name
+push:
+    whasq:
+        new.title: C'è un whasq per te
+        new.around.body: Un whasqer ha bisogna del tuo aiuto
+        new.same.skill.body: Un whasqer ha bisogna del tuo aiuto 😎
+        new.answer.title: C'è una risposta per te👌 
+        new.answer.body: Un whasqer ha risposto al tuo whasq 😜
+    answer:
+        champion.title: La tua risposta è una soluzione 🏆
+    notif:
+        new.title: Nuovo like 👍
+        new.body: A qualcuno è piaciuta la tua risposta!
+    reco:
+        new.title: Nuovo suggerimento
+        new.body: Qualcuno ha suggerito i tuoi talenti!
+    skill:
+        new.title: Nouveau taleny vient d'être ajouté
+        new.body: Enrichi ton profil 💪
+    user.tagged:
+        new.title: Sei stato raccomandato 💪
+        new.body: Le tue competenze sono necessarie 😜
+    admin.whasq:
+        new.title: Un whasq speciale è disponibile
+        new.body: Controlla il soggetto 👀
+email:
+    mailing:
+        whasq.activity.title.nocount: %{numberOfUsersLookingForHelp} persona ha bisogno del tuo aiuto
+        whasq.activity.title.count: %{numberOfUsersLookingForHelp} persone hanno bigosno del tuo aiuto
+        complete.profile.title: I tuoi colleghi hanno bisogno dite
+    gdpr.title: Whasq - recupero dati
+    account:
+        creation.title: Benvenuto su Whasq - Dettagli dell'Account

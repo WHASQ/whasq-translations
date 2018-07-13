@@ -1,0 +1,48 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    {% include('email/header.es.html.twig') %}
+    <tr>
+        <td bgcolor="#ffffff" style="padding: 20px 20px 20px 20px; font-family:Arial, Helvetica, sans-serif;font-size:14px;">
+            Ayúdalas /Ayúdalos :<br /><br /><br />
+             {% for whasq in whasqs %}
+                <table style="border: 2px lightgrey solid;" width="100%" align="center">
+                    <tr>
+                        <td>
+                            <table width="99.5%" align="center" bgcolor="white">
+                                <tr>
+                                    <td bgcolor="#ffffff" width="20%" style="padding:2px;">
+                                        {% if whasq.user.mediaUrl is null %}
+                                            <img src="https://api.whasq.com/bundles/app/images/photo-profil-default.png" alt="avatar" width="80" height="80" style="display: block; border-radius: 50%;"/>
+                                        {% else %}
+                                            <img src="{{ whasq.user.mediaUrl }}" alt="avatar" width="80" height="80" style="display: block; border-radius: 50%;"/>
+                                        {% endif %}
+                                    </td>
+                                    <td bgcolor="#ffffff" width="80%" valign="top" style="vertical-align:top; padding:2px;">
+                                        <p style="font-family:Arial, Helvetica, sans-serif;font-size:16px;">{{ whasq.title|e }}</p>
+                                        <p style="font-family:Arial, Helvetica, sans-serif;font-size:12px;">{{ whasq.message|length > 150 ? whasq.message|slice(0, 150) ~ '...' : whasq.message|e  }}</p>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+                <br />
+              {% endfor %}
+              <table width="99.5%" align="center" bgcolor="white">
+                    <tr>
+                        <td bgcolor="#ffffff" width="100%" align="center">
+                            <p style="font-family:Arial, Helvetica, sans-serif;font-size:14px;">más ...</p>
+                        </td>
+                    </tr>
+                </table>
+              <table width="100%" align="center" bgcolor="white">
+                <tr>
+                    <td bgcolor="#ffffff" width="100%" align="center">
+                         <p style="font-family:Arial, Helvetica, sans-serif;font-size:14px;"> Inicia una  sesión en la aplicación para responder       </td>
+                </tr>
+            </table>
+        </td>
+     </tr>
+    {% include('email/footer.es.html.twig') %}
+{% endblock %}
