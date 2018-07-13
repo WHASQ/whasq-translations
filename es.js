@@ -1,4 +1,3 @@
-==> messages/es.js <==
 const messages = {
     'Email': 'E-mail',
     'Login': 'Conectarse',
