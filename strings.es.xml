@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="delete">Borrar</string>
+    <string name="confirm">Borrar</string>
+    <string name="cancel">Cancelar</string>
+
+    <string name="login">Conectarse </string>
+    <string name="sign_up">S\registrarse</string>
+    <string name="email"> e-mail</string>
+    <string name="password">contraseña</string>
+    <string name="password_confirmation">Confirmar la contraseña</string>
+    <string name="job_position">Puesto de trabajo</string>
+    <string name="phone">Telefono</string>
+    <string name="fullname">Nombre y apellido </string>
+    <string name="channels">Mis idiomas </string>
+    <string name="register">S\Registrarse</string>
+    <string name="accept_cgu"> Acepta  las condiciones generales de utilización para poder continuar </string>
+    <string name="read_entire_cgu">  Por favor, lea las condiciones generales de utilización para poder continuar </string>
+
+    <string name="mandatory_user_perso_skill">Elija un talento personal</string>
+    <string name="mandatory_user_pro_skill">Sélectionnez un talent professionnel</string>
+    <string name="skills_subtitle">¿Qué talentos tienes? </string>
+    <string name="allow">Permitir</string>
+    <string name="not_allow">No permitir</string>
+
+    <string name="title">Mon titre</string>
+    <string name="my_message">Mon message</string>
+    <string name="exchange"> A cambio … un cafe</string>
+
+    <string name="empty_screen">No hay nada por el momento</string>
+    <string name="please_retry">Por favor, , inténtalo de nuevo</string>
+    <string name="retry">Inténtalo de nuevo</string>
+    <string name="my_skills">Mis talentos</string>
+    <string name="all_skills">Todo</string>
+    <string name="leaderBoard">Clasificación</string>
+    <string name="whasqPoints">Mis Whasqpuntos</string>
+    <string name="no_whasqpoints">Diviertete e interactua con la comunidad para ganar puntos </string>
+    <string name="skills_about">Talentos indicados </string>
+    <string name="choose_channel">Elegir el idioma</string>
+    <string name="channels_about">Idioma indicados</string>
+    <string name="notify_around_me">Notificar los Whasqers que se encuentran a mi alrededor</string>
+    <string name="priority">Es urgente</string>
+    <string name="display">Ver</string>
+    <string name="change">Modificar</string>
+    <string name="publish">Publicar</string>
+    <string name="logout">Desconectarse</string>
+    <string name="write_your_comment">Por favor, escribe tu mensage </string>
+    <string name="newer_notification">Hoy</string>
+    <string name="older_notification">Más antiguos</string>
+    <string-array name="trophy_filters">
+        <item>"Hoy"</item>
+        <item>Esta semana</item>
+        <item>Este mes</item>
+        <item>Este año </item>
+    </string-array>
+    <!-- profil -->
+    <string name="no_skills">Vous avez des talents, inscrivez les dans votre profil</string>
+    <string name="rank">Puesto</string>
+    <string name="score">Puntos </string>
+    <string name="answers">Respuestas</string>
+    <string name="her_profil_title">Perfil</string>
+    <string name="my_informations">Mis informaciones </string>
+    <string name="my_skills_pro">Mis talentos profesionales </string>
+    <string name="my_skills_perso">Mis talentos personales</string>
+    <string name="her_informations">Informaciones</string>
+    <string name="her_skills_pro">Talentos profesionales</string>
+    <string name="her_skills_perso">Talentos personales</string>
+    <string name="my_whasq">Mis whasqs</string>
+    <string name="no_whasq_profil">0 whasqs</string>
+    <plurals name="whasq_number_profil">
+        <item quantity="one">%1$s whasq</item>
+        <item quantity="other">%1$s whasqs</item>
+    </plurals>
+    <plurals name="position_superscript">
+        <item quantity="one">&#232;re</item>
+        <item quantity="other">&#232;me</item>
+    </plurals>
+    <string name="alert_logout_title">Desconectarse</string>
+    <string name="alert_logout_message">¿Estás seguro que quieres desconectarte? </string>
+
+    <string name="alert_del_skill_title">Cuidado</string>
+    <string name="alert_del_skill_message">¿Quieres  borrar el talento? : </string>
+
+    <string name="alert_del_channel_title">Cuidado</string>
+    <string name="alert_del_channel_message">Voulez-vous vraiment supprimer cette langue de votre profil : </string>
+
+    <string name="picture_show">Mostrar la foto de perfil </string>
+    <string name="picture_from_camera">De la camera</string>
+    <string name="picture_from_storage">De la galeria de fotos </string>
+
+    <string name="cgu">Condiciones generales de utilización </string>
+    <string name="faq">Preguntas frecuentes</string>
+    <string name="ask_for_datas">Pedir todos mis datos </string>
+    <string name="delete_account">Borrar mi cuenta </string>
+    <string name="alert_del_account_msg">Ten en cuenta que tus datos personales serán borrados y al eliminar la cuenta no podras  acceder a la  aplicación, por favor ingresa la palabra DELETE en la casilla.</string>
+
+    <string name="datas_send_success">Tus datos han sido enviados a tu e-mail</string>
+    <string name="datas_send_error">Se produjo un error,  no pudimos enviar tus datos, por favor inténtalo nuevamente</string>
+
+    <string name="only_one_language">Lo siento, debes indicar al menos un idioma en tu perfil</string>
+
+    <string name="not_public">No visible para el público</string>
+
+    <!-- my whasq -->
+    <string name="edit_whasq_no_more_skills">Un whasq solo puede tener 3 talentos </string>
+    <plurals name="whasq_read_time">
+        <item quantity="zero">No  leído </item>
+        <item quantity="one">leído  %1$s vez</item>
+        <item quantity="other"> leído  %1$s vez</item>
+    </plurals>
+
+    <plurals name="whasq_answer_number">
+        <item quantity="zero">No hay respuesta </item>
+        <item quantity="one">%1$s respuesta</item>
+        <item quantity="other">%1$s respuestas</item>
+    </plurals>
+    <string name="no_whasq">Para ver más Whasq, por favor agrega más talentos a tu perfil .</string>
+    <string name="no_my_whasq">Aun no has creado  un Whasq, dale click en el icono  «  + » .</string>
+
+
+    <!-- consult whasq -->
+    <string name="consult_whasq_in_exchange">A cambio ..; ej: un cafe : %1$s</string>
+    <string name="consult_whasq_no_exchange"> No doy nada  a cambio</string>
+    <string name="whasq_no_message">No hay mensajes</string>
+    <string name="consult_whasq_number_points_solution_answer">50 whasqpuntos si encuentras la solución </string>
+    <string name="consult_whasq_number_points_useful_answer">10 whasqpuntos si tu respuesta es útil </string>
+
+    <string name="whasq_status_resolved">Resuelto</string>
+    <string name="whasq_status_not_resolved">No resuelto</string>
+    <plurals name="whasq_number_answers">
+        <item quantity="one">%1$d respuesta</item>
+        <item quantity="other">%1$d respuestas</item>
+    </plurals>
+    <string name="whasq_no_answers">No hay respuesta</string>
+
+    <string name="edit_whasq">Modificar</string>
+    <string name="delete_whasq">Borrar</string>
+    <string name="report_whasq">Señalar</string>
+    <string name="archive_whasq">Archivar/string></string>
+    <string name="alert_title_deletion">Borrar el Whasq</string>
+    <string name="alert_message_deletion">¿Estás seguro que quieres borrar tu Whasq? </string>
+    <string name="alert_title_archive">Archivar el whasq</string>
+    <string name="alert_message_archive">¿Estás seguro que quieres archivar el whasq ?</string>
+    <string name="alert_title_reporting">Señalar</string>
+    <string name="alert_message_reporting">¿Estás seguro que quieres señalar el whasq </string>
+    <string name="report_whasq_with_success"> El informe se tendrá en cuenta </string>
+    <string name="delete_whasq_with_success">Tu whasq ha sido borrado</string>
+    <string name="archive_whasq_with_success">Tu whasq ha sido archivado </string>
+    <string name="create_whasq_empty_field">Tu mensaje esta vacío </string>
+    <string name="create_whasq_talents_desc">Los talentos identificados en este whasq, al menos 1 opción
+</string>
+    <string name="create_whasq_talents_error_3_max">Un whasq solo puede tener 3 talentos </string>
+    <string name="create_whasq_success"> Tu cuenta ha sido creada con exito </string>
+
+    <string name="create_whasq_skills_title">Talentos</string>
+    <string name="create_whasq_skills_subtitle">Los talentos identificados en este Whasq ..</string>
+
+    <!-- Choose my channels -->
+    <string name="choose_few_channels_subtitle">Elegir los idiomas deseados</string>
+    <string name="choose_one_channel_subtitle">Sélectionner la langue souhaité</string>
+    <string name="choose_channel_title">Mis idiomas</string>
+
+    <!-- Filters -->
+    <string name="filter_pertinents">Pertinents</string>
+    <string name="filter_newer">Recientes</string>
+    <string name="filter_older">Antiguos</string>
+    <string name="filter_solved">Resueltos</string>
+    <string name="filter_not_solved">No resueltos</string>
+
+    <string name="audio_message">Mensaje de voz </string>
+    <string name="video_message">Mensaje video</string>
+    <string name="picture_message">Mensaje imagen</string>
+    <string name="text_message">Mensaje de texto</string>
+    <string name="create_whasq_with_file"> T</string>
+    <string name="create_whasq_form_validation_error">Por favor indica toda la informacion </string>
+    <string name="need_camera_and_micro_permissions">Antes de poder utilizar esta función, permite a Wasq el acceso à la camara, micro y    </string>
+    <string name="exchange_easier">Facilita  tus intercambios</string>
+    <string name="need_localisation_permission">Para solicitar los whasqers  de tu alrededor, permita a Whasq el acceso a la ubicacion</string>
+
+    <!-- ERROR HANDLER -->
+    <string name="error_unknown">Se produjo un error.</string>
+    <string name="api_authentication_error_defaut">Identificación imposible</string>
+    <string name="api_authentication_error_credentials">E-mail o contraseña incorrecta.</string>
+    <string name="api_authentication_error_session">La sesión  ha expirado </string>
+    <string name="error_form_login">Contraseña o e-mail incorrecto</string>
+    <string name="error_unknown_host">No se puede conectar al servidor. Compruebe la conexión .</string>
+
+    <!-- REGISTER -->
+    <string name="error_form_signup_email">E-mail incorrecto</string>
+    <string name="error_form_signup_phone"> Tu numero de telefono no es correcto</string>
+    <string name="error_form_signup_password">Las contraseñas son incorrectas  </string>
+    <string name="error_form_signup_channels">Debes elegir  los idiomas</string>
+    <string name="error_form_signup_cgu">Debes aceptar las CGU</string>
+    <string name="error_form_unfinished">El formulario esta incompleto </string>
+    <string name="forgotten_password">Contraseña olvidada o cambio de contraseña </string>
+    <string name="ok">Ok</string>
+    <string name="forgotten_password_msg">Por favor contacta un administrador </string>
+
+    <plurals name="there_is_few_hours_ago">
+        <item quantity="one">Hace %1$d hora</item>
+        <item quantity="other">Hace  %1$d horas</item>
+    </plurals>
+
+    <plurals name="there_is_few_days_ago">
+        <item quantity="one">Hace %1$d día</item>
+        <item quantity="other">Hace  %1$d días</item>
+    </plurals>
+    <string name="there_is_few_seconds_ago"> hace unos segundos </string>
+    <plurals name="there_is_few_minutes_ago">
+        <item quantity="one">Hace %1$d un minuto</item>
+        <item quantity="other">Hace %1$d unos minutos</item>
+    </plurals>
+
+    <!-- PERMISSIONS -->
+    <string name="permissions_refuse_title">Permisos</string>
+    <string name="permissions_refuse_message">Debes aceptar todos los permisos antes de continuar</string>
+    <string name="permissions_take_picture_refuse_message">Debes aceptar los permisos antes de tomar una foto </string>
+    <string name="permissions_import_picture_whasq_refuse_message">Debes aceptar los permisos antes de importar una foto</string>
+    <string name="understood">Entiendo</string>
+    <string name="delete_file">¿Borrar el elemento?</string>
+    <string name="permissions_ask">Permitir el acceso</string>
+    <string name="permissions_show_media">Para visualizar el elemento adjunto del whasq, debes aceptar los siguientes  permisos .</string>
+
+
+    <string name="validate">Aceptar</string>
+    <string name="next">Siguiente</string>
+
+    <!-- Notifications -->
+    <string name="notitification_title">Notificaciones</string>
+    <string name="notificationType_other">Nuevas notificaciones</string>
+    <string name="notificationType_whasq_skills_matching">%1$sha creado un Whasq que podría interesarte  : %2$s</string>
+    <string name="notificationType_skill_recommendation">%1$s te ha recomendado el talento :</string>
+    <string name="notificationType_skill_suggestion">%1$s te ha  recomendado el talento :</string>
+    <string name="notificationType_whasq_new_answer">%1$s ha respondido a tu  whasq %2$s</string>
+    <string name="notificationType_whasq_useful_answer">%1$s le parece tu respuesta útil  %2$s</string>
+    <string name="notificationType_whasq_champion_answer">¡Te ha nombrado campeón de su Whasq! %1$s  ! %2$s</string>
+    <string name="notificationType_whasq_blacklisted">%1$s ha señalado tu whasq : %2$s</string>
+    <string name="notification_watch_blacklisted_whasq">El Whasq no es visible.</string>
+    <string name="notificationType_whasq_new_skill">¡Un nuevo talento %1$s ha sido agregado !  ¿Completa tu perfil?</string>
+    <string name="notificationType_whasq_new_admin_whasq">%1$s ha agregado un  Whasq %2$s</string>
+    <string name="notificationType_whasq_tag_user">Has sido recomendado  %1$s. Ayuda a tu compañero  con el whasq %2$s.</string>
+    <string name="no_notification">Responde tu primer Whasq  para poder las notificaciones </string>
+    <!-- Import picture -->
+    <string name="alert_choose_picture_profil_title">Foto de perfil</string>
+    <string name="alert_choose_picture_profil_capture_picture">Toma una foto </string>
+    <string name="alert_choose_picture_profil_import_picture">Tus fotos </string>
+
+    <!-- Whasq Points -->
+    <string name="whasq_points_useful_message">%1$s le parece tu respuesta útil .</string>
+    <string name="whasq_points_champion_message">%1$s ¡Te ha nombrado campeón de su Whasq!</string>
+
+    <string name="answer_dialog_title">Ajouter une pièce jointe</string>
+    <string name="answer_dialog_picture">Toma una foto</string>
+    <string name="answer_dialog_gallery">Galeria de fotos</string>
+    <string name="answer_dialog_video">Video</string>
+    <string name="answer_dialog_audio">Audio</string>
+    <string name="answer_upload_unknown_file">Tipo de elemento desconocido</string>
+    <string name="answer_upload_error_no_message">No has escrito un mensaje </string>
+    <string name="answer_upload_error_firebase">Error al enviar el elemento adjunto </string>
+    <string name="answer_upload_error">Error al enviar la respuesta </string>
+    <string name="answer_edit_dialog_title">¿Qué quieres hacer con este comentario? </string>
+    <string name="answer_edit_dialog_edit">Editar</string>
+    <string name="answer_edit_dialog_delete">Borrrar</string>
+    <string name="answer_edit_dialog_cancel">Cancelar</string>
+
+    <string name="help_me">Si puedes ayudarme, por favor contáctame .</string>
+
+    <!-- COMMON -->
+    <string name="common_close">Cerrar</string>
+
+
+    <string name="skill_suggestion_title">Recomienda talentos</string>
+
+    <!-- WHASQ CREATION -->
+    <string name="WHASQ_CREATION_TITLE">Whasq</string>
+
+
+    <string name="read_nb">Leído  : %d veces</string>
+    <string name="status_resolved">Statut : resuelto</string>
+    <string name="status_unresolved">Statut :No resuelto</string>
+
+    <!-- COMMONS -->
+    <string name="COMMON_OK">Ok</string>
+    <string name="COMMON_CANCEL">Cancelar</string>
+    <string name="COMMON_SAVE">Guardar</string>
+    <string name="COMMON_SEND">Enviar</string>
+    <string name="COMMON_FEATURE_COMING_SOON">Esta función no está disponible </string>
+
+    <!-- ERRORS -->
+    <string name="ERROR_DISCONNECT">Tu sesión ha expirado.</string>
+
+    <!-- Medias -->
+    <string name="MEDIA_TYPE_IMAGE">Mensaje foto</string>
+    <string name="MEDIA_TYPE_VIDEO">Mensaje video</string>
+    <string name="MEDIA_TYPE_AUDIO">Mensaje de voz</string>
+
+    <!-- EditTexts Hints -->
+    <string name="HINT_EMAIL_ADDRESS">E-mail</string>
+    <string name="HINT_PASSWORD">Contraseña</string>
+    <string name="HINT_FULL_NAME">Nombre y Apellido</string>
+    <string name="HINT_PHONE_NUMBER">Numéro de téléphone</string>
+    <string name="HINT_JOB_POSITION">Puesto de trabajo</string>
+    <string name="HINT_MY_LANGUAGES">Mis idiomas</string>
+    <string name="HINT_PASSWORD_CONFIRMATION">Confirmar la contraseña </string>
+
+    <!-- Buttons Texts -->
+    <string name="BUTTON_CONNECT">Conectarse r</string>
+    <string name="BUTTON_NEXT">Siguiente</string>
+    <string name="BUTTON_SAVE">Guardar</string>
+    <string name="BUTTON_UPDATE">Actualizar</string>
+    <string name="BUTTON_VALIDATE">Aceptar </string>
+
+    <!-- TabBar Titles -->
+    <string name="TAB_BAR_LOGIN_TITLE">Conectarse</string>
+    <string name="TAB_BAR_REGISTER_TITLE">Inscripción </string>
+    <string name="TAB_BAR_WHASQ_FOR_ME_TITLE">De acuerdo a mis talentos </string>
+    <string name="TAB_BAR_ALL_WHASQ_TITLE">Todo</string>
+
+    <!-- Profile Pages title -->
+    <string name="PROFILE_MY_INFORMATION_TITLE">Mis Informaciones  </string>
+    <string name="PROFILE_MY_SKILLS_TITLE">Mis talentos</string>
+    <string name="PROFILE_MY_LANGUAGES_TITLE">Mis idiomas</string>
+    <string name="PROFILE_INFORMATION_TITLE">Informaciones</string>
+    <string name="PROFILE_SKILLS_TITLE">Talentos</string>
+    <string name="PROFILE_LANGUAGES_TITLE">Mis idomas</string>
+
+    <!-- Login Activity -->
+    <string name="PASSWORD_FORGOTTEN"><i>Mot de passe oublié ?</i></string>
+    <string name="CONDITIONS_OF_USE"><u> Acepto  las condiciones generales de utilización</u></string>
+
+    <!-- Camera Activity -->
+    <string name="CAPTURE_LIMIT_LENGTH_REACHED_TITLE">La grabación del video se ha detenido </string>
+    <string name="CAPTURE_LIMIT_LENGTH_REACHED_MESSAGE">Has alcanzado el tiempo máximo de la grabación del video </string>
+
+    <!-- Microphone Activity -->
+    <string name="AUDIO_LIMIT_LENGTH_REACHED_TITLE">La grabación del video se ha detenido</string>
+    <string name="AUDIO_LIMIT_LENGTH_REACHED_MESSAGE">Has alcanzado el tiempo máximo de la grabación del audio.</string>
+
+    <!-- Language Activity -->
+    <string name="LANGUAGE_TITLE_PROFILE">Mis idiomas</string>
+    <string name="LANGUAGE_TITLE_WHASQ">Idiomas</string>
+    <string name="LANGUAGE_SUBTITLE_PROFILE">Elige los idiomas que hablas </string>
+    <string name="LANGUAGE_SUBTITLE_WHASQ">Elige el idioma del whasq : </string>
+    <string name="LANGUAGE_ERROR_EMPTY_SELECTION">Debes seleccionar al menos un idioma</string>
+
+    <!-- Skills Activity -->
+    <string name="SKILLS_TITLE_REGISTRATION">Mis talentos</string>
+    <string name="SKILLS_TITLE_PROFILE">Mis talentos</string>
+    <string name="SKILLS_TITLE_WHASQ">Talentos</string>
+    <string name="SKILLS_SUBTITLE_REGISTRATION">Hola, es hora de completar tu perfil ...Cuéntanos ¿cómo y en qué áreas puedes ayudar a los demás? Puedes aconsejar y ayudar en: " :</string>
+    <string name="SKILLS_SUBTITLE_PROFILE">¿Cuáles son tus talentos? </string>
+    <string name="SKILLS_SUBTITLE_WHASK">Los talentos identificados en este whasq, (1 minimum, 3 maximum) : </string>
+    <string name="SKILLS_SUGGESTION"><u> Falta un talento</u></string>
+
+
+    <string name="EMAIL_APP_SELECTOR_TEXT">Recomendar un talento via e-mail</string>
+    <string name="EMAIL_MISSING_SKILL_DEST">jessie@whasq.com</string>
+    <string name="EMAIL_MISSING_SKILL_SUBJECT">¡Recomendar un talento!</string>
+    <string name="EMAIL_MISSING_SKILL_BODY">Buenos días, quisiera recomendar el talento  : </string>
+
+    <!-- Whasq -->
+    <string name="read">Leído</string>
+
+    <!-- Geolocation -->
+    <string name="GEOLOCATION_PERMISSION_TITLE">Facilita  tus  intercambios</string>
+    <string name="GEOLOCATION_PERMISSION_EXPLANATION">Para solicitar los whasqers  de tu alrededor, permita a Whasq el acceso a la ubicacion</string>
+    <string name="GEOLOCATION_PERMISSION_ALLOW">Permitir</string>
+    <string name="GEOLOCATION_PERMISSION_NOT_ALLOW">Rechazar</string>
+
+    <!-- New password -->
+    <string name="NEW_PASSWORD_DIALOG_EMPTY_EMAIL_ERROR">Debes ingresar tu e-mail</string>
+    <string name="NEW_PASSWORD_DIALOG_EMAIL_SENT"> Un e-mail ha sido enviado à %s.</string>
+    <string name="NEW_PASSWORD_DIALOG_TITLE">Restablecer contraseña  </string>
+    <string name="NEW_PASSWORD_DIALOG_EXPLANATION">Ingresa tu e-mail para restablecer tu contraseña.</string>
+    <string name="NEW_PASSWORD_EMAIL_HINT">Tu e-mail</string>
+    <string name="create_whasq"> Crear un whasq</string>
+
+    <!-- Time Gain -->
+    <string name="time_gain_question">¿Cuánto tiempo te ha permitido ganar? </string>
+    <string name="half_hour">1/2 hora</string>
+    <string name="one_hour">1 hora</string>
+    <string name="half_day">1/2 día</string>
+    <string name="one_day">1 día </string>
+    <string name="two_days">2 días</string>
+    <string name="three_days">3 días</string>
+    <string name="very_easy">Muy fácil  😊</string>
+    <string name="easy">fácil 😉</string>
+    <string name="hard">Difícil  😅</string>
+    <string name="very_hard">Muy difíci 😱</string>
+    <string name="time_gain_question_owner"> Genial! Tu whasq \"%s\ ha sido resuelto. Gracias a la ayuda de la comunidad ¿Cuánto tiempo te ha permitido ganar?: </string>
+    <string name="time_gain_question_resolver">¡Cuánto talento! %s encontraste la solución a este Whasq \"%s\ ¿Qué te pareció? </string>
+    <string name="time_gain_title_owner">Ayúdanos a mejorar </string>
+
+    <!-- Recommendations -->
+    <string name="recommendations_skip">Pasar</string>
+    <string name="recommendations_intro_text">Tus compañeros te han recomendado por tus talentos.\n\n¿ Confirmar los talentos ?</string>
+    <string name="recommendations_talents_reco_by_someone">%s te ha recomendado para los talentos :</string>
+    <string name="recommendations_other_talents">Otros talentos que podrían intersarte :</string>
+</resources>
