@@ -1,0 +1,4 @@
+"NSCameraUsageDescription" = "If you want to attach the photos or videos to your questions or comments, Whasq asks you for permission to access your camera or gallery.";
+"NSLocationWhenInUseUsageDescription" = "If you want to ask questions to people nearby, Whasq asks you for permission to access your geolocation.";
+"NSMicrophoneUsageDescription" = "If you want to attach the audio recordings to your questions or comments, Whasq asks you for permission to access your microphone.";
+"NSPhotoLibraryUsageDescription" = "If you want to attach the photos or videos to your questions or comments, Whasq asks you for permission to access your camera or gallery.";

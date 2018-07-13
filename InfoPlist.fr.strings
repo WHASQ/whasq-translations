@@ -1,0 +1,5 @@
+"NSCameraUsageDescription" = "Whasq vous demande la permission d’accéder à votre appareil photo ou votre galerie, si vous souhaitez joindre des photos ou vidéos à vos questions ou commentaires.";
+"NSLocationWhenInUseUsageDescription" = "Whasq vous demande la permission d’accéder à votre géolocalisation si vous souhaitez poser des questions à des personnes à proximité.";
+"NSMicrophoneUsageDescription" = "Whasq vous demande la permission d’accéder à votre micro si vous souhaitez joindre un fichier audio à vos questions ou commentaires.";
+"NSPhotoLibraryUsageDescription" = "Whasq vous demande la permission d’accéder à votre appareil photo ou votre galerie si vous souhaitez joindre des photos ou vidéos à vos questions ou commentaires.";
+
