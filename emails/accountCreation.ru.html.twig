@@ -1,0 +1,28 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    {% include('email/header.en.html.twig') %}
+    <tr>
+        <td bgcolor="#ffffff" style="padding: 20px 20px 20px 20px; font-family:Arial, Helvetica, sans-serif;font-size:14px;">
+            Welcome to Whasq!<br /><br />
+
+            {% if password is defined and password is not null %}
+                Your account has been created with password: <i>{{ password }}</i>. Feel free to change it on login screen in the app.<br /><br />
+             {% endif %}
+
+            We'll send you a few quick emails on how to get the most out of Whasq. In the meantime, dive in and start exploring. We're glad you’re here!<br /><br /><br />
+            <table width="100%" align="center" bgcolor="white">
+                 <tr>
+                    <td bgcolor="#ffffff" align="center">
+                        How to join & complete my profile:<br /><br />
+                         <a rel="nofollow" target="_blank" href="https://www.youtube.com/watch?v=MVZKIQ1pcQ4" title="Tutorial">
+                         <img src="https://api.whasq.com/bundles/app/images/tutorial-youtube.jpeg" alt="Whasq tutorial" width="200" height="111" style="display: block;"/>
+                         </a>
+                         <br /><br />
+                    </td>
+                </tr>
+            </table>
+        </td>
+     </tr>
+    {% include('email/footer.en.html.twig') %}
+{% endblock %}
