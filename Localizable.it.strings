@@ -247,3 +247,6 @@
 "faq-not-found-alert-message" = "Impossibile carricare la FAQ, controlla la Sua connessione Internet e riprova per favore";
 "recommended-skill-description-label" = "%@ raccomandato per questi talenti:";
 "profile-skill-label" = "Sure you have some, so complete your profile 😉"
+"recommended-other-skill-description-label" = "Altri talenti che potrebbero interessarti: ";
+"recommended-skill-accept-error-alert" = "Se produjo un error al agregar talento 🙄\nInténtalo de nuevo más tarde";
+"recommended-skill-refuse-error-alert" = "Si è verificato un errore durante l'eliminazione del talento consigliato 🙄\nRiprovare più tardi";
