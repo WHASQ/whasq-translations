@@ -245,5 +245,8 @@
 "notification-new-skill" = "Se ha agregado una nueva habilidad (%@). ¿Deseas agregarla en tu perfil?";
 "faq-action-sheet" = "Preguntas frecuentes";
 "faq-not-found-alert-message" = "Las preguntas frecuentes no se cargaron correctamente, verifica tu conexión internet e inténtalo de nuevo";
-"recommended-skill-description-label" = "%@ recomendado para los siguientes talentos:";
+"recommended-skill-description-label" = "recomendado para los siguientes talentos:";
 "profile-skill-label"="";
+"recommended-other-skill-description-label" = "Otros talentos que te pueden interesar: ";
+"recommended-skill-accept-error-alert" = "Se produjo un error al agregar talento 🙄\nInténtalo de nuevo más tarde";
+"recommended-skill-refuse-error-alert" = "Se produjo un error al eliminar el talento recomendado 🙄\nInténtalo de nuevo más tarde";
