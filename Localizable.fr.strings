@@ -250,3 +250,4 @@
 "skip-button" = "Passer";
 "recommended-skills-description-label" = "Vous avez été recommandé pour vos talents par des collègues. Voulez-vous confirmer ces talents ?";
 "recommended-skill-description-label" = "%@ vous a recommandé pour ces talents:";
+"profile-skill-label" = "Bien sûr, vous en avez ! Alors complétez votre profil 😉!";
