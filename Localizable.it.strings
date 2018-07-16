@@ -192,7 +192,6 @@
 "profile-lang" = "Le mie lingue";
 "profile-position-label" = "Posizione";
 "profile-score-label" = "Punteggio";
-"profile-skill-label" = "Certo che ne ha un po', completa il Suo profilo 😉";
 "profile-skills-other" = "Talento";
 "profile-skills" = "I miei talenti";
 "profile-title" = "Profilo";
@@ -246,7 +245,7 @@
 "faq-action-sheet" = "FAQ";
 "faq-not-found-alert-message" = "Impossibile carricare la FAQ, controlla la Sua connessione Internet e riprova per favore";
 "recommended-skill-description-label" = "%@ raccomandato per questi talenti:";
-"profile-skill-label" = "Sure you have some, so complete your profile 😉"
+"profile-skill-label" = "Certo che ne ha un po', completa il Suo profilo 😉";
 "recommended-other-skill-description-label" = "Altri talenti che potrebbero interessarti: ";
-"recommended-skill-accept-error-alert" = "Se produjo un error al agregar talento 🙄\nInténtalo de nuevo más tarde";
-"recommended-skill-refuse-error-alert" = "Si è verificato un errore durante l'eliminazione del talento consigliato 🙄\nRiprovare più tardi";
+"recommended-skill-accept-error-alert" = "Si è verificato un errore durante l'aggiunta del talento 🙄 \Riprovare più tardi";
+"recommended-skill-refuse-error-alert" = "Si è verificato un errore durante la cancellazione del talento raccomandato 🙄\Riprovare più tardi";
