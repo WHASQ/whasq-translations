@@ -245,3 +245,4 @@
 "faq-action-sheet" = "Preguntas frecuentes";
 "faq-not-found-alert-message" = "Las preguntas frecuentes no se cargaron correctamente, verifica tu conexión internet e inténtalo de nuevo";
 "recommended-skill-description-label" = "%@ recomendado para los siguientes talentos:";
+"profile-skill-label"="";
