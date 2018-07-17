@@ -249,5 +249,5 @@
 "recommended-other-skill-description-label" = "Otros talentos que te podrían interesar: ";
 "recommended-skill-accept-error-alert" = "Se produjo un error al agregar talento 🙄\nInténtalo de nuevo";
 "recommended-skill-refuse-error-alert" = "Se produjo un error al eliminar el talento recomendado 🙄\nInténtalo de nuevo";
-"recommended-skills-description-label" = "Vous avez été recommandé pour vos talents par des collègues. Voulez-vous confirmer ces talents ?";
-"skip-button" = "Passer";
+"recommended-skills-description-label" = "Tus compañeros te han recomendado por tus talentos. ¿Quieres confirmar estos talentos?";
+"skip-button" = "Continuar";
