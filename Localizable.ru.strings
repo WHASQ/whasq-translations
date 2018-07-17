@@ -250,7 +250,7 @@
 "skip-button":"Пропускать";
 "recommended-skills-description-label":"Вы были рекомендованы коллегами для своих навыков. Вы хотите подтвердить эти навыки?";
 "recommended-skill-description-label":"%@ рекомендовал вам эти навыки:";
-"profile-skill-label" = "Уверены, что у вас есть, поэтому заполните свой профиль 😉";
+"profile-skill-empy-label" = "Уверены, что у вас есть, поэтому заполните свой профиль 😉";
 "recommended-skills-description-label" = "You have been recommended for your skills by colleagues. Do you want to confirm these skills?";
 "recommended-skill-description-label" = "recommended you for these skills:";
 "recommended-other-skill-description-label" = "Other skills that might pick your interest: ";
