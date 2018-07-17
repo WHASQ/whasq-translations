@@ -250,3 +250,4 @@
 "recommended-skill-accept-error-alert" = "Si è verificato un errore durante l'aggiunta del talento 🙄 \Riprovare più tardi";
 "recommended-skill-refuse-error-alert" = "Si è verificato un errore durante la cancellazione del talento raccomandato 🙄\Riprovare più tardi";
 "recommended-skills-description-label" = "Vous avez été recommandé pour vos talents par des collègues. Voulez-vous confirmer ces talents ?";
+"skip-button" = "Passer";
