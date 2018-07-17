@@ -192,7 +192,6 @@
 "profile-lang" = "Mis idiomas";
 "profile-position-label" = "Posición";
 "profile-score-label" = "Puntos";
-"profile-skill-label" = "Seguro que tienes algunos, así que completa tu perfil 😉";
 "profile-skills-other" = "Talentos";
 "profile-skills" = "Mis talentos";
 "profile-title" = "Perfil";
@@ -250,3 +249,4 @@
 "recommended-other-skill-description-label" = "Otros talentos que te podrían interesar: ";
 "recommended-skill-accept-error-alert" = "Se produjo un error al agregar talento 🙄\nInténtalo de nuevo";
 "recommended-skill-refuse-error-alert" = "Se produjo un error al eliminar el talento recomendado 🙄\nInténtalo de nuevo";
+"profile-skill-label" = "Seguro que tienes algunos, así que completa tu perfil 😉";
