@@ -250,7 +250,7 @@
 "skip-button" = "Passer";
 "recommended-skills-description-label" = "Vous avez été recommandé pour vos talents par des collègues. Voulez-vous confirmer ces talents ?";
 "recommended-skill-description-label" = "vous a recommandé pour ces talents:";
-"profile-skill-label" = "Bien sûr, vous en avez ! Alors complétez votre profil 😉!";
+"profile-skill-empy-label" = "Bien sûr, vous en avez ! Alors complétez votre profil 😉!";
 "recommended-other-skill-description-label" = "Autres talents pouvant vous intéresser: ";
 "recommended-skill-accept-error-alert" = "Une erreur est survenue lors de l'ajout du talent 🙄\n Veuillez réessayer plus tard";
 "recommended-skill-refuse-error-alert" = "Une erreur est survenue lors la suppression du talent recommendé 🙄\n Veuillez réessayer plus tard";
