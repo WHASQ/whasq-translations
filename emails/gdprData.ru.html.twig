@@ -4,11 +4,11 @@
     {% include('email/header.en.html.twig') %}
     <tr>
         <td bgcolor="#ffffff" style="padding: 20px 20px 20px 20px; font-family:Arial, Helvetica, sans-serif;font-size:14px;">
-            Hello,<br /><br />
-            You have requested to receive your personal data we store in Whasq application for the account: {{ user.email }}<br />
-            Please find below the download link:<br />
+            Здравствуйте,<br /><br />
+            Вы попросили прислать ваши персональные данные, которые мы храним в приложении Whasq для учетной записи: {{ user.email }}<br />
+            Для загрузки пройдите по ссылке:<br />
             <a href="{{ link }}">Download my Whasq data</a><br />
-            This link has a lifespan limited to 48h.
+            Эта ссылка будет активна в течение 48 часов.
         </td>
      </tr>
     {% include('email/footer.en.html.twig') %}
