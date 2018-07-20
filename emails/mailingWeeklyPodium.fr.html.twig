@@ -1,0 +1,74 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    {% include('email/header.fr.html.twig') %}
+    <tr>
+        <td bgcolor="#ffffff" style="padding: 20px 20px 20px 20px; font-family:Arial, Helvetica, sans-serif;font-size:16px;">
+             Les top 3 des whasquers de la semaine :<br /><br /><br />
+             {% for rank in podium %}
+                <table style="border: 2px lightgrey solid;" width="100%" align="center">
+                    <tr>
+                        <td>
+                            <table width="99.5%" align="center" bgcolor="white">
+                                <tr>
+                                <td bgcolor="#ffffff" width="10%" valign="middle">
+                                        <p style="font-family:Arial, Helvetica, sans-serif;font-size:30px; color: #1aaee4;">&nbsp;{{ rank.position }}</p>
+                                    </td>
+                                    <td bgcolor="#ffffff" width="20%" valign="middle">
+                                        {% if rank.user.mediaThumbUrl is null %}
+                                            <img src="https://api.whasq.com/bundles/app/images/photo-profil-default.png" alt="avatar" width="80" height="80" style="display: block; border-radius: 50%;"/>
+                                        {% else %}
+                                            <img src="{{ rank.user.mediaThumbUrl }}" alt="avatar" width="80" height="80" style="display: block; border-radius: 50%;"/>
+                                        {% endif %}
+                                    </td>
+                                    <td bgcolor="#ffffff" width="50%" valign="top" style="vertical-align:middle;">
+                                        <table width="100%" bgcolor="white">
+                                            <tr>
+                                                <td valign="bottom">
+                                                    <p style="font-family:Arial, Helvetica, sans-serif;font-size:18px;">{{ rank.user.fullname }}</p>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td valign="top">
+                                                    <p style="font-family:Arial, Helvetica, sans-serif;font-size:16px;">
+                                                    <table width="100%" bgcolor="white">
+                                                        <tr>
+                                                            <td width="20%">
+                                                                <img src="https://api.whasq.com/bundles/app/images/icon-thumbs-up.png" alt="thump_up" width="24" height="24"/>
+                                                                <span style="color: #1aaee4;">{{ rank.usefull }}</span> 
+                                                            </td>
+                                                            <td width="80%" align="left">
+                                                                <img src="https://api.whasq.com/bundles/app/images/icon_trophy.png" alt="champion" width="24" height="24"/>
+                                                                <span style="color: #ffbd16;">{{ rank.champion }}</span> 
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                    </p>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                    <td bgcolor="#ffffff" width="10%" valign="top" style="vertical-align:middle;">
+                                        <p style="font-family:Arial, Helvetica, sans-serif;font-size:40px; color: #1aaee4;">{{ rank.total }}</p>
+                                    </td>
+                                    <td bgcolor="#ffffff" width="10%" valign="top" style="vertical-align:middle;">
+                                        <img src="{{ rank.icon }}" alt="trophee" width="80" height="80" style="display: block;"/>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+                <br />
+              {% endfor %}
+              <table width="99.5%" align="center" bgcolor="white">
+                    <tr>
+                        <td bgcolor="#ffffff" width="100%" align="center">
+                            <p style="font-family:Arial, Helvetica, sans-serif;font-size:16px;">Merci à tous les whasquers ! A la semaine prochaine 💪🙂</p>
+                        </td>
+                    </tr>
+                </table>
+        </td>
+     </tr>
+    {% include('email/footer.fr.html.twig') %}
+{% endblock %}
