@@ -293,7 +293,7 @@
     <string name="common_close">закрыть</string>
 
     <!-- SkillSuggestionActivity -->
-    <string name="skill_suggestion_title">Предложить навыки Suggérez des talents</string>
+    <string name="skill_suggestion_title">Предложить навыки</string>
 
     <!-- WHASQ CREATION -->
     <string name="WHASQ_CREATION_TITLE">Вопрос</string>
