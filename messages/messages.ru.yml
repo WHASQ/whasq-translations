@@ -75,7 +75,7 @@ email:
             body.div3: "Установить приложение:"
         weekly.podium:
             title: %{firstName}, лучший Whasqer недели %{weekNumber}!
-            title.generic: Best whasqers of the week %{weekNumber}!
+            title.generic: Лучшие Whasqer'ы недели %{weekNumber}!
             body.div1: "Топ-3 Whasqer на этой неделе:"
             body.div2: Спасибо всем участникам! До следующей недели 💪🙂
         footer:
