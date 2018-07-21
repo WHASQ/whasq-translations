@@ -59,10 +59,45 @@ push:
         new.title: Un whasq speciale è disponibile
         new.body: Controlla il soggetto 👀
 email:
+    general: 
+        greeting: Buongiorno!
     mailing:
-        whasq.activity.title.nocount: %{numberOfUsersLookingForHelp} persona ha bisogno del tuo aiuto
-        whasq.activity.title.count: %{numberOfUsersLookingForHelp} persone hanno bigosno del tuo aiuto
-        complete.profile.title: I tuoi colleghi hanno bisogno dite
-    gdpr.title: Whasq - recupero dati
+        whasq.activity:
+            title.nocount: %{numberOfUsersLookingForHelp} persona ha bisogno del tuo aiuto
+            title.count: %{numberOfUsersLookingForHelp} persone hanno bigosno del tuo aiuto
+            body.div1: "Aiutarla/Aiutarli :"
+            body.div2: "più ..."
+            body.div3: "Connettiti a l'app per rispondere/dare loro una risposta 💪🙂"
+        complete.profile:
+            title: I tuoi colleghi hanno bisogno dite
+            body.div1: Ti iscrivi su Whasq e aiuti i tuoi colleghi con i tuoi talenti.
+            body.div2: "Come connettersi :"
+            body.div3: "Scaricare l'applicazione :"
+        weekly.podium:
+            title: %{firstName}, meilleur(e) whasqer de la semaine %{weekNumber} !
+            title.generic: Meilleurs whasqers de la semaine %{weekNumber} !
+            body.div1: "Le top 3 des whasquers de la semaine :"
+            body.div2: Merci à tous les whasqers ! A la semaine prochaine 💪🙂
+        footer:
+            join.community: UNISCITI ALLA COMMUNITÀ %{fullName}
+            unsubscribe: Cancella iscrizione
+            how.it.works: Come funziona?
+    gdpr:
+        title: Whasq - recupero dati
+        body.div1: "Hai richiesto di ricevere i dati personali memorizzati nell'applicazione whasq per il account:stockées sur l'application whasq pour le compte: %{email}"
+        body.div2: "Si prega di trovare sotto un link per scaricarli:"
+        body.div3: Scaricare i miei dati personali Whasq
+        body.div4: Attenzione, questo collegamento ha una durata limitata di 48 ore.
     account:
-        creation.title: Benvenuto su Whasq - Dettagli dell'Account
+        password.change: 
+            title: Whasq - modifica della password
+            body.div1: "Hai dimenticato la tua password o vuoi cambiare di password: %{email}"
+            body.div2: "Per modificare la tua password, per favore clicca il link:"
+            body.div3: Cambiare la mia password
+            body.div4: Attenzione, questo collegamento ha una durata limitata.
+        creation:
+            title: Benvenuto su Whasq - Dettagli dell'Account
+            body.div1: Benvenuto su Whasq!
+            body.div2: "Il Suo conto è stato creato con la password: %{password}. è possibile di cambiarlo nella schermata di accesso all'app."
+            body.div3: Ti invieremo alcune e-mail su come utilizzare Whasq. Nel frattempo, prova e inizia a esplorare. Siamo contenti che sia qui!
+            body.div4: "Come connettersi:"

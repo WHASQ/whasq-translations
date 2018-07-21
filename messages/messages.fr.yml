@@ -50,7 +50,7 @@ push:
         new.title: Nouvelle recommendation 
         new.body: Quelqu'un a recommandé vos talents !
     skill:
-        new.title: Nouveau taleny vient d'être ajouté
+        new.title: Nouveau talent vient d'être ajouté
         new.body: Enrichi ton profil 💪
     user.tagged:
         new.title: Vous avez été recommandé 💪
@@ -59,10 +59,45 @@ push:
         new.title: Un Whasq spécial vous attend
         new.body: Découvrez le 👀
 email:
+    general: 
+        greeting: Bonjour !
     mailing:
-        whasq.activity.title.nocount: %{numberOfUsersLookingForHelp} personne a besoin de vous
-        whasq.activity.title.count: %{numberOfUsersLookingForHelp} personnes ont besoin de vous
-        complete.profile.title: Vos collégues ont besoin de vous !
-    gdpr.title: Whasq - récupération de données
+        whasq.activity:
+            title.nocount: %{numberOfUsersLookingForHelp} personne a besoin de vous
+            title.count: %{numberOfUsersLookingForHelp} personnes ont besoin de vous
+            body.div1: "Aidez les :"
+            body.div2: "plus ..."
+            body.div3: "Connectez-vous dansl'application pour la/leur répondre 💪🙂"
+        weekly.podium:
+            title: %{firstName}, meilleur(e) whasqer de la semaine %{weekNumber} !
+            title.generic: Meilleurs whasqers de la semaine %{weekNumber} !
+            body.div1: "Le top 3 des whasquers de la semaine :"
+            body.div2: Merci à tous les whasqers ! A la semaine prochaine 💪🙂
+        complete.profile:
+            title: Vos collégues ont besoin de vous !
+            body.div1: Inscrivez-vous sur Whasq et aidez vos collégues grâce à vos talents.
+            body.div2: "Comment se connecter :"
+            body.div3: "Télécharger l'application :"
+        footer:
+            join.community: REJOIGNEZ LA COMMUNAUTÉ %{fullName}
+            unsubscribe: Se désincrire
+            how.it.works: Comment ça marche ?
+    gdpr:
+        title:  Whasq - récupération de données
+        body.div1: "Vous avez demandé à recevoir les données personnelles stockées sur l'application whasq pour le compte: %{email}"
+        body.div2: "Veuillez trouvez ci-dessous un lien pour les télécharger:"
+        body.div3: Télécharger mes données Whasq
+        body.div4: Attention, ce lien a une durée de vie limitée à 48h.
     account:
-        creation.title: Bienvenu sur Whasq - Détail du nouveau compte
+        password.change: 
+            title: Whasq - changement de mot de passe
+            body.div1: "Vous avez perdu votre mot de passe ou souhaitez le changer pour le compte: %{email}"
+            body.div2: "Pour modifier votre mot de passe, veuillez cliquer sur le lien"
+            body.div3: Changer mon mot de passe
+            body.div4: Attention, ce lien a une durée de vie limitée.
+        creation:
+            title: Bienvenu sur Whasq - Détail du nouveau compte
+            body.div1: Bienvenu(e) sur Whasq !
+            body.div2: "Votre compte a été créé avec un mot de passe: %{password}. N'hésitez pas à le changer sur l'écran de connexion dans l'application."
+            body.div3: Nous vous enverrons quelques emails rapides sur la façon de tirer le meilleur parti de Whasq. En attendant, plongez et commencez à explorer. Nous sommes heureux que vous soyez ici !
+            body.div4: "Comment se connecter :"

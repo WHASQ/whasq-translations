@@ -32,8 +32,8 @@ error:
     store.any.public: Se produjo un error 
     user.profile.already.updated: Tu perfil solo puede ser actualizado una vez, contacta tu  administrador
     user.search.empty: Ninguna busqueda ingresada
-    email.invalid: Adresse e-mail non valide
-    fullname.invalid: Invalid name
+    email.invalid: Correo electrónico no válida
+    fullname.invalid: Nombre inválido
 push:
     whasq:
         new.title: Un Whasq te está esperando 
@@ -50,19 +50,54 @@ push:
         new.title: Nueva recomendación  
         new.body: Alguien ha recomendado tus talentos !
     skill:
-        new.title: Nouveau taleny vient d'être ajouté
-        new.body: Enrichi ton profil 💪
+        new.title: Se acaba de agregar un nuevo talento
+        new.body: Enriquece tu perfil 💪
     user.tagged:
-        new.title: You have been recommended 💪
-        new.body: Your expertise is needed 😜
+        new.title: Usted ha sido recomendado 💪
+        new.body: Su experiencia es necesaria 😜
     admin.whasq:
-        new.title: Special whasq is available
-        new.body: Check the subject 👀
+        new.title: Whasq especial está disponible
+        new.body: Ver el tema 👀
 email:
+    general: 
+        greeting: Buenos días!
     mailing:
-        whasq.activity.title.nocount: %{numberOfUsersLookingForHelp} persona necesita tu ayuda
-        whasq.activity.title.count: %{numberOfUsersLookingForHelp} personas necesitan tu ayuda
-        complete.profile.title: ¡Tus compañeros necesitan tu ayuda!
-    gdpr.title: Whasq - recuperación de datos
+        whasq.activity:
+            title.nocount: %{numberOfUsersLookingForHelp} persona necesita tu ayuda
+            title.count: %{numberOfUsersLookingForHelp} personas necesitan tu ayuda
+            body.div1: "Ayúdalas /Ayúdalos :"
+            body.div2: "más ..."
+            body.div3: "Inicia una esión en la aplicación para responder 💪🙂"
+        complete.profile:
+            title: Tus compañeros necesitan tu ayuda!
+            body.div1: Regístrate en Whasq y ayuda a tus compañeros con tus talentos.
+            body.div2: "¿Cómo conectarse?"
+            body.div3: "Descargar la aplicación :"
+        weekly.podium:
+            title: %{firstName}, mejor whasqer de la semana %{weekNumber} !
+            title.generic: Los mejores whasqers de la semana %{weekNumber} !
+            body.div1: "Los 3 mejores whasqers de la semana :"
+            body.div2: ¡Gracias a todos los whasqers! La próxima semana 💪🙂
+        footer:
+            join.community: ÚNETE A LA COMUNIDAD %{fullName}
+            unsubscribe: Darse de baja
+            how.it.works: ¿Cómo funciona?
+    gdpr:
+        title: Whasq - recuperación de datos
+        body.div1: "Solicitaste los datos personales almacenados en la aplicación de whasq para la cuenta: %{email}"
+        body.div2: "Encuentra a continuación un enlace para descargarlos:"
+        body.div3: Descargar mis datos Whasq
+        body.div4: Cuidado, este enlace solo esta disponible 48H.
     account:
-        creation.title: Bienvenido a Whasq - Nuevos detalles de la cuenta
+        password.change: 
+            title: Whasq - cambiar contraseña
+            body.div1: "Perdiste tu contraseña o quieres cambiar la contraseña de la cuenta: %{email}"
+            body.div2: "Para modificar la contraseña, por favor dale click al enlace :"
+            body.div3: Cambiar mi contraseña
+            body.div4: Cuidado, este enlace solo esta disponible unas horas.
+        creation:
+            title: ¡Bienvenido a Whasq! - Nuevos detalles de la cuenta
+            body.div1: ¡Bienvenido a Whasq!
+            body.div2: "Su cuenta ha sido creada con la contraseña : %{password}. No dudes en cambiarla en la pantalla de inicio de la aplicación."
+            body.div3: Te enviaremos unos correos sobre cómo aprovechar al máximo Whasq. ¡Mientras tanto, sumérgete y comienza a explorar. ¡Estamos contentos de que estés aquí!!
+            body.div4: ¿Cómo conectarse?
