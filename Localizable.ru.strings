@@ -200,11 +200,11 @@
 "login-register-confirm-password-placeholder" = "Подтвердите Пароль";
 "login-register-next-button" = "Следующий";
 "notification-title" = "Уведомление";
-"podium-title" = "Подиум";
+"podium-title" = "Пьедестал почета";
 "leader-history-empty-label" = "Наслаждайтесь и взаимодействуйте с сообществом, чтобы зарабатывать очки";
 "leader-top-empty-label" = "Список лидеров еще не установлен в этом месяце";
 "profile-title" = "Профиль";
-"profile-position-label" = "Должность";
+"profile-position-label" = "Место";
 "profile-score-label" = "Очки";
 "profile-answers-label" = "Ответы";
 "user-whasq-title" = "Мои вопросы";
