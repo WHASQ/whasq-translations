@@ -74,10 +74,10 @@ email:
             body.div2: "Come connettersi :"
             body.div3: "Scaricare l'applicazione :"
         weekly.podium:
-            title: %{firstName}, meilleur(e) whasqer de la semaine %{weekNumber} !
-            title.generic: Meilleurs whasqers de la semaine %{weekNumber} !
-            body.div1: "Le top 3 des whasquers de la semaine :"
-            body.div2: Merci à tous les whasqers ! A la semaine prochaine 💪🙂
+            title: %{firstName}, miglior whasqer della settimana %{weekNumber}!
+            title.generic: Migliori whasqers della settimana %{weekNumber}!
+            body.div1: "I primi 3 whasquers della settimana:"
+            body.div2: Grazie a tutti i whasqers! Alla settimana prossima 💪🙂
         footer:
             join.community: UNISCITI ALLA COMMUNITÀ %{fullName}
             unsubscribe: Cancella iscrizione
