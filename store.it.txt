@@ -1,63 +1,64 @@
-L'appli d'entraide collaborative 2.0
+L'applicazione di aiuto collaborativo 2.0
 
-Envie d'aider ? C'est ici que ca se passe 
+Vuole aiutare? Può farlo qui
 
-Vous avez une question sur les outils que vous utilisez aux quotidien ( bureautique, graphisme, messagerie, pannes informatiques,  et vous ne savez plus où trouver la réponse ? La communauté Whasq est là pour vous aider. Pas d'argent à gagner mais la possibilité de développer positivement votre Karma. Fini la recherche d'expert, ce sont eux qui viennent à vous L'appli Whasq est le symbole de la #crosscollaboration. Whasq est aussi disponible en version Pro.
+Lei ha una domanda sugli strumenti informatici che utilizza ogni giorno (burotica, grafica, messaggeria, problemi informatici) e non sa dove trovare la risposta? I Whasqers sono qui per aiutarLe. Non ci sono soldi in gioco ma ma l'opportunità di sviluppare positivamente il Suo Karma. Abbandona la ricerca di un eperto, sono loro que vengono da Lei. L'applicazione Whasq è il simbolo della collaborazione incrociata. Whasq e disponibile anche nella versione Pro.
 
-Comment ÇA MARCHE - VERSION PRO
+Come funziona? - LA VERSIONE PRO
 
-Votre entreprise est cliente de WHASQ ?
-1- Connectez-vous : Entrez votre email pro
-2- Cliquez sur "mot de passe oublié ou changement de mot de passe"
-3- Recevez votre mot de passe par mail
+La Sua impresa è un cliente di WHASQ?
+1- Connettersi : Inserire la email professionale
+2-  Cliccare su "password dimenticata" o "cambiamento della password'
+3- Ricevere la password via email
 
-Comment ça marche - VERSION PUBLIQUE
+Come funziona? - LA VERSIONE PUBBLICA
 
-Utilisez WHASQ quotidiennement
+Utilizzare WHASQ ogni giorno
 
-1- Inscrivez vous - Complétez votre profil. Ne vous inquiétez pas, vous pourrez ensuite cacher tous les champs, sauf votre Nom ou pseudo. 100% confidentiel, nous ne revendons pas vos données !!! Ajoutez une photo, c'est plus sympa :-)
-2- Sélectionnez les langues que vous parlez ou comprenez
-3- Complétez votre Profil avec VOS TALENTS( les sujets sur lesquels vous pourriez aider la Communauté. Exemple : Cliquez sur la catégorie bureautique, puis choissisez le Talent Excel
-Voir la vidéo : : mettre le lien de la vidéo you tube (attention aux  liens selon les langues)
+1 - Registrarsi - Completare il profilo. Non si preoccupa, dopo puoi nascondere tutte le informazione tranne il nome o il pseudonimo.
+100% confidenziale, non rivenderemo i Suoi dati! Aggiungere una foto, è più divertente :-)
+2- Scegliere le lignue che Lei parla o capisce
+3 - Completare il profilo con i SUOI TALENTI ( i soggetti su cui potrebbe aiutare i Whasqers). Esempio: Cliccare sulla categoria burotica, poi scegliere il Telento Excel
+Vedere il video:
 
-ÇA Y EST VOUS ÊTES WHASQERS!
-Vous arrivez sur votre page !
-Vous pouvez ainsi visualiser toutes les questions concernant vos talents et y répondre !
+FANTASTICO È UN WHASQER!
+Arriva sulla Sua pagina!
+Può vedere tutte le domande che corrispondono ai Suoi talenti e rispondere!
 
-VOUS VOULEZ RÉPONDRE À UNE QUESTION ?
-1- Cliquez sur le Whasq
-2- Cliquez sur répondre - vous pouvez répondre à l'écrit, en postant une vidéo, un son ou une photo !
-Voir la vidéo : : mettre le lien de la vidéo you tube (attention aux  liens selon les langues)
+VUOLE RISPONDERE A UNA DOMANDA?
+1- Cliccare sul Whasq
+2- Cliccare su rispondere - può rispondere con un messaggio, un audio, un video o una foto!
+Vedere il video: https://www.youtube.com/watch?v=DCwI_aWuakE
 
-VOUS VOULEZ POSER UNE QUESTION ?
-Cliquez en haut à droite sur le logo +
-1- Indiquez le titre
-2- Posez votre question à l'écrit en ajoutant ou non, une photo, faites une vidéo ou enregistrez un son
-3- Choisissez la catégorie et les talents ( 3 max.) à qui vous souhaitez envoyer votre question
-4 - prévisualisez, validez C'EST PUBLIÉ !
-Voir la vidéo : : mettre le lien de la vidéo you tube (attention aux  liens selon les langues)
+VUOLE FARE UNA DOMANDA?
+Cliccare in alto a destra sul logo +
+1- Inserire il titolo
+2- Fare una domanda con un messaggio aggiugendo o no, una foto, un video o registrare
+3- Scegliere la categoria e i talenti (3 al massimo) a chi vuole inviare la Sua domanda"
+4- Visualizzare, confermare, è pubblicato :)
+Vedere il video: https://www.youtube.com/watch?v=-2aeMsO3LAo
 
-VOUS RECHERCHEZ DES EXPERTS À PROXIMITÉ ?
-Vous souhaitez que seuls les whasqers se trouvant à proximité de vous voient votre question ? Cliquez sur "notifier autour de moi" 
+ALLA RICERCA DI ESPERTI NELLE VICINANZE?
+Vuole che solo i Whasqers che sono intorno a Le possono vedere la Sua domanda? Cliccare su "Notificare intorno a me" 
 
-C'EST URGENT ?
-Sélectionnez le bouton urgent en bas à droite.
+È URGENTE?
+Cliccare su "è urgente" in basso a destra
 
-DEVENEZ EXPERT 
-Plus vous répondez à une question plus vous avez des chances de devenir expert.
-Ce sont les autres whasqers qui décident ou non de votre niveau
+DIVENTARE UN ESPERTO
+Più risponde alle domande, più è probabile che diventa un esperto.
+Sono gli altri whasqers che decidono o no del Suo livello
 
-Si les autres utilisateurs trouvent votre réponse utile, ils pourront vous attribuer 10 points en likant votre réponse. Si votre réponse est la Bonne solution, celui que vous avez aidé pourra vous attribué 50 points en cliquant sur le trophée. Retrouvez votre classement sur la page podium
+Se gli altri whasqers pensano che la Sua risposta è utile, possono darLe 10 punti mettendo un like sulla Sua risposta. Se la Sua risposta è la soluzione giusta, quello che ha aiutato può darLe 50 punti cliccando sul trofeo. Ritrovare il Suo posto sulla pagina "Classifica".
 
-NOTIFICATIONS
-A chaque point collecté ou réponses reçues, vous serez notifiés en temps réel
+NOTIFICHE
+Ad ogni punto raccolto o ricevuto, sarà avvisato in tempo reale
 
 
-QUE SIGNIFIE WHASQ ?
+COSA SIGNIFICA WHASQ?
 What A Simple Question ?
 
-Parce que aujourd'hui le meilleur moyen d'avoir une réponse,  c'est de poser la bonne question, au bon moment,  de manière simple à la Bonne Personne :-)
+Perché oggi il miglior modo per ottenere una risposta è fare una domanda giusta, al momento giusto, in modo semplice alla persona giusta :-)
 
-A bientôt et si vous avez besoin d'aide, n'hésitez pas.
+A presto e se ha bisogno di aiuto, non esitare a contattarci
 
-Jessie de Whasq (jessie@whasq.com)
+Jessie di Whasq (jessie@whasq.com)
