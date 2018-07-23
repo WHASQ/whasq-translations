@@ -77,7 +77,7 @@ email:
             title: %{firstName}, mejor whasqer de la semana %{weekNumber} !
             title.generic: Los mejores whasqers de la semana %{weekNumber} !
             body.div1: "Los 3 mejores whasqers de la semana :"
-            body.div2: ¡Gracias a todos los whasqers! La próxima semana 💪🙂
+            body.div2: ¡Gracias a todos los whasqers!Nos vemos la próxima semana 💪🙂
         footer:
             join.community: ÚNETE A LA COMUNIDAD %{fullName}
             unsubscribe: Darse de baja
