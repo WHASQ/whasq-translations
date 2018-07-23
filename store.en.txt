@@ -1,63 +1,63 @@
-L'appli d'entraide collaborative 2.0
+Collaborative helping App 2.0
 
-Envie d'aider ? C'est ici que ca se passe 
+Do you want to help? You can do it here
 
-Vous avez une question sur les outils que vous utilisez aux quotidien ( bureautique, graphisme, messagerie, pannes informatiques,  et vous ne savez plus où trouver la réponse ? La communauté Whasq est là pour vous aider. Pas d'argent à gagner mais la possibilité de développer positivement votre Karma. Fini la recherche d'expert, ce sont eux qui viennent à vous L'appli Whasq est le symbole de la #crosscollaboration. Whasq est aussi disponible en version Pro.
+"Do you have any questions about the tools you use every day (office, graphics, messages, computer locks and you don’t know where to find the answer?) The Whasq community is here to help you, there is no money at stake but the possibility to develop positively your Karma. Stop looking for an expert, they come to you. "The Whasq app is the symbol of #crosscollaboration. Whasq is also available in Pro version.
 
-Comment ÇA MARCHE - VERSION PRO
+HOW IT WORKS -PRO VERSION
 
-Votre entreprise est cliente de WHASQ ?
-1- Connectez-vous : Entrez votre email pro
-2- Cliquez sur "mot de passe oublié ou changement de mot de passe"
-3- Recevez votre mot de passe par mail
+Your company is a WHASQ customer?
+1- Login: Enter your email 
+2- Click on "Forgotten password or change of password"
+3- Receive your password by email
 
-Comment ça marche - VERSION PUBLIQUE
+HOW IT WORKS - PUBLIC VERSION
 
-Utilisez WHASQ quotidiennement
+Use WHASQ daily
 
-1- Inscrivez vous - Complétez votre profil. Ne vous inquiétez pas, vous pourrez ensuite cacher tous les champs, sauf votre Nom ou pseudo. 100% confidentiel, nous ne revendons pas vos données !!! Ajoutez une photo, c'est plus sympa :-)
-2- Sélectionnez les langues que vous parlez ou comprenez
-3- Complétez votre Profil avec VOS TALENTS( les sujets sur lesquels vous pourriez aider la Communauté. Exemple : Cliquez sur la catégorie bureautique, puis choissisez le Talent Excel
-Voir la vidéo : : mettre le lien de la vidéo you tube (attention aux  liens selon les langues)
+1- Sign up - Complete your profile. Do not worry, then you will be able to hide all the informations except your name or your pseudo. 100% confidential, we do not sell your data! Add a photo, that is more fun :-)
+2- Select the languages that you speak or understand
+3- Complete your profile with YOUR SKILLS ( the subjects on which you could help the Whasqers). Example: Click on the office category then choose the Excel skill
+Watch the video:
 
-ÇA Y EST VOUS ÊTES WHASQERS!
-Vous arrivez sur votre page !
-Vous pouvez ainsi visualiser toutes les questions concernant vos talents et y répondre !
+THAT'S IT YOU ARE A WHASQER!
+This is your page!
+You can preview all the questions regarding your talents and answer them!
 
-VOUS VOULEZ RÉPONDRE À UNE QUESTION ?
-1- Cliquez sur le Whasq
-2- Cliquez sur répondre - vous pouvez répondre à l'écrit, en postant une vidéo, un son ou une photo !
-Voir la vidéo : : mettre le lien de la vidéo you tube (attention aux  liens selon les langues)
+DO YOU WANT TO ANSWER A QUESTION?
+1- Click on the Whasq
+2- Click on reply - you can answer with a message, a video, an audio or a photo!
+Watch the video: https://www.youtube.com/watch?v=7LaTJvGShu8
 
-VOUS VOULEZ POSER UNE QUESTION ?
-Cliquez en haut à droite sur le logo +
-1- Indiquez le titre
-2- Posez votre question à l'écrit en ajoutant ou non, une photo, faites une vidéo ou enregistrez un son
-3- Choisissez la catégorie et les talents ( 3 max.) à qui vous souhaitez envoyer votre question
-4 - prévisualisez, validez C'EST PUBLIÉ !
-Voir la vidéo : : mettre le lien de la vidéo you tube (attention aux  liens selon les langues)
+DO YOU WANT TO ASK A QUESTION?
+Click on the top right on the + logo
+1- Enter the title
+2- Ask your question with a message by adding or not a photo, a video or record an audio
+3- Choose the category and the skills (3 max.) to whom you want to send your question
+4- Preview, validate, it's published!
+Watch the video: https://www.youtube.com/watch?v=O8EQSi8kis4
 
-VOUS RECHERCHEZ DES EXPERTS À PROXIMITÉ ?
-Vous souhaitez que seuls les whasqers se trouvant à proximité de vous voient votre question ? Cliquez sur "notifier autour de moi" 
+LOOKING FOR EXPERTS NEAR YOU?
+Do you want that only whasqers that are near you see your question? Click on "Notify around me"
 
-C'EST URGENT ?
-Sélectionnez le bouton urgent en bas à droite.
+IT'S URGENT?
+Select the "it's urgent" button at the bottom right.
 
-DEVENEZ EXPERT 
-Plus vous répondez à une question plus vous avez des chances de devenir expert.
-Ce sont les autres whasqers qui décident ou non de votre niveau
+BECOME AN EXPERT
+The more you answer questions, the more likely you are to become an expert.
+It is the other Whasqers that decide of your level or not
 
-Si les autres utilisateurs trouvent votre réponse utile, ils pourront vous attribuer 10 points en likant votre réponse. Si votre réponse est la Bonne solution, celui que vous avez aidé pourra vous attribué 50 points en cliquant sur le trophée. Retrouvez votre classement sur la page podium
+If the other users find your answer useful, they will be able to give you 10 points by liking your answer. If your answer is the right one, the person you helped will be able give you 50 points by clicking on the trophy. Find your ranking on the ranking page.
 
 NOTIFICATIONS
-A chaque point collecté ou réponses reçues, vous serez notifiés en temps réel
+At each point collected or responses received, you will be notified in real time
 
 
-QUE SIGNIFIE WHASQ ?
+WHAT DOES WHASQ MEANS?
 What A Simple Question ?
 
-Parce que aujourd'hui le meilleur moyen d'avoir une réponse,  c'est de poser la bonne question, au bon moment,  de manière simple à la Bonne Personne :-)
+Because today, the best way to have an answer is to ask the good question, simply, at the right time, to the right person :-)
 
-A bientôt et si vous avez besoin d'aide, n'hésitez pas.
+See you soon and if you need help, do not hesitate to contact us. 
 
-Jessie de Whasq (jessie@whasq.com)
+Jessie from Whasq (jessie@whasq.com)
