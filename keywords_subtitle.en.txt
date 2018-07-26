@@ -1,3 +1,2 @@
-keywords: forum,skills,help,collaborative,money,community,excel,powerpoint,failure,gaming,iphone,pc,mac,android,word,repair,acrobat reader,unblocking,bugs,accessories
-
+keywords: forum,skills,help,collaborative,money,community,excel,gaming,iphone,pc,mac,android,word,repair
 Subtitle: Collaborative helping App 2.0
