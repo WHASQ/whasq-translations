@@ -1,3 +1,2 @@
-keywords: forum,talents,aide,collaboratif,argent,communauté,excel,powerpoint,gaming,panne,iphone,pc,mac,android,word,acrobat reader,déblocage,bugs,accessoires
-
+keywords: forum,talents,aide,collaboratif,argent,communauté,excel,gaming,panne,iphone,pc,mac,android,word
 Subtitle: L'app d'entraide collaborative 2.0
