@@ -9,7 +9,7 @@ const messages = {
     'no-identification-info': 'If you do not have your ID or password, please contact your administrator',
     'bad-credentials': 'Your credentials are incorrect. Try Again.',
     'not-enough-rights': 'You do not have sufficient rights to login.',
-    'user-not-found': 'L\'utilisateur n\'a pas été trouvé.', /* TODO */
+    'user-not-found': 'The user was not found.',
 
     // General 
     'more-info': 'More information',
@@ -27,7 +27,7 @@ const messages = {
     'open': 'Open',
     'fullname': 'Full name',
     'job-position': 'Job position',
-    'assistance': 'Besoin d\'aide ? Contactez-nous.', /* TODO */
+    'assistance': 'Need help? Contact us.',
 
     // Menu 
     'activity': 'Activity',
@@ -51,7 +51,7 @@ const messages = {
     // Activity 
     'eve-computed-kpi': 'indicator calculated on D-1',
     'no-data-for-selected-period': 'No data available for the selected period',
-    'no-data-available': 'Aucune donnée disponible', /* TODO */
+    'no-data-available': 'No data available',
 
     // ActivityActiveUsers 
     'actives-title': 'Active Users - {month}',
@@ -322,14 +322,13 @@ const messages = {
     'users-action-unban-user': 'Remove the ban of the user',
     'users-action-ban-user': 'Ban the user',
     'users-action-archive-user': 'Archive a user',
-    'users-import-starting': 'L\'import des utilisateurs a bien débuté', /* TODO */
+    'users-import-starting': 'The import of contacts has begun',
   
     // ImportUsersModal
-    'users-import-title': 'Import d\'utilisateurs', /* TODO */
-    'import-users-file-limit': 'Seuls les fichiers CSV d\'une taille inférieure à 1Mo sont acceptés', /* TODO */
-    'import-users-error': 'Une erreur est survenue lors de l\'import. Veuillez réessayer.', /* TODO */
-    'import-users-btn': 'Importer les utilisateurs', /* TODO */
-
+    'users-import-title': 'Import contacts',
+    'import-users-file-limit': 'Only the CSV files smaller than 1Mo are accepted',
+    'import-users-error': 'Something went wrong during the import. Please try again.',
+    'import-users-btn': 'Import contacts',
     // Targets 
     'targets-title': 'Objectives and Gamification',
     'targets-update-message': 'The objective "{target}" has been updated',
