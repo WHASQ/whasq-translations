@@ -9,7 +9,7 @@ const messages = {
     'no-identification-info': ' Se hai dimenticato l’ID o la password, per favore, contatta l\'amministratore',
     'bad-credentials': 'Le Sue credenziali non sono corretti. Riprova per favore.',
     'not-enough-rights': 'Non ha i diritti sufficienti per accedere.',
-    'user-not-found': 'L\'utilisateur n\'a pas été trouvé.', /* TODO */
+    'user-not-found': 'L'utente non è stato trovato.',
 
     // Generale
     'more-info': 'Maggiori informazioni',
@@ -27,7 +27,7 @@ const messages = {
     'open': 'Aperto',
     'fullname': 'Nome completo',
     'job-position': 'Posto',
-    'assistance': 'Besoin d\'aide ? Contactez-nous.', /* TODO */
+    'assistance': 'Ha bisogno di aiuto? Contattaci.',
   
     // Menù
     'activity': 'Attività',
@@ -51,7 +51,7 @@ const messages = {
     // Attività
     'eve-computed-kpi': 'indicatore calcolato a G-1',
     'no-data-for-selected-period': 'Nessun dato disponibile per il periodo selezionato',
-    'no-data-available': 'Aucune donnée disponible', /* TODO */
+    'no-data-available': 'Non ci sono dati disponibili',
 
     // ActivityActiveUsers
     'actives-title': 'Utenti attivi - {month}',
@@ -250,7 +250,7 @@ const messages = {
     'add-whasq-item-third-skill': 'Terzo talent',
     'add-whasq-item-notify-around': 'Notificare intorno a te?',
     'add-whasq-item-urgent': 'Urgente?',
-    'add-whasq-item-send-everyone': 'Envoyer à tout le monde ?', /* TODO */
+    'add-whasq-item-send-everyone': 'Inviare a tutti?',
 
     // WhasqsReports
     'whasqs-reports-title': 'Whasqs segnalati',
@@ -322,13 +322,13 @@ const messages = {
     'users-action-unban-user': 'Rimuovere il divieto di accesso di quest’ utente',
     'users-action-ban-user': 'Bandire quest’ utente',
     'users-action-archive-user': 'Archiviare un utente',
-    'users-import-starting': 'L\'import des utilisateurs a bien débuté', /* TODO */
+    'users-import-starting': 'L'importazione dei contatti ha cominciato',
 
     // ImportUsersModal
-    'users-import-title': 'Import d\'utilisateurs', /* TODO */
-    'import-users-file-limit': 'Seuls les fichiers CSV d\'une taille inférieure à 1Mo sont acceptés', /* TODO */
-    'import-users-error': 'Une erreur est survenue lors de l\'import. Veuillez réessayer.', /* TODO */
-    'import-users-btn': 'Importer les utilisateurs', /* TODO */
+    'users-import-title': 'Importazione dei contatti',
+    'import-users-file-limit': 'Sono accettati solo file CSV più piccoli di 1 Mo',
+    'import-users-error': 'Si è verificato un errore durante l'importazione, riprova per favore',
+    'import-users-btn': 'Importare i contatti',
 
     // Targets
     'targets-title': 'Obiettivi e Gamificazione',
