@@ -322,13 +322,13 @@ const messages = {
     'users-action-unban-user': 'Retirar la prohibición del usuario',
     'users-action-ban-user': 'Prohibir el usuario',
     'users-action-archive-user': 'Archivar un usuario',
-    'users-import-starting': 'L\'import des utilisateurs a bien débuté', /* TODO */
+    'users-import-starting': 'El importe de los contactos ha comenzado',
   
     // ImportUsersModal
-    'users-import-title': 'Import d\'utilisateurs', /* TODO */
-    'import-users-file-limit': 'Seuls les fichiers CSV d\'une taille inférieure à 1Mo sont acceptés', /* TODO */
-    'import-users-error': 'Une erreur est survenue lors de l\'import. Veuillez réessayer.', /* TODO */
-    'import-users-btn': 'Importer les utilisateurs', /* TODO */
+    'users-import-title': 'Importar contactos,
+    'import-users-file-limit': 'Solo los archivos CSV  de una talla inferior a 1Mo son aceptados',
+    'import-users-error': 'Se produjo un error al momento de importar los contactos. Por favor inténtelo de nuevo.', 
+    'import-users-btn': 'Importar los contactos',
 
     // Targets
     'targets-title': 'Objectivos & Gamificación',
@@ -369,7 +369,7 @@ const messages = {
     'whasqer-profile': 'Perfil del Whasqer',
     'profile-account-creation': 'Crear cuenta',
     'profile-last-connection': 'Ultima conexión',
-    'profile-last-update': 'Dernière mise à jour', /* TODO */
+    'profile-last-update': 'última actualización',
     'profile-whasqs-column': 'WHASQS',
     'profile-answers-column': 'RESPUESTAS',
     'profile-solutions-column': 'SOLUCIONES',
@@ -392,7 +392,7 @@ const messages = {
     'choose-company-logo': 'Elegir el logo de nuestra empresa',
     'drop-file-here-or-click': 'Deja tu archivo aquí o dale clic para seleccionar el archivo que quieres importar',
     'company-logo-size-limit': 'Solo las imágenes de un 1Mo son aceptadas',
-    'company-logo-square-required': 'L\'image doit avoir un format carré.', /* TODO */
+    'company-logo-square-required': 'La imagen debe tener un formato cuadrado.', 
     'error-importing-company-logo': 'Se produjo un error al importar. Inténtalo de nuevo.',
     'import-company-logo': 'Importar el logo'
   }
