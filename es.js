@@ -7,9 +7,9 @@ const messages = {
     'Provided by your administrator': 'Proporcionado por el administrador',
     'Remember me': 'Recordarme',
     'no-identification-info': 'Si no tienes tu nombre de usuario, contacta el administrador',
-    'bad-credentials': 'Vos identifiants sont incorrects. Veuillez réessayer.', /* TODO */
-    'not-enough-rights': 'Vous n\'avez pas les droits suffisants pour vous connecter.', /* TODO */
-    'user-not-found': 'L\'utilisateur n\'a pas été trouvé.', /* TODO */
+    'bad-credentials': 'La informacion no es correcta. Por favor inténtalo nuevamente.', 
+    'not-enough-rights': 'No tienes los derechos suficientes para connectarte.', 
+    'user-not-found': 'No se ha encontrado al usuario.',
 
     // General
     'more-info': ' más información',
@@ -27,7 +27,7 @@ const messages = {
     'open': 'Abierto',
     'fullname': 'Nombre y apellido',
     'job-position': 'Puesto de trabajo',
-    'assistance': 'Besoin d\'aide ? Contactez-nous.', /* TODO */
+    'assistance':'¿Necesitas ayuda? Contáctanos.',
 
     // Menu
     'activity': 'Actividad',
@@ -51,7 +51,7 @@ const messages = {
     // Activity
     'eve-computed-kpi': 'indicador calculado el J-1',
     'no-data-for-selected-period': 'No hay datos disponibles para el período seleccionado',
-    'no-data-available': 'Aucune donnée disponible', /* TODO */
+    'no-data-available': 'No hay datos disponibles',
 
     // ActivityActiveUsers
     'actives-title': 'Usuarios Activos {month}',
@@ -250,7 +250,7 @@ const messages = {
     'add-whasq-item-third-skill': 'Tercer talento',
     'add-whasq-item-notify-around': '¿Notificar a mi alrededor?',
     'add-whasq-item-urgent': '¿Urgente ?',
-    'add-whasq-item-send-everyone': 'Envoyer à tout le monde ?', /* TODO */
+    'add-whasq-item-send-everyone': '¿Enviar a todos?',
   
     // WhasqsReports
     'whasqs-reports-title': 'Whasqs señalados',
