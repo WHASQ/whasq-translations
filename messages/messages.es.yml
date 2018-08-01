@@ -101,3 +101,4 @@ email:
             body.div2: "Su cuenta ha sido creada con la contraseña : %{password}. No dudes en cambiarla en la pantalla de inicio de la aplicación."
             body.div3: Te enviaremos unos correos sobre cómo aprovechar al máximo Whasq. ¡Mientras tanto, sumérgete y comienza a explorar. ¡Estamos contentos de que estés aquí!!
             body.div4: ¿Cómo conectarse?
+            body.div5: https://www.youtube.com/watch?v=MVZKIQ1pcQ4
