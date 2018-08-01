@@ -325,7 +325,7 @@ const messages = {
     'users-import-starting': 'El importe de los contactos ha comenzado',
   
     // ImportUsersModal
-    'users-import-title': 'Importar contactos,
+    'users-import-title': 'Importar contactos',
     'import-users-file-limit': 'Solo los archivos CSV  de una talla inferior a 1Mo son aceptados',
     'import-users-error': 'Se produjo un error al momento de importar los contactos. Por favor inténtelo de nuevo.', 
     'import-users-btn': 'Importar los contactos',
@@ -395,4 +395,6 @@ const messages = {
     'company-logo-square-required': 'La imagen debe tener un formato cuadrado.', 
     'error-importing-company-logo': 'Se produjo un error al importar. Inténtalo de nuevo.',
     'import-company-logo': 'Importar el logo'
-  }
+}
+
+export default messages
