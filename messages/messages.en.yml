@@ -101,3 +101,4 @@ email:
             body.div2: "Your account has been created with password : %{password}. Feel free to change it on login screen in the app."
             body.div3: We'll send you a few quick emails on how to get the most out of Whasq. In the meantime, dive in and start exploring. We're glad you’re here!
             body.div4: "How to join & complete my profile:"
+            body.div5: https://www.youtube.com/watch?v=MVZKIQ1pcQ4
