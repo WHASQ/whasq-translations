@@ -9,7 +9,7 @@ const messages = {
     'no-identification-info': ' Se hai dimenticato l’ID o la password, per favore, contatta l\'amministratore',
     'bad-credentials': 'Le Sue credenziali non sono corretti. Riprova per favore.',
     'not-enough-rights': 'Non ha i diritti sufficienti per accedere.',
-    'user-not-found': 'L'utente non è stato trovato.',
+    'user-not-found': 'L\'utente non è stato trovato.',
 
     // Generale
     'more-info': 'Maggiori informazioni',
@@ -322,12 +322,12 @@ const messages = {
     'users-action-unban-user': 'Rimuovere il divieto di accesso di quest’ utente',
     'users-action-ban-user': 'Bandire quest’ utente',
     'users-action-archive-user': 'Archiviare un utente',
-    'users-import-starting': 'L'importazione dei contatti ha cominciato',
+    'users-import-starting': 'L\'importazione dei contatti ha cominciato',
 
     // ImportUsersModal
     'users-import-title': 'Importazione dei contatti',
     'import-users-file-limit': 'Sono accettati solo file CSV più piccoli di 1 Mo',
-    'import-users-error': 'Si è verificato un errore durante l'importazione, riprova per favore',
+    'import-users-error': 'Si è verificato un errore durante l\'importazione, riprova per favore',
     'import-users-btn': 'Importare i contatti',
 
     // Targets
