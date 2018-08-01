@@ -1,11 +1,16 @@
 const messages = {
+
+    // Login
     'Email': 'E-mail',
     'Login': 'Conectarse',
     'Password': 'Contraseña',
     'Provided by your administrator': 'Proporcionado por el administrador',
     'Remember me': 'Recordarme',
     'no-identification-info': 'Si no tienes tu nombre de usuario, contacta el administrador',
-  
+    'bad-credentials': 'Vos identifiants sont incorrects. Veuillez réessayer.', /* TODO */
+    'not-enough-rights': 'Vous n\'avez pas les droits suffisants pour vous connecter.', /* TODO */
+    'user-not-found': 'L\'utilisateur n\'a pas été trouvé.', /* TODO */
+
     // General
     'more-info': ' más información',
     'from': 'Desde',
@@ -22,7 +27,8 @@ const messages = {
     'open': 'Abierto',
     'fullname': 'Nombre y apellido',
     'job-position': 'Puesto de trabajo',
-  
+    'assistance': 'Besoin d\'aide ? Contactez-nous.', /* TODO */
+
     // Menu
     'activity': 'Actividad',
     'actives-users': 'Usuarios activos ',
@@ -45,7 +51,8 @@ const messages = {
     // Activity
     'eve-computed-kpi': 'indicador calculado el J-1',
     'no-data-for-selected-period': 'No hay datos disponibles para el período seleccionado',
-  
+    'no-data-available': 'Aucune donnée disponible', /* TODO */
+
     // ActivityActiveUsers
     'actives-title': 'Usuarios Activos {month}',
     'actives-kpi-title': 'Activos',
@@ -243,6 +250,7 @@ const messages = {
     'add-whasq-item-third-skill': 'Tercer talento',
     'add-whasq-item-notify-around': '¿Notificar a mi alrededor?',
     'add-whasq-item-urgent': '¿Urgente ?',
+    'add-whasq-item-send-everyone': 'Envoyer à tout le monde ?', /* TODO */
   
     // WhasqsReports
     'whasqs-reports-title': 'Whasqs señalados',
@@ -314,7 +322,14 @@ const messages = {
     'users-action-unban-user': 'Retirar la prohibición del usuario',
     'users-action-ban-user': 'Prohibir el usuario',
     'users-action-archive-user': 'Archivar un usuario',
+    'users-import-starting': 'L\'import des utilisateurs a bien débuté', /* TODO */
   
+    // ImportUsersModal
+    'users-import-title': 'Import d\'utilisateurs', /* TODO */
+    'import-users-file-limit': 'Seuls les fichiers CSV d\'une taille inférieure à 1Mo sont acceptés', /* TODO */
+    'import-users-error': 'Une erreur est survenue lors de l\'import. Veuillez réessayer.', /* TODO */
+    'import-users-btn': 'Importer les utilisateurs', /* TODO */
+
     // Targets
     'targets-title': 'Objectivos & Gamificación',
     'targets-update-message': 'El objetivo"{target}" ha sido actualizado',
@@ -354,6 +369,7 @@ const messages = {
     'whasqer-profile': 'Perfil del Whasqer',
     'profile-account-creation': 'Crear cuenta',
     'profile-last-connection': 'Ultima conexión',
+    'profile-last-update': 'Dernière mise à jour', /* TODO */
     'profile-whasqs-column': 'WHASQS',
     'profile-answers-column': 'RESPUESTAS',
     'profile-solutions-column': 'SOLUCIONES',
@@ -376,6 +392,7 @@ const messages = {
     'choose-company-logo': 'Elegir el logo de nuestra empresa',
     'drop-file-here-or-click': 'Deja tu archivo aquí o dale clic para seleccionar el archivo que quieres importar',
     'company-logo-size-limit': 'Solo las imágenes de un 1Mo son aceptadas',
+    'company-logo-square-required': 'L\'image doit avoir un format carré.', /* TODO */
     'error-importing-company-logo': 'Se produjo un error al importar. Inténtalo de nuevo.',
     'import-company-logo': 'Importar el logo'
   }

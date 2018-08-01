@@ -9,7 +9,8 @@ const messages = {
     'no-identification-info': ' Se hai dimenticato l’ID o la password, per favore, contatta l\'amministratore',
     'bad-credentials': 'Le Sue credenziali non sono corretti. Riprova per favore.',
     'not-enough-rights': 'Non ha i diritti sufficienti per accedere.',
-    
+    'user-not-found': 'L\'utilisateur n\'a pas été trouvé.', /* TODO */
+
     // Generale
     'more-info': 'Maggiori informazioni',
     'from': 'Dal',
@@ -26,6 +27,7 @@ const messages = {
     'open': 'Aperto',
     'fullname': 'Nome completo',
     'job-position': 'Posto',
+    'assistance': 'Besoin d\'aide ? Contactez-nous.', /* TODO */
   
     // Menù
     'activity': 'Attività',
@@ -49,7 +51,8 @@ const messages = {
     // Attività
     'eve-computed-kpi': 'indicatore calcolato a G-1',
     'no-data-for-selected-period': 'Nessun dato disponibile per il periodo selezionato',
-  
+    'no-data-available': 'Aucune donnée disponible', /* TODO */
+
     // ActivityActiveUsers
     'actives-title': 'Utenti attivi - {month}',
     'actives-kpi-title': 'Attivi',
@@ -229,12 +232,12 @@ const messages = {
     'whasqs-action-unban-user': 'Rimuovere il divieto di accesso di quest’ utente',
     'whasqs-action-ban-user': 'Bandire quest’ utente',
     'whasqs-action-remove-whasq': 'Soppressione del whasq',
-  
+
     // WhasqChannelModal
     'whasq-channel-title': 'Titolo del whasq"{whasq-title}"',
     'usefull-answer': 'utile',
     'champion-answer': 'CAMPIONE/CAMPIONESSA',
-  
+
     // AddWhasqModal
     'add-whasq-title': 'Aggiunta di un nuovo whasq',
     'add-whasq-item-title': 'Titolo',
@@ -247,7 +250,8 @@ const messages = {
     'add-whasq-item-third-skill': 'Terzo talent',
     'add-whasq-item-notify-around': 'Notificare intorno a te?',
     'add-whasq-item-urgent': 'Urgente?',
-  
+    'add-whasq-item-send-everyone': 'Envoyer à tout le monde ?', /* TODO */
+
     // WhasqsReports
     'whasqs-reports-title': 'Whasqs segnalati',
     'whasqs-reports-unblock-whasq-confirm-message': 'Sei sicuro di voler sbloccare questo whasq ?',
@@ -318,7 +322,14 @@ const messages = {
     'users-action-unban-user': 'Rimuovere il divieto di accesso di quest’ utente',
     'users-action-ban-user': 'Bandire quest’ utente',
     'users-action-archive-user': 'Archiviare un utente',
-  
+    'users-import-starting': 'L\'import des utilisateurs a bien débuté', /* TODO */
+
+    // ImportUsersModal
+    'users-import-title': 'Import d\'utilisateurs', /* TODO */
+    'import-users-file-limit': 'Seuls les fichiers CSV d\'une taille inférieure à 1Mo sont acceptés', /* TODO */
+    'import-users-error': 'Une erreur est survenue lors de l\'import. Veuillez réessayer.', /* TODO */
+    'import-users-btn': 'Importer les utilisateurs', /* TODO */
+
     // Targets
     'targets-title': 'Obiettivi e Gamificazione',
     'targets-update-message': 'L’obiettivo "{target}" è stato aggiornato',
@@ -384,6 +395,6 @@ const messages = {
     'company-logo-square-required': 'L\'immagine deve avere un formato quadrato.',
     'error-importing-company-logo': 'Si è verificato un errore durante l’importazione. Per favore, riprova.',
     'import-company-logo': 'Importare il logo'
-  }
-  
-  export default messages
+}
+
+export default messages

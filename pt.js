@@ -9,6 +9,7 @@ const messages = {
     'no-identification-info': 'If you do not have your ID or password, please contact your administrator',
     'bad-credentials': 'Your credentials are incorrect. Try Again.',
     'not-enough-rights': 'You do not have sufficient rights to login.',
+    'user-not-found': 'L\'utilisateur n\'a pas été trouvé.', /* TODO */
 
     // General 
     'more-info': 'More information',
@@ -26,6 +27,7 @@ const messages = {
     'open': 'Open',
     'fullname': 'Full name',
     'job-position': 'Job position',
+    'assistance': 'Besoin d\'aide ? Contactez-nous.', /* TODO */
 
     // Menu 
     'activity': 'Activity',
@@ -49,6 +51,7 @@ const messages = {
     // Activity 
     'eve-computed-kpi': 'indicator calculated on D-1',
     'no-data-for-selected-period': 'No data available for the selected period',
+    'no-data-available': 'Aucune donnée disponible', /* TODO */
 
     // ActivityActiveUsers 
     'actives-title': 'Active Users - {month}',
@@ -247,6 +250,7 @@ const messages = {
     'add-whasq-item-third-skill': 'Third skill',
     'add-whasq-item-notify-around': 'Notify around you?',
     'add-whasq-item-urgent': 'Urgent?',
+    'add-whasq-item-send-everyone': 'Envoyer à tout le monde ?', /* TODO */
 
     // WhasqsReports 
     'whasqs-reports-title': 'Reported Whasqs',
@@ -318,6 +322,13 @@ const messages = {
     'users-action-unban-user': 'Remove the ban of the user',
     'users-action-ban-user': 'Ban the user',
     'users-action-archive-user': 'Archive a user',
+    'users-import-starting': 'L\'import des utilisateurs a bien débuté', /* TODO */
+  
+    // ImportUsersModal
+    'users-import-title': 'Import d\'utilisateurs', /* TODO */
+    'import-users-file-limit': 'Seuls les fichiers CSV d\'une taille inférieure à 1Mo sont acceptés', /* TODO */
+    'import-users-error': 'Une erreur est survenue lors de l\'import. Veuillez réessayer.', /* TODO */
+    'import-users-btn': 'Importer les utilisateurs', /* TODO */
 
     // Targets 
     'targets-title': 'Objectives and Gamification',

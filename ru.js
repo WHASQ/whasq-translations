@@ -9,6 +9,7 @@ const messages = {
     'no-identification-info': 'Если у вас нет вашего логина или пароля, пожалуйста, обратитесь к администратору',
     'bad-credentials': 'Данные указаны неверно. Попробуйте еще раз.',
     'not-enough-rights': 'У вас недостаточно прав для входа.',
+    'user-not-found': 'L\'utilisateur n\'a pas été trouvé.', /* TODO */
 
     // General 
     'more-info': 'Больше информации',
@@ -26,6 +27,7 @@ const messages = {
     'open': 'Открыть',
     'fullname': 'Полное имя',
     'job-position': 'Должность',
+    'assistance': 'Besoin d\'aide ? Contactez-nous.', /* TODO */
 
     // Menu 
     'activity': 'Активность',
@@ -49,6 +51,7 @@ const messages = {
     // Activity 
     'eve-computed-kpi': 'показатель посчитан на D-1',
     'no-data-for-selected-period': 'Нет данных для выбранного периода',
+    'no-data-available': 'Aucune donnée disponible', /* TODO */
 
     // ActivityActiveUsers 
     'actives-title': 'Активные Пользователи - {month}',
@@ -247,6 +250,7 @@ const messages = {
     'add-whasq-item-third-skill': 'Третий навык',
     'add-whasq-item-notify-around': 'Сообщить поблизости?',
     'add-whasq-item-urgent': 'Срочный?',
+    'add-whasq-item-send-everyone': 'Envoyer à tout le monde ?', /* TODO */
 
     // WhasqsReports 
     'whasqs-reports-title': 'Нежелательные вопросы',
@@ -318,6 +322,13 @@ const messages = {
     'users-action-unban-user': 'Разблокировать этого пользователя',
     'users-action-ban-user': 'Заблокировать этого пользователя',
     'users-action-archive-user': 'Отправить пользователя в архив',
+    'users-import-starting': 'L\'import des utilisateurs a bien débuté', /* TODO */
+  
+    // ImportUsersModal
+    'users-import-title': 'Import d\'utilisateurs', /* TODO */
+    'import-users-file-limit': 'Seuls les fichiers CSV d\'une taille inférieure à 1Mo sont acceptés', /* TODO */
+    'import-users-error': 'Une erreur est survenue lors de l\'import. Veuillez réessayer.', /* TODO */
+    'import-users-btn': 'Importer les utilisateurs', /* TODO */
 
     // Targets 
     'targets-title': 'Цели и Gamification',
