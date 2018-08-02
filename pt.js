@@ -54,7 +54,7 @@ const messages = {
     'no-data-available': 'Aucune donnée disponible', /* TODO */
 
     // ActivityActiveUsers 
-    'actives-title': 'Active Users - {month}',
+    'actives-title': 'Active Users',
     'actives-kpi-title': 'Active',
     'actives-kpi-help-title': 'Active',
     'actives-kpi-help-message': 'This indicator represents the number of users who logged in at least once during the month "{month}".',

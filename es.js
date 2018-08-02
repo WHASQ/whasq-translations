@@ -54,7 +54,7 @@ const messages = {
     'no-data-available': 'No hay datos disponibles',
 
     // ActivityActiveUsers
-    'actives-title': 'Usuarios Activos {month}',
+    'actives-title': 'Usuarios Activos',
     'actives-kpi-title': 'Activos',
     'actives-kpi-help-title': 'Activos',
     'actives-kpi-help-message': 'Este indicador representa el numero de usuarios  que se conectaron al menos una vez en el mes "{month}".',

@@ -54,7 +54,7 @@ const messages = {
     'no-data-available': 'Aucune donnée disponible', /* TODO */
 
     // ActivityActiveUsers 
-    'actives-title': 'Активные Пользователи - {month}',
+    'actives-title': 'Активные Пользователи',
     'actives-kpi-title': 'Активный',
     'actives-kpi-help-title': 'Активный',
     'actives-kpi-help-message': 'Этот показатель представляет количество пользователей, зашедших в приложение хотя бы один раз в течение месяца "{month}".',
