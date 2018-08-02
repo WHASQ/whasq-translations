@@ -329,6 +329,11 @@ const messages = {
     'import-users-file-limit': 'Solo los archivos CSV  de una talla inferior a 1Mo son aceptados',
     'import-users-error': 'Se produjo un error al momento de importar los contactos. Por favor inténtelo de nuevo.', 
     'import-users-btn': 'Importar los contactos',
+    'import-users-expected-format': 'Format attendu', /* TODO */
+    'import-users-fullname': 'Nom complet', /* TODO */
+    'import-users-email': 'Email', /* TODO */
+    'import-users-job-position': 'Poste', /* TODO */
+    'import-users-phone': 'Téléphone', /* TODO */
 
     // Targets
     'targets-title': 'Objectivos & Gamificación',

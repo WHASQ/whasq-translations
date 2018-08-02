@@ -329,6 +329,11 @@ const messages = {
     'import-users-file-limit': 'Seuls les fichiers CSV d\'une taille inférieure à 1Mo sont acceptés',
     'import-users-error': 'Une erreur est survenue lors de l\'import. Veuillez réessayer.',
     'import-users-btn': 'Importer les utilisateurs',
+    'import-users-expected-format': 'Format attendu',
+    'import-users-fullname': 'Nom complet',
+    'import-users-email': 'Email',
+    'import-users-job-position': 'Poste',
+    'import-users-phone': 'Téléphone',
 
     // Targets
     'targets-title': 'Objectifs & Gamification',

@@ -329,6 +329,11 @@ const messages = {
     'import-users-file-limit': 'Seuls les fichiers CSV d\'une taille inférieure à 1Mo sont acceptés', /* TODO */
     'import-users-error': 'Une erreur est survenue lors de l\'import. Veuillez réessayer.', /* TODO */
     'import-users-btn': 'Importer les utilisateurs', /* TODO */
+    'import-users-expected-format': 'Format attendu', /* TODO */
+    'import-users-fullname': 'Nom complet', /* TODO */
+    'import-users-email': 'Email', /* TODO */
+    'import-users-job-position': 'Poste', /* TODO */
+    'import-users-phone': 'Téléphone', /* TODO */
 
     // Targets 
     'targets-title': 'Цели и Gamification',
