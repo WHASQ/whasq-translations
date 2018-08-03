@@ -252,7 +252,7 @@
     <!-- Notifications -->
     <string name="notitification_title">Notifications</string>
     <string name="notificationType_other">New Notification</string>
-    <string name="notificationType_whasq_skills_matching">%1$s has created a Whasq, which may be of interest to you: %2$s</string>
+    <string name="notificationType_whasq_skills_matching">%1$s has created a Whasq, which may interest you: %2$s</string>
     <string name="notificationType_skill_recommendation">%1$s highly recommended you for this Skills :</string>
     <string name="notificationType_skill_suggestion">%1$s suggested you this Skill:</string>
     <string name="notificationType_whasq_new_answer">%1$s has replied to your Whasq : %2$s</string>
