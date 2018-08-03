@@ -329,11 +329,11 @@ const messages = {
     'import-users-file-limit': 'Sono accettati solo file CSV più piccoli di 1 Mo',
     'import-users-error': 'Si è verificato un errore durante l\'importazione, riprova per favore',
     'import-users-btn': 'Importare i contatti',
-    'import-users-expected-format': 'Format attendu', /* TODO */
-    'import-users-fullname': 'Nom complet', /* TODO */
-    'import-users-email': 'Email', /* TODO */
-    'import-users-job-position': 'Poste', /* TODO */
-    'import-users-phone': 'Téléphone', /* TODO */
+    'import-users-expected-format': 'Formato richiesto',
+    'import-users-fullname': 'Nome completo',
+    'import-users-email': 'Email',
+    'import-users-job-position': 'Posto',
+    'import-users-phone': 'Numero di telefono',
 
     // Targets
     'targets-title': 'Obiettivi e Gamificazione',
