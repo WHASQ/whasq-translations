@@ -250,7 +250,7 @@ const messages = {
     'add-whasq-item-third-skill': 'Third skill',
     'add-whasq-item-notify-around': 'Notify around you?',
     'add-whasq-item-urgent': 'Urgent?',
-    'add-whasq-item-send-everyone': 'Envoyer à tout le monde ?', /* TODO */
+    'add-whasq-item-send-everyone': 'Send to everyone?',
 
     // WhasqsReports 
     'whasqs-reports-title': 'Reported Whasqs',
@@ -329,11 +329,11 @@ const messages = {
     'import-users-file-limit': 'Only the CSV files smaller than 1Mo are accepted',
     'import-users-error': 'Something went wrong during the import. Please try again.',
     'import-users-btn': 'Import contacts',
-    'import-users-expected-format': 'Format attendu', /* TODO */
-    'import-users-fullname': 'Nom complet', /* TODO */
-    'import-users-email': 'Email', /* TODO */
-    'import-users-job-position': 'Poste', /* TODO */
-    'import-users-phone': 'Téléphone', /* TODO */
+    'import-users-expected-format': 'Expected format',
+    'import-users-fullname': 'Full name',
+    'import-users-email': 'Email',
+    'import-users-job-position': 'Job position',
+    'import-users-phone': 'Number phone',
 
     // Targets 
     'targets-title': 'Objectives and Gamification',
