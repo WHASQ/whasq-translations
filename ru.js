@@ -47,6 +47,7 @@ const messages = {
     'users': 'Пользователи',
     'admin': 'Администрация',
     'targets': 'Цели и Gamification',
+    'notifications': 'Notifications', /* TODO */
 
     // Activity 
     'eve-computed-kpi': 'показатель посчитан на D-1',
@@ -399,7 +400,19 @@ const messages = {
     'company-logo-size-limit': 'Принимаются изображения размером меньше 1 Mb',
     'company-logo-square-required': 'Изображение должно быть квадратной формы.',
     'error-importing-company-logo': 'Что-то пошло не так во время загрузки. Попробуйте еще раз.',
-    'import-company-logo': 'Загрузить логотип'
+    'import-company-logo': 'Загрузить логотип',
+
+    // Notifications
+    'notifications-title': 'Notifications', /* TODO */
+    'notifications-list': 'Liste de notifications', /* TODO */
+    'notifications-column-id': 'Id', /* TODO */
+    'notifications-column-type': 'Type', /* TODO */
+    'notifications-column-data': 'Données', /* TODO */
+    'notifications-column-owner': 'Propriétaire', /* TODO */
+    'notifications-column-shared': 'Partagé ?', /* TODO */
+    'notifications-column-creation': 'Date de création', /* TODO */
+    'notifications-column-message': 'Message', /* TODO */
+    'notifications-no-data': 'Vous n\'avez actuellement aucune notification', /* TODO */
 }
 
 export default messages

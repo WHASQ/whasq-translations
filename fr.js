@@ -47,6 +47,7 @@ const messages = {
     'users': 'Utilisateurs',
     'admin': 'Administration',
     'targets': 'Objectifs & Gamification',
+    'notifications': 'Notifications',
 
     // Activity
     'eve-computed-kpi': 'indicateur calculé à J-1',
@@ -399,5 +400,19 @@ const messages = {
     'company-logo-size-limit': 'Seuls les fichiers images d\'une taille inférieure à 1Mo sont acceptés.',
     'company-logo-square-required': 'L\'image doit avoir un format carré.',
     'error-importing-company-logo': 'Une erreur est survenue lors de l\'import. Veuillez réessayer.',
-    'import-company-logo': 'Importer le logo'
+    'import-company-logo': 'Importer le logo',
+
+    // Notifications
+    'notifications-title': 'Notifications',
+    'notifications-list': 'Liste de notifications',
+    'notifications-column-id': 'Id',
+    'notifications-column-type': 'Type',
+    'notifications-column-data': 'Données',
+    'notifications-column-owner': 'Propriétaire',
+    'notifications-column-shared': 'Partagé ?',
+    'notifications-column-creation': 'Date de création',
+    'notifications-column-message': 'Message',
+    'notifications-no-data': 'Vous n\'avez actuellement aucune notification',
 }
+
+export default messages
