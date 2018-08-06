@@ -350,7 +350,7 @@
     <!-- Language Activity -->
     <string name="LANGUAGE_TITLE_PROFILE">Mes langues</string>
     <string name="LANGUAGE_TITLE_WHASQ">Langues</string>
-    <string name="LANGUAGE_SUBTITLE_PROFILE">Selectionnez les langues auxquels vous voulez participer.</string>
+    <string name="LANGUAGE_SUBTITLE_PROFILE">Selectionnez les langues que vous parlez.</string>
     <string name="LANGUAGE_SUBTITLE_WHASQ">Selectionnez la langue du whasq : </string>
     <string name="LANGUAGE_ERROR_EMPTY_SELECTION">Vous devez selectionner au moins une langue.</string>
 
@@ -387,7 +387,7 @@
     <string name="create_whasq">créer un whasq</string>
 
     <!-- Time Gain -->
-    <string name="time_gain_question">Combien de temps cela vous a t\'il permis de gagner ?</string>
+    <string name="time_gain_question">Combien de temps cela vous a-t-il permis de gagner ?</string>
     <string name="half_hour">1/2 heure</string>
     <string name="one_hour">1 heure</string>
     <string name="half_day">1/2 journée</string>
