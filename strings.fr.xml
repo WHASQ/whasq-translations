@@ -123,7 +123,7 @@
         <item quantity="other">%1$s réponses</item>
     </plurals>
     <string name="no_whasq">Pour voir plus de whasq, ajouter des talents à votre profil.</string>
-    <string name="no_my_whasq">Vous n\'avez pas crée de whasq encore. Allez-y en appuyant sur l\'icone en haut à droite.</string>
+    <string name="no_my_whasq">Vous n\'avez pas encore créé de whasq. Allez-y en appuyant sur l\'icone en haut à droite.</string>
 
 
     <!-- consult whasq -->
