@@ -1,8 +1,8 @@
 L'appli d'entraide collaborative 2.0
 
-Envie d'aider ? C'est ici que ca se passe 
+Envie d'aider ? C'est ici que ça se passe
 
-Vous avez une question sur les outils que vous utilisez aux quotidien ( bureautique, graphisme, messagerie, pannes informatiques,  et vous ne savez plus où trouver la réponse ? La communauté Whasq est là pour vous aider. Pas d'argent à gagner mais la possibilité de développer positivement votre Karma. Fini la recherche d'expert, ce sont eux qui viennent à vous L'appli Whasq est le symbole de la #crosscollaboration. Whasq est aussi disponible en version Pro.
+Vous avez une question sur les outils que vous utilisez au quotidien (bureautique, graphisme, messagerie, pannes informatiques),  et vous ne savez plus où trouver la réponse ? La communauté Whasq est là pour vous aider. Pas d'argent à gagner mais la possibilité de développer positivement votre Karma. Fini la recherche d'expert, ce sont eux qui viennent à vous. L'appli Whasq est le symbole de la #crosscollaboration. Whasq est aussi disponible en version Pro.
 
 Comment ÇA MARCHE - VERSION PRO
 
@@ -17,8 +17,8 @@ Utilisez WHASQ quotidiennement
 
 1- Inscrivez vous - Complétez votre profil. Ne vous inquiétez pas, vous pourrez ensuite cacher tous les champs, sauf votre Nom ou pseudo. 100% confidentiel, nous ne revendons pas vos données !!! Ajoutez une photo, c'est plus sympa :-)
 2- Sélectionnez les langues que vous parlez ou comprenez
-3- Complétez votre Profil avec VOS TALENTS( les sujets sur lesquels vous pourriez aider la Communauté. Exemple : Cliquez sur la catégorie bureautique, puis choissisez le Talent Excel
-Voir la vidéo : : mettre le lien de la vidéo you tube (attention aux  liens selon les langues)
+3- Complétez votre Profil avec VOS TALENTS (les sujets sur lesquels vous pourriez aider la Communauté. Exemple : Cliquez sur la catégorie bureautique, puis choissisez le Talent Excel
+Voir la vidéo : https://www.youtube.com/watch?v=Fwkivlzmt3Q
 
 ÇA Y EST VOUS ÊTES WHASQERS!
 Vous arrivez sur votre page !
@@ -27,15 +27,15 @@ Vous pouvez ainsi visualiser toutes les questions concernant vos talents et y r�
 VOUS VOULEZ RÉPONDRE À UNE QUESTION ?
 1- Cliquez sur le Whasq
 2- Cliquez sur répondre - vous pouvez répondre à l'écrit, en postant une vidéo, un son ou une photo !
-Voir la vidéo : : mettre le lien de la vidéo you tube (attention aux  liens selon les langues)
+Voir la vidéo : https://www.youtube.com/watch?v=_jXQkLMKpyY
 
 VOUS VOULEZ POSER UNE QUESTION ?
 Cliquez en haut à droite sur le logo +
 1- Indiquez le titre
-2- Posez votre question à l'écrit en ajoutant ou non, une photo, faites une vidéo ou enregistrez un son
+2- Posez votre question à l'écrit en ajoutant ou non une photo, faites une vidéo ou enregistrez un son
 3- Choisissez la catégorie et les talents ( 3 max.) à qui vous souhaitez envoyer votre question
 4 - prévisualisez, validez C'EST PUBLIÉ !
-Voir la vidéo : : mettre le lien de la vidéo you tube (attention aux  liens selon les langues)
+Voir la vidéo : https://www.youtube.com/watch?v=Zk8PpmA1eRY
 
 VOUS RECHERCHEZ DES EXPERTS À PROXIMITÉ ?
 Vous souhaitez que seuls les whasqers se trouvant à proximité de vous voient votre question ? Cliquez sur "notifier autour de moi" 
@@ -47,16 +47,16 @@ DEVENEZ EXPERT
 Plus vous répondez à une question plus vous avez des chances de devenir expert.
 Ce sont les autres whasqers qui décident ou non de votre niveau
 
-Si les autres utilisateurs trouvent votre réponse utile, ils pourront vous attribuer 10 points en likant votre réponse. Si votre réponse est la Bonne solution, celui que vous avez aidé pourra vous attribué 50 points en cliquant sur le trophée. Retrouvez votre classement sur la page podium
+Si les autres utilisateurs trouvent votre réponse utile, ils pourront vous attribuer 10 points en likant votre réponse. Si votre réponse est la bonne solution, celui que vous avez aidé pourra vous attribuer 50 points en cliquant sur le trophée. Retrouvez votre classement sur la page podium
 
 NOTIFICATIONS
-A chaque point collecté ou réponses reçues, vous serez notifiés en temps réel
+A chaque point collecté ou réponses reçues, vous serez notifié en temps réel
 
 
 QUE SIGNIFIE WHASQ ?
 What A Simple Question ?
 
-Parce que aujourd'hui le meilleur moyen d'avoir une réponse,  c'est de poser la bonne question, au bon moment,  de manière simple à la Bonne Personne :-)
+Parce que aujourd'hui le meilleur moyen d'avoir une réponse,  c'est de poser la bonne question, au bon moment,  de manière simple à la bonne personne :-)
 
 A bientôt et si vous avez besoin d'aide, n'hésitez pas.
 
