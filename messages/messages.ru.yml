@@ -61,6 +61,7 @@ push:
 email:
     general:    
         greeting: Здравствуйте,
+        signature: Jessie 😘
     mailing:
         whasq.activity:
             title.nocount: %{numberOfUsersLookingForHelp} Требуется ваша экспертиза
