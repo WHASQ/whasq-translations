@@ -187,14 +187,14 @@
     <!-- ERROR HANDLER -->
     <string name="error_unknown">Une erreur inhabituelle est survenue.</string>
     <string name="api_authentication_error_defaut">Authentification impossible</string>
-    <string name="api_authentication_error_credentials">Email ou mot de passe invalides.</string>
+    <string name="api_authentication_error_credentials">Email ou mot de passe incorrect.</string>
     <string name="api_authentication_error_session">Votre session a expiré</string>
     <string name="error_form_login">Mot de passe ou e-mail incomplet</string>
     <string name="error_unknown_host">Impossible de se connecter au serveur. Veuillez vérifier votre connexion internet.</string>
 
     <!-- REGISTER -->
-    <string name="error_form_signup_email">Votre email est invalide</string>
-    <string name="error_form_signup_phone">Votre numéro de téléphone est invalide</string>
+    <string name="error_form_signup_email">Votre email est incorrect</string>
+    <string name="error_form_signup_phone">Votre numéro de téléphone est incorrect</string>
     <string name="error_form_signup_password">Les mots de passe sont incorrect</string>
     <string name="error_form_signup_channels">Vous devez sélectionner des langues</string>
     <string name="error_form_signup_cgu">Vous devez accepter les CGU</string>
