@@ -8,7 +8,7 @@
 "add-whasq-channel-title" = "Langage";
 "add-whasq-message-placeholder" = "Mon message (255 caractères max)";
 "add-whasq-miss-skill-button" = "Il manque un talent ?";
-"add-whasq-skill-label" = "Les talents concernés de ce Whasq (1 minimum, 3 maximum) :";
+"add-whasq-skill-label" = "Les talents concernés par ce Whasq (1 minimum, 3 maximum) :";
 "add-whasq-skill-button" = "Valider";
 "add-whasq-title" = "Whasquer";
 "add-whasq-name-placeholder" = "Mon titre";
@@ -18,7 +18,7 @@
 "add-whasq-present.label" = "En échange... ex: un café";
 "add-whasq-notify-label" = "Notifier autour de moi";
 "add-whasq-urgent-label" = "C'est urgent";
-"add-whasq-preview-button" = "Prévisualisez";
+"add-whasq-preview-button" = "Prévisualiser";
 "add-whasq-geoloc-explanation-label" = "Vous avez choisi de ne pas permettre à Whasq de vous géolocaliser. Si vous souhaitez notifier les whasqueurs proches de vous, vous devez l’y autoriser. Pour cela :";
 "add-whasq-geoloc-first-step-label" = "1. Rendez-vous dans Réglages > Whasq > Position";
 "add-whasq-geoloc-second-step-label" = "2. Sélectionner «Lorsque l’app est active »";
