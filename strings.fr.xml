@@ -73,7 +73,7 @@
     <string name="her_informations">Informations</string>
     <string name="her_skills_pro">Talents professionnels</string>
     <string name="her_skills_perso">Talents personnels</string>
-    <string name="my_whasq">Mes whasq</string>
+    <string name="my_whasq">Mes whasqs</string>
     <string name="no_whasq_profil">0 whasqs</string>
     <plurals name="whasq_number_profil">
         <item quantity="one">%1$s whasq</item>
