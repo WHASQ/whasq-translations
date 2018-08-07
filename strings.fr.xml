@@ -155,12 +155,12 @@
     <string name="delete_whasq_with_success">Votre whasq a été supprimé</string>
     <string name="archive_whasq_with_success">Votre whasq a été archivé</string>
     <string name="create_whasq_empty_field">Votre message est vide</string>
-    <string name="create_whasq_talents_desc">Les talents concernés de ce whasq, 1 choix minimum</string>
+    <string name="create_whasq_talents_desc">Les talents concernés par ce whasq, 1 choix minimum</string>
     <string name="create_whasq_talents_error_3_max">Un whasq ne peut comporter que 3 talents maximum</string>
     <string name="create_whasq_success">Votre whasq a été créé avec succès !</string>
 
     <string name="create_whasq_skills_title">Talents</string>
-    <string name="create_whasq_skills_subtitle">Les talents concernés de ce whasq..</string>
+    <string name="create_whasq_skills_subtitle">Les talents concernés par ce whasq..</string>
 
     <!-- Choose my channels -->
     <string name="choose_few_channels_subtitle">Sélectionner les langues souhaités</string>
