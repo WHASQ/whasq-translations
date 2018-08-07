@@ -33,8 +33,8 @@
     <string name="exchange">Je propose en échange… un café</string>
 
     <!--empty state-->
-    <string name="empty_screen">We do not have anything\nhere right now.</string>
-    <string name="please_retry">Please Retry</string>
+    <string name="empty_screen">Il n'y a rien ici pour l'instant.</string>
+    <string name="please_retry">Essayez à nouveau, s'il vous plaît</string>
     <string name="retry">Retry</string>
     <string name="my_skills">Mes talents</string>
     <string name="all_skills">Tout</string>
@@ -164,7 +164,7 @@
 
     <!-- Choose my channels -->
     <string name="choose_few_channels_subtitle">Sélectionner les langues souhaités</string>
-    <string name="choose_one_channel_subtitle">Sélectionner la langue souhaité</string>
+    <string name="choose_one_channel_subtitle">Sélectionner la langue souhaitée</string>
     <string name="choose_channel_title">Mes langues</string>
 
     <!-- Filters -->
@@ -195,7 +195,7 @@
     <!-- REGISTER -->
     <string name="error_form_signup_email">Votre email est incorrect</string>
     <string name="error_form_signup_phone">Votre numéro de téléphone est incorrect</string>
-    <string name="error_form_signup_password">Les mots de passe sont incorrect</string>
+    <string name="error_form_signup_password">Les mots de passe sont incorrects</string>
     <string name="error_form_signup_channels">Vous devez sélectionner des langues</string>
     <string name="error_form_signup_cgu">Vous devez accepter les CGU</string>
     <string name="error_form_unfinished">Le formulaire est incomplet</string>
