@@ -46,7 +46,7 @@
     <string name="channels_about">Langues concernées</string>
     <string name="notify_around_me">Notifier uniquement les whasqers autour de moi</string>
     <string name="priority">C\'est urgent</string>
-    <string name="display">Visualiser</string>
+    <string name="display">Prévisualiser</string>
     <string name="change">Modifier</string>
     <string name="publish">Publier</string>
     <string name="logout">Déconnexion</string>
@@ -160,7 +160,7 @@
     <string name="create_whasq_success">Votre whasq a été créé avec succès !</string>
 
     <string name="create_whasq_skills_title">Talents</string>
-    <string name="create_whasq_skills_subtitle">Les talents concernés par ce whasq..</string>
+    <string name="create_whasq_skills_subtitle">Les talents concernés par ce whasq (1 minimum, 3 maximum) :</string>
 
     <!-- Choose my channels -->
     <string name="choose_few_channels_subtitle">Sélectionner les langues souhaités</string>
