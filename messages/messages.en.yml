@@ -61,6 +61,7 @@ push:
 email:
     general:
         greeting: Hello!
+        signature: Jessie 😘
     mailing:
         whasq.activity:
             title.nocount: %{numberOfUsersLookingForHelp} people need your expertise
