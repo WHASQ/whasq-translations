@@ -61,6 +61,7 @@ push:
 email:
     general: 
         greeting: Buongiorno!
+        signature: Jessie 😘
     mailing:
         whasq.activity:
             title.nocount: %{numberOfUsersLookingForHelp} persona ha bisogno del tuo aiuto
