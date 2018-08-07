@@ -180,7 +180,7 @@
     <string name="error_unknown">Si è verificato un errore.</string>
     <string name="api_authentication_error_defaut">
     Autenticazione impossibile</string>
-    <string name="api_authentication_error_credentials">L\'ID o la password non sono corretti.</string>
+    <string name="api_authentication_error_credentials">La email o la password non sono corretti.</string>
     <string name="api_authentication_error_session">
     La tua sessione è scaduta</string>
     <string name="error_form_login">L\'ID o la password non sono corretti.</string>
