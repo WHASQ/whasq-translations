@@ -61,6 +61,7 @@ push:
 email:
     general: 
         greeting: Bonjour !
+        byebye: A bientôt,
         signature: Jessie 😘
     mailing:
         whasq.activity:
