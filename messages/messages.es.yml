@@ -4,11 +4,11 @@ error:
     action.data.invalid: Los datos enviados no son visibles 
     user.locked: El usuario ha sido bloqueado
     user.deleted: El usuario ha sido borrado
-    user.bad.credentials: Error de conexion. Revisa tu correo y Contraseña 
+    user.bad.credentials: Error de conexion. Revisa tu correo y contraseña 
     user.bad.checksum: Imposible modificar la contraseña ya que el le checksum no es correcto
     user.email.already.in.use: Este e-mail ya ha sido utilizado
     user.email.unknow: No se encuentra ninguna cuenta con este e-mail 
-    answer.not.champion: Este respuesta no es una solución 
+    answer.not.champion: Esta respuesta no es una solución 
     answer.not.found: Esta respuesta no existe o ha sido borrada 
     answer.deletion.by.author: Solo el autor  puede borrar la respuesta 
     answer.edition.by.author: Solo el autor puede modificar una respuesta 
@@ -24,13 +24,13 @@ error:
     whasq.already.estimated.resolver: Se produjo un error 
     whasq.estimation.mismatch: Se produjo un error 
     whasq.blacklisted: Este whasq ha sido señalado
-    whasq.edit.with.answer: Este whasq no puede ser modificado ya que el contiene varias respuestas 
+    whasq.edit.with.answer: Este whasq no puede ser modificado ya que contiene varias respuestas 
     recommendation.already.exist: Ya has recomendado este talento 
     recommendation.accept: Solo un usuario recomendado puede aceptar una recomendación 
     recommendation.refuse : El usuario ya tiene este talento. La recomendación  ha sido rechazada
     recommendation.waiting: La recomendación ya no está en espera de validacion 
     store.any.public: Se produjo un error 
-    user.profile.already.updated: Tu perfil solo puede ser actualizado una vez, contacta tu  administrador
+    user.profile.already.updated: Tu perfil solo puede ser actualizado una vez, contacta el administrador
     user.search.empty: Ninguna busqueda ingresada
     email.invalid: Correo electrónico no válida
     fullname.invalid: Nombre inválido
@@ -45,10 +45,10 @@ push:
         champion.title: Tu respuesta es una solución 🏆
     notif:
         new.title: Nuevo like 👍
-        new.body: A alguien le gusta tu respuesta !
+        new.body:¡A alguien le gusta tu respuesta!
     reco:
         new.title: Nueva recomendación  
-        new.body: Alguien ha recomendado tus talentos !
+        new.body: ¡Alguien ha recomendado tus talentos!
     skill:
         new.title: Se acaba de agregar un nuevo talento
         new.body: Enriquece tu perfil 💪
@@ -56,7 +56,7 @@ push:
         new.title: Usted ha sido recomendado 💪
         new.body: Su experiencia es necesaria 😜
     admin.whasq:
-        new.title: Whasq especial está disponible
+        new.title: Un whasq especial está disponible
         new.body: Ver el tema 👀
 email:
     general: 
@@ -74,9 +74,9 @@ email:
             title.count: %{numberOfUsersLookingForHelp} personas necesitan tu ayuda
             body.div1: "Ayúdalas /Ayúdalos :"
             body.div2: "más ..."
-            body.div3: "Inicia una esión en la aplicación para responder 💪🙂"
+            body.div3: "Inicia una sesión en la aplicación para responder 💪🙂"
         complete.profile:
-            title: Tus compañeros necesitan tu ayuda!
+            title:¡Tus compañeros necesitan tu ayuda!
             body.div1: Regístrate en Whasq y ayuda a tus compañeros con tus talentos.
             body.div2: "¿Cómo conectarse?"
             body.div3: "Descargar la aplicación :"
@@ -91,7 +91,7 @@ email:
             how.it.works: ¿Cómo funciona?
     gdpr:
         title: Whasq - recuperación de datos
-        body.div1: "Solicitaste los datos personales almacenados en la aplicación de whasq para la cuenta: %{email}"
+        body.div1: "Solicitaste los datos personales almacenados en la aplicación de whasq de la cuenta: %{email}"
         body.div2: "Encuentra a continuación un enlace para descargarlos:"
         body.div3: Descargar mis datos Whasq
         body.div4: Cuidado, este enlace solo esta disponible 48H.
@@ -106,7 +106,7 @@ email:
             title: ¡Bienvenido a Whasq! - Nuevos detalles de la cuenta
             body.div1: ¡Bienvenido a Whasq!
             body.div2: "Su cuenta ha sido creada con la contraseña : %{password}. No dudes en cambiarla en la pantalla de inicio de la aplicación."
-            body.div3: Te enviaremos unos correos sobre cómo aprovechar al máximo Whasq. ¡Mientras tanto, sumérgete y comienza a explorar. ¡Estamos contentos de que estés aquí!!
+            body.div3: Te enviaremos unos correos sobre cómo aprovechar al máximo Whasq. ¡Mientras tanto, sumérgete y comienza a explorar!. ¡Estamos contentos de que estés aquí!
             body.div4: ¿Cómo conectarse?
             body.div5: https://www.youtube.com/watch?v=WzpKtooprkM
             body.div6: https://api.whasq.com/bundles/app/images/tutorial-youtube-es.jpeg
