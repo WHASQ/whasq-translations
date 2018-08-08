@@ -65,8 +65,8 @@ email:
         signature: Jessie 😘
     user:
         set.admin:
-            title: Admin priviledge granted for %{storeName}
-            body.div1: You have been granted Admin access to
+            title: Privilegi di amministratore concessi per %{storeName}
+            body.div1: Ha accesso a
             body.div2: https://bo.whasq.com
     mailing:
         whasq.activity:
