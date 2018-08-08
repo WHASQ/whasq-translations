@@ -66,7 +66,7 @@ email:
     user:
         set.admin:
             title: Admin priviledge granted for %{storeName}
-            body.div1: You have been granted Admin access to
+            body.div1: Tienes el acceso administrador a 
             body.div2: https://bo.whasq.com
     mailing:
         whasq.activity:
