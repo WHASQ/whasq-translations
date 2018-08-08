@@ -45,10 +45,10 @@ push:
         champion.title: Tu respuesta es una solución 🏆
     notif:
         new.title: Nuevo like 👍
-        new.body:¡A alguien le gusta tu respuesta!
+        new.body: ¡ A alguien le gusta tu respuesta !
     reco:
         new.title: Nueva recomendación  
-        new.body: ¡Alguien ha recomendado tus talentos!
+        new.body: ¡ Alguien ha recomendado tus talentos !
     skill:
         new.title: Se acaba de agregar un nuevo talento
         new.body: Enriquece tu perfil 💪
@@ -60,7 +60,7 @@ push:
         new.body: Ver el tema 👀
 email:
     general: 
-        greeting: Buenos días!
+        greeting: Buenos días
         byebye: Hasto pronto,
         signature: Jessie 😘
     user:
@@ -76,15 +76,15 @@ email:
             body.div2: "más ..."
             body.div3: "Inicia una sesión en la aplicación para responder 💪🙂"
         complete.profile:
-            title:¡Tus compañeros necesitan tu ayuda!
+            title:¡ Tus compañeros necesitan tu ayuda !
             body.div1: Regístrate en Whasq y ayuda a tus compañeros con tus talentos.
             body.div2: "¿Cómo conectarse?"
             body.div3: "Descargar la aplicación :"
         weekly.podium:
-            title: %{firstName}, mejor whasqer de la semana %{weekNumber} !
-            title.generic: Los mejores whasqers de la semana %{weekNumber} !
+            title: %{firstName}, mejor whasqer de la semana %{weekNumber} 
+            title.generic: Los mejores whasqers de la semana %{weekNumber} 
             body.div1: "Los 3 mejores whasqers de la semana :"
-            body.div2: ¡Gracias a todos los whasqers!Nos vemos la próxima semana 💪🙂
+            body.div2: ¡ Gracias a todos los whasqers ! Nos vemos la próxima semana 💪🙂
         footer:
             join.community: ÚNETE A LA COMUNIDAD %{fullName}
             unsubscribe: Darse de baja
@@ -103,8 +103,8 @@ email:
             body.div3: Cambiar mi contraseña
             body.div4: Cuidado, este enlace solo esta disponible unas horas.
         creation:
-            title: ¡Bienvenido a Whasq! - Nuevos detalles de la cuenta
-            body.div1: ¡Bienvenido a Whasq!
+            title: ¡ Bienvenido a Whasq ! - Nuevos detalles de la cuenta
+            body.div1: ¡ Bienvenido a Whasq !
             body.div2: "Su cuenta ha sido creada con la contraseña : %{password}. No dudes en cambiarla en la pantalla de inicio de la aplicación."
             body.div3: Te enviaremos unos correos sobre cómo aprovechar al máximo Whasq. ¡Mientras tanto, sumérgete y comienza a explorar!. ¡Estamos contentos de que estés aquí!
             body.div4: ¿Cómo conectarse?
