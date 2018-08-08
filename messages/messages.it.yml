@@ -25,36 +25,36 @@ error:
     whasq.estimation.mismatch: Si è verificato un errore
     whasq.blacklisted: Questo whasq è stato segnalato
     whasq.edit.with.answer: Questo whasq non può essere modificato perché ci sono già risposte
-    recommendation.already.exist: Hai già consigliato questo talento
+    recommendation.already.exist: Ha già consigliato questo talento
     recommendation.accept: Solo un utente consigliato può accettare un suggerimento
     recommendation.refuse : L'utente ha già questo talento. Il suggerimento è stato rifiutato
     recommendation.waiting: Il suggerimento non è più in attesa di conferma
     store.any.public: Non esiste un store pubblico
-    user.profile.already.updated: Il tuo profilo può essere aggiornato solo una volta, contatta il tuo administratore
+    user.profile.already.updated: Il Suo profilo può essere aggiornato solo una volta, contattare il Suo administratore
     user.search.empty: Nessuna ricerca inserita
-    email.invalid: Adresse e-mail non valide
-    fullname.invalid: Invalid name
+    email.invalid: La email non è corretta
+    fullname.invalid: Il nome non è corretto
 push:
     whasq:
         new.title: C'è un whasq per te
-        new.around.body: Un whasqer ha bisogna del tuo aiuto
-        new.same.skill.body: Un whasqer ha bisogna del tuo aiuto 😎
-        new.answer.title: C'è una risposta per te👌 
-        new.answer.body: Un whasqer ha risposto al tuo whasq 😜
+        new.around.body: Un whasqer ha bisogna del Suo aiuto
+        new.same.skill.body: Un whasqer ha bisogna del Suo aiuto 😎
+        new.answer.title: C'è una risposta per Le👌 
+        new.answer.body: Un whasqer ha risposto al Suo whasq 😜
     answer:
-        champion.title: La tua risposta è una soluzione 🏆
+        champion.title: La Sua risposta è una soluzione 🏆
     notif:
         new.title: Nuovo like 👍
-        new.body: A qualcuno è piaciuta la tua risposta!
+        new.body: A qualcuno è piaciuta la Sua risposta!
     reco:
         new.title: Nuovo suggerimento
-        new.body: Qualcuno ha suggerito i tuoi talenti!
+        new.body: Qualcuno ha suggerito i Suoi talenti!
     skill:
-        new.title: Nouveau taleny vient d'être ajouté
-        new.body: Enrichi ton profil 💪
+        new.title: Un nuovo talento è appena aggiunto
+        new.body: Arrichire il Suo profilo 💪
     user.tagged:
-        new.title: Sei stato raccomandato 💪
-        new.body: Le tue competenze sono necessarie 😜
+        new.title: È stato raccomandato 💪
+        new.body: Le Sue competenze sono necessarie 😜
     admin.whasq:
         new.title: Un whasq speciale è disponibile
         new.body: Controlla il soggetto 👀
@@ -70,14 +70,14 @@ email:
             body.div2: https://bo.whasq.com
     mailing:
         whasq.activity:
-            title.nocount: %{numberOfUsersLookingForHelp} persona ha bisogno del tuo aiuto
-            title.count: %{numberOfUsersLookingForHelp} persone hanno bigosno del tuo aiuto
+            title.nocount: %{numberOfUsersLookingForHelp} persona ha bisogno del Suo aiuto
+            title.count: %{numberOfUsersLookingForHelp} persone hanno bigosno del Suo aiuto
             body.div1: "Aiutarla/Aiutarli :"
             body.div2: "più ..."
-            body.div3: "Connettiti a l'app per rispondere/dare loro una risposta 💪🙂"
+            body.div3: "Connettersi a l'app per dare loro una risposta 💪🙂"
         complete.profile:
-            title: I tuoi colleghi hanno bisogno dite
-            body.div1: Ti iscrivi su Whasq e aiuti i tuoi colleghi con i tuoi talenti.
+            title: I Suoi colleghi hanno bisogno dite
+            body.div1: Iscriversi su Whasq e aiutare i Suoi colleghi con i Suoi talenti.
             body.div2: "Come connettersi :"
             body.div3: "Scaricare l'applicazione :"
         weekly.podium:
@@ -86,27 +86,27 @@ email:
             body.div1: "I primi 3 whasquers della settimana:"
             body.div2: Grazie a tutti i whasqers! Alla settimana prossima 💪🙂
         footer:
-            join.community: UNISCITI ALLA COMMUNITÀ %{fullName}
-            unsubscribe: Cancella iscrizione
+            join.community: UNIRE ALLA COMMUNITÀ %{fullName}
+            unsubscribe: Cancellare iscrizione
             how.it.works: Come funziona?
     gdpr:
         title: Whasq - recupero dati
-        body.div1: "Hai richiesto di ricevere i dati personali memorizzati nell'applicazione whasq per il account:stockées sur l'application whasq pour le compte: %{email}"
+        body.div1: "Ha richiesto di ricevere i dati personali memorizzati nell'applicazione whasq per il account: %{email}"
         body.div2: "Si prega di trovare sotto un link per scaricarli:"
         body.div3: Scaricare i miei dati personali Whasq
         body.div4: Attenzione, questo collegamento ha una durata limitata di 48 ore.
     account:
         password.change: 
             title: Whasq - modifica della password
-            body.div1: "Hai dimenticato la tua password o vuoi cambiare di password: %{email}"
-            body.div2: "Per modificare la tua password, per favore clicca il link:"
+            body.div1: "Hai dimenticato la Sua password o vuole cambiare di password: %{email}"
+            body.div2: "Per modificare la Sua password, per favore clicca sul link:"
             body.div3: Cambiare la mia password
             body.div4: Attenzione, questo collegamento ha una durata limitata.
         creation:
             title: Benvenuto su Whasq - Dettagli dell'Account
             body.div1: Benvenuto su Whasq!
             body.div2: "Il Suo conto è stato creato con la password: %{password}. è possibile di cambiarlo nella schermata di accesso all'app."
-            body.div3: Ti invieremo alcune e-mail su come utilizzare Whasq. Nel frattempo, prova e inizia a esplorare. Siamo contenti che sia qui!
+            body.div3: Le invieremo alcune e-mail su come utilizzare Whasq. Nel frattempo, prova e inizia a esplorare. Siamo contenti che sia qui!
             body.div4: "Come connettersi:"
             body.div5: https://www.youtube.com/watch?v=RxUiayE-gDQ
             body.div6: https://api.whasq.com/bundles/app/images/tutorial-youtube-it.jpeg
