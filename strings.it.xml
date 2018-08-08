@@ -138,11 +138,11 @@
     <string name="report_whasq">Segnalare</string>
     <string name="archive_whasq">Archiviare</string>
     <string name="alert_title_deletion">La cancellazione di un whasq</string>
-    <string name="alert_message_deletion">Sicuro di voler cancellare il Suo whasq?</string>
+    <string name="alert_message_deletion">Sicuro/a di voler cancellare il Suo whasq?</string>
     <string name="alert_title_archive">Archiviazione di un whasq</string>
-    <string name="alert_message_archive">Sicuro di voler archiviare il tuo whasq?</string>
+    <string name="alert_message_archive">Sicuro/a di voler archiviare il tuo whasq?</string>
     <string name="alert_title_reporting">Segnalazione</string>
-    <string name="alert_message_reporting">Sicuro di voler segnalare questo whasq?</string>
+    <string name="alert_message_reporting">Sicuro/a di voler segnalare questo whasq?</string>
     <string name="report_whasq_with_success">La Sua segnalazione è stata presa in considerazione</string>
     <string name="delete_whasq_with_success">Il Suo whasq è stato cancellato</string>
     <string name="archive_whasq_with_success">Il Suo whasq è stato archiviato</string>
@@ -183,7 +183,7 @@
     <string name="api_authentication_error_credentials">La email o la password non sono corretti.</string>
     <string name="api_authentication_error_session">
     La tua sessione è scaduta</string>
-    <string name="error_form_login">L\'ID o la password non sono corretti.</string>
+    <string name="error_form_login">La email o la password non sono corretti.</string>
     <string name="error_unknown_host">Impossibile connettersi al server. Verifiche la Sua connessione Internet per favore.</string>
 
     <!-- REGISTER -->
@@ -259,7 +259,7 @@
     <string name="answer_upload_error_no_message">Il commento non può essere vuoto</string>
     <string name="answer_upload_error_firebase">Si è verificato un errore durante l\'invio dell'allegato</string>
     <string name="answer_upload_error">Si è verificato un errore durante l\'invio della risposta</string>
-    <string name="answer_edit_dialog_title">Sicuro di voler cancellare questo commento?</string>
+    <string name="answer_edit_dialog_title">Sicuro/a di voler cancellare questo commento?</string>
     <string name="answer_edit_dialog_edit">Modificare</string>
     <string name="answer_edit_dialog_delete">Cancellare</string>
     <string name="answer_edit_dialog_cancel">Cancellare</string>
