@@ -328,6 +328,8 @@ const messages = {
     'users-action-stop-consider-user-admin': 'Ne plus considérer cet utilisateur comme étant admin',
     'users-confirm-consider-admin': 'Etes-vous sûr de vouloir considérer cet utilisateur comme étant admin ?',
     'users-confirm-dont-consider-admin': 'Etes-vous sûr de ne plus vouloir considérer cet utilisateur comme étant admin ?',
+    'users-action-consider-user-admin-success': 'L\'utilisateur d\'id {userId} est maintenant administrateur.',
+    'users-action-stop-consider-user-admin-success': 'L\'utilisateur d\'id {userId} n\'est maintenant plus administrateur.',
 
     // ImportUsersModal
     'users-import-title': 'Import d\'utilisateurs',
