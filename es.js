@@ -47,7 +47,7 @@ const messages = {
     'users': 'Usuarios',
     'admin': 'Administrador',
     'targets': 'Objetivos & Gamificación',
-    'notifications': 'Notifications', /* TODO */
+    'notifications': 'Notificaciones', 
   
     // Activity
     'eve-computed-kpi': 'indicador calculado el J-1',
@@ -91,10 +91,10 @@ const messages = {
     'whasqs-answers-title': 'Whasqs & Respuestas - {month}',
     'whasqs-answers-kpi-title': 'Numero de Whasqs y respuestas',
     'whasqs-answers-kpi-help-title': 'Número de Whasqs y repuestas',
-    'whasqs-answers-kpi-help-message': 'Este indicador representa el número de whasq publicados más el numero de respuestas publicadas en el mes"{month}".',
-    'whasqs-by-whasqer-kpi-title': 'Numero de Whasqs / Autor del whasqs',
-    'whasqs-by-whasqer-kpi-help-title': 'Numero de Whasqs / Autor del whasqs',
-    'whasqs-by-whasqer-kpi-help-message': 'Este indicador representa el numero de whasq publicados en el mes "{month}" creados por el autor del whasq.',
+    'whasqs-answers-kpi-help-message': 'Este indicador representa el número de whasqs publicados más el numero de respuestas publicadas en el mes"{month}".',
+    'whasqs-by-whasqer-kpi-title': 'Numero de Whasqs / Autor del whasq',
+    'whasqs-by-whasqer-kpi-help-title': 'Numero de Whasqs / Autor del whasq',
+    'whasqs-by-whasqer-kpi-help-message': 'Este indicador representa el numero de whasqs publicados en el mes "{month}" creados por el autor del whasq.',
     'answers-kpi-title': 'Numero de respuestas',
     'answers-kpi-help-title': 'Numero de respuestas',
     'answers-kpi-help-message': 'Este indicador representa el numero de respuestas publicadas en el mes"{month}".',
@@ -133,7 +133,7 @@ const messages = {
     'skills-evolution-help-message': 'Este indicador representa el numero de talentos identificados en los whasqs.',
     'most-used-cats-whasqs-kpi-title': 'Top 5 de las categorías más utilizadas en los whasqs',
     'most-used-cats-whasqs-kpi-help-title': 'Top 5 de las categorías más utilizadas en los whasqs',
-    'most-used-cats-whasqs-kpi-help-message-1': 'En esta tabla encontraras  las 5 categorías que contienen los talentos más utilizados en los whasqs.', 
+    'most-used-cats-whasqs-kpi-help-message-1': 'En esta tabla encontraras las 5 categorías que contienen los talentos más utilizados en los whasqs.', 
     'most-used-cats-whasqs-kpi-help-message-2': 'Los puntos de colores representan el número de talentos usados en los whasqs en cada categoría correspondiente.',
     'most-used-skills-whasqs-kpi-title': 'Top 5 de los talentos más utilizados en los whasqs',
     'most-used-skills-whasqs-kpi-help-title': 'Top 5 de los talentos más utilizados en los whasqs',
@@ -152,7 +152,7 @@ const messages = {
     'time-savings-title': 'Ganar tiempo - {month}',
     'minutes-earned-kpi-title': 'Minutos ganados en el mes',
     'minutes-earned-kpi-help-title': 'Minutos ganados en el mes',
-    'minutes-earned-kpi-help-message': 'Este indicador representa el número minutos ganados en el mes"{month}".',
+    'minutes-earned-kpi-help-message': 'Este indicador representa el número de minutos ganados en el mes"{month}".',
     'minutes-earned-dda-kpi-title': 'Minutos ganados DCA',
     'minutes-earned-dda-kpi-help-title': 'Minutos ganados  DCA',
     'minutes-earned-dda-kpi-help-message': 'Este indicador representa el número de minutos ganados desde el comienzo de la actividad.',
@@ -195,7 +195,7 @@ const messages = {
   
     // SkillCategoriesModal
     'already-existing-cat': 'Ya existe(n) la(s) categoría(s)',
-    'already-existing-skill': 'Ya existe(n) los talento(s)',
+    'already-existing-skill': 'Ya existen los talentos',
     'no-existing-cat': 'No existe esta categoría ',
     'no-existing-skill': 'Este talento no existe ',
   
@@ -205,11 +205,11 @@ const messages = {
   
     // WhasqsList 
     'whasqs-title': 'Whasqs',
-    'block-whasq-confirm-message': '¿Estas seguro que quieres bloquear este whasq ?',
-    'unblock-whasq-confirm-message': '¿Estas seguro que quieres desbloquear este whasq?',
-    'ban-user-confirm-message': '¿Estas seguro que quieres prohibir este usuario ?',
-    'unban-user-confirm-message': '¿Esta seguro que quieres levantar la prohibición a este usuario ?',
-    'remove-whasq-confirm-message': '¿Estas seguro que quieres borrar este whasq ?',
+    'block-whasq-confirm-message': '¿Estás seguro que quieres bloquear este whasq ?',
+    'unblock-whasq-confirm-message': '¿Estás seguro que quieres desbloquear este whasq?',
+    'ban-user-confirm-message': '¿Estás seguro que quieres prohibir este usuario ?',
+    'unban-user-confirm-message': '¿Estás seguro que quieres levantar la prohibición a este usuario ?',
+    'remove-whasq-confirm-message': '¿Estás seguro que quieres borrar este whasq ?',
     'add-whasq': 'Agregar un Whasq',
     'whasqs-list': 'Lista de Whasqs',
     'whasqs-column-id': 'ID',
@@ -250,15 +250,15 @@ const messages = {
     'add-whasq-item-second-skill': 'Segundo talento',
     'add-whasq-item-third-skill': 'Tercer talento',
     'add-whasq-item-notify-around': '¿Notificar a mi alrededor?',
-    'add-whasq-item-urgent': '¿Urgente ?',
+    'add-whasq-item-urgent': '¿Urgente?',
     'add-whasq-item-send-everyone': '¿Enviar a todos?',
   
     // WhasqsReports
     'whasqs-reports-title': 'Whasqs señalados',
-    'whasqs-reports-unblock-whasq-confirm-message': '¿Estas seguro que quieres desbloquear este whasq?',
-    'whasqs-reports-unban-user-confirm-message': '¿Estas seguro que quieres levantar la prohibición a este usuario ?',
-    'whasqs-reports-ban-user-confirm-message': '¿Estas seguro que quieres prohibir a este usuario?',
-    'whasqs-reports-remove-whasq-confirm-message': '¿Estas segura que quieres borrar este whasq ?',
+    'whasqs-reports-unblock-whasq-confirm-message': '¿Estás seguro que quieres desbloquear este whasq?',
+    'whasqs-reports-unban-user-confirm-message': '¿Estás seguro que quieres levantar la prohibición a este usuario ?',
+    'whasqs-reports-ban-user-confirm-message': '¿Estás seguro que quieres prohibir a este usuario?',
+    'whasqs-reports-remove-whasq-confirm-message': '¿Estas segurO que quieres borrar este whasq ?',
     'whasqs-reports-list': 'Lista de Whasq señalados',
     'whasqs-reports-column-id': 'ID',
     'whasqs-reports-column-creation-date': 'Fecha de creación',
@@ -282,17 +282,17 @@ const messages = {
   
     // AnswersReports 
     'answers-reports-title': 'Respuestas señaladas',
-    'answers-reports-unblock-answer-confirm-message': '¿Estas seguro que quieres desbloquear a esta persona?',
-    'answers-reports-unban-user-confirm-message': '¿Estas seguro que quieres retirar la prohibición a este usuario?',
-    'answers-reports-ban-user-confirm-message': '¿Estas seguro que quieres prohibir este usuario?',
-    'answers-reports-remove-answer-confirm-message': '¿Estas seguro que quieres borrar esta respuesta?',
+    'answers-reports-unblock-answer-confirm-message': '¿Estás seguro que quieres desbloquear a esta persona?',
+    'answers-reports-unban-user-confirm-message': '¿Estás seguro que quieres retirar la prohibición a este usuario?',
+    'answers-reports-ban-user-confirm-message': '¿Estás seguro que quieres prohibir este usuario?',
+    'answers-reports-remove-answer-confirm-message': '¿Estás seguro que quieres borrar esta respuesta?',
     'answers-reports-list': 'Lista de respuesta señaladas ',
     'answers-reports-column-id': 'ID',
     'answers-reports-column-creation': 'Fecha de creación ',
     'answers-reports-column-last-update': 'Ultima actualización',
     'answers-reports-column-message': 'Mensaje',
     'answers-reports-column-usefull-count': 'Número de likes',
-    'answers-reports-column-champion': 'Campeón ?',
+    'answers-reports-column-champion': 'Campeón',
     'answers-reports-column-creator': 'Autor',
     'answers-reports-column-reported-by': 'Señalado por',
     'answers-reports-column-actions': 'Acciones',
@@ -306,9 +306,9 @@ const messages = {
   
     // Users
     'users-title': 'Usuarios',
-    'users-ban-confirm-message': '¿Estas seguro que quieres prohibir este usuario ?',
-    'users-unban-confirm-message': '¿Estas seguro que quieres retirar la prohibición a este usuario?',
-    'users-archive-confirm-message': '¿Estas seguro que quieres archivar este usuario ?',
+    'users-ban-confirm-message': '¿Estás seguro que quieres prohibir este usuario ?',
+    'users-unban-confirm-message': '¿Estás seguro que quieres retirar la prohibición a este usuario?',
+    'users-archive-confirm-message': '¿Estás seguro que quieres archivar este usuario ?',
     'users-import-csv': 'Importar CSV',
     'users-list': 'Lista de Whasqers',
     'users-column-id': 'ID',
@@ -336,11 +336,11 @@ const messages = {
     'import-users-file-limit': 'Solo los archivos CSV  de una talla inferior a 1Mo son aceptados',
     'import-users-error': 'Se produjo un error al momento de importar los contactos. Por favor inténtelo de nuevo.', 
     'import-users-btn': 'Importar los contactos',
-    'import-users-expected-format': 'Format attendu', /* TODO */
-    'import-users-fullname': 'Nom complet', /* TODO */
-    'import-users-email': 'Email', /* TODO */
-    'import-users-job-position': 'Poste', /* TODO */
-    'import-users-phone': 'Téléphone', /* TODO */
+    'import-users-expected-format': 'Formato esperado',
+    'import-users-fullname': 'Nombre y apellido copmleto', 
+    'import-users-email': 'E-mail', 
+    'import-users-job-position': 'Puesto de trabajo',
+    'import-users-phone': 'Telefono', 
 
     // Targets
     'targets-title': 'Objectivos & Gamificación',
@@ -374,10 +374,10 @@ const messages = {
     // Profile ¿
     'profile': 'Perfil',
     'profile-title': 'Perfil usuario',
-    'profile-ban-user-confirm-message': '¿Estas seguro que quieres bloquear este usuario?',
-    'profile-edit-skill-confirm-message': 'Cuidado, si modificas este talento todos los usuarios serán afectados. ¿Estas seguro que quieres continuar?',
-    'profile-remove-skill-confirm-message':'¿Estas seguro que quieres retirar este talento a este usuario?',
-    'profile-archive-user-confirm-message': '¿Estas seguro que quieres archivar este usuario ?',
+    'profile-ban-user-confirm-message': '¿Estás seguro que quieres bloquear este usuario?',
+    'profile-edit-skill-confirm-message': 'Cuidado, si modificas este talento todos los usuarios serán afectados. ¿Estás seguro que quieres continuar?',
+    'profile-remove-skill-confirm-message':'¿Estás seguro que quieres retirar este talento a este usuario?',
+    'profile-archive-user-confirm-message': '¿Estás seguro que quieres archivar este usuario ?',
     'whasqer-profile': 'Perfil del Whasqer',
     'profile-account-creation': 'Crear cuenta',
     'profile-last-connection': 'Ultima conexión',
@@ -394,7 +394,7 @@ const messages = {
     // AddUserSkillModal
     'add-skill-for-user': 'Agregar un talento a{fullname}',
     'already-existing-skills-for-user': 'Talento(s) ya presente(s) para el usuario',
-    'available-skills-for-user': 'Talento(s) disponible(s) del usuario',
+    'available-skills-for-user': 'Talento(s) disponible(s) para el usuario',
   
     // SuperAdminStores
     'store-selection': 'Elegir la store',
@@ -409,16 +409,16 @@ const messages = {
     'import-company-logo': 'Importar el logo',
 
     // Notifications
-    'notifications-title': 'Notifications', /* TODO */
-    'notifications-list': 'Liste de notifications', /* TODO */
-    'notifications-column-id': 'Id', /* TODO */
-    'notifications-column-type': 'Type', /* TODO */
-    'notifications-column-data': 'Données', /* TODO */
-    'notifications-column-owner': 'Propriétaire', /* TODO */
-    'notifications-column-shared': 'Partagé ?', /* TODO */
-    'notifications-column-creation': 'Date de création', /* TODO */
-    'notifications-column-message': 'Message', /* TODO */
-    'notifications-no-data': 'Vous n\'avez actuellement aucune notification', /* TODO */
+    'notifications-title': 'Notificaciones', 
+    'notifications-list': 'Lista de notificaciones', 
+    'notifications-column-id': 'Id', 
+    'notifications-column-type': 'Tipo', 
+    'notifications-column-data': 'Datos', 
+    'notifications-column-owner': 'Propietario',
+    'notifications-column-shared': '¿Compartir?',
+    'notifications-column-creation': 'Fecha de creacion',
+    'notifications-column-message': 'Mensaje',
+    'notifications-no-data': 'No hay notificaciones por el momento', 
 }
 
 export default messages
