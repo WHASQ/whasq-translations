@@ -217,11 +217,10 @@
 "profile-edit-job-placeholder" = "Место работы";
 "profile-edit-email-placeholder" = "Адрес электронной почты";
 "estimate-alert-title" = "Как много это помогло вам сэкономить времени?";
-"estimate-alert-minutes-action" = "5 минут";
-"estimate-alert-halfhour-action" = "1/2 часа";
-"estimate-alert-hour-action" = "1 час";
-"estimate-alert-half-day-action" = "1/2 дня";
+"estimate-alert-halfday-action" = "1/2 день";
 "estimate-alert-day-action" = "1 день";
+"estimate-alert-twodays-action" = "2 день";
+"estimate-alert-threedays-action" = "3 день";
 "estimate-alert-resolver-low-action" = "Очень легко";
 "estimate-alert-resolver-easy-action" = "Легко 😉";
 "estimate-alert-resolver-difficult-action" = "Трудно";

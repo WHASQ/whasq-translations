@@ -90,11 +90,10 @@
 "error-useful-already" = "Ti è già piaciuto questo commento 😉";
 "error-useful-same-user" = "Non puoi piacere il tuo commento 😉";
 "error" = "Ops";
+"estimate-alert-halfday-action" = "1/2 giorno";
 "estimate-alert-day-action" = "1 giorno";
-"estimate-alert-half-day-action" = "1/2 giorno";
-"estimate-alert-halfhour-action" = "1/2 ora";
-"estimate-alert-hour-action" = "1 ora";
-"estimate-alert-minutes-action" = "5 minuti";
+"estimate-alert-twodays-action" = "2 giorni";
+"estimate-alert-threedays-action" = "3 giorni";
 "estimate-alert-resolver-difficult-action" = "Difficile 😅";
 "estimate-alert-resolver-easy-action" = "Facile 😉";
 "estimate-alert-resolver-low-action" = "Molto facile 🙂";
