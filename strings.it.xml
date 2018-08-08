@@ -25,7 +25,7 @@
     <!--feed-->
     <string name="title">Il mio titolo</string>
     <string name="my_message">Il mio messaggio</string>
-    <string name="exchange">In cambio ti propongo… un caffè</string>
+    <string name="exchange">Se mi aiuti ti offro ad esempio …un caffè</string>
     <!--empty state-->
     <string name="empty_screen">Non c\'è qualcosa per il mmomento.</string>
     <string name="please_retry">Riprova per favore</string>
