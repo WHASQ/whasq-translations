@@ -160,7 +160,7 @@
     <string name="create_whasq_success">Votre whasq a été créé avec succès !</string>
 
     <string name="create_whasq_skills_title">Talents</string>
-    <string name="create_whasq_skills_subtitle">Les talents concernés par ce whasq (1 minimum, 3 maximum) :</string>
+    <string name="create_whasq_skills_subtitle">Les talents concernés par ce whasq (3 maximum) :</string>
 
     <!-- Choose my channels -->
     <string name="choose_few_channels_subtitle">Sélectionner les langues souhaités</string>
@@ -360,7 +360,7 @@
     <string name="SKILLS_TITLE_WHASQ">Talents</string>
     <string name="SKILLS_SUBTITLE_REGISTRATION">Hey cher whasqer c\'est le moment de compléter votre profil.. Alors comment et dans quels domaines pouvez-vous aider les autres ? Vous pouvez conseiller et aider sur :</string>
     <string name="SKILLS_SUBTITLE_PROFILE">Quels talents possedez-vous ?</string>
-    <string name="SKILLS_SUBTITLE_WHASK">Les talents concernés par ce whasq (1 minimum, 3 maximum) : </string>
+    <string name="SKILLS_SUBTITLE_WHASK">Les talents concernés par ce whasq (3 maximum) : </string>
     <string name="SKILLS_SUGGESTION"><u>Il manque un talent ?</u></string>
 
     <!-- Email -->
