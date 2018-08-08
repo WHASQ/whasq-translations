@@ -408,7 +408,7 @@ const messages = {
 
     // Notifications
     'notifications-title': 'Notifiche',
-    'notifications-list': 'L'elenco delle notifiche',
+    'notifications-list': 'L\'elenco delle notifiche',
     'notifications-column-id': 'ID',
     'notifications-column-type': 'Tipo',
     'notifications-column-data': 'Dati',
