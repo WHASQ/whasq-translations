@@ -1,6 +1,6 @@
 "add-whasq-channel-label" = "Elegir el idioma del Whasq:";
 "add-whasq-channel-title" = "Idioma";
-"add-whasq-geoloc-explanation-label" = "Has decidido no acceptar que Whasq te localice, Si quieres notificar los Whasqers";
+"add-whasq-geoloc-explanation-label" = "Has decidido no acceptar que Whasq te localice, Si quieres notificar los Whasqers cerca de ti, debes autorisarla. Para esto :";
 "add-whasq-geoloc-first-step-label" = "1. Ve a ajustes > Whasq > Posición";
 "add-whasq-geoloc-next-button" = "OK";
 "add-whasq-geoloc-not-button" = "No autorizar";
@@ -46,7 +46,7 @@
 "cancel" = "Cancelar";
 "cgu-accept" = "Acepto las condiciones generales de utilización";
 "cgu-action-sheet" = "Condiciones generales de utilización";
-"channel-select-languages-label" = "Selectiona los idiomas que hablas";
+"channel-select-languages-label" = "Selecciona los idiomas que hablas";
 "channel-title" = "Mis idiomas";
 "channel-validate-button" = "Aceptar";
 "comment-alert-message" = "El comentario no ha sido publicado 🙄";
@@ -62,7 +62,7 @@
 "consent-allow-button" = "Permitir";
 "consent-not-allow-button" = "No permitir";
 "consent-warning-label" = "Por favor lea las condiciones generales de utilización para poder continuar";
-"days" = "Dia";
+"days" = "Día";
 "delete-account-action" = "Borrar";
 "delete-account-alert-title" = "Ten en cuenta que tus datos personales serán borrados y al eliminar la cuenta no podras acceder a la aplicación, por favor ingresa la palabra DELETE en el cuadro siguiente.";
 "delete-account" = "Borrar mi cuenta";
@@ -216,7 +216,7 @@
 "show-picture" = "Mostrar la foto de perfil";
 "signal" = "Señalar";
 "skill-wasq-title" = "De acuerdo a mis talentos";
-"success-request-user-data" = "Tus datos han sido enviado a tu e-mail 👌";
+"success-request-user-data" = "Tus datos han sido enviados a tu e-mail 👌";
 "user-whasq-title" = "Mis whasq";
 "warning" = "Cuidado";
 "wasq-time" = "Hace";
@@ -225,7 +225,7 @@
 "wasq-type-voice" = "Mensage vocal";
 "whaspoint-description-high" = "¡Te ha nombrado campeón de su Whasq!";
 "whaspoint-description-low" = "¡Ha encontrado tu respuesta útil!";
-"whasq-empty-label" = "Para ver más Whasq, por favor agrega más talentos a tu perfil";
+"whasq-empty-label" = "Para ver más Whasqs, por favor agrega más talentos a tu perfil";
 "whasq-read-1" = "Leído";
 "whasq-read-2" = "veces";
 "whasq-read-count-0" = "leído";
