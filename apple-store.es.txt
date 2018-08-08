@@ -7,7 +7,7 @@ La aplicación de ayuda colaborativa  3.0
 ¿Cómo funciona- LA VERSION PRO?
 
 ¿Tu empresa es cliente de WHASQ?
-1- Inicio de sesión: ingresa tu correo electrónico profesional
+1- Inicie sesión: ingresa tu correo electrónico profesional
 2- Haga clic en "Contraseña olvidada o cambio de contraseña"
 3- Recibe tu contraseña por correo electrónico
 
@@ -58,7 +58,7 @@ Por cada respuesta recibida,  se te notificará en tiempo real
 ¿QUÉ SIGNIFICA WHASQ?
 What A Simple Question ?
 
-Porque hoy la mejor manera de obtener una respuesta, es haciendo la pregunta correcta, en el momento correcto, de una manera sencilla a la persona buena :-)
+Porque hoy la mejor manera de obtener una respuesta, es haciendo la pregunta correcta, en el momento correcto, de una manera sencilla a la persona correcta :-)
 
 Hasta pronto y si necesitas ayuda, no dudes en contactarnos.
 
