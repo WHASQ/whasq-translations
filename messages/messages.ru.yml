@@ -63,6 +63,11 @@ email:
         greeting: Здравствуйте,
         byebye: До скорой встречи,
         signature: Jessie 😘
+    user:
+        set.admin:
+            title: Admin priviledge granted for %{storeName}
+            body.div1: You have been granted Admin access to
+            body.div2: https://bo.whasq.com
     mailing:
         whasq.activity:
             title.nocount: %{numberOfUsersLookingForHelp} Требуется ваша экспертиза
