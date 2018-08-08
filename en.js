@@ -403,16 +403,16 @@ const messages = {
     'import-company-logo': 'Import the logo',
 
     // Notifications
-    'notifications-title': 'Notifications', /* TODO */
-    'notifications-list': 'Liste de notifications', /* TODO */
-    'notifications-column-id': 'Id', /* TODO */
-    'notifications-column-type': 'Type', /* TODO */
-    'notifications-column-data': 'Données', /* TODO */
-    'notifications-column-owner': 'Propriétaire', /* TODO */
-    'notifications-column-shared': 'Partagé ?', /* TODO */
-    'notifications-column-creation': 'Date de création', /* TODO */
-    'notifications-column-message': 'Message', /* TODO */
-    'notifications-no-data': 'Vous n\'avez actuellement aucune notification', /* TODO */
+    'notifications-title': 'Notifications',
+    'notifications-list': 'Notifications list',
+    'notifications-column-id': 'ID',
+    'notifications-column-type': 'Type',
+    'notifications-column-data': 'Data',
+    'notifications-column-owner': 'Owner', 
+    'notifications-column-shared': 'Shared?',
+    'notifications-column-creation': 'Creation date', 
+    'notifications-column-message': 'Message',
+    'notifications-no-data': 'You have no notification',
 }
 
 export default messages
