@@ -324,6 +324,10 @@ const messages = {
     'users-action-ban-user': 'Ban the user',
     'users-action-archive-user': 'Archive a user',
     'users-import-starting': 'The import of contacts has begun',
+    'users-action-consider-user-admin': 'Considérer cet utilisateur comme étant admin', /* TODO */
+    'users-action-stop-consider-user-admin': 'Ne plus considérer cet utilisateur comme étant admin', /* TODO */
+    'users-confirm-consider-admin': 'Etes-vous sûr de vouloir considérer cet utilisateur comme étant admin ?', /* TODO */
+    'users-confirm-dont-consider-admin': 'Etes-vous sûr de ne plus vouloir considérer cet utilisateur comme étant admin ?', /* TODO */
   
     // ImportUsersModal
     'users-import-title': 'Import contacts',

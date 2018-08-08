@@ -324,6 +324,10 @@ const messages = {
     'users-action-ban-user': 'Bannir l\'utilisateur',
     'users-action-archive-user': 'Archiver un utilisateur',
     'users-import-starting': 'L\'import des utilisateurs a bien débuté',
+    'users-action-consider-user-admin': 'Considérer cet utilisateur comme étant admin',
+    'users-action-stop-consider-user-admin': 'Ne plus considérer cet utilisateur comme étant admin',
+    'users-confirm-consider-admin': 'Etes-vous sûr de vouloir considérer cet utilisateur comme étant admin ?',
+    'users-confirm-dont-consider-admin': 'Etes-vous sûr de ne plus vouloir considérer cet utilisateur comme étant admin ?',
 
     // ImportUsersModal
     'users-import-title': 'Import d\'utilisateurs',
