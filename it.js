@@ -6,7 +6,7 @@ const messages = {
     'Password': 'Password',
     'Provided by your administrator': 'Fornito dal tuo amministratore',
     'Remember me': 'Ricordarsi di me',
-    'no-identification-info': ' Se hai dimenticato l’ID o la password, per favore, contatta l\'amministratore',
+    'no-identification-info': ' Se hai dimenticato la email o la password, per favore, contatta l\'amministratore',
     'bad-credentials': 'Le Sue credenziali non sono corretti. Riprova per favore.',
     'not-enough-rights': 'Non ha i diritti sufficienti per accedere.',
     'user-not-found': 'L\'utente non è stato trovato.',
@@ -47,7 +47,7 @@ const messages = {
     'users': 'Utenti',
     'admin': 'Amministrazione',
     'targets': 'Obiettivi e Gamificazione',
-    'notifications': 'Notifications', /* TODO */
+    'notifications': 'Notifiche',
   
     // Attività
     'eve-computed-kpi': 'indicatore calcolato a G-1',
@@ -368,10 +368,10 @@ const messages = {
     // Profile
     'profile': 'Profilo',
     'profile-title': 'Profilo utente',
-    'profile-ban-user-confirm-message': 'Sei sicuro di voler bloccare quest’utente?',
-    'profile-edit-skill-confirm-message': 'Attenzione, la modifica verrà eseguita in modo globale per tutti gli utenti. Sei sicuro di voler continuare?',
-    'profile-remove-skill-confirm-message': 'Sei sicuro di voler eliminare questo talento di quest’utente?',
-    'profile-archive-user-confirm-message': 'Sei sicuro di voler archiviare quest’utente?',
+    'profile-ban-user-confirm-message': 'Sicuro/ di voler bloccare quest’utente?',
+    'profile-edit-skill-confirm-message': 'Attenzione, la modifica verrà eseguita in modo globale per tutti gli utenti. Sicuro/a di voler continuare?',
+    'profile-remove-skill-confirm-message': 'Sicuro/ di voler eliminare questo talento di quest’utente?',
+    'profile-archive-user-confirm-message': 'Sicuro/a di voler archiviare quest’utente?',
     'whasqer-profile': 'Profilo del WhASQer',
     'profile-account-creation': 'Creazione account',
     'profile-last-connection': 'Ultimo accesso',
@@ -403,16 +403,16 @@ const messages = {
     'import-company-logo': 'Importare il logo',
 
     // Notifications
-    'notifications-title': 'Notifications', /* TODO */
-    'notifications-list': 'Liste de notifications', /* TODO */
-    'notifications-column-id': 'Id', /* TODO */
-    'notifications-column-type': 'Type', /* TODO */
-    'notifications-column-data': 'Données', /* TODO */
-    'notifications-column-owner': 'Propriétaire', /* TODO */
-    'notifications-column-shared': 'Partagé ?', /* TODO */
-    'notifications-column-creation': 'Date de création', /* TODO */
-    'notifications-column-message': 'Message', /* TODO */
-    'notifications-no-data': 'Vous n\'avez actuellement aucune notification', /* TODO */
+    'notifications-title': 'Notifiche',
+    'notifications-list': 'L'elenco delle notifiche',
+    'notifications-column-id': 'ID',
+    'notifications-column-type': 'Tipo',
+    'notifications-column-data': 'Dati',
+    'notifications-column-owner': 'Proprietario',
+    'notifications-column-shared': 'Condiviso?',
+    'notifications-column-creation': 'Data di creazione',
+    'notifications-column-message': 'Messaggio',
+    'notifications-no-data': 'Non ha alcuna notifica',
 }
 
 export default messages
