@@ -351,7 +351,7 @@
     <string name="SKILLS_TITLE_WHASQ">Talento</string>
     <string name="SKILLS_SUBTITLE_REGISTRATION">Ciao, è il momento di completare il Suo profilo. Quindi come e in quali settori può aiutare gli altri whasqers? Può raccomandare e aiutare su:</string>
     <string name="SKILLS_SUBTITLE_PROFILE">Quale sono i Suoi talenti?</string>
-    <string name="SKILLS_SUBTITLE_WHASK">I talenti di questo Whasq (1 min. , 3 max.): </string>
+    <string name="SKILLS_SUBTITLE_WHASK">I talenti di questo Whasq (3 max.): </string>
     <string name="SKILLS_SUGGESTION"><u>Manca uno talento?</u></string>
 
     <!-- Email -->
@@ -383,8 +383,8 @@
     <string name="one_hour">1 ora</string>
     <string name="half_day">1/2 giorno</string>
     <string name="one_day">1 giorno</string>
-    <string name="two_days">2 giornos</string>
-    <string name="three_days">3 giornos</string>
+    <string name="two_days">2 giorni</string>
+    <string name="three_days">3 giorni</string>
     <string name="very_easy">Molto facile 😊</string>
     <string name="easy">Facile 😉</string>
     <string name="hard">Difficile 😅</string>
