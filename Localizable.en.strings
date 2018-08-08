@@ -217,11 +217,10 @@
 "profile-edit-job-placeholder" = "Job position";
 "profile-edit-email-placeholder" = "Email address";
 "estimate-alert-title" = "How long did it help you to save time?";
-"estimate-alert-minutes-action" = "5 minutes";
-"estimate-alert-halfhour-action" = "1/2 hour";
-"estimate-alert-hour-action" = "1 hour";
-"estimate-alert-half-day-action" = "1/2 day";
+"estimate-alert-halfday-action" = "1/2 day";
 "estimate-alert-day-action" = "1 day";
+"estimate-alert-twodays-action" = "2 days";
+"estimate-alert-threedays-action" = "3 days";
 "estimate-alert-resolver-low-action" = "Very easy 🙂";
 "estimate-alert-resolver-easy-action" = "Easy 😉";
 "estimate-alert-resolver-difficult-action" = "Difficult 😅";
