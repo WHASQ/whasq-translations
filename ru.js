@@ -9,7 +9,7 @@ const messages = {
     'no-identification-info': 'Если у вас нет вашего логина или пароля, пожалуйста, обратитесь к администратору',
     'bad-credentials': 'Данные указаны неверно. Попробуйте еще раз.',
     'not-enough-rights': 'У вас недостаточно прав для входа.',
-    'user-not-found': 'L\'utilisateur n\'a pas été trouvé.', /* TODO */
+    'user-not-found': 'Пользователь не найден.', 
 
     // General 
     'more-info': 'Больше информации',
@@ -27,7 +27,7 @@ const messages = {
     'open': 'Открыть',
     'fullname': 'Полное имя',
     'job-position': 'Должность',
-    'assistance': 'Besoin d\'aide ? Contactez-nous.', /* TODO */
+    'assistance': 'Нужна помощь? Связаться с Нами (jessie@whasq.com)',
 
     // Menu 
     'activity': 'Активность',
@@ -47,12 +47,12 @@ const messages = {
     'users': 'Пользователи',
     'admin': 'Администрация',
     'targets': 'Цели и Gamification',
-    'notifications': 'Notifications', /* TODO */
+    'notifications': 'Уведомления',
 
     // Activity 
     'eve-computed-kpi': 'показатель посчитан на D-1',
     'no-data-for-selected-period': 'Нет данных для выбранного периода',
-    'no-data-available': 'Aucune donnée disponible', /* TODO */
+    'no-data-available': 'Нет данных', 
 
     // ActivityActiveUsers 
     'actives-title': 'Активные Пользователи',
@@ -251,7 +251,7 @@ const messages = {
     'add-whasq-item-third-skill': 'Третий навык',
     'add-whasq-item-notify-around': 'Сообщить поблизости?',
     'add-whasq-item-urgent': 'Срочный?',
-    'add-whasq-item-send-everyone': 'Envoyer à tout le monde ?', /* TODO */
+    'add-whasq-item-send-everyone': 'Отправить всем?', 
 
     // WhasqsReports 
     'whasqs-reports-title': 'Нежелательные вопросы',
@@ -323,24 +323,24 @@ const messages = {
     'users-action-unban-user': 'Разблокировать этого пользователя',
     'users-action-ban-user': 'Заблокировать этого пользователя',
     'users-action-archive-user': 'Отправить пользователя в архив',
-    'users-import-starting': 'L\'import des utilisateurs a bien débuté', /* TODO */
-    'users-action-consider-user-admin': 'Considérer cet utilisateur comme étant admin', /* TODO */
-    'users-action-stop-consider-user-admin': 'Ne plus considérer cet utilisateur comme étant admin', /* TODO */
-    'users-confirm-consider-admin': 'Etes-vous sûr de vouloir considérer cet utilisateur comme étant admin ?', /* TODO */
-    'users-confirm-dont-consider-admin': 'Etes-vous sûr de ne plus vouloir considérer cet utilisateur comme étant admin ?', /* TODO */
-    'users-action-consider-user-admin-success': 'L\'utilisateur d\'id {userId} est maintenant administrateur.', /* TODO */
-    'users-action-stop-consider-user-admin-success': 'L\'utilisateur d\'id {userId} n\'est maintenant plus administrateur.', /* TODO */
+    'users-import-starting': 'Пользовательский импорт начал',
+    'users-action-consider-user-admin': 'Рассмотрите этого пользователя как администратора', 
+    'users-action-stop-consider-user-admin': 'Не считайте этого пользователя как администратора больше', 
+    'users-confirm-consider-admin': 'Вы уверены, что хотите считать этого пользователя администратором?', 
+    'users-confirm-dont-consider-admin': 'Вы уверены, что не хотите рассматривать этого пользователя как администратора?', 
+    'users-action-consider-user-admin-success': 'Пользователь id {userId} теперь является администратором.', 
+    'users-action-stop-consider-user-admin-success': 'Пользователь id {userId} больше не является администратором.', 
   
     // ImportUsersModal
-    'users-import-title': 'Import d\'utilisateurs', /* TODO */
-    'import-users-file-limit': 'Seuls les fichiers CSV d\'une taille inférieure à 1Mo sont acceptés', /* TODO */
-    'import-users-error': 'Une erreur est survenue lors de l\'import. Veuillez réessayer.', /* TODO */
-    'import-users-btn': 'Importer les utilisateurs', /* TODO */
-    'import-users-expected-format': 'Format attendu', /* TODO */
-    'import-users-fullname': 'Nom complet', /* TODO */
-    'import-users-email': 'Email', /* TODO */
-    'import-users-job-position': 'Poste', /* TODO */
-    'import-users-phone': 'Téléphone', /* TODO */
+    'users-import-title': 'Импорт пользователя', 
+    'import-users-file-limit': 'Принимаются только файлы CSV размером менее 1 МБ', 
+    'import-users-error': 'Во время импорта произошла ошибка. Повторите попытку.', 
+    'import-users-btn': 'Импорт пользователей', 
+    'import-users-expected-format': 'Ожидаемый формат',
+    'import-users-fullname': 'Полное имя',
+    'import-users-email': 'электронная почта', 
+    'import-users-job-position': 'Должность', 
+    'import-users-phone': 'телефон', 
 
     // Targets 
     'targets-title': 'Цели и Gamification',
