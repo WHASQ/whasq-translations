@@ -93,7 +93,7 @@
     <string name="faq">Domande frequenti</string>
     <string name="ask_for_datas">Fare la domanda degli miei dati</string>
     <string name="delete_account">Cancellare il mio account</string>
-    <string name="alert_del_account_msg">Le preghiamo di notare che i Suoi dati personali saranno distrutti e la cancellazione dell'account comporterà la perdita di accesso all'applicazione. Inserisce la parola DELETE nella casella sottostante per favore.</string>
+    <string name="alert_del_account_msg">I Suoi dati personali saranno distrutti e la cancellazione dell'account comporterà la perdita di accesso all'applicazione. Inserisce la parola DELETE qui per favore.</string>
 
     <string name="datas_send_success">I Suoi dati sono stati inviati sul Suo indirizzo email</string>
     <string name="datas_send_error">Si è verificato un errore, i Suoi dati non possono essere inviati, riprova per favore</string>
