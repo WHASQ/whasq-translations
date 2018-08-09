@@ -156,8 +156,8 @@ const messages = {
     'minutes-earned-dda-kpi-title': 'Minutes won SAD',
     'minutes-earned-dda-kpi-help-title': 'Minutes won SAD',
     'minutes-earned-dda-kpi-help-message': 'This indicator represents the number of minutes won since the beginning of the activity.',
-    'minutes-earned-month-kpi-title': 'Minutes gagnées du mois', /* TODO */
-    'minutes-earned-dda-kpi-title': 'Minutes gagnées DDA', /* TODO */
+    'minutes-earned-month-kpi-title': 'Minutes won this month',
+    'minutes-earned-dda-kpi-title': 'Miutes won SAD',
 
     // Podium 
     'podium-title': 'Podium',
