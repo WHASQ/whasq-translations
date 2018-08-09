@@ -324,12 +324,12 @@ const messages = {
     'users-action-ban-user': 'Bandire quest’ utente',
     'users-action-archive-user': 'Archiviare un utente',
     'users-import-starting': 'L\'importazione dei contatti ha cominciato',
-    'users-action-consider-user-admin': 'Considérer cet utilisateur comme étant admin', /* TODO */
-    'users-action-stop-consider-user-admin': 'Ne plus considérer cet utilisateur comme étant admin', /* TODO */
-    'users-confirm-consider-admin': 'Etes-vous sûr de vouloir considérer cet utilisateur comme étant admin ?', /* TODO */
-    'users-confirm-dont-consider-admin': 'Etes-vous sûr de ne plus vouloir considérer cet utilisateur comme étant admin ?', /* TODO */
-    'users-action-consider-user-admin-success': 'L\'utilisateur d\'id {userId} est maintenant administrateur.', /* TODO */
-    'users-action-stop-consider-user-admin-success': 'L\'utilisateur d\'id {userId} n\'est maintenant plus administrateur.', /* TODO */
+    'users-action-consider-user-admin': 'Considerare quest\'utente come amministratore',
+    'users-action-stop-consider-user-admin': 'Non considerare più quest\'utente come amministratore',
+    'users-confirm-consider-admin': 'Sicuro/a di voler considerare quest\'utente come amministratore?',
+    'users-confirm-dont-consider-admin': 'Sicuro/a di non volere più considerare quest\utente come amministratore?',
+    'users-action-consider-user-admin-success': 'L\'utente di ID {userId} è ora amministratore.',
+    'users-action-stop-consider-user-admin-success': 'L\'utente di ID {userId} non è più amministratore.',
 
     // ImportUsersModal
     'users-import-title': 'Importazione dei contatti',
