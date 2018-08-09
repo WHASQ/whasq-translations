@@ -53,7 +53,7 @@
 "comment-empty-alert-title" = "Something happened";
 "comment-useful-alert-message" = "Oups ! Your comment hasn't been published 🙄";
 "comment-useful-alert-title" = "Oups";
-"connection-alert-credentials-message" = "Wrong credentials. Try again";
+"connection-alert-credentials-message" = "Wrong email or password.";
 "connection-alert-error-title" = "An error has occured, it looks like the Internet connection is not working right 🙄";
 "days" = "day";
 "delete-comment-warning-message" = "Are you sure you want to delete this comment, there is no turning back";

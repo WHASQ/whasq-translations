@@ -53,7 +53,7 @@
 "comment-empty-alert-title" = "Erreur";
 "comment-useful-alert-message" = "Votre avis n'a pas pu être pris en compte 🙄";
 "comment-useful-alert-title" = "Erreur";
-"connection-alert-credentials-message" = "Identifiant(s) incorrect(s)";
+"connection-alert-credentials-message" = "Email ou mot de passe incorrect";
 "connection-alert-error-title" = "Une erreur s'est produite. Vérifiez votre connexion internet";
 "days" = "jour";
 "delete-comment-warning-message" = "Voulez-vous vraiment supprimer ce commentaire ? Ceci est irréversible";

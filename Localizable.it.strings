@@ -57,7 +57,7 @@
 "comment-empty-alert-title" = "Ops, errore";
 "comment-useful-alert-message" = "Oh ! Il commento non è stato pubblicato 🙄";
 "comment-useful-alert-title" = "Ops, errore";
-"connection-alert-credentials-message" = "L'ID o la password non sono corretti";
+"connection-alert-credentials-message" = "L'email o la password non sono corretti.";
 "connection-alert-error-title" = "Si è verificato un errore. Controlla la Sua connessione Internet 🙄";
 "consent-allow-button" = "Autorizzare";
 "consent-not-allow-button" = "Non autorizzare";
