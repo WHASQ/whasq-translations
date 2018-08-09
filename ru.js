@@ -156,8 +156,8 @@ const messages = {
     'minutes-earned-dda-kpi-title': 'Минуты, сэкономленные с даты активации',
     'minutes-earned-dda-kpi-help-title': 'Минуты, сэкономленные с даты активации',
     'minutes-earned-dda-kpi-help-message': 'Этот показатель представляет количество минут, сэкономленных с начала активности.',
-    'minutes-earned-month-kpi-title': 'Minutes gagnées du mois', /* TODO */
-    'minutes-earned-dda-kpi-title': 'Minutes gagnées DDA', /* TODO */
+    'minutes-earned-month-kpi-title': 'Заработанные минуты месяца',
+    'minutes-earned-dda-kpi-title': 'Заработанные Минуты, полученные с самого начала',
 
     // Podium 
     'podium-title': 'Пьедестал почета',
