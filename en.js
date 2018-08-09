@@ -27,7 +27,7 @@ const messages = {
     'open': 'Open',
     'fullname': 'Full name',
     'job-position': 'Job position',
-    'assistance': 'Need help? Contact us (jessie@whasq.com)',
+    'assistance': 'Need help? Contact us.',
 
     // Menu 
     'activity': 'Activity',
@@ -47,7 +47,7 @@ const messages = {
     'users': 'Users',
     'admin': 'Administration',
     'targets': 'Objectives and Gamification',
-    'notifications': 'Notifications', /* TODO */
+    'notifications': 'Notifications',
 
     // Activity 
     'eve-computed-kpi': 'indicator calculated on D-1',
@@ -324,12 +324,12 @@ const messages = {
     'users-action-ban-user': 'Ban the user',
     'users-action-archive-user': 'Archive a user',
     'users-import-starting': 'The import of contacts has begun',
-    'users-action-consider-user-admin': 'Considérer cet utilisateur comme étant admin', /* TODO */
-    'users-action-stop-consider-user-admin': 'Ne plus considérer cet utilisateur comme étant admin', /* TODO */
-    'users-confirm-consider-admin': 'Etes-vous sûr de vouloir considérer cet utilisateur comme étant admin ?', /* TODO */
-    'users-confirm-dont-consider-admin': 'Etes-vous sûr de ne plus vouloir considérer cet utilisateur comme étant admin ?', /* TODO */
-    'users-action-consider-user-admin-success': 'L\'utilisateur d\'id {userId} est maintenant administrateur.', /* TODO */
-    'users-action-stop-consider-user-admin-success': 'L\'utilisateur d\'id {userId} n\'est maintenant plus administrateur.', /* TODO */
+    'users-action-consider-user-admin': 'Consider this user as an administrator',
+    'users-action-stop-consider-user-admin': 'Do not consider this user as an administrator anymore',
+    'users-confirm-consider-admin': 'Are you sure you want to consider this user as an administrator?',
+    'users-confirm-dont-consider-admin': 'Are you sure you do not want to consider this user as an administrator anymore?',
+    'users-action-consider-user-admin-success': 'The user with the id {userId} is now administrator.',
+    'users-action-stop-consider-user-admin-success': 'The user with the id {userId} is no longer an administrator.',
   
     // ImportUsersModal
     'users-import-title': 'Import contacts',
