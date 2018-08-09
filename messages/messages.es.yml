@@ -60,7 +60,7 @@ push:
         new.body: Ver el tema 👀
 email:
     general: 
-        greeting: ¡Buenos días!
+        greeting: Buenos días,
         byebye: Hasto pronto,
         signature: Jessie 😘
     user:
