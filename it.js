@@ -324,10 +324,10 @@ const messages = {
     'users-action-ban-user': 'Bandire quest’ utente',
     'users-action-archive-user': 'Archiviare un utente',
     'users-import-starting': 'L\'importazione dei contatti ha cominciato',
-    'users-action-consider-user-admin': 'Considerare quest\'utente come amministratore',
-    'users-action-stop-consider-user-admin': 'Non considerare più quest\'utente come amministratore',
-    'users-confirm-consider-admin': 'Sicuro/a di voler considerare quest\'utente come amministratore?',
-    'users-confirm-dont-consider-admin': 'Sicuro/a di non volere più considerare quest\'utente come amministratore?',
+    'users-action-consider-user-admin': 'Considerare quest’utente come amministratore',
+    'users-action-stop-consider-user-admin': 'Non considerare più quest’ utente come amministratore',
+    'users-confirm-consider-admin': 'Sicuro/a di voler considerare quest’ utente come amministratore?',
+    'users-confirm-dont-consider-admin': 'Sicuro/a di non volere più considerare quest’ utente come amministratore?',
     'users-action-consider-user-admin-success': 'L\'utente di ID {userId} è ora amministratore.',
     'users-action-stop-consider-user-admin-success': 'L\'utente di ID {userId} non è più amministratore.',
 
@@ -367,7 +367,7 @@ const messages = {
     'english': 'Inglese',
     'spanish': 'Spagnolo',
     'italian': 'Italiano',
-    'russian': 'Russe', /* TODO */
+    'russian': 'Russo',
   
     // Sidebar
     'sidebar-navigation': 'Navigazione',
