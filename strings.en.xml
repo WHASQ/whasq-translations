@@ -389,7 +389,7 @@
 
     <!-- Geolocation -->
     <string name="GEOLOCATION_PERMISSION_TITLE">Facilitate your discussions</string>
-    <string name="GEOLOCATION_PERMISSION_EXPLANATION">If you want to notify only the Whasqers around you, you have to allow Whasq to geolocalised you and request your phone id</string>
+    <string name="GEOLOCATION_PERMISSION_EXPLANATION">If you want to notify only the Whasqers around you, you have to allow Whasq to geolocalise you</string>
     <string name="GEOLOCATION_PERMISSION_ALLOW">Allow access</string>
     <string name="GEOLOCATION_PERMISSION_NOT_ALLOW">Do not allow</string>
 
