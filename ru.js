@@ -367,7 +367,7 @@ const messages = {
     'english': 'Английский',
     'spanish': 'Испанский',
     'italien': 'Итальянский',
-    'russian': 'Russe', /* TODO */
+    'russian': 'Pусский',
 
     // Sidebar 
     'sidebar-navigation': 'Навигация',
@@ -410,16 +410,16 @@ const messages = {
     'import-company-logo': 'Загрузить логотип',
 
     // Notifications
-    'notifications-title': 'Notifications', /* TODO */
-    'notifications-list': 'Liste de notifications', /* TODO */
-    'notifications-column-id': 'Id', /* TODO */
-    'notifications-column-type': 'Type', /* TODO */
-    'notifications-column-data': 'Données', /* TODO */
-    'notifications-column-owner': 'Propriétaire', /* TODO */
-    'notifications-column-shared': 'Partagé ?', /* TODO */
-    'notifications-column-creation': 'Date de création', /* TODO */
-    'notifications-column-message': 'Message', /* TODO */
-    'notifications-no-data': 'Vous n\'avez actuellement aucune notification', /* TODO */
+    'notifications-title': 'Уведомления',
+    'notifications-list': 'Список уведомлений',
+    'notifications-column-id': 'идентификатор',
+    'notifications-column-type': 'тип',
+    'notifications-column-data': 'Данные',
+    'notifications-column-owner': 'Владелец',
+    'notifications-column-shared': 'Общая ?',
+    'notifications-column-creation': 'Дата создания',
+    'notifications-column-message': 'Cообщение',
+    'notifications-no-data': 'В настоящее время у вас нет уведомлений',
 }
 
 export default messages
