@@ -156,6 +156,8 @@ const messages = {
     'minutes-earned-dda-kpi-title': 'Minutos ganados DCA',
     'minutes-earned-dda-kpi-help-title': 'Minutos ganados  DCA',
     'minutes-earned-dda-kpi-help-message': 'Este indicador representa el número de minutos ganados desde el comienzo de la actividad.',
+    'minutes-earned-month-kpi-title': 'Minutes gagnées du mois', /* TODO */
+    'minutes-earned-dda-kpi-title': 'Minutes gagnées DDA', /* TODO */
   
     // Podium
     'podium-title': 'Podio',

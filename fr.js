@@ -156,6 +156,8 @@ const messages = {
     'minutes-earned-dda-kpi-title': 'Minutes gagnées DDA',
     'minutes-earned-dda-kpi-help-title': 'Minutes gagnées DDA',
     'minutes-earned-dda-kpi-help-message': 'Cet indicateur représente le nombre de minutes gagnées depuis le début de l\'activité.',
+    'minutes-earned-month-kpi-title': 'Minutes gagnées du mois',
+    'minutes-earned-dda-kpi-title': 'Minutes gagnées DDA',
 
     // Podium
     'podium-title': 'Podium',
