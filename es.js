@@ -27,7 +27,7 @@ const messages = {
     'open': 'Abierto',
     'fullname': 'Nombre y apellido',
     'job-position': 'Puesto de trabajo',
-    'assistance':'¿Necesitas ayuda? Contáctanos (jessie@whasq.com)',
+    'assistance':'¿Necesitas ayuda? Contáctanos.',
 
     // Menu
     'activity': 'Actividad',
@@ -324,12 +324,12 @@ const messages = {
     'users-action-ban-user': 'Prohibir el usuario',
     'users-action-archive-user': 'Archivar un usuario',
     'users-import-starting': 'El importe de los contactos ha comenzado',
-    'users-action-consider-user-admin': 'Considérer cet utilisateur comme étant admin', /* TODO */
-    'users-action-stop-consider-user-admin': 'Ne plus considérer cet utilisateur comme étant admin', /* TODO */
-    'users-confirm-consider-admin': 'Etes-vous sûr de vouloir considérer cet utilisateur comme étant admin ?', /* TODO */
-    'users-confirm-dont-consider-admin': 'Etes-vous sûr de ne plus vouloir considérer cet utilisateur comme étant admin ?', /* TODO */
-    'users-action-consider-user-admin-success': 'L\'utilisateur d\'id {userId} est maintenant administrateur.', /* TODO */
-    'users-action-stop-consider-user-admin-success': 'L\'utilisateur d\'id {userId} n\'est maintenant plus administrateur.', /* TODO */
+    'users-action-consider-user-admin': 'Considerar este usuario como administrador', 
+    'users-action-stop-consider-user-admin': 'No considerar más este usuario como administrador',
+    'users-confirm-consider-admin': '¿Estás seguro que quieres considerar este usuario como administrador?',
+    'users-confirm-dont-consider-admin': '¿Estás seguro que ya no quieres considerar este usuario como administrador?', 
+    'users-action-consider-user-admin-success': 'El usuario con el ID {userId} es ahora administrador.', 
+    'users-action-stop-consider-user-admin-success': 'El usuario con el ID {userId} ua no es administrador.', 
   
     // ImportUsersModal
     'users-import-title': 'Importar contactos',
