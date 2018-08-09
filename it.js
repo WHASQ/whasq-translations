@@ -27,7 +27,7 @@ const messages = {
     'open': 'Aperto',
     'fullname': 'Nome completo',
     'job-position': 'Posto',
-    'assistance': 'Ha bisogno di aiuto? Contattaci.',
+    'assistance': 'Ha bisogno di aiuto? Contattaci (jessie@whasq.com)',
   
     // Menù
     'activity': 'Attività',
