@@ -27,7 +27,7 @@ const messages = {
     'open': 'Ouvert',
     'fullname': 'Nom complet',
     'job-position': 'Position',
-    'assistance': 'Besoin d\'aide ? Contactez-nous (jessie@whasq.com)',
+    'assistance': 'Besoin d’aide ? Contactez jessie@whasq.com  ( Du lundi à vendredi de 9h à 18h) ',
 
     // Menu
     'activity': 'Activité',
