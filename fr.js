@@ -60,7 +60,7 @@ const messages = {
     'actives-kpi-help-title': 'Actifs',
     'actives-kpi-help-message': 'Cet indicateur représente le nombre d\'utilisateurs qui se sont connectés au moins une fois au mois de "{month}".',
     'actives-dda-kpi-title': 'Actifs DDA',
-    'actives-dda-kpi-help-title': 'Actifs DDA',
+    'actives-dda-kpi-help-title': 'Actifs "DDA" (Depuis le Début de l\'Application)',
     'actives-dda-kpi-help-message': 'Cet indicateur représente le nombre d\'utilisateurs qui se sont connectés depuis le début de l\'activité.',
     'actives-target-kpi-title': 'Actifs - Objectifs',
     'actives-target-kpi-help-title': 'Actifs - Objectifs',
