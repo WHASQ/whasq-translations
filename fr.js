@@ -381,7 +381,7 @@ const messages = {
     'profile-edit-skill-confirm-message': 'Attention, l\'édition du talent sera faite de manière globale pour tous les utilisateurs.\r\nEtes-vous sur de vouloir continuer ?',
     'profile-remove-skill-confirm-message': 'Etes-vous sur de vouloir retirer ce talent de cet utilisateur ?',
     'profile-archive-user-confirm-message': 'Etes-vous sûr de vouloir archiver cet utilisateur ?',
-    'whasqer-profile': 'Profil du WhASQer',
+    'whasqer-profile': 'Profil du Whasqer',
     'profile-account-creation': 'Création compte',
     'profile-last-connection': 'Dernière connexion',
     'profile-last-update': 'Dernière mise à jour',
