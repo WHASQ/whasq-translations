@@ -27,7 +27,7 @@ const messages = {
     'open': 'Открыть',
     'fullname': 'Полное имя',
     'job-position': 'Должность',
-    'assistance': 'Нужна помощь? Связаться с Нами (jessie@whasq.com)',
+    'assistance': 'Вам нужна помощь? Свяжитесь с jessie@whasq.com (с понедельника по пятницу с 9:00 до 18:00)',
 
     // Menu 
     'activity': 'Активность',
