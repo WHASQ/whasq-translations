@@ -251,3 +251,4 @@
 "recommended-skills-description-label" = "Lei è stato raccomandato per i tuoi talenti dai colleghi. Vuole confermare questi talenti?";
 "skip-button" = "Saltare";
 "whasq-card-require-label" = "Requires your presence";
+"alert-cannot-send-mail" = "Unable to send an email with this device";
