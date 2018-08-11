@@ -250,3 +250,4 @@
 "recommended-skill-refuse-error-alert" = "Se produjo un error al eliminar el talento recomendado 🙄\nInténtalo de nuevo";
 "recommended-skills-description-label" = "Tus compañeros te han recomendado por tus talentos. ¿Quieres confirmar estos talentos?";
 "skip-button" = "Continuar";
+"profile-skill-empty-label" = "Vous avez des talents ! Vous pouvez les ajoutez !";
