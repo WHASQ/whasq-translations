@@ -240,7 +240,6 @@
 "delete-account" = "Delete account";
 "error-deleting-user" = "An error occured. Please check your internet connection and retry.";
 "alert-cannot-send-mail" = "Unable to send an email with this device";
-"profile-skill-empty-label" = "You have some skills, please add them!";
 "notification-tag-user" = "You have been recommended by %@. Help your colleague for the whasq %@";
 "notification-admin-whasq" = "%@ submitted a new Whasq %@";
 "notification-new-skill" = "A new skill (%@) has been added! Do you want to add it on your profile?";
