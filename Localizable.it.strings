@@ -250,3 +250,4 @@
 "recommended-skill-refuse-error-alert" = "Si è verificato un errore durante la cancellazione del talento raccomandato 🙄\Riprovare più tardi";
 "recommended-skills-description-label" = "Lei è stato raccomandato per i tuoi talenti dai colleghi. Vuole confermare questi talenti?";
 "skip-button" = "Saltare";
+"whasq-card-require-label" = "Requires your presence";
