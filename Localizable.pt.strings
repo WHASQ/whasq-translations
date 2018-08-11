@@ -255,3 +255,4 @@
 "recommended-skill-accept-error-alert" = "An error happened when trying to add the skill 🙄\n Please try again later";
 "recommended-skill-refuse-error-alert" = "An error happened when trying to ignore the skill 🙄\n Please try again later";
 "skip-button" = "Passer";
+"whasq-card-require-label" = "Requires your presence";
