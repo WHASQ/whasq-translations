@@ -249,7 +249,7 @@
 "skip-button" = "Skip";
 "recommended-skills-description-label" = "You have been recommended for your skills by colleagues. Do you want to confirm these skills?";
 "recommended-skill-description-label" = "recommended you for these skills:";
-"profile-skill-empy-label" = "Sure you have some, so complete your profile 😉";
+"profile-skill-empty-label" = "Sure you have some, so complete your profile 😉";
 "recommended-other-skill-description-label" = "Other skills that might pick your interest: ";
 "recommended-skill-accept-error-alert" = "An error happened when trying to add the skill 🙄\n Please try again later";
 "recommended-skill-refuse-error-alert" = "An error happened when trying to ignore the skill 🙄\n Please try again later";
