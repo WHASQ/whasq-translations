@@ -80,6 +80,10 @@ email:
             title.generic: Meilleurs whasqers de la semaine %{weekNumber} !
             body.div1: "Le top 3 des whasquers de la semaine :"
             body.div2: Merci à tous les whasqers ! A la semaine prochaine 💪🙂
+        monthly.podium:
+            title: %{firstName}, best whasqer of %{monthName}!
+            title.generic: Best whasqers of %{monthName}!
+            body.div1: "The top 3 whasqers of the month:"
         complete.profile:
             title: Vos collégues ont besoin de vous !
             body.div1: Inscrivez-vous sur Whasq et aidez vos collégues grâce à vos talents.
