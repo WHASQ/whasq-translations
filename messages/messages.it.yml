@@ -85,6 +85,10 @@ email:
             title.generic: Migliori whasqers della settimana %{weekNumber}!
             body.div1: "I primi 3 whasquers della settimana:"
             body.div2: Grazie a tutti i whasqers! Alla settimana prossima 💪🙂
+        monthly.podium:
+            title: %{firstName}, best whasqer of %{monthName}!
+            title.generic: Best whasqers of %{monthName}!
+            body.div1: "The top 3 whasqers of the month:"
         footer:
             join.community: UNIRE ALLA COMMUNITÀ %{fullName}
             unsubscribe: Cancellare iscrizione
