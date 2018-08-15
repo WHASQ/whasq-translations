@@ -28,6 +28,7 @@ const messages = {
     'fullname': 'Full name',
     'job-position': 'Job position',
     'assistance': 'Besoin d\'aide ? Contactez-nous.', /* TODO */
+    'download-attachment': 'Télécharger la pièce jointe', /* TODO */
 
     // Menu 
     'activity': 'Activity',

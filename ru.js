@@ -28,6 +28,7 @@ const messages = {
     'fullname': 'Полное имя',
     'job-position': 'Должность',
     'assistance': 'Вам нужна помощь? Свяжитесь с jessie@whasq.com (с понедельника по пятницу с 9:00 до 12:00 и с 14:00 до 18:00 Время в Париже)',
+    'download-attachment': 'Télécharger la pièce jointe', /* TODO */
 
     // Menu 
     'activity': 'Активность',

@@ -28,6 +28,7 @@ const messages = {
     'fullname': 'Full name',
     'job-position': 'Job position',
     'assistance': 'Need help ? Contact jessie@whasq.com (Monday to Friday from 9am to 12am and from 2pm to 6pm Paris Time).',
+    'download-attachment': 'Télécharger la pièce jointe', /* TODO */
 
     // Menu 
     'activity': 'Activity',
