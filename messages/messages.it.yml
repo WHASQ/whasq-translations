@@ -37,7 +37,7 @@ error:
 push:
     whasq:
         new.title: C'è un whasq per te
-        new.around.body: Un whasqer ha bisogna del Suo aiuto
+        new.arround.body: Un whasqer ha bisogna del Suo aiuto
         new.same.skill.body: Un whasqer ha bisogna del Suo aiuto 😎
         new.answer.title: C'è una risposta per Le👌 
         new.answer.body: Un whasqer ha risposto al Suo whasq 😜
