@@ -33,7 +33,6 @@
     <string name="exchange">Je propose en échange… un café</string>
 
     <!--empty state-->
-    <string name="please_retry">Essayez à nouveau, s'il vous plaît</string>
     <string name="retry">Retry</string>
     <string name="my_skills">Mes talents</string>
     <string name="all_skills">Tout</string>
