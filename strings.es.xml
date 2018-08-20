@@ -397,3 +397,8 @@
     <string name="recommendations_talents_reco_by_someone">%s te ha recomendado los siguientes talentos :</string>
     <string name="recommendations_other_talents">Otros talentos que podrían intersarte :</string>
 </resources>
+<string name="email_mandatory">e-mail *</string>
+    <string name="fullname_mandatory">Nombre completo *</string>
+    <string name="ranking_no_rank_for_month">El podio de este mes aun no ha sido definido.</string>
+    <string name="session_expired">La sesion ha caducado, por favor conectate de nuevo.</string>
+    <string name="error_useful_already">Ya has dado like a este comentario</string>
