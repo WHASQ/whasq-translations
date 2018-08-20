@@ -33,6 +33,8 @@
     <string name="exchange">Je propose en échange… un café</string>
 
     <!--empty state-->
+    <string name="empty_screen">Il n\'y a rien ici pour l\'instant.</string>
+    <string name="please_retry">Essayez à nouveau, s\'il vous plaît.</string>
     <string name="retry">Retry</string>
     <string name="my_skills">Mes talents</string>
     <string name="all_skills">Tout</string>
@@ -406,8 +408,6 @@
     
     <string name="email_mandatory">Adresse email *</string>
     <string name="fullname_mandatory">Nom complet *</string>
-    <string name="empty_screen">Il n\'y a rien ici pour l\'instant.</string>
-    <string name="please_retry">Essayez à nouveau, s\'il vous plaît</string>
     <string name="channels_about">Langue concernée</string>
     <string name="no_notification">Si quelqu\'un aime votre réponse ou recommande un de vos talents, vous recevrez des notifications</string>
     <string name="SKILLS_SUBTITLE_REGISTRATION">Hey cher whasqer c\'est le moment de compléter votre profil.. Vous pouvez conseiller et aider sur :</string>
