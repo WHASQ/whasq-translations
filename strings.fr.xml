@@ -246,6 +246,7 @@
     <string name="notificationType_whasq_new_skill">Un nouveau talent %1$s vient d\'être ajouté ! Compléter votre profil?</string>
     <string name="notificationType_whasq_new_admin_whasq">%1$s a soumis un Whasq %2$s</string>
     <string name="notificationType_whasq_tag_user">Vous avez été recommandé par %1$s. Aidez votre collègue pour le whasq %2$s.</string>
+    <string name="no_notification">Si quelqu\'un aime votre réponse ou recommande un de vos talents, vous recevrez des notifications</string>
     <!-- Import picture -->
     <string name="alert_choose_picture_profil_title">Photo de votre profil</string>
     <string name="alert_choose_picture_profil_capture_picture">Prendre une photo</string>
@@ -409,7 +410,6 @@
     
     <string name="email_mandatory">Adresse email *</string>
     <string name="fullname_mandatory">Nom complet *</string>
-    <string name="no_notification">Si quelqu\'un aime votre réponse ou recommande un de vos talents, vous recevrez des notifications</string>
     <string name="SKILLS_SUBTITLE_REGISTRATION">Hey cher whasqer c\'est le moment de compléter votre profil.. Vous pouvez conseiller et aider sur :</string>
     <string name="GEOLOCATION_PERMISSION_EXPLANATION">Pour solliciter les whasqueurs proches de vous, \npermettez à Whasq d’accéder à votre géolocalisation</string>
     <string name="ranking_no_rank_for_month">Le podium n\'a pas encore été défini pour ce mois.</string>
