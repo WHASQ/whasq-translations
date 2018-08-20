@@ -33,8 +33,8 @@
     <string name="exchange">Je propose en échange… un café</string>
 
     <!--empty state-->
-    <string name="empty_screen">We do not have anything\nhere right now.</string>
-    <string name="please_retry">Please Retry</string>
+    <string name="empty_screen">Il n\'y a rien ici pour l\'instant.</string>
+    <string name="please_retry">Essayez à nouveau, s\'il vous plaît.</string>
     <string name="retry">Retry</string>
     <string name="my_skills">Mes talents</string>
     <string name="all_skills">Tout</string>
@@ -43,10 +43,10 @@
     <string name="no_whasqpoints">Réagissez avec la communauté pour en gagner !</string>
     <string name="skills_about">Talents concernés</string>
     <string name="choose_channel">Choisir une langue</string>
-    <string name="channels_about">Langues concernés</string>
+    <string name="channels_about">Langue concernée</string>
     <string name="notify_around_me">Notifier uniquement les whasqers autour de moi</string>
     <string name="priority">C\'est urgent</string>
-    <string name="display">Visualiser</string>
+    <string name="display">Prévisualiser</string>
     <string name="change">Modifier</string>
     <string name="publish">Publier</string>
     <string name="logout">Déconnexion</string>
@@ -73,7 +73,7 @@
     <string name="her_informations">Informations</string>
     <string name="her_skills_pro">Talents professionnels</string>
     <string name="her_skills_perso">Talents personnels</string>
-    <string name="my_whasq">Mes whasq</string>
+    <string name="my_whasq">Mes whasqs</string>
     <string name="no_whasq_profil">0 whasqs</string>
     <plurals name="whasq_number_profil">
         <item quantity="one">%1$s whasq</item>
@@ -122,8 +122,8 @@
         <item quantity="one">%1$s réponse</item>
         <item quantity="other">%1$s réponses</item>
     </plurals>
-    <string name="no_whasq">Pour voir plus de whasq, ajouter des talents à votre profil.</string>
-    <string name="no_my_whasq">Vous n\'avez pas crée de whasq encore. Allez-y en appuyant sur l\'icone en haut à droite.</string>
+    <string name="no_whasq">Pour voir plus de whasqs, ajoutez des talents à votre profil.</string>
+    <string name="no_my_whasq">Vous n\'avez pas encore créé de whasq. Allez-y en appuyant sur l\'icone en haut à droite.</string>
 
 
     <!-- consult whasq -->
@@ -155,16 +155,16 @@
     <string name="delete_whasq_with_success">Votre whasq a été supprimé</string>
     <string name="archive_whasq_with_success">Votre whasq a été archivé</string>
     <string name="create_whasq_empty_field">Votre message est vide</string>
-    <string name="create_whasq_talents_desc">Les talents concernés de ce whasq, 1 choix minimum</string>
+    <string name="create_whasq_talents_desc">Les talents concernés par ce whasq, 1 choix minimum</string>
     <string name="create_whasq_talents_error_3_max">Un whasq ne peut comporter que 3 talents maximum</string>
     <string name="create_whasq_success">Votre whasq a été créé avec succès !</string>
 
     <string name="create_whasq_skills_title">Talents</string>
-    <string name="create_whasq_skills_subtitle">Les talents concernés de ce whasq..</string>
+    <string name="create_whasq_skills_subtitle">Les talents concernés par ce whasq (3 maximum) :</string>
 
     <!-- Choose my channels -->
     <string name="choose_few_channels_subtitle">Sélectionner les langues souhaités</string>
-    <string name="choose_one_channel_subtitle">Sélectionner la langue souhaité</string>
+    <string name="choose_one_channel_subtitle">Sélectionner la langue souhaitée</string>
     <string name="choose_channel_title">Mes langues</string>
 
     <!-- Filters -->
@@ -187,15 +187,15 @@
     <!-- ERROR HANDLER -->
     <string name="error_unknown">Une erreur inhabituelle est survenue.</string>
     <string name="api_authentication_error_defaut">Authentification impossible</string>
-    <string name="api_authentication_error_credentials">Email ou mot de passe invalides.</string>
+    <string name="api_authentication_error_credentials">Email ou mot de passe incorrect.</string>
     <string name="api_authentication_error_session">Votre session a expiré</string>
     <string name="error_form_login">Mot de passe ou e-mail incomplet</string>
     <string name="error_unknown_host">Impossible de se connecter au serveur. Veuillez vérifier votre connexion internet.</string>
 
     <!-- REGISTER -->
-    <string name="error_form_signup_email">Votre email est invalide</string>
-    <string name="error_form_signup_phone">Votre numéro de téléphone est invalide</string>
-    <string name="error_form_signup_password">Les mots de passe sont incorrect</string>
+    <string name="error_form_signup_email">Votre email est incorrect</string>
+    <string name="error_form_signup_phone">Votre numéro de téléphone est incorrect</string>
+    <string name="error_form_signup_password">Les mots de passe sont incorrects</string>
     <string name="error_form_signup_channels">Vous devez sélectionner des langues</string>
     <string name="error_form_signup_cgu">Vous devez accepter les CGU</string>
     <string name="error_form_unfinished">Le formulaire est incomplet</string>
@@ -246,7 +246,7 @@
     <string name="notificationType_whasq_new_skill">Un nouveau talent %1$s vient d\'être ajouté ! Compléter votre profil?</string>
     <string name="notificationType_whasq_new_admin_whasq">%1$s a soumis un Whasq %2$s</string>
     <string name="notificationType_whasq_tag_user">Vous avez été recommandé par %1$s. Aidez votre collègue pour le whasq %2$s.</string>
-    <string name="no_notification">Répondez à votre 1er whasq et vous verrez les notifications.</string>
+    <string name="no_notification">Si quelqu\'un aime votre réponse ou recommande un de vos talents, vous recevrez des notifications</string>
     <!-- Import picture -->
     <string name="alert_choose_picture_profil_title">Photo de votre profil</string>
     <string name="alert_choose_picture_profil_capture_picture">Prendre une photo</string>
@@ -350,7 +350,7 @@
     <!-- Language Activity -->
     <string name="LANGUAGE_TITLE_PROFILE">Mes langues</string>
     <string name="LANGUAGE_TITLE_WHASQ">Langues</string>
-    <string name="LANGUAGE_SUBTITLE_PROFILE">Selectionnez les langues auxquels vous voulez participer.</string>
+    <string name="LANGUAGE_SUBTITLE_PROFILE">Selectionnez les langues que vous parlez.</string>
     <string name="LANGUAGE_SUBTITLE_WHASQ">Selectionnez la langue du whasq : </string>
     <string name="LANGUAGE_ERROR_EMPTY_SELECTION">Vous devez selectionner au moins une langue.</string>
 
@@ -358,9 +358,9 @@
     <string name="SKILLS_TITLE_REGISTRATION">Mes talents</string>
     <string name="SKILLS_TITLE_PROFILE">Mes talents</string>
     <string name="SKILLS_TITLE_WHASQ">Talents</string>
-    <string name="SKILLS_SUBTITLE_REGISTRATION">Hey, bonjour, c\'est le moment de compléter votre profil.. Alors comment et dans quels domaines pouvez-vous aider les autres ? Vous pouvez conseiller et aider sur :</string>
+    <string name="SKILLS_SUBTITLE_REGISTRATION">Hey cher whasqer c\'est le moment de compléter votre profil.. Vous pouvez conseiller et aider sur :</string>
     <string name="SKILLS_SUBTITLE_PROFILE">Quels talents possedez-vous ?</string>
-    <string name="SKILLS_SUBTITLE_WHASK">Les talents concernés par ce whasq (1 minimum, 3 maximum) : </string>
+    <string name="SKILLS_SUBTITLE_WHASK">Les talents concernés par ce whasq (3 maximum) : </string>
     <string name="SKILLS_SUGGESTION"><u>Il manque un talent ?</u></string>
 
     <!-- Email -->
@@ -374,7 +374,7 @@
 
     <!-- Geolocation -->
     <string name="GEOLOCATION_PERMISSION_TITLE">Facilitez vos échanges</string>
-    <string name="GEOLOCATION_PERMISSION_EXPLANATION">Pour solliciter les whasqueurs proches de vous, \npermettez à Whasq d’accéder à votre géolocalisation ainsi qu\'a l'identifiant de votre appareil</string>
+    <string name="GEOLOCATION_PERMISSION_EXPLANATION">Pour solliciter les whasqueurs proches de vous, \npermettez à Whasq d’accéder à votre géolocalisation</string>
     <string name="GEOLOCATION_PERMISSION_ALLOW">Autoriser l\'accès</string>
     <string name="GEOLOCATION_PERMISSION_NOT_ALLOW">Refuser</string>
 
@@ -387,7 +387,7 @@
     <string name="create_whasq">créer un whasq</string>
 
     <!-- Time Gain -->
-    <string name="time_gain_question">Combien de temps cela vous a t\'il permis de gagner ?</string>
+    <string name="time_gain_question">Combien de temps cela vous a-t-il permis de gagner ?</string>
     <string name="half_hour">1/2 heure</string>
     <string name="one_hour">1 heure</string>
     <string name="half_day">1/2 journée</string>
@@ -409,4 +409,10 @@
     <string name="recommendations_other_talents">Autres talents pouvant vous intéresser :</string>
 
     <!-- ********************************************************************************************** -->
+    
+    <string name="email_mandatory">Adresse email *</string>
+    <string name="fullname_mandatory">Nom complet *</string>
+    <string name="ranking_no_rank_for_month">Le podium n\'a pas encore été défini pour ce mois.</string>
+    <string name="session_expired">Votre session a expiré, veuillez vous reconnecter.</string>
+    <string name="error_useful_already">Vous avez déjà aimé ce commentaire</string>
 </resources>

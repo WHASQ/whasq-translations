@@ -56,7 +56,7 @@
     <string name="whasqPoints">My Whasqpoints</string>
     <string name="skills_about">Concerned skills</string>
     <string name="choose_channel">Choose a channel</string>
-    <string name="channels_about">Concerned channels</string>
+    <string name="channels_about">Concerned channel</string>
     <string name="notify_around_me">Notify whasqers only around me</string>
     <string name="priority">It is urgent</string>
     <string name="display">Preview</string>
@@ -252,7 +252,7 @@
     <!-- Notifications -->
     <string name="notitification_title">Notifications</string>
     <string name="notificationType_other">New Notification</string>
-    <string name="notificationType_whasq_skills_matching">%1$s has created a Whasq, which may be of interest to you: %2$s</string>
+    <string name="notificationType_whasq_skills_matching">%1$s has created a Whasq, which may interest you: %2$s</string>
     <string name="notificationType_skill_recommendation">%1$s highly recommended you for this Skills :</string>
     <string name="notificationType_skill_suggestion">%1$s suggested you this Skill:</string>
     <string name="notificationType_whasq_new_answer">%1$s has replied to your Whasq : %2$s</string>
@@ -389,7 +389,7 @@
 
     <!-- Geolocation -->
     <string name="GEOLOCATION_PERMISSION_TITLE">Facilitate your discussions</string>
-    <string name="GEOLOCATION_PERMISSION_EXPLANATION">If you want to notify only the Whasqers around you, you have to allow Whasq to geolocalised you and request your phone id</string>
+    <string name="GEOLOCATION_PERMISSION_EXPLANATION">If you want to notify only the Whasqers around you, you have to allow Whasq to geolocalise you</string>
     <string name="GEOLOCATION_PERMISSION_ALLOW">Allow access</string>
     <string name="GEOLOCATION_PERMISSION_NOT_ALLOW">Do not allow</string>
 
@@ -425,4 +425,10 @@
 
 
     <!-- ********************************************************************************************** -->
+
+    <string name="email_mandatory">Email address *</string>
+    <string name="fullname_mandatory"Full name *</string>
+    <string name="ranking_no_rank_for_month">The podium has not yet been defined for this month.</string>
+    <string name="session_expired">Your session has expired, please reconnect.</string>
+    <string name="error_useful_already">You already liked this comment</string>
 </resources>
