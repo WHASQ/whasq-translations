@@ -369,7 +369,6 @@
 
     <!-- Geolocation -->
     <string name="GEOLOCATION_PERMISSION_TITLE">Facilitez vos échanges</string>
-    <string name="GEOLOCATION_PERMISSION_EXPLANATION">Pour solliciter les whasquers proches de vous, \npermettez à Whasq d’accéder à votre géolocalisation</string>
     <string name="GEOLOCATION_PERMISSION_ALLOW">Autoriser l\'accès</string>
     <string name="GEOLOCATION_PERMISSION_NOT_ALLOW">Refuser</string>
 
