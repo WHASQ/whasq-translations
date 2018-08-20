@@ -425,4 +425,10 @@
 
 
     <!-- ********************************************************************************************** -->
+
+    <string name="email_mandatory">Email address *</string>
+    <string name="fullname_mandatory"Full name *</string>
+    <string name="ranking_no_rank_for_month">The podium has not yet been defined for this month.</string>
+    <string name="session_expired">Your session has expired, please reconnect.</string>
+    <string name="error_useful_already">You already liked this comment</string>
 </resources>
