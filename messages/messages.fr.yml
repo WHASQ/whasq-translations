@@ -37,7 +37,7 @@ error:
 push:
     whasq:
         new.title: Un Whasq vous attend
-        new.around.body: Quelqu'un à proximité a besoin de vos conseils
+        new.arround.body: Quelqu'un à proximité a besoin de vos conseils
         new.same.skill.body: Quelqu'un a besoin de vous 😎
         new.answer.title: Une réponse vous attend 👌
         new.answer.body: Quelqu'un a répondu à votre whasq 😜
