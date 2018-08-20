@@ -1,60 +1,60 @@
-Je crée mon profil 
+I create my profile
 
-Téléchargez l'application Whasq
-cliquez sur mot de passe oublié 
-Entre votre adresse la redoute pour reinitialiser votre mot de passe 
-vérifiez vos mails et reinitialisez votre mot de passe 
-cliquez sur le lien
-tapez votre nouveau mot de passe 
-Connectez-vous 
-Merci de lire attentivement les CGU
-Application conforme au RGPD
-Identifiez vos talents pro ou perso
-Autorisez ou pas whasq à acceder 
-à vos données de localisation 
-cliquez ici pour modifier votre profil 
-complétez votre profil 
-vous pouvez chosir l'info visible par le public 
-La langue par défaut est le français 
-cliquez ici et indiquez les langues que vous parlez 
-Cliquez ici pour effacer la langue 
+Download Whasq
+Click on "Forgot password" 
+Enter your La Redoute email in order to reset your password 
+check your emails and reset your passoword 
+click on the link
+enter your new password 
+Log in 
+Please read these terms and conditions of use carefully
+The App is GDPR compliant
+Select your professional or personal skills
+Allow or not whasq to have access 
+to your geolocation data 
+Click here to modify your profile 
+complete your profile 
+you can choose the information visible to the public
+The default language is English 
+click here and select the languages you speak 
+Click here to delete the language 
 
-Je crée un whasq
+I create a whasq
 
-Cliquez ici pour créer un whasq 
-indiquez le titre de votre whasq 
-Option 1: envoyez un texte 
-option 2: enregistrez une vidéo 
-Option 3: enregistrez un audio 
-Option 4: Prenez une photo 
-Option 5: Envoyez une photo depus la galerie de votre téléphone 
-Indiquez les telents concernés 
-indiquez la langue du whasq 
-selectionnez la langue du whasq 
-prévisualisez le whasq 
-cliquez ici pour publier votre whasq 
-recommandez des talents 
-voici votre whasq 
-ils ont un talent caché en commun , ils parlents "portugais" 
+Click here to create a whasq 
+enter the title of your whasq 
+Option 1: send a message 
+option 2: record a video 
+Option 3: record an audio message 
+Option 4: Take a picture 
+Option 5: Import a picture from your phone gallery 
+Salect the skills concerned 
+select the language of your whasq 
+choose the language of your whasq 
+preview your whasq 
+click here to publish your whasq 
+recomment skills 
+here is your whasq 
+They have a hidden skill in common, they speak portuguese 
 
-Mes notifications et mon classement 
+My notifications and my ranking 
 
-Cliquez ici pour afficher les notifications 
-Cliquez pour visualiser la notification 
-Likez les réponses 
-10 whasqpoints pour une réponse utile 
-indiquez le temps que vous avez gagné grâce à cette réponse
-Désignez " le champion" cliquez sur le trophée
-50 whasqpoints pour la solution 
+Click here to see the notifications 
+Click here to preview the notification 
+Like the answers 
+10 whasqpoints for a useful answer 
+select how much time you won thanks to this answer
+To choose the champion, click on the trophy
+50 whasqpoints for the solution 
 
-Mon classement 
+My ranking 
 
-Gagnez 10 whasqpoints si votre réponse est utile 
-Gagnez 50 whasqpoints si votre réponse est la solution 
+If your answer is useful you win 10 whasqpoints 
+If your answer is the solution you win 50 whasqpoints 
 
-Répondre un whasq 
+Reply to a whasq 
 
-Talent concerné "portugais"
-jessi a bien indiqué sur son profil le talent "portugais" 
-Il peut répondre au whasq 
-Repondez par: texte, audio, vidéo, photo 
+Skill concerned: "Portuguese"
+Jessie clearly indicated the skill "portuguese" on his profile 
+He can reply to the whasq 
+You can reply with: a message, an audio, a video, a picture 
