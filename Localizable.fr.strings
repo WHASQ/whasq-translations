@@ -4,7 +4,7 @@
 "addwhasq-alert-too-many-skills-message" = "Un whasq ne peut comporter que 3 talents maximum";
 "addwhasq-alert-too-many-skills-title" = "Attention";
 "addwhasq-publish-action" = "Publier";
-"add-whasq-channel-label" = "Sélectionner le langage du Whasq :";
+"add-whasq-channel-label" = "Sélectionnez la langue du Whasq :";
 "add-whasq-channel-title" = "Langage";
 "add-whasq-message-placeholder" = "Mon message (255 caractères max)";
 "add-whasq-miss-skill-button" = "Il manque un talent ?";
@@ -178,7 +178,7 @@
 "consent-not-allow-button" = "Ne pas autoriser";
 "consent-warning-label" = "Veuillez lire toutes les conditions générales d'utilisation pour pouvoir poursuivre";
 "channel-validate-button" = "Valider";
-"channel-select-languages-label" = "Sélectionnez les langages auxquels vous voulez participer";
+"channel-select-languages-label" = "Sélectionnez les langages que vous parlez";
 "channel-title" = "Mes langues";
 "whasq-card-require-label" = "Nécessite votre présence";
 "login-connect-email-placeholder" = "Adresse email";
