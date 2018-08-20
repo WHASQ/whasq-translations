@@ -409,4 +409,16 @@
     <string name="recommendations_other_talents">Autres talents pouvant vous intéresser :</string>
 
     <!-- ********************************************************************************************** -->
+    
+    <string name="email_mandatory">Adresse email *</string>
+    <string name="fullname_mandatory">Nom complet *</string>
+    <string name="empty_screen">Il n\'y a rien ici pour l\'instant.</string>
+    <string name="please_retry">Essayez à nouveau, s\'il vous plaît</string>
+    <string name="channels_about">Langue concernée</string>
+    <string name="no_notification">Si quelqu\'un aime votre réponse ou recommande un de vos talents, vous recevrez des notifications</string>
+    <string name="SKILLS_SUBTITLE_REGISTRATION">Hey cher whasqer c\'est le moment de compléter votre profil.. Vous pouvez conseiller et aider sur :</string>
+    <string name="GEOLOCATION_PERMISSION_EXPLANATION">Pour solliciter les whasqueurs proches de vous, \npermettez à Whasq d’accéder à votre géolocalisation</string>
+    <string name="ranking_no_rank_for_month">Le podium n\'a pas encore été défini pour ce mois.</string>
+    <string name="session_expired">Votre session a expiré, veuillez vous reconnecter.</string>
+    <string name="error_useful_already">Vous avez déjà aimé ce commentaire</string>
 </resources>
