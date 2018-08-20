@@ -37,7 +37,7 @@ error:
 push:
     whasq:
         new.title: A new whasq is available
-        new.around.body: Somebody close to you is looking for your advice
+        new.arround.body: Somebody close to you is looking for your advice
         new.same.skill.body: Somebody needs your expertise 😎
         new.answer.title: You've received an answer 👌
         new.answer.body: Somebody answered your whasq 😜
