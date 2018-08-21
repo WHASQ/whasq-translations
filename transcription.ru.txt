@@ -1,60 +1,58 @@
-I create my profile
+Создать профиль
 
-Download Whasq
-Click on "Forgot password" 
-Enter your La Redoute email in order to reset your password 
-check your emails and reset your passoword 
-click on the link
-enter your new password 
-Log in 
-Please read these terms and conditions of use carefully
-The App is GDPR compliant
-Select your professional or personal skills
-Allow or not whasq to have access 
-to your geolocation data 
-Click here to modify your profile 
-complete your profile 
-you can choose the information visible to the public
-The default language is English 
-click here and select the languages you speak 
-Click here to delete the language 
+скачать WHASQ 
+Нажмите на "Забыл пароль"
+Введите адрес электронной почты, чтобы сменить пароль 
+проверьте ваши сообщения и смените пароль 
+нажмите на ссылку
+введите новый пароль
+Log in войти
+Пожалуйста, прочтите правила и условия использования
+Приложение GDPR совместимо
+Выберите свои профессиональные или личные качества
+Разрешите или запретите WHASQ доступ к данным геолокации 
+Нажмите сюда, чтобы изменить профиль 
+завершить профиль
+вы можете выбирать информацию, видимую другим пользователям
+Язык по умолчанию - английский 
+нажмите сюда и выберите языки, на которых вы говорите
+нажмите сюда, чтобы удалить язык
 
-I create a whasq
+Задать вопрос
 
-Click here to create a whasq 
-enter the title of your whasq 
-Option 1: send a message 
-option 2: record a video 
-Option 3: record an audio message 
-Option 4: Take a picture 
-Option 5: Import a picture from your phone gallery 
-Salect the skills concerned 
-select the language of your whasq 
-choose the language of your whasq 
-preview your whasq 
-click here to publish your whasq 
-recomment skills 
-here is your whasq 
-They have a hidden skill in common, they speak portuguese 
+Нажмите здесь, чтобы задать вопрос
+введите название своего вопроса
+Вариант 1: написать сообщение
+Вариант 2: записать видео
+Вариант 3: message создать аудиозапись
+Вариант 4: Сделать фотографию
+Вариант 5: Импортировать фотографию из галереи
+Укажите необходимые навыки 
+выберите язык вопроса
+выберите язык вопроса
+предпросмотр вопроса
+нажмите сюда, чтобы опубликовать вопрос
+рекомендованные навыки
+вот ваш вопрос 
+У них есть общий скрытый навык, они говорят по-португальски.
 
-My notifications and my ranking 
+Мои уведомления и мой ранг
+Нажмите сюда, чтобы увидеть уведомления
+Нажмите сюда, чтобы посмотреть уведомления
+Лайкнуть ответы
+10 очков за полезный ответ
+answer выберите сколько времени вы сэкономили благодаря этому ответу
+Чтобы выбрать лучший ответ, нажмите на кубок
+50 очков за решение 
 
-Click here to see the notifications 
-Click here to preview the notification 
-Like the answers 
-10 whasqpoints for a useful answer 
-select how much time you won thanks to this answer
-To choose the champion, click on the trophy
-50 whasqpoints for the solution 
+Мой рейтинг
 
-My ranking 
+Если ваш ответ будет полезен, то вы получите 10 очков
+Если ваш ответ будет лучшим, то вы получите 50 очков 
 
-If your answer is useful you win 10 whasqpoints 
-If your answer is the solution you win 50 whasqpoints 
+Ответить на вопрос
 
-Reply to a whasq 
-
-Skill concerned: "Portuguese"
-Jessie clearly indicated the skill "portuguese" on his profile 
-He can reply to the whasq 
-You can reply with: a message, an audio, a video, a picture 
+Необходимый навык: Португальский
+У Джесси в профиле отмечен навык “Португальский”
+Он может ответить на вопрос 
+Вы можете ответить с помощью: текста, аудиозаписи, видео, изображения 
