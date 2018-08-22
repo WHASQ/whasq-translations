@@ -258,7 +258,7 @@
     <string name="notificationType_whasq_new_answer">%1$s has replied to your Whasq : %2$s</string>
     <string name="notificationType_whasq_useful_answer">%1$s found your reply to be quite useful! %2$s</string>
     <string name="notificationType_whasq_champion_answer">%1$s has retained you as the champion of his Whasq! %2$s</string>
-    <string name="notificationType_whasq_blacklisted">%1$s has reported your Whaq : %2$s</string>
+    <string name="notificationType_whasq_blacklisted">%1$s has reported your Whasq : %2$s</string>
     <string name="notification_watch_blacklisted_whasq">This whasq is no longer visible.</string>
     <string name="notificationType_whasq_new_skill">A new skill %1$s has just been added! Complete your profile?</string>
     <string name="notificationType_whasq_new_admin_whasq">%1$s added a Whasq %2$s</string>
