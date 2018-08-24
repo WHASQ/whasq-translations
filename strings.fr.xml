@@ -181,8 +181,8 @@
     <string name="create_whasq_with_file">Whasquer en image !</string>
     <string name="create_whasq_form_validation_error">Veuillez renseigner toutes les informations.</string>
     <string name="need_camera_and_micro_permissions">Pour utiliser cette fonctionnalité, Whasq a besoin de votre autorisation pour accéder à votre caméra, micro et espace de stockage.</string>
-    <string name="exchange_easier">Facilitez vos échanges</string>
-    <string name="need_localisation_permission">Pour solliciter les whasquers proches de vous, permettez à Whasq d\'accéder à votre géolocalisation</string>
+    <string name="exchange_easier">Facilitez vos échanges</string>	
+    <string name="need_localisation_permission">Pour solliciter les whasqers proches de vous, permettez à Whasq d\'accéder à votre géolocalisation</string>
 
     <!-- ERROR HANDLER -->
     <string name="error_unknown">Une erreur inhabituelle est survenue.</string>
