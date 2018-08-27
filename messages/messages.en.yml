@@ -12,6 +12,7 @@ error:
     user.search.empty: No search string supplied
     answer.not.champion: This answer is not a solution
     answer.not.found: This answer doesn't exist anymore
+    answer.with.attribute: This answer can't be deleted as has it already a mention 😛
     answer.deletion.by.author: Only the author can delete this answer
     answer.edition.by.author: Only the author can modify this answer
     answer.report.himself: User can't report it's own answer
