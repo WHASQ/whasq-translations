@@ -12,6 +12,7 @@ error:
     user.email.unknow: Aucun utilisateur trouvé pour cet email
     answer.not.champion: Cette réponse n'est pas une solution
     answer.not.found: Cette réponse n'existe pas ou a été supprimée
+    answer.with.attribute: This answer can't be deleted as has it already a mention 😛
     answer.deletion.by.author: Seul l'auteur peut supprimer une réponse
     answer.edition.by.author: Seul l'auteur peut modifier une réponse
     answer.report.himself: Un utilisateur ne peut pas signaler sa propre réponse
