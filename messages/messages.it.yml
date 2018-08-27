@@ -10,6 +10,7 @@ error:
     user.email.unknow: Nessun utente trovato
     answer.not.champion: Quest risposta non è una soluzione
     answer.not.found: Questa risposta non esiste o è stata eliminata
+    answer.with.attribute: This answer can't be deleted as has it already a mention 😛
     answer.deletion.by.author: Solo l'autore può eliminare una risposta
     answer.edition.by.author: Solo l'autore può modificare una risposta
     answer.report.himself: Un utente non può segnalare la sua risposta
