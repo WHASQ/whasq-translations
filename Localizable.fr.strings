@@ -188,7 +188,7 @@
 "geoloc-allow-button" = "Autoriser";
 "geoloc-not-allow-button" = "Ne pas autoriser";
 "notification-allow-button" = "Autoriser";
-"notification-description-label" = "Si vous souhaitez être alerté lorsque vous recevez des réponses à vos questions, Whasq vous demande l'autorisation d'envoyer des notifications.";
+"notification-description-label" = "Soyez au courant de tout ce qu’il se passe grâce aux notifications, Whasq vous demande l'autorisation d'envoyer des notifications.";
 "notification-title-label" = "Notifications";
 "notification-not-allow-button" = "Ne pas autoriser";
 "login-register-name-placeholder" = "Nom complet";
