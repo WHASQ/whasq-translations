@@ -243,12 +243,12 @@
 "notification-new-skill" = "Se ha agregado una nueva habilidad (%@). ¿Deseas agregarla en tu perfil?";
 "faq-action-sheet" = "Preguntas frecuentes";
 "faq-not-found-alert-message" = "Las preguntas frecuentes no se cargaron correctamente, verifica tu conexión internet e inténtalo de nuevo";
-"recommended-skill-description-label" = "recomendado para los siguientes talentos:";
+"recommended-skill-description-label" = "Te ha recomendado los siguientes talentos:";
 "profile-skill-empty-label""="Seguro que tienes algunos, así que completa tu perfil 😉";
 "recommended-other-skill-description-label" = "Otros talentos que te podrían interesar: ";
 "recommended-skill-accept-error-alert" = "Se produjo un error al agregar talento 🙄\nInténtalo de nuevo";
 "recommended-skill-refuse-error-alert" = "Se produjo un error al eliminar el talento recomendado 🙄\nInténtalo de nuevo";
-"recommended-skills-description-label" = "Tus compañeros te han recomendado por tus talentos. ¿Quieres confirmar estos talentos?";
+"recommended-skills-description-label" = "Es hora de mejorar tu perfil";
 "skip-button" = "Continuar";
 "whasq-card-require-label" = "Requires your presence";
 "alert-cannot-send-mail" = "Unable to send an email with this device";
