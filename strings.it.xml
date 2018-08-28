@@ -395,7 +395,7 @@
 
     <!-- Recommendations -->
     <string name="recommendations_skip">Saltare</string>
-    <string name="recommendations_intro_text">Lei è stato raccomandato per i Suoi talenti dai colleghi.\n\nConfermare questi talenti?</string>
+    <string name="recommendations_intro_text">È tempo di arricchire il Suo profilo</string>
     <string name="recommendations_talents_reco_by_someone">%s Le ha consigliato per i talenti :</string>
     <string name="recommendations_other_talents">Altri talenti che potrebbero interessarti :</string>
     
