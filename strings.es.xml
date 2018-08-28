@@ -393,7 +393,7 @@
 
     <!-- Recommendations -->
     <string name="recommendations_skip">Pasar</string>
-    <string name="recommendations_intro_text">Tus compañeros te han recomendado por tus talentos.\n\n¿Confirmar los talentos?</string>
+    <string name="recommendations_intro_text">Es hora de mejorar tu perfil </string>
     <string name="recommendations_talents_reco_by_someone">%s te ha recomendado los siguientes talentos :</string>
     <string name="recommendations_other_talents">Otros talentos que podrían intersarte :</string>
 </resources>
