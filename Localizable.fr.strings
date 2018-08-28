@@ -247,6 +247,7 @@
 "faq-not-found-alert-message" = "Oups, la FAQ ne s’est pas chargée correctement, vérifiez votre connexion Internet et rafraîchissez la page";
 "skip-button" = "Passer";
 "recommended-skills-description-label" = "Il est temps d'enrichir votre profil";
+"recommended-other-skill-description-label" = "Autres talents pouvant vous intéresser: ";
 "recommended-skill-description-label" = "vous a recommandé pour ces talents:";
 "profile-skill-empty-label" = "Bien sûr, vous en avez ! Alors complétez votre profil 😉!";
 "recommended-skill-accept-error-alert" = "Une erreur est survenue lors de l'ajout du talent 🙄\n Veuillez réessayer plus tard";
