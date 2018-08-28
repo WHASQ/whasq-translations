@@ -404,7 +404,7 @@
 
     <!-- Recommendations -->
     <string name="recommendations_skip">Passer</string>
-    <string name="recommendations_intro_text">Vous avez été recommandé pour vos talents par des collègues.\n\nConfirmer ces talents ?</string>
+    <string name="recommendations_intro_text">Il est temps d'enrichir votre profil</string>
     <string name="recommendations_talents_reco_by_someone">%s vous a recommandé pour les talents :</string>
     <string name="recommendations_other_talents">Autres talents pouvant vous intéresser :</string>
 
