@@ -10,7 +10,7 @@ error:
     user.email.unknow: No se encuentra ninguna cuenta con este e-mail 
     answer.not.champion: Esta respuesta no es una solución 
     answer.not.found: Esta respuesta no existe o ha sido borrada
-    answer.with.attribute: This answer can't be deleted as has it already a mention 😛
+    answer.with.attribute: El comentario no puede ser borrado ya que tus compañeros lo aprecian 😛
     answer.deletion.by.author: Solo el autor  puede borrar la respuesta 
     answer.edition.by.author: Solo el autor puede modificar una respuesta 
     answer.report.himself: Un usuario no puede señalar su propia respuesta 
