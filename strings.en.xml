@@ -419,7 +419,7 @@
 
     <!-- Recommendations -->
     <string name="recommendations_skip">Skip</string>
-    <string name="recommendations_intro_text">You have been recommended for your skills by co-workers.\n\nConfirm these skills?</string>
+    <string name="recommendations_intro_text">It is time to enrich your profile</string>
     <string name="recommendations_talents_reco_by_someone">%s recommended you for these skills: </string>
     <string name="recommendations_other_talents">Other skills that may interest you:</string>
 
