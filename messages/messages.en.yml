@@ -8,7 +8,7 @@ error:
     user.bad.credentials: Authentication failure. Please verify your credentials
     user.bad.checksum: We were not able to change your password. Checksum is icorrect
     user.email.already.in.use: This email is already in use
-    user.email.private.store: Your account already exists 😛 Connect with your email address @%{domain} and the password you've received by email
+    user.email.private.store: Oops, your account already exists 😛 Connect with your email address @%{domain} and the password you've received by email
     user.email.unknow: No user found identified by this email
     user.search.empty: No search string supplied
     answer.not.champion: This answer is not a solution
