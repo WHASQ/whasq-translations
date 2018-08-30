@@ -8,6 +8,7 @@ error:
     user.bad.credentials: Ошибка идентификации. Пожалуйста, проверьте ваши учетные данные
     user.bad.checksum: Нам не удалось изменить ваш пароль.
     user.email.already.in.use: Этот электронный адрес уже используется
+    user.email.private.store: Your account already exists 😛 Connect with your email address @%{domain} and the password you've received by email
     user.email.unknow: Не удалось найти пользователя по указанному адресу электронной почты
     user.search.empty: Ничего не выбрано
     answer.not.champion: Этот ответ не является решением
