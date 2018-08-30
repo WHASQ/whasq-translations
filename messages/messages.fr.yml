@@ -8,11 +8,12 @@ error:
     user.bad.credentials: Echec d'authentification. Vérifier vos identifiant/mot de passe
     user.bad.checksum: Impossible de modifier le mot de passe car le checksum est incorrect
     user.email.already.in.use: Cet email est déjà utilisé
+    user.email.private.store: Oups, votre compte existe déjà 😛 Connectez-vous grâce à votre adresse @%{domain} et le mot de passe que vous avez reçu par mail
     user.search.empty: Pas de recherche saisie
     user.email.unknow: Aucun utilisateur trouvé pour cet email
     answer.not.champion: Cette réponse n'est pas une solution
     answer.not.found: Cette réponse n'existe pas ou a été supprimée
-    answer.with.attribute:Le commentaire ne peut pas être supprimé car il est apprécié par vos collègues  😛
+    answer.with.attribute: Le commentaire ne peut pas être supprimé car il est apprécié par vos collègues  😛
     answer.deletion.by.author: Seul l'auteur peut supprimer une réponse
     answer.edition.by.author: Seul l'auteur peut modifier une réponse
     answer.report.himself: Un utilisateur ne peut pas signaler sa propre réponse
