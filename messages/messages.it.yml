@@ -7,11 +7,11 @@ error:
     user.bad.credentials: Errore di autenticazione
     user.bad.checksum: Impossibile di modificare la password perché non è corretto il checksum
     user.email.already.in.use: L'indirizzo email è già stato registrato
-    user.email.private.store: Your account already exists 😛 Connect with your email address @%{domain} and the password you've received by email
+    user.email.private.store: Ops, il tuo account esiste già 😛 Connettiti con il tuo indirizzo email @%{domain} e la password che hai ricevuto via email
     user.email.unknow: Nessun utente trovato
     answer.not.champion: Quest risposta non è una soluzione
     answer.not.found: Questa risposta non esiste o è stata eliminata
-    answer.with.attribute: This answer can't be deleted as has it already a mention 😛
+    answer.with.attribute: Il commento non può essere cancellato perché i tuoi colleghi lo apprezzano 😛
     answer.deletion.by.author: Solo l'autore può eliminare una risposta
     answer.edition.by.author: Solo l'autore può modificare una risposta
     answer.report.himself: Un utente non può segnalare la sua risposta
