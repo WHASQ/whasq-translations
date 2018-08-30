@@ -46,13 +46,13 @@
 "cgu-accept" = "J'accepte les conditions d'utilisations";
 "cgu-action-sheet" = "Conditions générales d'utilisation";
 "comment-alert-message" = "Le commentaire n'a pas pu être posté 🙄";
-"comment-alert-title" = "Erreur";
+"comment-alert-title" = "Oups";
 "comment-champion-alert-message" = "Votre avis n'a pas pu être pris en compte 🙄";
-"comment-champion-alert-title" = "Erreur";
+"comment-champion-alert-title" = "Oups";
 "comment-empty-alert-message" = "Le commentaire ne peut pas être vide 😉";
-"comment-empty-alert-title" = "Erreur";
+"comment-empty-alert-title" = "Oups";
 "comment-useful-alert-message" = "Votre avis n'a pas pu être pris en compte 🙄";
-"comment-useful-alert-title" = "Erreur";
+"comment-useful-alert-title" = "Oups";
 "connection-alert-credentials-message" = "Email ou mot de passe incorrect";
 "connection-alert-error-title" = "Une erreur s'est produite. Vérifiez votre connexion internet";
 "days" = "jour";
