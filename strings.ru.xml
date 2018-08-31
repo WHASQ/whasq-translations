@@ -308,6 +308,8 @@
     <string name="COMMON_SAVE">Сохранить</string>
     <string name="COMMON_SEND">Отправить</string>
     <string name="COMMON_FEATURE_COMING_SOON">Эта идея ещё не была реализована.</string>
+    <string name="COMMON_YES">Yes</string>
+    <string name="COMMON_NO">No</string>
 
     <!-- ERRORS -->
     <string name="ERROR_DISCONNECT">Ваша сессия истекла.</string>
@@ -386,6 +388,7 @@
     <string name="status_resolved"> Статус: решён</string>
     <string name="status_unresolved">Статус: нерешён</string>
     <string name="read">прочитать</string>
+    <string name="WHASQ_ANSWER_VALIDATE_CHAMPION_MESSAGE">Является ли этот ответ решением?</string>
 			
     <!-- Geolocation -->
     <string name="GEOLOCATION_PERMISSION_TITLE">Развейте вашу дискуссиюFacilitate your discussions</string>

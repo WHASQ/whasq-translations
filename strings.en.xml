@@ -308,6 +308,8 @@
     <string name="COMMON_SAVE">Save</string>
     <string name="COMMON_SEND">Send</string>
     <string name="COMMON_FEATURE_COMING_SOON">This feature has not been implemented yet.</string>
+    <string name="COMMON_YES">Yes</string>
+    <string name="COMMON_NO">No</string>
 
     <!-- ERRORS -->
     <string name="ERROR_DISCONNECT">Your session has expired.</string>
@@ -386,6 +388,7 @@
     <string name="status_resolved">Status : resolved</string>
     <string name="status_unresolved">Status : unresolved</string>
     <string name="read">read</string>
+    <string name="WHASQ_ANSWER_VALIDATE_CHAMPION_MESSAGE">Is this answer a solution?</string>
 
     <!-- Geolocation -->
     <string name="GEOLOCATION_PERMISSION_TITLE">Facilitate your discussions</string>

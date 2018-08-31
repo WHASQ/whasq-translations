@@ -285,6 +285,8 @@
     <string name="COMMON_SAVE">Guardar</string>
     <string name="COMMON_SEND">Enviar</string>
     <string name="COMMON_FEATURE_COMING_SOON">Esta función no está disponible </string>
+    <string name="COMMON_YES">Yes</string>
+    <string name="COMMON_NO">No</string>
 
     <!-- ERRORS -->
     <string name="ERROR_DISCONNECT">Tu sesión ha expirado.</string>
@@ -360,6 +362,7 @@
 
     <!-- Whasq -->
     <string name="read">Leído</string>
+    <string name="WHASQ_ANSWER_VALIDATE_CHAMPION_MESSAGE">¡Tu respuesta es una solución ?</string>
 
     <!-- Geolocation -->
     <string name="GEOLOCATION_PERMISSION_TITLE">Facilita  tus  intercambios</string>

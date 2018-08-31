@@ -296,6 +296,8 @@
     <string name="COMMON_SAVE">Sauvegarder</string>
     <string name="COMMON_SEND">Envoyer</string>
     <string name="COMMON_FEATURE_COMING_SOON">Cette fonctionalité n\'est pas encore disponible</string>
+    <string name="COMMON_YES">Oui</string>
+    <string name="COMMON_NO">Non</string>
 
     <!-- ERRORS -->
     <string name="ERROR_DISCONNECT">Votre session a expiré.</string>
@@ -371,6 +373,7 @@
 
     <!-- Whasq -->
     <string name="read">Lu</string>
+    <string name="WHASQ_ANSWER_VALIDATE_CHAMPION_MESSAGE">Cette réponse est une solution ?</string>
 
     <!-- Geolocation -->
     <string name="GEOLOCATION_PERMISSION_TITLE">Facilitez vos échanges</string>
