@@ -12,6 +12,7 @@ error:
     user.email.unknow: No user found identified by this email
     user.search.empty: No search string supplied
     answer.not.champion: This answer is not a solution
+    answer.useful.exists: You've already liked this comment 😛
     answer.not.found: This answer doesn't exist anymore
     answer.with.attribute: This answer can't be deleted as has it already a mention 😛
     answer.deletion.by.author: Only the author can delete this answer
