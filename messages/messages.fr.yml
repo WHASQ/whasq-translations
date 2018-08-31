@@ -12,6 +12,7 @@ error:
     user.search.empty: Pas de recherche saisie
     user.email.unknow: Aucun utilisateur trouvé pour cet email
     answer.not.champion: Cette réponse n'est pas une solution
+    answer.useful.exists: Vous avez déjà liké ce commentaire 😛
     answer.not.found: Cette réponse n'existe pas ou a été supprimée
     answer.with.attribute: Le commentaire ne peut pas être supprimé car il est apprécié par vos collègues  😛
     answer.deletion.by.author: Seul l'auteur peut supprimer une réponse
