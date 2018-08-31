@@ -54,7 +54,7 @@
 "comment-champion-alert-message" = "El comentario no ha sido publicado 🙄";
 "comment-champion-alert-title" = "Oups";
 "comment-empty-alert-message" = "El comentario no puede estar en blanco 😉";
-"comment-empty-alert-title" = "Error";
+"comment-empty-alert-title" = "Oups";
 "comment-useful-alert-message" = "El comentario no ha sido publicado 🙄";
 "comment-useful-alert-title" = "Oups";
 "connection-alert-credentials-message" = "Contraseña o correo electrónico incorrecto.";
@@ -89,7 +89,7 @@
 "error-request-user-data" = "Se produjo un error, no podemos enviar la información, por favor inténtalo nuevamente 🙄";
 "error-useful-already" = "Ya te gusta este comentario 😉";
 "error-useful-same-user" = "No puedes darle Like a tu propio comentario 😉";
-"error" = "Error";
+"error" = "Oups";
 "estimate-alert-halfday-action" = "1/2 día";
 "estimate-alert-day-action" = "1 día";
 "estimate-alert-twodays-action" = "2 días";
@@ -182,7 +182,7 @@
 "profile-edit-name-placeholder" = "Apellido";
 "profile-edit-nav-title" = "Modificar mi perfil";
 "profile-edit-phone-placeholder" = "Numero de telefono";
-"profile-edit-title" = "Error";
+"profile-edit-title" = "Oups";
 "profile-edit-validate-button" = "Aceptar";
 "profile-hidden-data" = "No visible para el público";
 "profile-infos-other" = "Información";
@@ -243,12 +243,13 @@
 "notification-new-skill" = "Se ha agregado una nueva habilidad (%@). ¿Deseas agregarla en tu perfil?";
 "faq-action-sheet" = "Preguntas frecuentes";
 "faq-not-found-alert-message" = "Las preguntas frecuentes no se cargaron correctamente, verifica tu conexión internet e inténtalo de nuevo";
-"recommended-skill-description-label" = "Te ha recomendado los siguientes talentos:";
-"profile-skill-empty-label""="Seguro que tienes algunos, así que completa tu perfil 😉";
+"recommended-skill-description-label" = "recomendado para los siguientes talentos:";
+"profile-skill-empty-label"="Seguro que tienes algunos, así que completa tu perfil 😉";
 "recommended-other-skill-description-label" = "Otros talentos que te podrían interesar: ";
 "recommended-skill-accept-error-alert" = "Se produjo un error al agregar talento 🙄\nInténtalo de nuevo";
 "recommended-skill-refuse-error-alert" = "Se produjo un error al eliminar el talento recomendado 🙄\nInténtalo de nuevo";
-"recommended-skills-description-label" = "Es hora de mejorar tu perfil";
+"recommended-skills-description-label" = "Tus compañeros te han recomendado por tus talentos. ¿Quieres confirmar estos talentos?";
 "skip-button" = "Continuar";
 "whasq-card-require-label" = "Requires your presence";
 "alert-cannot-send-mail" = "Unable to send an email with this device";
+"whasq-set-champion-alert" = "¡Tu respuesta es una solución ?";

@@ -46,13 +46,13 @@
 "cgu-accept" = "J'accepte les conditions d'utilisations";
 "cgu-action-sheet" = "Conditions générales d'utilisation";
 "comment-alert-message" = "Le commentaire n'a pas pu être posté 🙄";
-"comment-alert-title" = "Erreur";
+"comment-alert-title" = "Oups";
 "comment-champion-alert-message" = "Votre avis n'a pas pu être pris en compte 🙄";
-"comment-champion-alert-title" = "Erreur";
+"comment-champion-alert-title" = "Oups";
 "comment-empty-alert-message" = "Le commentaire ne peut pas être vide 😉";
-"comment-empty-alert-title" = "Erreur";
+"comment-empty-alert-title" = "Oups";
 "comment-useful-alert-message" = "Votre avis n'a pas pu être pris en compte 🙄";
-"comment-useful-alert-title" = "Erreur";
+"comment-useful-alert-title" = "Oups";
 "connection-alert-credentials-message" = "Email ou mot de passe incorrect";
 "connection-alert-error-title" = "Une erreur s'est produite. Vérifiez votre connexion internet";
 "days" = "jour";
@@ -75,7 +75,7 @@
 "error-request-user-data" = "Une erreur est survenue, vos données n'ont pas pu être envoyées, veuillez réessayer 🙄";
 "error-useful-already" = "Vous avez déjà aimé ce commentaire 😉";
 "error-useful-same-user" = "Vous ne pouvez pas aimer votre propre commentaire 😉";
-"error" = "Erreur";
+"error" = "Oups";
 "filter-oldest" = "Anciens";
 "filter-recent" = "Récents";
 "filter-relevance" = "Pertinents";
@@ -121,7 +121,7 @@
 "profile-delete-language-warning-message" = "Voulez-vous vraiment supprimer cette langue de votre profil : ";
 "profile-delete-skill-warning-message" = "Voulez-vous vraiment vous supprimer le talent : ";
 "profile-edit-message" = "Vos informations n'ont pas pu être éditées 🙄";
-"profile-edit-title" = "Erreur";
+"profile-edit-title" = "Oups";
 "profile-edit-nav-title" = "Éditer mon profil";
 "profile-edit-validate-button" = "Valider";
 "profile-hidden-data" = "Non visible au public";
@@ -252,3 +252,5 @@
 "profile-skill-empty-label" = "Bien sûr, vous en avez ! Alors complétez votre profil 😉!";
 "recommended-skill-accept-error-alert" = "Une erreur est survenue lors de l'ajout du talent 🙄\n Veuillez réessayer plus tard";
 "recommended-skill-refuse-error-alert" = "Une erreur est survenue lors la suppression du talent recommendé 🙄\n Veuillez réessayer plus tard";
+"whasq-set-champion-alert" = "Cette réponse est une solution ?";
+
