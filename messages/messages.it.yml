@@ -28,8 +28,8 @@ error:
     whasq.estimation.mismatch: Si è verificato un errore
     whasq.blacklisted: Questo whasq è stato segnalato
     whasq.edit.with.answer: Questo whasq non può essere modificato perché ci sono già risposte
-    whasq.create.missing.title: Please complete the whasq title 😜
-    whasq.create.missing.skill: Please complete at least one skill 😜
+    whasq.create.missing.title: Aggiungere un titolo 😜
+    whasq.create.missing.skill: Scegliere almeno uno talento 😜
     recommendation.already.exist: Ha già consigliato questo talento
     recommendation.accept: Solo un utente consigliato può accettare un suggerimento
     recommendation.refuse : L'utente ha già questo talento. Il suggerimento è stato rifiutato
