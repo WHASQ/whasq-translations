@@ -39,6 +39,7 @@ error:
     recommendation.waiting: This endorsement is not pending anymore
     store.any.public: The public store does not exists
     email.invalid: Invalid email address
+    password.invalid: "The password must contain at least 12 letters including at least 4 other characters (uppercase, lowercase, numeral and special character)."
     fullname.invalid: Invalid name
 push:
     whasq:
