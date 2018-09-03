@@ -30,6 +30,8 @@ error:
     whasq.estimation.mismatch: Oups, mauvais match whasq & user
     whasq.blacklisted: Ce whasq a été signalé
     whasq.edit.with.answer: Ce whasq ne peut pas être modifié car il comporte déjà des réponses
+    whasq.create.missing.title: Please complete the whasq title 😜
+    whasq.create.missing.skill: Please complete at least one skill 😜
     recommendation.already.exist: Vous avez déjà recommandé cette compétence
     recommendation.accept: Seul un utilisateur recommandé peut accepter une recommandation
     recommendation.refuse : L'utilisateur a déjà ce talent. La recommandation a été définie comme "refusée"
