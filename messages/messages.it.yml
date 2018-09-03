@@ -39,7 +39,7 @@ error:
     user.profile.already.updated: Il Suo profilo può essere aggiornato solo una volta, contattare il Suo administratore
     user.search.empty: Nessuna ricerca inserita
     email.invalid: La email non è corretta
-    password.invalid: The password must contain at least 12 letters including at least 4 other characters (uppercase, lowercase, numeral and special character) 👀
+    password.invalid: The password must contain at least 8 letters including at least 4 other characters (uppercase, lowercase, numeral and special character) 👀
     fullname.invalid: Il nome non è corretto 
 push:
     whasq:
