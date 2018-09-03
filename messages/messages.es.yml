@@ -30,7 +30,7 @@ error:
     whasq.edit.with.answer: Este whasq no puede ser modificado ya que contiene varias respuestas
     whasq.create.missing.title: Un Whasq debe tener un título 😜
     whasq.create.missing.skill: Un Whasq debe tener al menos un talento 😜
-    whasq.create.missing.language: Please complete the language in which this whasq is writtent 😜
+    whasq.create.missing.language: Un Whasq debe tener un idioma definido 😜
     recommendation.already.exist: Ya has recomendado este talento 
     recommendation.accept: Solo un usuario recomendado puede aceptar una recomendación 
     recommendation.refuse : El usuario ya tiene este talento. La recomendación  ha sido rechazada
