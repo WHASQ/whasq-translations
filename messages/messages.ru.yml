@@ -39,6 +39,7 @@ error:
     recommendation.waiting: Произошла ошибка
     store.any.public: Произошла ошибка
     email.invalid: Неверный адрес электронной почты
+    password.invalid: Пароль должен содержать не менее 12 букв, включая как минимум 4 других символа (прописные, строчные, цифровые и специальные)
     fullname.invalid: Неверное имя
 push:
     whasq:
