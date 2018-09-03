@@ -27,7 +27,9 @@ error:
     whasq.already.estimated.resolver: Se produjo un error
     whasq.estimation.mismatch: Se produjo un error
     whasq.blacklisted: Este whasq ha sido señalado
-    whasq.edit.with.answer: Este whasq no puede ser modificado ya que contiene varias respuestas 
+    whasq.edit.with.answer: Este whasq no puede ser modificado ya que contiene varias respuestas
+    whasq.create.missing.title: Please complete the whasq title 😜
+    whasq.create.missing.skill: Please complete at least one skill 😜
     recommendation.already.exist: Ya has recomendado este talento 
     recommendation.accept: Solo un usuario recomendado puede aceptar una recomendación 
     recommendation.refuse : El usuario ya tiene este talento. La recomendación  ha sido rechazada
