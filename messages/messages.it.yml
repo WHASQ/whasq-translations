@@ -10,7 +10,7 @@ error:
     user.email.private.store: Ops, il tuo account esiste già 😛 Connettiti con il tuo indirizzo email @%{domain} e la password che hai ricevuto via email
     user.email.unknow: Nessun utente trovato
     answer.not.champion: Quest risposta non è una soluzione
-    answer.useful.exists: You've already liked this comment 😛
+    answer.useful.exists: Ti è già piaciuto questo commento 😛
     answer.not.found: Questa risposta non esiste o è stata eliminata
     answer.with.attribute: Il commento non può essere cancellato perché i tuoi colleghi lo apprezzano 😛
     answer.deletion.by.author: Solo l'autore può eliminare una risposta
@@ -39,7 +39,7 @@ error:
     user.profile.already.updated: Il Suo profilo può essere aggiornato solo una volta, contattare il Suo administratore
     user.search.empty: Nessuna ricerca inserita
     email.invalid: La email non è corretta
-    fullname.invalid: Il nome non è corretto
+    fullname.invalid: Il nome non è corretto 
 push:
     whasq:
         new.title: C'è un whasq per te
