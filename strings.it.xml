@@ -286,8 +286,8 @@
     <string name="COMMON_SAVE">Salvare</string>
     <string name="COMMON_SEND">Inviare</string>
     <string name="COMMON_FEATURE_COMING_SOON">Questa funzionale non è ancora disponibile</string>
-    <string name="COMMON_YES">Yes</string>
-    <string name="COMMON_NO">No</string>
+    <string name="COMMON_YES">Si</string>
+    <string name="COMMON_NO">Non</string>
 
     <!-- ERRORS -->
     <string name="ERROR_DISCONNECT">La Sua sessione è scaduta.</string>
