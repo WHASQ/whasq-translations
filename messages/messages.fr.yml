@@ -101,7 +101,7 @@ email:
     gdpr:
         title:  Whasq - récupération de données
         body.div1: "Vous avez demandé à recevoir les données personnelles stockées sur l'application whasq pour le compte: %{email}"
-        body.div2: "Veuillez trouvez ci-dessous un lien pour les télécharger:"
+        body.div2: "Veuillez trouver ci-dessous un lien pour les télécharger:"
         body.div3: Télécharger mes données Whasq
         body.div4: Attention, ce lien a une durée de vie limitée à 48h.
     account:
