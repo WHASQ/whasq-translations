@@ -39,6 +39,7 @@ error:
     user.profile.already.updated: Tu perfil solo puede ser actualizado una vez, contacta el administrador
     user.search.empty: Ninguna busqueda ingresada
     email.invalid: Correo electrónico no válida
+    password.invalid: The password must contain at least 12 letters including at least 4 other characters (uppercase, lowercase, numeral and special character) 👀
     fullname.invalid: Nombre inválido
 push:
     whasq:
