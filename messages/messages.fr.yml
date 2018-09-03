@@ -32,6 +32,7 @@ error:
     whasq.edit.with.answer: Ce whasq ne peut pas être modifié car il comporte déjà des réponses
     whasq.create.missing.title: Un whasq doit comporter un titre  😜
     whasq.create.missing.skill: Un whasq doit comporter au moins un talent 😜
+    whasq.create.missing.language: Please complete the language in which this whasq is writtent 😜
     recommendation.already.exist: Vous avez déjà recommandé cette compétence
     recommendation.accept: Seul un utilisateur recommandé peut accepter une recommandation
     recommendation.refuse : L'utilisateur a déjà ce talent. La recommandation a été définie comme "refusée"
