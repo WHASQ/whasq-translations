@@ -285,7 +285,7 @@
     <string name="COMMON_SAVE">Guardar</string>
     <string name="COMMON_SEND">Enviar</string>
     <string name="COMMON_FEATURE_COMING_SOON">Esta función no está disponible </string>
-    <string name="COMMON_YES">Yes</string>
+    <string name="COMMON_YES">Si</string>
     <string name="COMMON_NO">No</string>
 
     <!-- ERRORS -->
