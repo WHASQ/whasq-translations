@@ -6,6 +6,8 @@ error:
     user.locked: Пользователь заблокирован
     user.deleted: Пользователь удален
     user.bad.credentials: Ошибка идентификации. Пожалуйста, проверьте ваши учетные данные
+    user.bad.credentials.warning: Authentication failure. Please verify your credentials. This is your last try before getting your account locked
+    user.bad.credentials.locked: Authentication failure. Your account has been locked. Please change your password
     user.bad.checksum: Нам не удалось изменить ваш пароль.
     user.email.already.in.use: Этот электронный адрес уже используется
     user.email.private.store: Этот электронный адрес уже используется 😛 Подключитесь к своему адресу электронной почты @%{domain} и пароль, который вы получили по электронной почте
