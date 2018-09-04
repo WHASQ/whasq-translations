@@ -115,6 +115,7 @@ email:
             body.div2: "Для изменения пароля пройдите по ссылке:"
             body.div3: Изменить пароль
             body.div4: Эта ссылка активна в течение 48 часов.
+            warning: Your account has been blocked due to 4 failed connection attemps. In order to unlock it you must change your password.
         creation:
             title: Добро пожаловать в Whasq - Новые данные учетной записи
             body.div1: Добро пожаловать в Whasq!
