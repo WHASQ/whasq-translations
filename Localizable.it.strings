@@ -238,7 +238,7 @@
 "whasq-status-unresolved" = "non risolto";
 "whasq-status" = "Status";
 "yes" = "Sì";
-"notification-tag-user" = "%@ ha bisogno del Suo aiuto per il whasq : %@";
+"notification-tag-user" = "Lei è stato racommandato da %@ per il whasq : %@";
 "notification-admin-whasq" = "%@ ha aggiunto un nuovo Whasq %@";
 "notification-new-skill" = "Un nuovo talent (%@) è stato aggiunto! Lei vuole aggiungerlo sul Suo profilo?";
 "faq-action-sheet" = "FAQ";
