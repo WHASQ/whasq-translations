@@ -239,7 +239,7 @@
     <string name="notification_watch_blacklisted_whasq">Questo whasq non è visibile.</string>
     <string name="notificationType_whasq_new_skill">Un nuovo talento  %1$s è stato appena aggiunto! Completa il Suo profilo?</string>
     <string name="notificationType_whasq_new_admin_whasq">%1$s ha aggiunto un whasq %2$s</string>
-    <string name="notificationType_whasq_tag_user">Lei è stato consigliato da %1$s. Aiuta il Suo collega per il whasq %2$s.</string>
+    <string name="notificationType_whasq_tag_user">Lei è stato raccomandato da %1$s per il whasq : %2$s.</string>
     <string name="no_notification">Risponde al Suo primo whasq e vedrà notificazione.</string>
     <!-- Import picture -->
     <string name="alert_choose_picture_profil_title">Foto del profilo</string>
