@@ -5,8 +5,8 @@ error:
     user.profile.already.updated: Votre nom du profil ne peut être mise à jour qu'une seule fois, contactez votre administrateur
     user.locked: Cet utilisateur a été bloqué
     user.deleted: Cet utilisateur a été supprimé
-    user.bad.credentials: Echec d'authentification. Vérifier vos identifiant/mot de passe
-    user.bad.credentials.warning: Authentication failure. Please verify your credentials. This is your last try before getting your account locked
+    user.bad.credentials: Echec d'authentification. Vérifiez vos identifiants
+    user.bad.credentials.warning: Echec d'authentification. Vérifiez vos identifiants. Ceci est votre dernier essai avant que votre compte ne soit bloqué
     user.bad.credentials.locked: Authentication failure. Your account has been locked. Please change your password
     user.bad.checksum: Impossible de modifier le mot de passe car le checksum est incorrect
     user.email.already.in.use: Cet email est déjà utilisé
