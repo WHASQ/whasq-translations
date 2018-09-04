@@ -5,6 +5,8 @@ error:
     user.locked: Questo utente è stato bloccato
     user.deleted: Questo utente è stato eliminato
     user.bad.credentials: Errore di autenticazione
+    user.bad.credentials.warning: Authentication failure. Please verify your credentials. This is your last try before getting your account locked
+    user.bad.credentials.locked: Authentication failure. Your account has been locked. Please change your password
     user.bad.checksum: Impossibile di modificare la password perché non è corretto il checksum
     user.email.already.in.use: L'indirizzo email è già stato registrato
     user.email.private.store: Ops, il tuo account esiste già 😛 Connettiti con il tuo indirizzo email @%{domain} e la password che hai ricevuto via email
