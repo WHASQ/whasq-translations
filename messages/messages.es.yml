@@ -5,8 +5,8 @@ error:
     user.locked: El usuario ha sido bloqueado
     user.deleted: El usuario ha sido borrado
     user.bad.credentials: Error de conexion. Revisa tu correo y contraseña
-    user.bad.credentials.warning: Authentication failure. Please verify your credentials. This is your last try before getting your account locked
-    user.bad.credentials.locked: Authentication failure. Your account has been locked. Please change your password
+    user.bad.credentials.warning: Error de autenticación. Verifica tus ID’s. Este es su último intento antes de que tu cuenta se bloquee.
+    user.bad.credentials.locked: Tu cuenta ha sido bloqueada debido a  4 intentos de conexión. Para desbloquear la cuenta, por favor cambia la contraseña.
     user.bad.checksum: Imposible modificar la contraseña ya que el le checksum no es correcto
     user.email.already.in.use: Este e-mail ya ha sido utilizado
     user.email.private.store: La cuenta ya existe 😛 Conéctate con tu correo electrónico @% {domain} y la contraseña que recibiste a tu correo electrónico
