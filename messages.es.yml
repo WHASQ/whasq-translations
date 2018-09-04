@@ -1,0 +1,14 @@
+app:
+  form:
+    change.password:
+      label.password: Nouveau mot de passe
+      label.confirm.password: Confirmez le mot de passe
+      label.remark: Le mot de passe doit contenir au moins 8 lettres dont au moins 4 autres caractères (majuscule, miniscule, chiffre et caractère spécial).
+      button.submit: Effectuer le changement
+      result:
+        success: Le changement de votre mot de pase a bien été pris en compte
+        failure: Impossible de modifier le mot de passe. Le lien est peut-être erroné ou n\'est plus actif ou alors ne contient pas au moins 8 lettres dont au moins 4 autres caractères (majuscule, miniscule, chiffre et caractère spécial)
+    unsubscribe:
+      result:
+        success: Votre désinscription a bien été prise en compte
+        failure: Votre désinscription n\'a bien été pris en compte. Le lien est peut-être erroné ou n\'est plus actif. Ou tout simplement vous aves déjà été désincrit(e)
