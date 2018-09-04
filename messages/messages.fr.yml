@@ -6,8 +6,8 @@ error:
     user.locked: Cet utilisateur a été bloqué
     user.deleted: Cet utilisateur a été supprimé
     user.bad.credentials: Echec d'authentification. Vérifiez vos identifiants
-    user.bad.credentials.warning: Echec d'authentification. Vérifiez vos identifiants. Ceci est votre dernier essai avant que votre compte ne soit bloqué
-    user.bad.credentials.locked: Authentication failure. Your account has been locked. Please change your password
+    user.bad.credentials.warning: Echec d'authentification. Vérifiez vos identifiants. Ceci est votre dernier essai avant que votre compte ne soit vérrouillé
+    user.bad.credentials.locked: Echec d'authentification. Votre compte a été bloqué. Merci de modifier votre mot de passe
     user.bad.checksum: Impossible de modifier le mot de passe car le checksum est incorrect
     user.email.already.in.use: Cet email est déjà utilisé
     user.email.private.store: Oups, votre compte existe déjà 😛 Connectez-vous grâce à votre adresse @%{domain} et le mot de passe que vous avez reçu par mail
@@ -115,7 +115,7 @@ email:
             body.div2: "Pour modifier votre mot de passe, veuillez cliquer sur le lien"
             body.div3: Changer mon mot de passe
             body.div4: Attention, ce lien a une durée de vie limitée.
-            warning: Your account has been blocked due to 4 failed connection attemps. In order to unlock it you must change your password.
+            warning: Votre compte a été bloqué suite aux 4 tentatives de connexion. Vous devez modifier votre mot de passe pour le débloquer.
         creation:
             title: Bienvenu sur Whasq - Détail du nouveau compte
             body.div1: Bienvenu(e) sur Whasq !
