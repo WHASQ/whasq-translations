@@ -261,7 +261,7 @@
     <string name="notificationType_whasq_blacklisted">%1$s has reported your Whasq : %2$s</string>
     <string name="notification_watch_blacklisted_whasq">This whasq is no longer visible.</string>
     <string name="notificationType_whasq_new_skill">A new skill %1$s has just been added! Complete your profile?</string>
-    <string name="notificationType_whasq_new_admin_whasq">%1$s added a Whasq %2$s</string>
+    <string name="notificationType_whasq_new_admin_whasq">%1$s needs your help for the Whasq : %2$s</string>
     <string name="notificationType_whasq_tag_user">You have been recommended by %1$s. Help your colleague for the whasq %2$s.</string>
     <string name="no_notification">Please answer to your first Whasq and you\'ll see your notifications.</string>
     <!-- Import picture -->
