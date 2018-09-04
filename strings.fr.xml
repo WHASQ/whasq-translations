@@ -244,7 +244,7 @@
     <string name="notificationType_whasq_blacklisted">%1$s a signalé votre whasq : %2$s</string>
     <string name="notification_watch_blacklisted_whasq">Ce whasq n\'est plus visible.</string>
     <string name="notificationType_whasq_new_skill">Un nouveau talent %1$s vient d\'être ajouté ! Compléter votre profil?</string>
-    <string name="notificationType_whasq_new_admin_whasq">%1$s a soumis un Whasq %2$s</string>
+    <string name="notificationType_whasq_new_admin_whasq">%1$s a besoin de vous pour le Whasq : %2$s</string>
     <string name="notificationType_whasq_tag_user">Vous avez été recommandé par %1$s. Aidez votre collègue pour le whasq %2$s.</string>
     <string name="no_notification">Si quelqu\'un aime votre réponse ou recommande un de vos talents, vous recevrez des notifications</string>
     <!-- Import picture -->
@@ -377,7 +377,7 @@
 
     <!-- Geolocation -->
     <string name="GEOLOCATION_PERMISSION_TITLE">Facilitez vos échanges</string>
-    <string name="GEOLOCATION_PERMISSION_EXPLANATION">Pour solliciter les whasqers proches de vous, \npermettez à Whasq d’accéder à votre géolocalisation</string>
+    <string name="GEOLOCATION_PERMISSION_EXPLANATION">Pour solliciter les whasqueurs proches de vous, \npermettez à Whasq d’accéder à votre géolocalisation</string>
     <string name="GEOLOCATION_PERMISSION_ALLOW">Autoriser l\'accès</string>
     <string name="GEOLOCATION_PERMISSION_NOT_ALLOW">Refuser</string>
 
