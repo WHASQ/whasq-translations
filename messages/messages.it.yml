@@ -4,9 +4,9 @@ error:
     action.data.invalid: I dati inviati non sono corretti
     user.locked: Questo utente è stato bloccato
     user.deleted: Questo utente è stato eliminato
-    user.bad.credentials: Errore di autenticazione
-    user.bad.credentials.warning: Authentication failure. Please verify your credentials. This is your last try before getting your account locked
-    user.bad.credentials.locked: Authentication failure. Your account has been locked. Please change your password
+    user.bad.credentials: Autenticazione faillita
+    user.bad.credentials.warning: Autenticazione faillita. Si prega di verificare le Sue credenziali. Questa è la tua ultima prova prima di bloccare il Suo account
+    user.bad.credentials.locked: Autenticazione faillita. Il Suo account è stato bloccato. Per favore, cambia la Sua password
     user.bad.checksum: Impossibile di modificare la password perché non è corretto il checksum
     user.email.already.in.use: L'indirizzo email è già stato registrato
     user.email.private.store: Ops, il tuo account esiste già 😛 Connettiti con il tuo indirizzo email @%{domain} e la password che hai ricevuto via email
@@ -115,7 +115,7 @@ email:
             body.div2: "Per modificare la Sua password, per favore clicca sul link:"
             body.div3: Cambiare la mia password
             body.div4: Attenzione, questo collegamento ha una durata limitata.
-            warning: Your account has been blocked due to 4 failed connection attemps. In order to unlock it you must change your password.
+            warning: Il Suo account è stato bloccato a causa di 4 tentativi di connessione. Devi cambiare la password per sbloccarla.
         creation:
             title: Benvenuto su Whasq - Dettagli dell'Account
             body.div1: Benvenuto su Whasq!
