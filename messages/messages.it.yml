@@ -115,6 +115,7 @@ email:
             body.div2: "Per modificare la Sua password, per favore clicca sul link:"
             body.div3: Cambiare la mia password
             body.div4: Attenzione, questo collegamento ha una durata limitata.
+            warning: Your account has been blocked due to 4 failed connection attemps. In order to unlock it you must change your password.
         creation:
             title: Benvenuto su Whasq - Dettagli dell'Account
             body.div1: Benvenuto su Whasq!
