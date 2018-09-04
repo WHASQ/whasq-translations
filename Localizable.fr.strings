@@ -240,7 +240,7 @@
 "delete-account" = "Supprimer mon compte";
 "error-deleting-user" = "Une erreur s'est produite. Veuillez vérifier votre connexion Internet et réessayer.";
 "alert-cannot-send-mail" = "Impossible d'envoyer un email depuis ce téléphone";
-"notification-tag-user" =  "%@ a besoin de vous pour le Whasq : %@";
+"notification-tag-user" = "Vous avez été recommandé par %@ pour le whasq : %@";
 "notification-admin-whasq" = "%@ a posté un nouveau Whasq %@";
 "notification-new-skill" = "Un nouveau talent (%@) a été ajouté ! Voulez-vous l’ajouter à votre profil ?";
 "faq-action-sheet" = "FAQ";
