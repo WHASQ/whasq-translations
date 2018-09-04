@@ -7,10 +7,10 @@ error:
     user.bad.credentials: Error de conexion. Revisa tu correo y contraseña 
     user.bad.checksum: Imposible modificar la contraseña ya que el le checksum no es correcto
     user.email.already.in.use: Este e-mail ya ha sido utilizado
-    user.email.private.store: Your account already exists 😛 Connect with your email address @%{domain} and the password you've received by email
+    user.email.private.store: La cuenta ya existe 😛 Conéctate con tu correo electrónico @% {domain} y la contraseña que recibiste a tu correo electrónico
     user.email.unknow: No se encuentra ninguna cuenta con este e-mail
     answer.not.champion: Esta respuesta no es una solución
-    answer.useful.exists: You've already liked this comment 😛
+    answer.useful.exists: Ya te ha gustado este comentario 😛
     answer.not.found: Esta respuesta no existe o ha sido borrada
     answer.with.attribute: El comentario no puede ser borrado ya que tus compañeros lo aprecian 😛
     answer.deletion.by.author: Solo el autor  puede borrar la respuesta
@@ -39,7 +39,8 @@ error:
     user.profile.already.updated: Tu perfil solo puede ser actualizado una vez, contacta el administrador
     user.search.empty: Ninguna busqueda ingresada
     email.invalid: Correo electrónico no válida
-    password.invalid: The password must contain at least 8 letters including at least 4 other characters (uppercase, lowercase, numeral and special character) 👀
+    password.invalid: La contraseña debe contener al menos 8 letras, incluyendo al menos otros 4 caracteres (mayúsculas, minúsculas, números y caracteres especiales)     
+    fullname.invalid 👀
     fullname.invalid: Nombre inválido
 push:
     whasq:
