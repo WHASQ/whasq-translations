@@ -12,4 +12,4 @@ app:
     unsubscribe:
       result:
         success: Votre désinscription a bien été prise en compte
-        failure: Votre désinscription n\'a pas bien été prise en compte. Le lien est peut-être erroné ou n\'est plus actif. Ou tout simplement vous avez déjà été désincrit(e)
+        failure: Votre désinscription n\'a pas bien été prise en compte. Le lien est peut-être erroné ou n\'est plus actif. Ou vous avez tout simplement déjà été désinscrit(e).
