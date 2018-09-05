@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_developed_by_tymate">Application conçue et développée par Tymate</string>
+    <string name="version">Version: %1$s</string>
+    <!-- common -->
+    <string name="please_wait">Veuillez patienter…</string>
+    <!-- Permissions -->
+    <string name="permission.missing.default_title">Permission manquante</string>
+    <string name="permission.missing.default_msg">Il vous manque une permission pour acceder à cette page</string>
+    <string name="permission.missing.contacts.title">Permission Contacts</string>
+    <string name="permission.missing.contacts.msg">Vous devez activer la permission Contact pour pouvoir visualiser les contacts des votre téléphone.</string>
+    <string name="permission.missing.facebook.title">Connexion Facebook</string>
+    <string name="permission.missing.facebook.msg">Vous devez vous connecter via Facebook pour acceder à vos amis Facebook</string>
+    <string name="permission.missing.facebook.association_in_progress">Association en cours…</string>
+    <string name="permission.missing.location.title">Permission Localisation</string>
+    <string name="permission.missing.location.msg">Vous devez activer la permission Géolocalisation pour pouvoir visualiser les missions sur une map.</string>
+    <!-- Menu -->
+    <string name="menu_filter">Filtre</string>
+    <!-- dates -->
+    <string name="date.today_with_hour">Aujourd\'hui à %1$s</string>
+    <string name="date.today">Aujourd\'hui</string>
+    <string name="date.yesterday">Hier</string>
+    <string name="date.yesterday_with_hour">Hier à %1$s</string>
+    <string name="date.tomorrow">Demain</string>
+    <string name="date.tomorrow_with_hour">Demain à %1$s</string>
+    <string name="date.with_hour">le %1$s à %2$s</string>
+    <string name="date.hour">à %1$s</string>
+    <!-- DateUtils -->
+    <string name="unit.day_abbrev">j</string>
+    <string name="unit.hour_abbrev">h</string>
+    <string name="unit.minutes_abbrev">min</string>
+    <string name="unit.seconds_abbrev">s</string>
+    <!-- Inputs -->
+    <string name="input.email_error">Adresse mail incorrecte</string>
+    <string name="input.phone_error">Numéro de téléphone incorrect</string>
+    <string name="input.whasq_question_error">Question incorrecte</string>
+    <!-- Toolbar -->
+    <string name="activity_whasq">Création Whasq</string>
+    <string name="activity_filter">Filtres</string>
+    <string name="activity_whasq_question">Whasq - Question %1$d</string>
+    <!-- Image Picker -->
+    <string name="image_picker.dialog_title">Selectionner une image</string>
+    <string name="image_picker.choice.camera">Prendre une photo</string>
+    <string name="image_picker.choice.gallery">Ouvrir la galerie</string>
+    <string name="media.update.choice.modify">Modifier la photo</string>
+    <string name="media.update.choice.delete">Supprimer la photo</string>
+    <!-- Auth -->
+    <string name="auth.login.title">Connexion</string>
+    <string name="auth.sign_in.title">Inscription</string>
+    <string name="auth.discover">Découvrir</string>
+    <!-- Login -->
+    <string name="login.facebook">Facebook</string>
+    <string name="login.or">ou</string>
+    <string name="login.mail_hint">Adresse mail</string>
+    <string name="login.password_hint">Mot de passe</string>
+    <string name="login.password_forgotten">Mot de passe oublié ?</string>
+    <string name="login.password_forgotten_title">Mot de passe oublié</string>
+    <string name="login.new_password_sent">Nouveau mot de passe envoyé !</string>
+    <!-- Sign In -->
+    <string name="sign_in.facebook_message">C\'est plus rapide avec Facebook !</string>
+    <string name="sign_in.data_message">Vos données sont protégées et elles ne sont pas revendues.\n\nApplication zéro pub.</string>
+    <string name="sign_in.phone_message">Votre numéro de téléphone permet de valider le paiement ainsi que de maintenir la sécurité au sein de l\'application.</string>
+    <string name="sign_in.phone_hint">Téléphone</string>
+    <string name="sign_in.cgu">Cgu</string>
+    <string name="sign_in.cgu_url">http://fr.clicandwalk.com/redirect/mention/locale/fr/lang/fr?utm_source=iosregister&amp;utm_medium=app&amp;utm_campaign=terms#article1</string>
+    <string name="sign_in.cgu_html"><![CDATA[<a href="http://fr.clicandwalk.com/redirect/mention/locale/fr/lang/fr?utm_source=iosregister&utm_medium=app&utm_campaign=terms#article1">CGU</a>]]></string>
+    <string name="sign_in.accept_cgu">En validant mon inscription j\'accepte les <![CDATA[<a href="http://fr.clicandwalk.com/redirect/mention/locale/fr/lang/fr?utm_source=iosregister&utm_medium=app&utm_campaign=terms#article1">CGU</a>]]></string>
+    <!-- Sign In Dialog -->
+    <string name="sign_in.dialog_title">Inscription nécessaire</string>
+    <string name="sign_in.dialog_message">Vous devez être inscrit pour accèder à cette fonctionnalité. Créez votre compte afin de pouvoir utiliser l\'application dans sa totalité !</string>
+    <string name="sign_in.dialog_button_action">S\'inscrire</string>
+    <!-- Home -->
+    <string name="home_dashboard.title">Missions disponibles</string>
+    <string name="home_dashboard.list.title">Liste</string>
+    <string name="home_dashboard.map.title">Carte</string>
+    <!-- Friends & Groups -->
+    <string name="friends_dashboard.title">Amis</string>
+    <string name="friends_dashboard.friends.title">Amis</string>
+    <string name="friends_dashboard.contacts.title">Contacts</string>
+    <string name="friends_dashboard.groups.title">Groupes</string>
+    <string name="friends.state.invitation_sent">Invitation envoyée</string>
+    <string name="friends.state.invite">Inviter</string>
+    <string name="friends.empty_state.walkers.title">Pas encore d\'amis</string>
+    <string name="friends.empty_state.walkers.message">Clic and Walk c\'est encore mieux si on le partage avec des amis !</string>
+    <string name="friends.empty_state.walkers.action_add">Ajouter des amis</string>
+    <string name="friends.invite_failure">Impossible d\'envoyer l\'invitation</string>
+    <string name="friends.invite_success">Invitation envoyée</string>
+    <string name="friend_groups.empty_state.title">Pas encore de groupe</string>
+    <string name="friend_groups.empty_state.groups.message">Pour plus de simplicité tu peux faire des groupes d\'amis !</string>
+    <string name="friend_groups.empty_state.groups.action_add">Créer un groupe</string>
+    <string name="friend_groups.empty_state.walkers.title">Le groupe est vide !</string>
+    <string name="friend_groups.empty_state.walkers.message">Il semblerait que tu n\'aies pas encore pris le temps d\'ajouter des amis à ce groupe !</string>
+    <string name="friend_groups.empty_state.walkers.action_add">Ajouter des amis</string>
+    <string name="friend_groups.update_success">Le groupe a été modifié avec succès</string>
+    <string name="friend_groups.update_failure">Impossible de modifier le groupe</string>
+    <!-- Friends & Groups Management -->
+    <string name="friends_management.facebook">Depuis Facebook</string>
+    <string name="friends_management.facebook.empty_state.title">Pas d\'amis Facebook</string>
+    <string name="friends_management.facebook.empty_state.msg">Il semblerait qu\'aucun de tes amis Facebook ne soit sur Click and Walk :(\n</string>
+    <string name="friends_management.phone">Depuis vos contacts</string>
+    <string name="friends_management.phone.empty_state.title">Pas de contact</string>
+    <string name="friends_management.phone.empty_state.msg">Il semblerait que tu n\'aies pas de contacts enregistrés sur ton téléphone.</string>
+    <string name="friends_management.manual">Email ou numéro de téléphone</string>
+    <string name="friends_management.manual.title">Invitation d\'un ami</string>
+    <string name="friends_management.manual.email.hint">Email</string>
+    <string name="friends_management.manual.or.hint">ou</string>
+    <string name="friends_management.manual.phone.hint">N° de téléphone</string>
+    <string name="friends_management.manual.validate">Valider</string>
+    <string name="friends_management.manual.success.message">Invitation envoyée !</string>
+    <string name="friends_management.manual.error_retry.message">L\'invitation a échouée</string>
+    <string name="friends_management.manual.error_retry.action">Réessayer</string>
+    <string name="friend_groups_management.groups.creation.title">Création d\'un nouveau groupe d\'amis</string>
+    <string name="friend_groups_management.groups.creation.name_hint">Nom du groupe</string>
+    <string name="friend_groups_management.groups.creation.validate">Valider</string>
+    <string name="friend_groups_management.groups.delete.title">Suppression du groupe</string>
+    <string name="friend_groups_management.groups.delete.msg">Êtes-vous vraiment sûr de vouloir supprimer ce groupe ?</string>
+    <string name="friend_groups_management.groups.delete.validate">Supprimer</string>
+    <string name="friend_groups_management.groups.delete.success">Groupe supprimé.</string>
+    <string name="friends_management.picker.picked.title">Amis sélectionnés</string>
+    <string name="friends_management.picker.action.validate">Valider</string>
+    <!-- UserSetup Profile -->
+    <string name="user_profile.avatar.description">Avatar de l\'utilisateur</string>
+    <!-- permission -->
+    <string name="location.permission_warn">Sans la permission de localisation vous ne pourrez pas vous repérer en fonction de votre véhicule sur la carte de l\'onglet localisation.</string>
+    <!-- Missions -->
+    <string name="mission_status_title">Statut</string>
+    <string name="mission_status_available">Disponible</string>
+    <string name="mission_status_complete">Réservée</string>
+    <string name="mission_status_todo">Acceptée</string>
+    <string name="mission_duration">Durée %1$s min</string>
+    <string name="mission_status_created">Créé</string>
+    <string name="mission_status_done">Répondu</string>
+    <string name="mission_time_end">Fin de mission dans %1$s</string>
+    <string name="mission_time_left">Temps restant %1$s</string>
+    <string name="distance_meter">%1$dm</string>
+    <string name="distance_kilometer">%1$dkm</string>
+    <string name="mission_location_home">Disponible depuis votre canapé</string>
+    <string name="mission_detail_title">Mission</string>
+    <string name="mission_nb_filter_activated">%1$d/3 filtre(s) activé(s)</string>
+    <string name="mission_permanent">Mission permanente</string>
+    <string name="mission_result">Voir le résultat</string>
+    <!-- Missions type -->
+    <string name="mission_type_title">Type</string>
+    <string name="mission_type_home">À la maison</string>
+    <string name="mission_type_store">En magasin</string>
+    <string name="mission_type_outdoor">À l\'extérieur</string>
+    <string name="mission_type_data_collect">Dans une zone géographique\u0020</string>
+    <string name="mission_type_flash">Flash</string>
+    <string name="mission_type_whasq">Whasq</string>
+    <string name="mission_type_sponsoring">Parrainage</string>
+    <string name="mission_type_whasq_filter">N\'afficher que les Whasq</string>
+
+    <!-- Missions quizz -->
+    <string name="mission_quizz_photos">%1$d photos</string>
+    <string name="mission_quizz_videos">%1$d vidéos</string>
+    <string name="mission_quizz_questions">%1$d questions</string>
+    <string name="mission_quizz_audios">%1$d sons</string>
+    <string name="mission_quizz_scans">%1$d scans</string>
+    <string name="mission_quizz_progress">Progression %1$s%%</string>
+    <!-- WHASQ -->
+    <string name="whasq_question_hint">Ma question</string>
+    <string name="whasq_question_audio_label">Question audio :\u0020</string>
+    <string name="whasq_question_video_label">Question video :\u0020</string>
+    <string name="whasq_answer_media_label">Photos complémentaires pour la question</string>
+    <string name="whasq_answer_type_label">Réponse attendue</string>
+    <string name="whasq_answer_type_text">Texte libre</string>
+    <string name="whasq_answer_type_qcm">QCM</string>
+    <string name="whasq_answer_media_type_label">Média attendu</string>
+    <string name="whasq_duration_label">Durée</string>
+    <string name="whasq_duration_hour">Heures</string>
+    <string name="whasq_duration_day">Jours</string>
+    <string name="whasq_question_1">Question 1</string>
+    <string name="whasq_question_2">Question 2</string>
+    <string name="whasq_question_3">Question 3</string>
+    <string name="whasq_question_add">Ajouter une question</string>
+    <string name="whasq_question_validate">Valider la question</string>
+    <string name="whasq_answers_visible">Réponses visibles</string>
+    <string name="whasq_qcm_answers_add">Ajouter une réponse</string>
+    <string name="whasq_qcm_answers_multiple">Plusieurs réponses possibles</string>
+    <string name="whasq_qcm_answers_num">Réponse %1$d</string>
+    <string name="whasq_friend_invite_title">Sélectionnez le mode invité</string>
+    <string name="whasq_invite_walkers_title">ClicWalker</string>
+    <string name="whasq_invite_non_walkers_title">Non-ClicWalker</string>
+    <string name="whasq_invite_walkers_success">Invitations envoyées</string>
+    <!-- WHASQ Answer -->
+    <string name="whasq_answer_title">Mission Whasq</string>
+    <string name="whasq_answer_multiple_answer">Plusieurs réponses possibles</string>
+    <string name="whasq_answer_unique_answer">Une seule réponse possible</string>
+    <string name="whasq_answer_text_hint">Saisissez ici votre réponse</string>
+    <string name="whasq_answer_action_next">Suivant</string>
+    <string name="whasq_answer_action_send">Envoyer les réponses</string>
+    <string name="whasq_answer_photo_label">media photo :\u0020</string>
+    <string name="whasq_answer_audio_label">media audio :\u0020</string>
+    <string name="whasq_answer_video_label">media video :\u0020</string>
+    <string name="whasq_answer_video_label_indication">Regarder la question</string>
+    <string name="whasq_answer_audio_label_indication">\u0020Ecouter la question</string>
+    <string name="whasq_answer_media_indic">Ajouter des photos pour compléter votre question</string>
+    <!-- Whasq Answers -->
+    <string name="whasq_answers_title">Réponses du Whasq</string>
+    <!-- Sound recorder -->
+    <string name="sound_recorder.title">Enregistrement sonore</string>
+    <string name="sound_recorder.recording">Enregistrement…</string>
+    <string name="sound_recorder.idle">Appuyer pour démarrer l\'enregistrement</string>
+    <string name="sound_recorder.max_reached">Durée maximum atteinte</string>
+    <!-- Common errors -->
+    <string name="error.network.connection">Vous n\'êtes pas connecté à Internet…</string>
+    <string name="error.network.problem">Problème de connexion…</string>
+    <string name="error.network.server.problem">Problème avec le serveur…</string>
+    <string name="error.network.time_out">La connexion a expirée…</string>
+    <string name="error.unknown">Il semble que quelque chose n\'ait pas fonctionné correctement…</string>
+    <!-- Auth errors -->
+    <string name="error.auth.wrong_login">Email ou mot de passe incorrect</string>
+    <!-- Actions -->
+    <string name="action.retry">Réessayer</string>
+    <string name="action.login">Se connecter</string>
+    <string name="action.sign_in">S\'inscrire</string>
+    <string name="action.new_password">Changer de mot de passe</string>
+    <string name="action.group.edit">Éditer les informations</string>
+    <string name="action.group.delete">Supprimer le groupe</string>
+    <string name="action.delete">Supprimer</string>
+    <string name="action.search">Rechercher</string>
+    <string name="action.authorize_permission">Autoriser</string>
+    <string name="action.validate">Valider</string>
+    <string name="action.filter">Filtre</string>
+    <string name="action.cancel">Annuler</string>
+    <string name="action.send_whasq">Sélectionner les destinataires</string>
+    <string name="error.wallet.no_transaction">Il semble que vous n\'ayez aucune transaction.</string>
+    <string name="menu_edit">Editer</string>
+    <string name="media.update.choice.show">Afficher la photo</string>
+    <string name="media.update.choice.listen">Écouter le son</string>
+    <string name="media.update.choice.watch">Regarder la vidéo</string>
+    <!-- Wallet -->
+    <string name="wallet_dashboard.title">Missions disponibles</string>
+    <string name="wallet_dashboard.historic.title">Historique</string>
+    <string name="wallet_dashboard.balance.title">Solde</string>
+    <!-- Missions list errors -->
+    <string name="error.missions.empty">Vous ne disposez d\'aucunes missions.</string>
+    <string name="error.missions.filter">Essayez de changer les filtres pour afficher plus de missions.</string>
+    <!-- Missions popup accept mission -->
+    <string name="mission_popup_title">Accepter la mission</string>
+    <string name="mission_popup_text">Pour accéder au quizz, vous devez accepter la mission.</string>
+    <string name="mission_popup_button1">Annuler</string>
+    <string name="mission_popup_button2">Accepter</string>
+    <string name="mission_accept">Accepter la mission</string>
+    <string name="mission_quizz_progress_sample">Progression 50%</string>
+    <string name="mission_toast_confirm_answer_send">La mission a été soumise avec succès.</string>
+    <string name="whasq_question_type">Sélectionnez le type de la question :</string>
+    <!-- Mission Answers -->
+    <string name="mission_answer_barcode_label">Entrer le numéro du code barre</string>
+    <!-- Dialog update pseudo -->
+    <string name="update_pseudo.title">Choisissez un nom d\'utilisateur</string>
+    <string name="update_pseudo.hint">Pseudo</string>
+    <string name="mission_answer_quizz_validate">Valider le quizz</string>
+    <!-- More -->
+    <string name="more_title">Autres</string>
+    <string name="action.continue">Continuer</string>
+    <string name="action.abandon">Abandonner</string>
+    <string name="action.abandon_underline"><u>Abandonner</u></string>
+    <string name="action.edit">Éditer</string>
+    <!-- Missions statistics -->
+    <string name="missions_statistics_title">Mes statistiques de missions</string>
+    <string name="missions_statistics_number">missions</string>
+    <string name="missions_statistics_in_progress">en cours</string>
+    <string name="missions_statistics_complete">en attente</string>
+    <string name="missions_statistics_given_up">abandonnées</string>
+    <string name="missions_statistics_validated">terminées</string>
+    <string name="missions_statistics_whasq">whasq</string>
+    <string name="missions_statistics_cash_potential">%1$.2f%2$s potentiels</string>
+    <string name="missions_statistics_cash_waiting">%1$.2f%2$s en attente</string>
+    <string name="missions_statistics_cash_given_up">%1$.2f%2$s abandonnés</string>
+    <string name="missions_statistics_cash_acquired">%1$.2f%2$s acquis</string>
+    <!-- Profile -->
+    <string name="profile_title">Profil</string>
+    <string name="profile_see_details">Voir plus</string>
+    <string name="profile_edit_username_hint">Nom d\'utilisateur</string>
+    <string name="profile_edit_first_name_hint">Prénom</string>
+    <string name="profile_edit_last_name_hint">Nom</string>
+    <string name="profile_edit_mail_hint">Adresse mail</string>
+    <string name="profile_edit_phone_hint">Numéro de téléphone</string>
+    <string name="profile_edit_birthdate_hint">Date de naissance</string>
+    <string name="profile_update">Enregistrer</string>
+    <string name="profile_updated">Informations sauvegardées.</string>
+    <!-- Add friends Pop-up -->
+    <string name="add_friends_popup_title">Ajouter des amis</string>
+    <string name="add_friends_popup_text">Avant de créer un whasq, vous devez ajouter des amis afin de pouvoir leur partager vos questions.</string>
+    <string name="add_friends_popup_button1">Annuler</string>
+    <string name="add_friends_popup_button2">Ajouter des amis</string>
+    <string name="mission_is_complete">Cette mission est complète.</string>
+    <!-- Payment type -->
+    <string name="payment_virtual">Virtuel</string>
+    <string name="payment_paypal">Paypal</string>
+    <string name="payment_sepa">IBAN</string>
+    <!-- Jackpot -->
+    <string name="jackpot">Ma cagnotte</string>
+    <string name="jackpot_infos_sended">Informations sauvegardées.</string>
+    <string name="jackpot_infos_paiement_category">Informations de paiement</string>
+    <string name="jackpot_state">État de ma cagnotte</string>
+    <string name="jackpot_mail_address">Adresse email PayPal</string>
+    <string name="jackpot_iban_number">Numéro IBAN</string>
+    <string name="jackpot_iban">IBAN</string>
+    <string name="jackpot_bic_number">Numéro BIC</string>
+    <string name="jackpot_bic">BIC</string>
+    <string name="jackpot_be_paid">Demander un paiement</string>
+    <string name="jackpot_money_given">1€ reversé à l\'association des Restos du Coeur offre 1 repas à un sans-abris.</string>
+    <string name="jackpot_infos_paiement">Le paiement est effectué le mardi suivant les 10 jours ouvrés de votre demande (environ tous les 15 jours)</string>
+    <string name="jackpot_dialog_title">Choisir un montant</string>
+    <string name="jackpot_dialog_with_charity_text">Choisir le montant à reverser :</string>
+    <string name="jackpot_dialog_without_charity_text">Êtes-vous sûr de vouloir récupérer la totalité de l\'argent disponible sur votre cagnotte ?</string>
+    <string name="jackpot_dialog_button_accept">Valider</string>
+    <string name="jackpot_error_email">Email incorrect.</string>
+    <string name="jackpot_error_iban">Numéro IBAN incorrect.</string>
+    <string name="jackpot_error_bic">Numéro BIC incorrect.</string>
+    <string name="jackpot_missing_names">Votre nom et prénom sont nécessaires pour la demande de virement</string>
+    <string name="jackpot_error">Vous devez saisir vos informations de paiement.</string>
+    <string name="jackpot_association">Association: </string>
+    <string name="jackpot_cash">Moi: </string>
+    <string name="jackpot_validate_information">Valider les informations</string>
+    <string name="jackpot_validate">Validation</string>
+    <string name="jackpot_validate_phone_number">Entrez le code reçu par SMS:</string>
+    <string name="jackpot_code">Code</string>
+    <string name="jackpot_info_already_saved">Vos informations sont à jour.</string>
+    <string name="media_size_too_big">La vidéo est trop grande (25Mo maximum)</string>
+    <string name="rate_app_title">Noter l\'application</string>
+    <!-- Showcase -->
+    <string name="showcase_whasq_title">Création d\'un WHASQ</string>
+    <string name="showcase_whasq_description">Créer votre premier whasq dans cette section</string>
+    <string name="showcase_whasq_question_title">Ajouter votre première question</string>
+    <string name="showcase_whasq_question_description">Accèder à la vue question pour ajouter vos questions au WHASQ</string>
+    <string name="jackpot_or">ou</string>
+    <string name="whasq_owner_created">Ton whasq</string>
+
+    <string name="url_website">http://fr.clicandwalk.com/clicwalkers</string>
+    <string name="url_support">clicwalker@clicandwalk.com</string>
+    <string name="mission_booked">Tu es abonné !\nSi un crédit se libère tu recevras une notification.\nReste attentif :)</string>
+    <string name="see_our_website">Voir notre site internet</string>
+    <string name="see_our_KM">KM</string>
+    <string name="contact_support">Contacter le support</string>
+    <string name="empty"></string>
+    <string name="profile_edit_group_code_hint">Code groupe</string>
+    <string name="friend_needed_dialog_title">Ajouter des amis</string>
+    <string name="friend_needed_dialog_content">Pour envoyer un Whasq, vous devez d\'abord ajouter des amis.</string>
+    <string name="friend_needed_dialog_button">Ok</string>
+    <string name="fb_email_needed">Pour se connecter avec Facebook, vous devez autoriser l\'accès à votre adresse mail.</string>
+
+
+    <string name="sms.code.resend">Redemander un code</string>
+
+    <string name="charity.validation.message">Êtes-vous bien sûr de vouloir donner %1$d € à l\'association ?</string>
+</resources>
