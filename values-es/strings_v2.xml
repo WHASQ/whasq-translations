@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="mission_type_missions_filter">N\'afficher que les missions</string>
+    <string name="mission_type_missions_filter">Solo mostrar las misiones</string>
 
-    <string name="grpd.cgu_consent.title">Consentement</string>
-    <string name="grpd.cgu_consent.accept">Autoriser</string>
+    <string name="grpd.cgu_consent.title">Autorización</string>
+    <string name="grpd.cgu_consent.accept">Autorizar</string>
 
     <string name="grpd.cgu.title">CGU</string>
-    <string name="grpd.cgu_accept">Je valide</string>
-    <string name="grpd.cgu_msg">Veuillez lire toutes les conditions générales d\'utilisation pour pouvoir poursuivre.</string>
-    <string name="grpd.cgu_subtitle">Nous avons mis à jour nos conditions générales d\'utilisation.</string>
+    <string name="grpd.cgu_accept">Aceptar</string>
+    <string name="grpd.cgu_msg">Si deseas continuar, por favor lea las condiciones generales de uso.</string>
+    <string name="grpd.cgu_subtitle">Las condiciones generales de uso han sido actualizadas.</string>
 
-    <string name="sign_in.cgu.action_accept">J\'accepte les CGU</string>
+    <string name="sign_in.cgu.action_accept">Aceptar las CGU</string>
 
-    <string name="more.cgu">Conditions générales d\'utilisation</string>
-    <string name="more.ask_my_data">Demander toutes mes données</string>
-    <string name="more.delete_account">Supprimer mon compte</string>
-    <string name="error.cgu_must_be_accepted">Vous devez valider le conditions pour pouvoir continuer.</string>
+    <string name="more.cgu">Condiciones generales de uso</string>
+    <string name="more.ask_my_data">Pedir todos mis datos personales</string>
+    <string name="more.delete_account">Borrar mi cuenta </string>
+    <string name="error.cgu_must_be_accepted"> Para poder continuar debes de aceptar las CGU.</string>
 
-    <string name="more.send_mail">Envoyer un email</string>
-    <string name="more_request_personal_data_successful">Vos données ont bien été envoyées à votre adresse email :)</string>
+    <string name="more.send_mail">Enviar un email</string>
+    <string name="more_request_personal_data_successful">Tus datos personales han sido enviados a tu correo electronico :)</string>
 
-    <string name="delete_account.msg">Attention, vos données personnelles seront détruites et la suppression du compte entraînera la perte d\'accès à l\'application.
-    \nVeuillez saisir le mot DELETE dans la case ci dessous.</string>
-    <string name="delete_account.success">Votre compte a bien été supprimé.</string>
+    <string name="delete_account.msg">Cuidado, tus datos personales seran destruidos y al borrar la cuenta ya no tendras acceso a la aplicación.
+    \nPor favor escribe la palabra DELETE en la casilla.</string>
+    <string name="delete_account.success">Tu cuenta ha sido borrada.</string>
 </resources>
