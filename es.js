@@ -255,6 +255,9 @@ const messages = {
     'add-whasq-item-notify-around': '¿Notificar a mi alrededor?',
     'add-whasq-item-urgent': '¿Urgente?',
     'add-whasq-item-send-everyone': '¿Enviar a todos?',
+    'add-whasq-skill-required': 'Il est obligatoire de renseigner au moins un talent.', /* TODO */
+    'add-whasq-title-required': 'Il est obligatoire de renseigner le titre.', /* TODO */
+    'add-whasq-message-required': 'Il est obligatoire de renseigner le message.', /* TODO */
   
     // WhasqsReports
     'whasqs-reports-title': 'Whasqs señalados',
