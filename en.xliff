@@ -1,0 +1,2417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="clic_and_walk_ios/Base.lproj/Auth.storyboard" source-language="th" datatype="plaintext" target-language="en">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.4.1" build-num="9F2000"/>
+    </header>
+    <body>
+      <trans-unit id="5DB-Kf-6mn.normalTitle">
+        <source>Valider l'inscription</source>
+        <target>Validate the registration</target>
+        <note>Class = "UIButton"; normalTitle = "Valider l'inscription"; ObjectID = "5DB-Kf-6mn"; Note = "Bouton pour créer un compte sur la homepage";</note>
+      </trans-unit>
+      <trans-unit id="8a4-PS-ohR.normalTitle">
+        <source>MOT DE PASSE OUBLIÉ ?</source>
+        <target>Password forgotten</target>
+        <note>Class = "UIButton"; normalTitle = "MOT DE PASSE OUBLIÉ ?"; ObjectID = "8a4-PS-ohR"; Note = "Bouton pour accéder au mot de passe oublié depuis la homepage";</note>
+      </trans-unit>
+      <trans-unit id="EwK-LG-Bn1.text">
+        <source>ou</source>
+        <target>or</target>
+        <note>Class = "UILabel"; text = "ou"; ObjectID = "EwK-LG-Bn1";</note>
+      </trans-unit>
+      <trans-unit id="F5n-eU-FYL.text">
+        <source>C’est plus rapide avec Facebook !</source>
+        <target>It's faster with Facebook !</target>
+        <note>Class = "UILabel"; text = "C’est plus rapide avec Facebook !"; ObjectID = "F5n-eU-FYL"; Note = "Phrase d'incitation à utiliser Facebook sur la homepage";</note>
+      </trans-unit>
+      <trans-unit id="H3Z-PH-Rnt.text">
+        <source>Application zéro pub.</source>
+        <target>App without advertising</target>
+        <note>Class = "UILabel"; text = "Application zéro pub."; ObjectID = "H3Z-PH-Rnt";</note>
+      </trans-unit>
+      <trans-unit id="HGQ-bH-alz.normalTitle">
+        <source>S'inscrire</source>
+        <target>Sign in</target>
+        <note>Class = "UIButton"; normalTitle = "S'inscrire"; ObjectID = "HGQ-bH-alz"; Note = "Bouton pour créer un compte sur la homepage";</note>
+      </trans-unit>
+      <trans-unit id="HlY-7p-JsY.placeholder">
+        <source>Numéro de téléphone</source>
+        <target>Phone number</target>
+        <note>Class = "UITextField"; placeholder = "Numéro de téléphone"; ObjectID = "HlY-7p-JsY";</note>
+      </trans-unit>
+      <trans-unit id="NpQ-Sw-Vbz.placeholder">
+        <source>Mot de passe</source>
+        <target>Password</target>
+        <note>Class = "UITextField"; placeholder = "Mot de passe"; ObjectID = "NpQ-Sw-Vbz";</note>
+      </trans-unit>
+      <trans-unit id="Pay-HU-6hu.placeholder">
+        <source>Adresse mail</source>
+        <target>E-mail</target>
+        <note>Class = "UITextField"; placeholder = "Adresse mail"; ObjectID = "Pay-HU-6hu";</note>
+      </trans-unit>
+      <trans-unit id="QzB-wA-Y91.text">
+        <source>Votre numéro de téléphone permet de valider le paiement ainsi que de maintenir la sécurité au sein de l’application.</source>
+        <target>Your phone number allows to validate the payment and maintain the security within the app.</target>
+        <note>Class = "UILabel"; text = "Votre numéro de téléphone permet de valider le paiement ainsi que de maintenir la sécurité au sein de l’application."; ObjectID = "QzB-wA-Y91";</note>
+      </trans-unit>
+      <trans-unit id="RgP-Kc-9eR.text">
+        <source>C’est plus rapide avec Facebook !</source>
+        <target>It's faster with Facebook !</target>
+        <note>Class = "UILabel"; text = "C’est plus rapide avec Facebook !"; ObjectID = "RgP-Kc-9eR";</note>
+      </trans-unit>
+      <trans-unit id="VPK-vn-SxK.normalTitle">
+        <source>Retour</source>
+        <target>Return</target>
+        <note>Class = "UIButton"; normalTitle = "Retour"; ObjectID = "VPK-vn-SxK"; Note = "Bouton pour accéder au CGV sur la homepage";</note>
+      </trans-unit>
+      <trans-unit id="YkN-ga-TKR.placeholder">
+        <source>Adresse mail</source>
+        <target>E-mail</target>
+        <note>Class = "UITextField"; placeholder = "Adresse mail"; ObjectID = "YkN-ga-TKR";</note>
+      </trans-unit>
+      <trans-unit id="ain-On-3K0.placeholder">
+        <source>Pays</source>
+        <target>Country</target>
+        <note>Class = "UITextField"; placeholder = "Pays"; ObjectID = "ain-On-3K0";</note>
+      </trans-unit>
+      <trans-unit id="bAd-HA-hBI.normalTitle">
+        <source>CGU</source>
+        <target>CGU</target>
+        <note>Class = "UIButton"; normalTitle = "CGU"; ObjectID = "bAd-HA-hBI"; Note = "Bouton pour accéder au CGV sur la homepage";</note>
+      </trans-unit>
+      <trans-unit id="bNl-84-peA.placeholder">
+        <source>Mot de passe</source>
+        <target>Password</target>
+        <note>Class = "UITextField"; placeholder = "Mot de passe"; ObjectID = "bNl-84-peA";</note>
+      </trans-unit>
+      <trans-unit id="gTe-eJ-jOJ.normalTitle">
+        <source>Changer de mot de passe</source>
+        <target>Change the password</target>
+        <note>Class = "UIButton"; normalTitle = "Changer de mot de passe"; ObjectID = "gTe-eJ-jOJ"; Note = "Bouton pour se connecter sur la homepage";</note>
+      </trans-unit>
+      <trans-unit id="hXY-KD-7Kp.normalTitle">
+        <source>FACEBOOK</source>
+        <target>FACEBOOK</target>
+        <note>Class = "UIButton"; normalTitle = "FACEBOOK"; ObjectID = "hXY-KD-7Kp"; Note = "Bouton pour se connecter sur la homepage";</note>
+      </trans-unit>
+      <trans-unit id="htD-Cx-Fq4.normalTitle">
+        <source>Découvrir</source>
+        <target>Discover</target>
+        <note>Class = "UIButton"; normalTitle = "Découvrir"; ObjectID = "htD-Cx-Fq4"; Note = "Bouton pour aller dans l'application en mode invité";</note>
+      </trans-unit>
+      <trans-unit id="hv1-7C-44v.placeholder">
+        <source>Adresse mail</source>
+        <target>E-mail</target>
+        <note>Class = "UITextField"; placeholder = "Adresse mail"; ObjectID = "hv1-7C-44v";</note>
+      </trans-unit>
+      <trans-unit id="jfm-TS-WcM.text">
+        <source>Vos données sont protégées et elles ne sont pas revendues.</source>
+        <target>Your data is protected and will not be sell.</target>
+        <note>Class = "UILabel"; text = "Vos données sont protégées et elles ne sont pas revendues."; ObjectID = "jfm-TS-WcM";</note>
+      </trans-unit>
+      <trans-unit id="kAJ-Kf-fOB.normalTitle">
+        <source>RETOUR</source>
+        <target>Return</target>
+        <note>Class = "UIButton"; normalTitle = "RETOUR"; ObjectID = "kAJ-Kf-fOB"; Note = "Bouton pour accéder au mot de passe oublié depuis la homepage";</note>
+      </trans-unit>
+      <trans-unit id="ot3-Qu-GPR.normalTitle">
+        <source>FACEBOOK</source>
+        <target>FACEBOOK</target>
+        <note>Class = "UIButton"; normalTitle = "FACEBOOK"; ObjectID = "ot3-Qu-GPR"; Note = "Bouton pour se connecter sur la homepage";</note>
+      </trans-unit>
+      <trans-unit id="qgv-Xf-VWS.normalTitle">
+        <source>Se connecter</source>
+        <target>Log in</target>
+        <note>Class = "UIButton"; normalTitle = "Se connecter"; ObjectID = "qgv-Xf-VWS"; Note = "Bouton pour se connecter sur la homepage";</note>
+      </trans-unit>
+      <trans-unit id="sTM-zl-VOw.text">
+        <source>Mot de passe oublié</source>
+        <target>Password forgotten</target>
+        <note>Class = "UILabel"; text = "Mot de passe oublié"; ObjectID = "sTM-zl-VOw"; Note = "Titre de la page";</note>
+      </trans-unit>
+      <trans-unit id="xWY-eo-G56.text">
+        <source>ou</source>
+        <target>or</target>
+        <note>Class = "UILabel"; text = "ou"; ObjectID = "xWY-eo-G56";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="clic_and_walk_ios/Base.lproj/Cagnotte.storyboard" source-language="th" datatype="plaintext" target-language="en">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.4.1" build-num="9F2000"/>
+    </header>
+    <body>
+      <trans-unit id="1Hu-LK-2Ri.normalTitle">
+        <source>Valider les changements</source>
+        <target>Validate the changes</target>
+        <note>Class = "UIButton"; normalTitle = "Valider les changements"; ObjectID = "1Hu-LK-2Ri"; Note = "Bouton dans la cagnotte, après avoir changé les infos bancaires";</note>
+      </trans-unit>
+      <trans-unit id="4fq-WM-kqh.text">
+        <source>Moyen de paiement</source>
+        <target>Means of payment</target>
+        <note>Class = "UILabel"; text = "Moyen de paiement"; ObjectID = "4fq-WM-kqh"; Note = "Pas besoin de traduire";</note>
+      </trans-unit>
+      <trans-unit id="9gi-vd-ydL.text">
+        <source>---</source>
+        <target>---</target>
+        <note>Class = "UILabel"; text = "---"; ObjectID = "9gi-vd-ydL";</note>
+      </trans-unit>
+      <trans-unit id="DLT-wE-2aX.title">
+        <source>Ma cagnotte</source>
+        <target>My money</target>
+        <note>Class = "UINavigationItem"; title = "Ma cagnotte"; ObjectID = "DLT-wE-2aX"; Note = "Titre";</note>
+      </trans-unit>
+      <trans-unit id="GIf-Lg-zDt.placeholder">
+        <source>PayPal</source>
+        <target>PayPal</target>
+        <note>Class = "UITextField"; placeholder = "PayPal"; ObjectID = "GIf-Lg-zDt"; Note = "Placeholder dans la cagnotte";</note>
+      </trans-unit>
+      <trans-unit id="Ha0-oF-y4h.segmentTitles[0]">
+        <source>Solde</source>
+        <target>Balance</target>
+        <note>Class = "UISegmentedControl"; Ha0-oF-y4h.segmentTitles[0] = "Solde"; ObjectID = "Ha0-oF-y4h"; Note = "Dans la cagnotte, titres du switch";</note>
+      </trans-unit>
+      <trans-unit id="Ha0-oF-y4h.segmentTitles[1]">
+        <source>Historique</source>
+        <target>Historic</target>
+        <note>Class = "UISegmentedControl"; Ha0-oF-y4h.segmentTitles[1] = "Historique"; ObjectID = "Ha0-oF-y4h"; Note = "Dans la cagnotte, titres du switch";</note>
+      </trans-unit>
+      <trans-unit id="Ksp-hY-B8t.text">
+        <source>Historique des paiements</source>
+        <target>Payment history</target>
+        <note>Class = "UILabel"; text = "Historique des paiements"; ObjectID = "Ksp-hY-B8t";</note>
+      </trans-unit>
+      <trans-unit id="PBV-fV-gKI.text">
+        <source>État de ma cagnotte</source>
+        <target>State of my money</target>
+        <note>Class = "UILabel"; text = "État de ma cagnotte"; ObjectID = "PBV-fV-gKI";</note>
+      </trans-unit>
+      <trans-unit id="PGe-qX-gXy.placeholder">
+        <source>IBAN</source>
+        <target>IBAN</target>
+        <note>Class = "UITextField"; placeholder = "IBAN"; ObjectID = "PGe-qX-gXy"; Note = "Placeholder dans la cagnotte";</note>
+      </trans-unit>
+      <trans-unit id="PyQ-Om-PpD.segmentTitles[0]">
+        <source>PayPal</source>
+        <target>PayPal</target>
+        <note>Class = "UISegmentedControl"; PyQ-Om-PpD.segmentTitles[0] = "PayPal"; ObjectID = "PyQ-Om-PpD"; Note = "Switch dans la cagnotte";</note>
+      </trans-unit>
+      <trans-unit id="PyQ-Om-PpD.segmentTitles[1]">
+        <source>Bancaire</source>
+        <target>Bank</target>
+        <note>Class = "UISegmentedControl"; PyQ-Om-PpD.segmentTitles[1] = "Bancaire"; ObjectID = "PyQ-Om-PpD"; Note = "Switch dans la cagnotte";</note>
+      </trans-unit>
+      <trans-unit id="TRM-eo-D6f.text">
+        <source>Valeur</source>
+        <target>Value</target>
+        <note>Class = "UILabel"; text = "Valeur"; ObjectID = "TRM-eo-D6f"; Note = "Pas besoin de traduire";</note>
+      </trans-unit>
+      <trans-unit id="fXp-yc-GlU.text">
+        <source>Date</source>
+        <target>Date</target>
+        <note>Class = "UILabel"; text = "Date"; ObjectID = "fXp-yc-GlU"; Note = "Pas besoin de traduire";</note>
+      </trans-unit>
+      <trans-unit id="hMf-pP-EBJ.placeholder">
+        <source>BIC</source>
+        <target>BIC</target>
+        <note>Class = "UITextField"; placeholder = "BIC"; ObjectID = "hMf-pP-EBJ"; Note = "Placeholder dans la cagnotte";</note>
+      </trans-unit>
+      <trans-unit id="jzP-u1-LbV.text">
+        <source>BIC</source>
+        <target>BIC</target>
+        <note>Class = "UILabel"; text = "BIC"; ObjectID = "jzP-u1-LbV";</note>
+      </trans-unit>
+      <trans-unit id="ksx-Lf-vQg.normalTitle">
+        <source>Demander un paiement</source>
+        <target>Ask for a payment</target>
+        <note>Class = "UIButton"; normalTitle = "Demander un paiement"; ObjectID = "ksx-Lf-vQg";</note>
+      </trans-unit>
+      <trans-unit id="ol3-A5-xV6.text">
+        <source>Le paiement est effectué le lundi suivant votre demande. Vous recevrez votre argent sous environ 48h.</source>
+        <target>Your payment will be made on the Tuesday following the 10 working days of your request.</target>
+        <note>Class = "UILabel"; text = "Le paiement est effectué le lundi suivant votre demande. Vous recevrez votre argent sous environ 48h."; ObjectID = "ol3-A5-xV6";</note>
+      </trans-unit>
+      <trans-unit id="rkw-Xe-M0z.text">
+        <source>Euros</source>
+        <target>Pounds</target>
+        <note>Class = "UILabel"; text = "Euros"; ObjectID = "rkw-Xe-M0z"; Note = "Pas besoin de traduire";</note>
+      </trans-unit>
+      <trans-unit id="u9q-3l-hT6.text">
+        <source>2000</source>
+        <target>2000</target>
+        <note>Class = "UILabel"; text = "2000"; ObjectID = "u9q-3l-hT6"; Note = "Pas besoin de traduire";</note>
+      </trans-unit>
+      <trans-unit id="wYF-O9-Ax1.text">
+        <source>Informations de paiement</source>
+        <target>Payment data</target>
+        <note>Class = "UILabel"; text = "Informations de paiement"; ObjectID = "wYF-O9-Ax1"; Note = "Dans la cagnotte";</note>
+      </trans-unit>
+      <trans-unit id="yzQ-eh-Ll9.text">
+        <source>IBAN</source>
+        <target>IBAN</target>
+        <note>Class = "UILabel"; text = "IBAN"; ObjectID = "yzQ-eh-Ll9";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="clic_and_walk_ios/Base.lproj/Contacts.storyboard" source-language="th" datatype="plaintext" target-language="en">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.4.1" build-num="9F2000"/>
+    </header>
+    <body>
+      <trans-unit id="6sh-mA-fOq.placeholder">
+        <source>Rechercher un contact</source>
+        <target>Search a contact</target>
+        <note>Class = "UISearchBar"; placeholder = "Rechercher un contact"; ObjectID = "6sh-mA-fOq";</note>
+      </trans-unit>
+      <trans-unit id="8Ot-d1-FXr.title">
+        <source>Sélection</source>
+        <target>Selection</target>
+        <note>Class = "UINavigationItem"; title = "Sélection"; ObjectID = "8Ot-d1-FXr";</note>
+      </trans-unit>
+      <trans-unit id="DBK-Nq-kS0.text">
+        <source>Invitation envoyée</source>
+        <target>Invitation sent</target>
+        <note>Class = "UILabel"; text = "Invitation envoyée"; ObjectID = "DBK-Nq-kS0";</note>
+      </trans-unit>
+      <trans-unit id="Dxo-pd-mX7.title">
+        <source>Sélectionner des amis</source>
+        <target>Select friends</target>
+        <note>Class = "UINavigationItem"; title = "Sélectionner des amis"; ObjectID = "Dxo-pd-mX7"; Note = "Titre de la page \"sélectionner des amis\"";</note>
+      </trans-unit>
+      <trans-unit id="GRw-BN-l37.title">
+        <source>Amis</source>
+        <target>Friends</target>
+        <note>Class = "UINavigationItem"; title = "Amis"; ObjectID = "GRw-BN-l37";</note>
+      </trans-unit>
+      <trans-unit id="Mz2-bh-kEI.text">
+        <source>Label</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "Mz2-bh-kEI"; Note = "⚠ Ne pas traduire";</note>
+      </trans-unit>
+      <trans-unit id="Qo1-0W-M2B.segmentTitles[0]">
+        <source>First</source>
+        <target>First</target>
+        <note>Class = "UISegmentedControl"; Qo1-0W-M2B.segmentTitles[0] = "First"; ObjectID = "Qo1-0W-M2B";</note>
+      </trans-unit>
+      <trans-unit id="Qo1-0W-M2B.segmentTitles[1]">
+        <source>Second</source>
+        <target>Second</target>
+        <note>Class = "UISegmentedControl"; Qo1-0W-M2B.segmentTitles[1] = "Second"; ObjectID = "Qo1-0W-M2B";</note>
+      </trans-unit>
+      <trans-unit id="Vay-71-pEI.text">
+        <source>Label</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "Vay-71-pEI"; Note = "⚠ Ne pas traduire";</note>
+      </trans-unit>
+      <trans-unit id="aqQ-Kn-CIz.text">
+        <source>Label</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "aqQ-Kn-CIz"; Note = "⚠ Ne pas traduire";</note>
+      </trans-unit>
+      <trans-unit id="baw-Vb-Umi.text">
+        <source>Tout sélectionner (0)</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Tout sélectionner (0)"; ObjectID = "baw-Vb-Umi"; Note = "⚠ Ne pas traduire";</note>
+      </trans-unit>
+      <trans-unit id="i5a-lW-bbw.title">
+        <source>Valider</source>
+        <target>Validate</target>
+        <note>Class = "UIBarButtonItem"; title = "Valider"; ObjectID = "i5a-lW-bbw"; Note = "Bouton dans la barre du haut pour valider la sélection des contacts";</note>
+      </trans-unit>
+      <trans-unit id="irc-oI-iwx.title">
+        <source>Amis</source>
+        <target>Friends</target>
+        <note>Class = "UINavigationItem"; title = "Amis"; ObjectID = "irc-oI-iwx";</note>
+      </trans-unit>
+      <trans-unit id="jUN-e7-9he.placeholder">
+        <source>Rechercher un ami</source>
+        <target>Search a friend</target>
+        <note>Class = "UISearchBar"; placeholder = "Rechercher un ami"; ObjectID = "jUN-e7-9he";</note>
+      </trans-unit>
+      <trans-unit id="kT6-sH-Tp9.normalTitle">
+        <source>Valider</source>
+        <target>Validate</target>
+        <note>Class = "UIButton"; normalTitle = "Valider"; ObjectID = "kT6-sH-Tp9"; Note = "Bouton de validation de la sélection des amis pour le whasq en bas de la page";</note>
+      </trans-unit>
+      <trans-unit id="lIi-lL-FYs.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "lIi-lL-FYs";</note>
+      </trans-unit>
+      <trans-unit id="mQX-R9-Y6Y.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "mQX-R9-Y6Y";</note>
+      </trans-unit>
+      <trans-unit id="qBy-zq-vVV.placeholder">
+        <source>Rechercher un ami</source>
+        <target>Search a friend</target>
+        <note>Class = "UISearchBar"; placeholder = "Rechercher un ami"; ObjectID = "qBy-zq-vVV";</note>
+      </trans-unit>
+      <trans-unit id="tUj-nj-N9D.text">
+        <source>Label</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "tUj-nj-N9D"; Note = "⚠ Ne pas traduire";</note>
+      </trans-unit>
+      <trans-unit id="u0E-UK-ntd.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "u0E-UK-ntd";</note>
+      </trans-unit>
+      <trans-unit id="uLl-lU-5nJ.normalTitle">
+        <source>Valider</source>
+        <target>Validate</target>
+        <note>Class = "UIButton"; normalTitle = "Valider"; ObjectID = "uLl-lU-5nJ"; Note = "Bouton de validation de la sélection des amis pour le whasq en bas de la page";</note>
+      </trans-unit>
+      <trans-unit id="wYT-Ts-DQt.placeholder">
+        <source>Rechercher un ami</source>
+        <target>Search a friend</target>
+        <note>Class = "UISearchBar"; placeholder = "Rechercher un ami"; ObjectID = "wYT-Ts-DQt";</note>
+      </trans-unit>
+      <trans-unit id="xOs-bc-h8a.text">
+        <source>Groupe</source>
+        <target>Group</target>
+        <note>Class = "UITextField"; text = "Groupe"; ObjectID = "xOs-bc-h8a";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="clic_and_walk_ios/Base.lproj/DetailMission.storyboard" source-language="th" datatype="plaintext" target-language="en">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.4.1" build-num="9F2000"/>
+    </header>
+    <body>
+      <trans-unit id="0Dr-VR-Olq.text">
+        <source>Progression 75%</source>
+        <target>Progress 75%</target>
+        <note>Class = "UILabel"; text = "Progression 75%"; ObjectID = "0Dr-VR-Olq"; Note = "Placeholder, ne pas traduire";</note>
+      </trans-unit>
+      <trans-unit id="82S-Gs-fPL.normalTitle">
+        <source>Se connecter</source>
+        <target>Log in</target>
+        <note>Class = "UIButton"; normalTitle = "Se connecter"; ObjectID = "82S-Gs-fPL"; Note = "Connexion quand on est invité, dans le détail d'une mission";</note>
+      </trans-unit>
+      <trans-unit id="A7k-PQ-S9N.text">
+        <source>Durée</source>
+        <target>Desired period</target>
+        <note>Class = "UILabel"; text = "Durée"; ObjectID = "A7k-PQ-S9N"; Note = "Placeholder, ne pas traduire";</note>
+      </trans-unit>
+      <trans-unit id="Bev-p0-vnw.text">
+        <source>Quizz n°</source>
+        <target>Quizz n°</target>
+        <note>Class = "UILabel"; text = "Quizz n°"; ObjectID = "Bev-p0-vnw";</note>
+      </trans-unit>
+      <trans-unit id="IOi-Ha-heD.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "IOi-Ha-heD"; Note = "Pas besoin de traduire";</note>
+      </trans-unit>
+      <trans-unit id="Jrn-pO-po0.text">
+        <source>Description</source>
+        <target>Description</target>
+        <note>Class = "UILabel"; text = "Description"; ObjectID = "Jrn-pO-po0"; Note = "Pas besoin de traduire";</note>
+      </trans-unit>
+      <trans-unit id="d45-IP-aY3.text">
+        <source>--</source>
+        <target>--</target>
+        <note>Class = "UILabel"; text = "--"; ObjectID = "d45-IP-aY3";</note>
+      </trans-unit>
+      <trans-unit id="hpI-gI-F8B.text">
+        <source>-</source>
+        <target/>
+        <note>Class = "UILabel"; text = "-"; ObjectID = "hpI-gI-F8B"; Note = "Placeholder, ne pas traduire";</note>
+      </trans-unit>
+      <trans-unit id="lJ9-eq-caV.text">
+        <source>-- €</source>
+        <target>-- £</target>
+        <note>Class = "UILabel"; text = "-- €"; ObjectID = "lJ9-eq-caV";</note>
+      </trans-unit>
+      <trans-unit id="mcD-c4-em0.text">
+        <source>Titre de la mission</source>
+        <target>Title of the mission</target>
+        <note>Class = "UILabel"; text = "Titre de la mission"; ObjectID = "mcD-c4-em0";</note>
+      </trans-unit>
+      <trans-unit id="p6U-Tt-FJR.normalTitle">
+        <source>Participer</source>
+        <target>Participate</target>
+        <note>Class = "UIButton"; normalTitle = "Participer"; ObjectID = "p6U-Tt-FJR"; Note = "Participer à une mission (dans le détail d'une mission)";</note>
+      </trans-unit>
+      <trans-unit id="pmy-an-Vfy.text">
+        <source>Temps restant</source>
+        <target>Remaining time</target>
+        <note>Class = "UILabel"; text = "Temps restant"; ObjectID = "pmy-an-Vfy"; Note = "Placeholder, ne pas traduire";</note>
+      </trans-unit>
+      <trans-unit id="q4o-yR-FRQ.normalTitle">
+        <source>Continuer</source>
+        <target>Continue</target>
+        <note>Class = "UIButton"; normalTitle = "Continuer"; ObjectID = "q4o-yR-FRQ"; Note = "Continuer une mission (dans le détail d'une mission)";</note>
+      </trans-unit>
+      <trans-unit id="zkU-ks-dJh.normalTitle">
+        <source>Abandonner</source>
+        <target>Give up</target>
+        <note>Class = "UIButton"; normalTitle = "Abandonner"; ObjectID = "zkU-ks-dJh"; Note = "Abandonner une mission en cours";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="clic_and_walk_ios/Base.lproj/Localizable.strings" source-language="th" datatype="plaintext" target-language="en">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.4.1" build-num="9F2000"/>
+    </header>
+    <body>
+      <trans-unit id="Annuler">
+        <source>Annuler</source>
+        <target>Cancel</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Annuler le Whasq">
+        <source>Annuler le Whasq</source>
+        <target>Cancel the Whasq</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Attendre">
+        <source>Attendre</source>
+        <target>Wait</target>
+        <note>Réponse à une mission/whasq</note>
+      </trans-unit>
+      <trans-unit id="Avant de créer des Whasq, vous pouvez ajouter des contacts">
+        <source>Avant de créer des Whasq, vous pouvez ajouter des contacts</source>
+        <target>Before creating a Whasq, you can add contacts</target>
+        <note>Titre popup quand essai whasq sans amis</note>
+      </trans-unit>
+      <trans-unit id="CODE">
+        <source>CODE</source>
+        <target>CODE</target>
+        <note>sms de vérification</note>
+      </trans-unit>
+      <trans-unit id="Confirmation virement">
+        <source>Confirmation virement</source>
+        <target>Transfer confirmation</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Confirmer">
+        <source>Confirmer</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="ENVOYER">
+        <source>ENVOYER</source>
+        <target>SEND</target>
+        <note>Réponse à une mission/whasq</note>
+      </trans-unit>
+      <trans-unit id="En cliquant sur Transferer, une demande de transfert sera lancée">
+        <source>En cliquant sur Transferer, une demande de transfert sera lancée</source>
+        <target>By clicking Transfer, a transfer request will be launched</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="En pause">
+        <source>En pause</source>
+        <target>Paused</target>
+        <note>Sound recorder</note>
+      </trans-unit>
+      <trans-unit id="Enlever">
+        <source>Enlever</source>
+        <target>Remove</target>
+        <note>Création de whasq, supprimer une photo</note>
+      </trans-unit>
+      <trans-unit id="Enregistrement...">
+        <source>Enregistrement...</source>
+        <target>Recording...</target>
+        <note>Sound recorder</note>
+      </trans-unit>
+      <trans-unit id="Entrez le SMS dans la boite de dialogue">
+        <source>Entrez le SMS dans la boite de dialogue</source>
+        <target>Enter the text message in the conversation</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Entrez le SMS de vérification">
+        <source>Entrez le SMS de vérification</source>
+        <target>Enter the verification SMS</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Erreur">
+        <source>Erreur</source>
+        <target>Error</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Erreur lors de l'enregistrement audio :">
+        <source>Erreur lors de l'enregistrement audio :</source>
+        <target>Error while recording audio:</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Erreur lors de la récuperation des données Facebook">
+        <source>Erreur lors de la récuperation des données Facebook</source>
+        <target>Error during the recovery of the data Facebook</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Erreur lors du lancement de l'audio : ">
+        <source>Erreur lors du lancement de l'audio : </source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Erreur lors du lancement de la vidéo : ">
+        <source>Erreur lors du lancement de la vidéo : </source>
+        <note>Réponse à un whasq</note>
+      </trans-unit>
+      <trans-unit id="Garder">
+        <source>Garder</source>
+        <target>Keep</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Impossible d'ouvrir l'application AppStore">
+        <source>Impossible d'ouvrir l'application AppStore</source>
+        <target>Unable to open AppStore application</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Informations de paiement changées">
+        <source>Informations de paiement changées</source>
+        <target>The payment data has been changed</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Informations manquantes">
+        <source>Informations manquantes</source>
+        <target>Missing information</target>
+        <note>Lors d'une demande de paiement</note>
+      </trans-unit>
+      <trans-unit id="Inviter des amis">
+        <source>Inviter des amis</source>
+        <target>Invite friends</target>
+        <note>Titre popup quand essai whasq sans amis</note>
+      </trans-unit>
+      <trans-unit id="Jours">
+        <source>Jours</source>
+        <target>Days</target>
+        <note>Unité de jours dans la liste des missions</note>
+      </trans-unit>
+      <trans-unit id="Le virement a été effectué">
+        <source>Le virement a été effectué</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Lecture en cours">
+        <source>Lecture en cours</source>
+        <target>Now playing</target>
+        <note>Sound recorder</note>
+      </trans-unit>
+      <trans-unit id="Les photos">
+        <source>Les photos</source>
+        <target>Pictures</target>
+        <note>Liste de médias</note>
+      </trans-unit>
+      <trans-unit id="Les réponses ont été envoyées ! :)">
+        <source>Les réponses ont été envoyées ! :)</source>
+        <target>Great, your answers have been sent ! :)</target>
+        <note>Réponse à un whasq</note>
+      </trans-unit>
+      <trans-unit id="Les sons">
+        <source>Les sons</source>
+        <target>Audios</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Les vidéos">
+        <source>Les vidéos</source>
+        <target>Videos</target>
+        <note>Liste de médias</note>
+      </trans-unit>
+      <trans-unit id="Localisation">
+        <source>Localisation</source>
+        <note>Titre demande de localisation</note>
+      </trans-unit>
+      <trans-unit id="Ma position">
+        <source>Ma position</source>
+        <target>My location</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Mission">
+        <source>Mission</source>
+        <target>Mission</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Mission complétée">
+        <source>Mission complétée</source>
+        <target>Mission completed</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Nous devons connaitre votre adresse mail pour pouvoir créer le compte ">
+        <source>Nous devons connaitre votre adresse mail pour pouvoir créer le compte </source>
+        <note>Erreur connection facebook</note>
+      </trans-unit>
+      <trans-unit id="OK">
+        <source>OK</source>
+        <target>OK</target>
+        <note>OK</note>
+      </trans-unit>
+      <trans-unit id="PATIENTEZ SVP, Nous chargeons vos contacts">
+        <source>PATIENTEZ SVP, Nous chargeons vos contacts</source>
+        <target>PLEASE WAIT, We load your contacts</target>
+        <note>Upload des contacts</note>
+      </trans-unit>
+      <trans-unit id="Paiments en attente">
+        <source>Paiments en attente</source>
+        <target>Payments pending</target>
+        <note>Bis</note>
+      </trans-unit>
+      <trans-unit id="Paiments refusés">
+        <source>Paiments refusés</source>
+        <target>Payments denied</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Paiments supprimés">
+        <source>Paiments supprimés</source>
+        <target>Payments cancelled</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Paiments validés">
+        <source>Paiments validés</source>
+        <target>Payments validated</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Pas d'audio enregistré">
+        <source>Pas d'audio enregistré</source>
+        <target>No audio recorded</target>
+        <note>Liste de médias</note>
+      </trans-unit>
+      <trans-unit id="Pas de photo enregistrée">
+        <source>Pas de photo enregistrée</source>
+        <target>No picture recorded</target>
+        <note>Liste de médias</note>
+      </trans-unit>
+      <trans-unit id="Pas de vidéo enregistrée">
+        <source>Pas de vidéo enregistrée</source>
+        <target>No video recorded</target>
+        <note>Liste de médias</note>
+      </trans-unit>
+      <trans-unit id="Profil mis à jour">
+        <source>Profil mis à jour</source>
+        <target>Profile updated</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Progression">
+        <source>Progression</source>
+        <target>Progression</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Pseudo">
+        <source>Pseudo</source>
+        <target>Pseudo</target>
+        <note>Réponse anonyme à un whasq</note>
+      </trans-unit>
+      <trans-unit id="Quel est votre pseudo ?">
+        <source>Quel est votre pseudo ?</source>
+        <target>What's your pseudo?</target>
+        <note>Réponse anonyme à un whasq</note>
+      </trans-unit>
+      <trans-unit id="Quizz">
+        <source>Quizz</source>
+        <target>Quizz</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Retour sur Clic&amp;Walk">
+        <source>Retour sur Clic&amp;Walk</source>
+        <target>Feedback on Clic&amp;Walk</target>
+        <note>Mail de feedback utilisateur</note>
+      </trans-unit>
+      <trans-unit id="Réservation effectuée">
+        <source>Réservation effectuée</source>
+        <target>Reservation made</target>
+        <note>Après reservation complète</note>
+      </trans-unit>
+      <trans-unit id="SMS de vérification">
+        <source>SMS de vérification</source>
+        <target>Text message of verification</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Saisissez ici votre réponse">
+        <source>Saisissez ici votre réponse</source>
+        <target>Type your answer here</target>
+        <note>Whasq</note>
+      </trans-unit>
+      <trans-unit id="Ton whasq">
+        <source>Ton whasq</source>
+        <target>My first question</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Tous les quizzes ont été remplis, les réponses vont être envoyées">
+        <source>Tous les quizzes ont été remplis, les réponses vont être envoyées</source>
+        <target>All the quizz have been answered, the answers will be sent.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Transférer">
+        <source>Transférer</source>
+        <target>Transfer</target>
+        <note>Virement</note>
+      </trans-unit>
+      <trans-unit id="Un SMS de confirmation va vous être envoyé">
+        <source>Un SMS de confirmation va vous être envoyé</source>
+        <target>A text message will be sent to you</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Veuillez retrouver notre application sur l'AppStore et nous laisser un commentaire. Merci">
+        <source>Veuillez retrouver notre application sur l'AppStore et nous laisser un commentaire. Merci</source>
+        <target>Please find our app on the App Store and leave us a comment. Thank you</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Virement effectué">
+        <source>Virement effectué</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Voir">
+        <source>Voir</source>
+        <target>See</target>
+        <note>Création d'un whasq, voir la photo</note>
+      </trans-unit>
+      <trans-unit id="Votre localisation est nécessaire pour la prise de photo/son/vidéo">
+        <source>Votre localisation est nécessaire pour la prise de photo/son/vidéo</source>
+        <note>Commentaire localisation</note>
+      </trans-unit>
+      <trans-unit id="Votre nom et prénom sont nécessaires pour la demande de virement">
+        <source>Votre nom et prénom sont nécessaires pour la demande de virement</source>
+        <target>Your surname and first name are required for the transfer request</target>
+        <note>Lors d'une demande de paiement</note>
+      </trans-unit>
+      <trans-unit id="Voulez-vous supprimer ce Whasq ?">
+        <source>Voulez-vous supprimer ce Whasq ?</source>
+        <target>Do you want to delete this Whasq?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Vous serez informé par une notification si la mission se libère">
+        <source>Vous serez informé par une notification si la mission se libère</source>
+        <target>You will be informed by a notification if the mission releases itself</target>
+        <note>Après reservation complète</note>
+      </trans-unit>
+      <trans-unit id="add.group.popup.default.name">
+        <source>Groupe</source>
+        <target>Group</target>
+        <note>Pop up d'ajout de groupe</note>
+      </trans-unit>
+      <trans-unit id="adressbook.contact.selectall.title">
+        <source>Tout selectionner (%i)</source>
+        <target>Select all (%i)</target>
+        <note>ContactsSelectorViewModel</note>
+      </trans-unit>
+      <trans-unit id="cell.friend.invit.button">
+        <source>Inviter</source>
+        <target>Invite</target>
+        <note>ContactableCell</note>
+      </trans-unit>
+      <trans-unit id="contact.choose.friends.title">
+        <source>Sélectionner des amis</source>
+        <target>Select friends</target>
+        <note>Selection de contacts avant envoi du whasq</note>
+      </trans-unit>
+      <trans-unit id="contact.popup.SMS.impossible">
+        <source>Impossible d'ouvrir l'éditeur de message.</source>
+        <target>Impossible to open the message editing.</target>
+        <note>ContactPopUp</note>
+      </trans-unit>
+      <trans-unit id="contact.popup.email.impossible">
+        <source>Impossible d'ouvrir l'éditeur d'email</source>
+        <target>Impossible to open the mail editing.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="contact.whasq.creation.success.popup.bouton">
+        <source>OK</source>
+        <target>OK</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="contact.whasq.creation.success.popup.subtitle">
+        <source>Votre Whasq a été créé avec succès.</source>
+        <target>Your Whasq has been successfully created.</target>
+        <note>Selection de contacts avant envoi du whasq</note>
+      </trans-unit>
+      <trans-unit id="contact.whasq.creation.success.popup.title">
+        <source>Félicitation</source>
+        <target>Congratulations</target>
+        <note>Selection de contacts avant envoi du whasq</note>
+      </trans-unit>
+      <trans-unit id="create.account.default.country.code">
+        <source>fr</source>
+        <target>uk</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="create.account.facebook.login.cancel">
+        <source>Inscription avec Facebook annulée</source>
+        <target>Registration with Facebook cancelled</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="create.account.title">
+        <source>Inscription</source>
+        <target>Registration</target>
+        <note>CreateAccountViewController</note>
+      </trans-unit>
+      <trans-unit id="create.account.validation.country.error">
+        <source>Veuiller choisir un pays.</source>
+        <target>Please select a country.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="create.account.validation.email.error">
+        <source>Veuiller entrer un email valide.</source>
+        <target>Please enter a valid email.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="create.account.validation.password.error">
+        <source>Veuiller entrer un mot de passe valide.</source>
+        <target>Please enter a valid password.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="create.account.validation.phonenumber.error">
+        <source>Veuiller entrer un numéro de téléphone valide.</source>
+        <target>Please enter a valid phone number.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="create.account.withemail.connection.error">
+        <source>Erreur lors de la connexion</source>
+        <target>Error during the connection</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="create.account.withemail.error.default">
+        <source>Erreur</source>
+        <target>Error</target>
+        <note>CreateAccountViewModel</note>
+      </trans-unit>
+      <trans-unit id="create.account.withfacebook.connection.error">
+        <source>Erreur lors de la connexion facebook</source>
+        <target>Error during the connection to Facebook</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="create.account.withfacebook.error.default">
+        <source>Erreur</source>
+        <target>Error</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="error.upload.failed">
+        <source>L'upload a échoué</source>
+        <target>Upload failed</target>
+        <note>Lors de la réponse à un whasq</note>
+      </trans-unit>
+      <trans-unit id="friends.facebook.error.toast">
+        <source>Erreur Facebook</source>
+        <target>Error Facebook</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="friends.import.from.adressbook">
+        <source>Importer depuis les contacts</source>
+        <target>Import from contacts</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="friends.import.from.facebook">
+        <source>Importer depuis Facebook</source>
+        <target>Import from Facebook</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="friends.import.from.other">
+        <source>Autres...</source>
+        <target>Other...</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="friends.invitation.send.toast">
+        <source>Invitation envoyée</source>
+        <target>Invitation sent</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="friends.retrieveFriend.facebook.error.toast">
+        <source>Erreur lors de la récupération de vos amis Facebook</source>
+        <target>Error during the recovery of your Facebook friends</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="friends.title">
+        <source>Amis</source>
+        <target>Friends</target>
+        <note>ContactsContainerViewController</note>
+      </trans-unit>
+      <trans-unit id="generic.error.description">
+        <source>Il y a eu un problème</source>
+        <target>There has been a problem.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="generic.error.title">
+        <source>Erreur</source>
+        <target>Error</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="generic.validate">
+        <source>Valider</source>
+        <target>Validate</target>
+        <note>Generic</note>
+      </trans-unit>
+      <trans-unit id="group.detail.delete.error.toast">
+        <source>Il y a eu un problème</source>
+        <target>There has been a problem</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="group.detail.edit.default.name">
+        <source>Groupe</source>
+        <target>Group</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="group.detail.options.delete">
+        <source>Supprimer le groupe</source>
+        <target>Delete the group</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="group.detail.options.manage.friends">
+        <source>Gérer les amis</source>
+        <target>Manage your friends list</target>
+        <note>GroupDetailViewController</note>
+      </trans-unit>
+      <trans-unit id="group.detail.popup.delete.cancel">
+        <source>Annuler</source>
+        <target>Cancel</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="group.detail.popup.delete.confirm">
+        <source>Supprimer</source>
+        <target>Delete</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="group.detail.popup.delete.message">
+        <source>Voulez-vous supprimer ce groupe ?</source>
+        <target>Do you want to delete the group?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="group.detail.popup.delete.title">
+        <source>Confirmation</source>
+        <target>Confirm</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="home.filter.title.plural">
+        <source>%i/3 filtres activés</source>
+        <target>%i/3 activated filters</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="home.filter.title.single">
+        <source>%i/3 filtre activé</source>
+        <target>%i/3 activated filter</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="home.filter.whasq.on">
+        <source>Missions WHASQ</source>
+        <target>WHASQ missions</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="home.refresh.error.toast">
+        <source>Il y a eu un problème</source>
+        <target>There has been a problem</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="home.title">
+        <source>Missions disponibles</source>
+        <target>Missions available</target>
+        <note>MissionsContainerViewController</note>
+      </trans-unit>
+      <trans-unit id="http://fr.clicandwalk.com/">
+        <source>http://fr.clicandwalk.com/</source>
+        <target>http://uk.clicandwalk.com/</target>
+        <note>Site web</note>
+      </trans-unit>
+      <trans-unit id="list.clicwalker.title">
+        <source>Clicwalker</source>
+        <target>Clicwalker</target>
+        <note>ListClicwalkerViewModel</note>
+      </trans-unit>
+      <trans-unit id="list.contact.emptystate">
+        <source>Clic&amp;Walk c’est mieux si on le partage avec ses amis !</source>
+        <target>Clic and Walk it's better if you share it with friends !</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="list.contact.friend.title">
+        <source>Amis</source>
+        <target>Friends</target>
+        <note>ListContactsViewModel</note>
+      </trans-unit>
+      <trans-unit id="list.contact.group.title">
+        <source>Groupes</source>
+        <target>Groups</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="list.contact.refresh.error.toast">
+        <source>Il y a eu un problème</source>
+        <target>There has been a problem</target>
+        <note>ListContactsViewController</note>
+      </trans-unit>
+      <trans-unit id="list.noclicwalker.email.html.body">
+        <source>&lt;p&gt;You're so awesome !&lt;/p&gt;</source>
+        <target>&lt;p&gt;You're so awesome !&lt;/p&gt;</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="list.noclicwalker.email.html.body&lt;br/&gt;&lt;br/&gt;">
+        <source>list.noclicwalker.email.html.body&lt;br/&gt;&lt;br/&gt;</source>
+        <target>list.noclicwalker.email.html.body&lt;br/&gt;&lt;br/&gt;</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="list.noclicwalker.emptystate">
+        <source>Clic&amp;Walk c’est mieux si on le partage avec ses amis !</source>
+        <target>Clic and Walk it's better if you share it with friends !</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="list.noclicwalker.popup.SMS.cancel">
+        <source>L'envoi du message a été annulé.</source>
+        <target>The message sending has been cancelled.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="list.noclicwalker.popup.SMS.error">
+        <source>L'envoi du message a échoué</source>
+        <target>The message sending has failed</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="list.noclicwalker.popup.SMS.impossible">
+        <source>Impossible d'ouvrir l'éditeur de message.</source>
+        <target>Impossible to open the message editing.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="list.noclicwalker.popup.email.cancel">
+        <source>L'envoi de l'email a été annulé.</source>
+        <target>The e-mail sending has been cancelled.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="list.noclicwalker.popup.email.error">
+        <source>L'envoi de l'email a échoué.</source>
+        <target>The e-mail sending has failed.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="list.noclicwalker.popup.email.impossible">
+        <source>Impossible d'ouvrir l'éditeur d'email.</source>
+        <target>Impossible to open the mail editing.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="list.noclicwalker.popup.email.save">
+        <source>L'email a été sauvegardé.</source>
+        <target>The e-mail has been saved.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="list.noclicwalker.refresh.error.toast">
+        <source>Il y a eu un problème</source>
+        <target>There has been a problem</target>
+        <note>ListNoClicwalkerViewController</note>
+      </trans-unit>
+      <trans-unit id="list.noclicwalker.sms.body">
+        <source>You're so awesome !</source>
+        <target>You're so awesome !</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="list.noclicwalker.title">
+        <source>Non-clicwalker</source>
+        <target>Non-clicwalker</target>
+        <note>ListNoClicwalkerViewModel</note>
+      </trans-unit>
+      <trans-unit id="login.account.facebook.login.cancel">
+        <source>Authentification avec Facebook annulée</source>
+        <target>Authentification with Facebook cancelled</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="login.account.title">
+        <source>Connexion</source>
+        <target>Connection</target>
+        <note>LoginViewController</note>
+      </trans-unit>
+      <trans-unit id="login.account.validation.email.error">
+        <source>Veuiller entrer un email valide.</source>
+        <target>Please enter a valid e-mail.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="login.account.validation.password.error">
+        <source>Veuiller entrer un mot de passe valide.</source>
+        <target>Please enter a valid password.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="login.account.withemail.connection.error">
+        <source>Erreur lors de la connexion</source>
+        <target>Error during the connection.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="login.account.withemail.error.default">
+        <source>Erreur</source>
+        <target>Error</target>
+        <note>LoginViewModel</note>
+      </trans-unit>
+      <trans-unit id="login.account.withfacebook.connection.error">
+        <source>Erreur lors de la connexion facebook</source>
+        <target>Error during the connection with Facebook</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="login.account.withfacebook.error.default">
+        <source>Erreur</source>
+        <target>Error</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="mission">
+        <source>mission</source>
+        <target>mission</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="mission.distance.km">
+        <source>à %i km</source>
+        <target>at %i km</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="mission.distance.m">
+        <source>à %i m</source>
+        <target>at %i m</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="mission.distance.undefined">
+        <source>-- m</source>
+        <target>-- m</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="mission.end.enddate">
+        <source>Fin de mission dans</source>
+        <target>End of the mission in</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="mission.no.enddate">
+        <source>Pas de date de fin</source>
+        <target>No end date</target>
+        <note>Détail d'une mission</note>
+      </trans-unit>
+      <trans-unit id="mission.over.enddate">
+        <source>Date de fin dépassée</source>
+        <target>End date exceeded</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="mission.permanent">
+        <source>Mission permanente</source>
+        <target>Permanent mission</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="mission.remaining.time">
+        <source>Temps restant</source>
+        <target>Remaining time</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="mission.result">
+        <source>Voir les résultats</source>
+        <target>See the results</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="mission.status.available">
+        <source>Disponible</source>
+        <target>Available</target>
+        <note>MissionCellViewModel</note>
+      </trans-unit>
+      <trans-unit id="mission.status.done">
+        <source>Répondu</source>
+        <target>Answered</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="mission.status.full">
+        <source>M'avertir</source>
+        <target>Notify me</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="mission.status.inProgress">
+        <source>À terminer</source>
+        <target>Accepted</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="mission.status.isOwner">
+        <source>Créé</source>
+        <target>Created</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="mission.type.community">
+        <source>On vous pose une question</source>
+        <target>My Whasq</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="mission.type.dataCollect">
+        <source>Sur secteur</source>
+        <target>On sector</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="mission.type.flash">
+        <source>Flash</source>
+        <target>Flash</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="mission.type.home">
+        <source>Disponible depuis votre canapé</source>
+        <target>Available from your couch</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="mission.type.none">
+        <source>Pas de type</source>
+        <target>No type</target>
+        <note>Mission object</note>
+      </trans-unit>
+      <trans-unit id="mission.type.outdoor">
+        <source>À l'extérieur</source>
+        <target>Outside</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="mission.type.sponsoring">
+        <source>oui</source>
+        <target>yes</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="mission.type.store">
+        <source>En magasin</source>
+        <target>In a store</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="mission.type.undefined">
+        <source>UNDEFINED</source>
+        <target>UNDEFINED</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="missions.detail.askparticipation.popup.message">
+        <source>Participez à la mission pour acceder aux questions.</source>
+        <target>Participate to the mission to see the questions.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="missions.detail.askparticipation.popup.title">
+        <source>Participer</source>
+        <target>Participate</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="missions.list.emptystate">
+        <source>Vous n'avez pas encore de missions disponibles ...</source>
+        <target>You don't have available missions yet...</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="missions.list.title">
+        <source>Liste</source>
+        <target>List</target>
+        <note>MissionsViewController</note>
+      </trans-unit>
+      <trans-unit id="missions.map.title">
+        <source>Carte</source>
+        <target>Map</target>
+        <note>MissionsMapViewController</note>
+      </trans-unit>
+      <trans-unit id="ok">
+        <source>ok</source>
+        <note>ok</note>
+      </trans-unit>
+      <trans-unit id="photo(s)">
+        <source>photo(s)</source>
+        <target>Picture(s)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="popup.askconnexion.button">
+        <source>Se connecter</source>
+        <target>Log in</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="popup.askconnexion.desc">
+        <source>Pour acceder à cette fonctionnalité, vous devez vous connecter</source>
+        <target>To reach this feature, you have to log in</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="popup.askconnexion.title">
+        <source>Mode invité</source>
+        <target>Guest mode</target>
+        <note>Pop up connexion</note>
+      </trans-unit>
+      <trans-unit id="question(s)">
+        <source>question(s)</source>
+        <target>question(s)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="reset.password.popup.error.button">
+        <source>OK</source>
+        <target>OK</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="reset.password.popup.error.message">
+        <source>Oops, il semble que ton adresse email ne soit pas valide. Vérifie la stp.</source>
+        <target>Oops, it looks like your email address is not correct. Check it please.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="reset.password.popup.error.title">
+        <source>Clic &amp; Walk</source>
+        <target>Clic and Walk</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="reset.password.popup.success.button">
+        <source>OK</source>
+        <target>OK</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="reset.password.popup.success.message">
+        <source>Un nouveau mot de passe a été envoyé à cette adresse email.</source>
+        <target>A new password has been sent to this email address.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="reset.password.popup.success.title">
+        <source>Clic &amp; Walk</source>
+        <target>Clic and Walk</target>
+        <note>ResetPasswordViewController</note>
+      </trans-unit>
+      <trans-unit id="scan(s)">
+        <source>scan(s)</source>
+        <target>scan(s)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="son(s)">
+        <source>son(s)</source>
+        <target>audio(s)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="video(s)">
+        <source>video(s)</source>
+        <target>video(s)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="whasq.add.question.label">
+        <source>Ajouter une question</source>
+        <target>Add a question</target>
+        <note>WhasqAddQuestionView</note>
+      </trans-unit>
+      <trans-unit id="whasq.answer.question.camera.access.denied.error">
+        <source>Accès à l'appareil photo refusé</source>
+        <target>Access to the camera denied</target>
+        <note>Réponse à un whasq</note>
+      </trans-unit>
+      <trans-unit id="whasq.answer.question.next.button">
+        <source>Suivant</source>
+        <target>Next</target>
+        <note>Réponse à un whasq</note>
+      </trans-unit>
+      <trans-unit id="whasq.answer.question.send.button">
+        <source>Envoyer</source>
+        <target>Sent</target>
+        <note>Pop up pseudo, réponse anonyme à un whasq
+   Réponse à un whasq</note>
+      </trans-unit>
+      <trans-unit id="whasq.answer.question.type.audio.maintitle">
+        <source>Écouter la question audio :</source>
+        <target>Listen to the audio question :</target>
+        <note>AnswerViewModel</note>
+      </trans-unit>
+      <trans-unit id="whasq.answer.question.type.check.subtitle">
+        <source>Plusieurs réponses possibles</source>
+        <target>Several answers possible</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="whasq.answer.question.type.radio.subtitle">
+        <source>Une réponse possible</source>
+        <target>Only one answer possible</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="whasq.answer.question.type.text.subtitle">
+        <source>EXEMPLE</source>
+        <target>EXAMPLE</target>
+        <note>Réponse à un whasq</note>
+      </trans-unit>
+      <trans-unit id="whasq.answer.question.type.video.maintitle">
+        <source>Regarder la question vidéo :</source>
+        <target>Watch the video :</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="whasq.answer.question.video.record.error">
+        <source>Erreur lors de l'enregistrement video.</source>
+        <target>Error during the recording of the video.</target>
+        <note>Réponse à un whasq</note>
+      </trans-unit>
+      <trans-unit id="whasq.answer.question.video.record.error.plus">
+        <source>Erreur lors de l'enregistrement video :</source>
+        <target>Error during the recording of the video :</target>
+        <note>Réponse à un whasq</note>
+      </trans-unit>
+      <trans-unit id="whasq.answer.record.audio.error.popup.message">
+        <source>Il y a eu une erreur concernant l'audio</source>
+        <target>There has been an error with the audio</target>
+        <note>Liste de médias
+   Réponse à un whasq</note>
+      </trans-unit>
+      <trans-unit id="whasq.answer.record.audio.error.popup.replace.button">
+        <source>Fermer l'audio</source>
+        <target>Close audio</target>
+        <note>Liste de médias</note>
+      </trans-unit>
+      <trans-unit id="whasq.answer.record.audio.error.popup.title">
+        <source>Erreur audio</source>
+        <target>Error audio</target>
+        <note>Liste de médias
+   Réponse à un whasq</note>
+      </trans-unit>
+      <trans-unit id="whasq.answer.record.audio.popup.message">
+        <source>Une erreur est survenue lors de l'enregistrement.</source>
+        <target>Error during the recording.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="whasq.answer.record.audio.popup.replace.button">
+        <source>Ok</source>
+        <target>Ok</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="whasq.answer.record.audio.popup.title">
+        <source>Enregistrement</source>
+        <target>Recording</target>
+        <note>AnswerViewController</note>
+      </trans-unit>
+      <trans-unit id="whasq.answer.title">
+        <source>Mission Whasq</source>
+        <target>Whasq Mission</target>
+        <note>AnswersContainerViewController</note>
+      </trans-unit>
+      <trans-unit id="whasq.create.audio.question.title">
+        <source>Question audio</source>
+        <target>Listen to your question :</target>
+        <note>CreateQuestionEditionViewModel</note>
+      </trans-unit>
+      <trans-unit id="whasq.create.newMedia.audio">
+        <source>Média audio</source>
+        <target>Media audio</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="whasq.create.newMedia.video">
+        <source>Média vidéo</source>
+        <target>Media video</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="whasq.create.question.answer">
+        <source>Réponse %i</source>
+        <target>Answer %i</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="whasq.create.question.audio.record.error">
+        <source>Erreur lors de l'enregistrement audio :</source>
+        <target>Error during the video recording :</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="whasq.create.question.camera.access.denied.error">
+        <source>Accès à l'appareil photo refusé</source>
+        <target>Access to the camera denied</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="whasq.create.question.image.replace.popup.message">
+        <source>Voulez-vous remplacer cette image ?</source>
+        <target>Do you want to replace this image?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="whasq.create.question.image.replace.popup.replace.button">
+        <source>Remplacer</source>
+        <target>Replace</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="whasq.create.question.image.replace.popup.replace.cancel">
+        <source>Annuler</source>
+        <target>Cancel</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="whasq.create.question.image.replace.popup.title">
+        <source>Photo</source>
+        <target>Picture</target>
+        <note>CreateQuestionEditionViewController</note>
+      </trans-unit>
+      <trans-unit id="whasq.create.question.video.record.error">
+        <source>Erreur lors de l'enregistrement video.</source>
+        <target>Error during the video recording.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="whasq.create.question.video.record.error.plus">
+        <source>Erreur lors de l'enregistrement video :</source>
+        <target>Error during the video recording :</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="whasq.create.question.video.start.error">
+        <source>Erreur lors du lancement de la vidéo :</source>
+        <target>Error during the launch of the video :</target>
+        <note>Liste de médias</note>
+      </trans-unit>
+      <trans-unit id="whasq.create.video.question.title">
+        <source>Question video</source>
+        <target>See your video :</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="whasq.duration.days.label.1">
+        <source>1</source>
+        <target>1</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="whasq.duration.days.label.2">
+        <source>2</source>
+        <target>2</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="whasq.duration.days.label.3">
+        <source>3</source>
+        <target>3</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="whasq.duration.days.label.4">
+        <source>4</source>
+        <target>4</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="whasq.duration.days.label.5">
+        <source>5</source>
+        <target>5</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="whasq.duration.days.label.6">
+        <source>6</source>
+        <target>6</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="whasq.duration.days.label.7">
+        <source>7</source>
+        <target>7</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="whasq.duration.days.unit">
+        <source>J</source>
+        <target>D</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="whasq.duration.hours.label.1">
+        <source>1</source>
+        <target>1</target>
+        <note>WhasqViewController</note>
+      </trans-unit>
+      <trans-unit id="whasq.duration.hours.label.2">
+        <source>4</source>
+        <target>4</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="whasq.duration.hours.label.3">
+        <source>8</source>
+        <target>8</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="whasq.duration.hours.label.4">
+        <source>12</source>
+        <target>12</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="whasq.duration.hours.label.5">
+        <source>16</source>
+        <target>16</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="whasq.duration.hours.label.6">
+        <source>20</source>
+        <target>20</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="whasq.duration.hours.label.7">
+        <source>23</source>
+        <target>23</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="whasq.duration.hours.unit">
+        <source>h</source>
+        <target>hours</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="whasq.question1.default.label">
+        <source>Question 1</source>
+        <target>Ask your question</target>
+        <note>WhasqViewModel</note>
+      </trans-unit>
+      <trans-unit id="whasq.question2.default.label">
+        <source>Question 2</source>
+        <target>Question 2</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="whasq.question3.default.label">
+        <source>Question 3</source>
+        <target>Question 3</target>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="clic_and_walk_ios/Base.lproj/Main.storyboard" source-language="th" datatype="plaintext" target-language="en">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.4.1" build-num="9F2000"/>
+    </header>
+    <body>
+      <trans-unit id="0gy-Ly-XNH.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "0gy-Ly-XNH";</note>
+      </trans-unit>
+      <trans-unit id="01S-ya-NMZ.title">
+        <source>Plus</source>
+        <target>Other</target>
+        <note>Class = "UINavigationItem"; title = "Plus"; ObjectID = "01S-ya-NMZ";</note>
+      </trans-unit>
+      <trans-unit id="3VQ-8r-lwY.text">
+        <source>Noter l'application</source>
+        <target>Rate the app</target>
+        <note>Class = "UILabel"; text = "Noter l'application"; ObjectID = "3VQ-8r-lwY";</note>
+      </trans-unit>
+      <trans-unit id="4MS-fK-yH0.title">
+        <source>Item</source>
+        <target>Item</target>
+        <note>Class = "UITabBarItem"; title = "Item"; ObjectID = "4MS-fK-yH0";</note>
+      </trans-unit>
+      <trans-unit id="5F5-gM-Rhg.text">
+        <source>Mes statistiques de mission</source>
+        <target>My statistics of mission</target>
+        <note>Class = "UILabel"; text = "Mes statistiques de mission"; ObjectID = "5F5-gM-Rhg";</note>
+      </trans-unit>
+      <trans-unit id="6d7-D0-f4b.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "6d7-D0-f4b";</note>
+      </trans-unit>
+      <trans-unit id="7g7-6r-qIk.text">
+        <source>Terminé</source>
+        <target>Done</target>
+        <note>Class = "UILabel"; text = "Terminé"; ObjectID = "7g7-6r-qIk";</note>
+      </trans-unit>
+      <trans-unit id="8Pe-PA-LPj.text">
+        <source>Terminé</source>
+        <target>Done</target>
+        <note>Class = "UILabel"; text = "Terminé"; ObjectID = "8Pe-PA-LPj";</note>
+      </trans-unit>
+      <trans-unit id="9Ev-5K-SgG.text">
+        <source>19</source>
+        <target>19</target>
+        <note>Class = "UILabel"; text = "19"; ObjectID = "9Ev-5K-SgG";</note>
+      </trans-unit>
+      <trans-unit id="D16-hJ-2vl.text">
+        <source>missions</source>
+        <target>missions</target>
+        <note>Class = "UILabel"; text = "missions"; ObjectID = "D16-hJ-2vl";</note>
+      </trans-unit>
+      <trans-unit id="JKh-O5-g8l.text">
+        <source>19</source>
+        <target>19</target>
+        <note>Class = "UILabel"; text = "19"; ObjectID = "JKh-O5-g8l";</note>
+      </trans-unit>
+      <trans-unit id="Lsy-Gu-ecT.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "Lsy-Gu-ecT";</note>
+      </trans-unit>
+      <trans-unit id="N2N-mJ-FGR.title">
+        <source>Item</source>
+        <target>Item</target>
+        <note>Class = "UITabBarItem"; title = "Item"; ObjectID = "N2N-mJ-FGR";</note>
+      </trans-unit>
+      <trans-unit id="NTy-D2-AiP.text">
+        <source>19</source>
+        <target>19</target>
+        <note>Class = "UILabel"; text = "19"; ObjectID = "NTy-D2-AiP";</note>
+      </trans-unit>
+      <trans-unit id="SaL-h4-Wmg.title">
+        <source>Mes statistiques de mission</source>
+        <target>My statistics of mission</target>
+        <note>Class = "UIViewController"; title = "Mes statistiques de mission"; ObjectID = "SaL-h4-Wmg";</note>
+      </trans-unit>
+      <trans-unit id="Swu-1Y-kSU.text">
+        <source>Contact support</source>
+        <target>Contact support</target>
+        <note>Class = "UILabel"; text = "Contact support"; ObjectID = "Swu-1Y-kSU";</note>
+      </trans-unit>
+      <trans-unit id="THm-gA-Hdu.text">
+        <source>Terminé</source>
+        <target>Done</target>
+        <note>Class = "UILabel"; text = "Terminé"; ObjectID = "THm-gA-Hdu";</note>
+      </trans-unit>
+      <trans-unit id="WUw-sg-gr2.text">
+        <source>Terminé</source>
+        <target>Done</target>
+        <note>Class = "UILabel"; text = "Terminé"; ObjectID = "WUw-sg-gr2";</note>
+      </trans-unit>
+      <trans-unit id="aqp-2L-C2C.text">
+        <source>Mon profil</source>
+        <target>My profile</target>
+        <note>Class = "UILabel"; text = "Mon profil"; ObjectID = "aqp-2L-C2C";</note>
+      </trans-unit>
+      <trans-unit id="c4n-Ox-n2V.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "c4n-Ox-n2V";</note>
+      </trans-unit>
+      <trans-unit id="cUI-7M-w3G.text">
+        <source>19</source>
+        <target>19</target>
+        <note>Class = "UILabel"; text = "19"; ObjectID = "cUI-7M-w3G";</note>
+      </trans-unit>
+      <trans-unit id="fcP-A7-usC.text">
+        <source>Terminé</source>
+        <target>Done</target>
+        <note>Class = "UILabel"; text = "Terminé"; ObjectID = "fcP-A7-usC";</note>
+      </trans-unit>
+      <trans-unit id="nK7-GH-stY.normalTitle">
+        <source>Déconnexion</source>
+        <target>Log out</target>
+        <note>Class = "UIButton"; normalTitle = "Déconnexion"; ObjectID = "nK7-GH-stY"; Note = "Bouton de déconnexion du compte";</note>
+      </trans-unit>
+      <trans-unit id="oiY-GY-wFO.text">
+        <source>Partager l'application</source>
+        <target>Share the app</target>
+        <note>Class = "UILabel"; text = "Partager l'application"; ObjectID = "oiY-GY-wFO";</note>
+      </trans-unit>
+      <trans-unit id="pV8-yc-ehM.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "pV8-yc-ehM";</note>
+      </trans-unit>
+      <trans-unit id="pjp-Bk-cCg.title">
+        <source>Item</source>
+        <target>Item</target>
+        <note>Class = "UITabBarItem"; title = "Item"; ObjectID = "pjp-Bk-cCg";</note>
+      </trans-unit>
+      <trans-unit id="qan-7E-5Nw.text">
+        <source>Site / Blog</source>
+        <target>Website / Blog</target>
+        <note>Class = "UILabel"; text = "Site / Blog"; ObjectID = "qan-7E-5Nw";</note>
+      </trans-unit>
+      <trans-unit id="wEM-mC-XJr.text">
+        <source>19</source>
+        <target>19</target>
+        <note>Class = "UILabel"; text = "19"; ObjectID = "wEM-mC-XJr";</note>
+      </trans-unit>
+      <trans-unit id="x4W-xO-ea8.text">
+        <source>57</source>
+        <target>57</target>
+        <note>Class = "UILabel"; text = "57"; ObjectID = "x4W-xO-ea8";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="clic_and_walk_ios/Base.lproj/Missions.storyboard" source-language="th" datatype="plaintext" target-language="en">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.4.1" build-num="9F2000"/>
+    </header>
+    <body>
+      <trans-unit id="6Bz-9y-7fN.text">
+        <source>N'afficher que les Whasq</source>
+        <target>Only show the Whasq</target>
+        <note>Class = "UILabel"; text = "N'afficher que les Whasq"; ObjectID = "6Bz-9y-7fN"; Note = "Filtre pour n'afficher que les missions Whasq";</note>
+      </trans-unit>
+      <trans-unit id="7DU-E6-muQ.text">
+        <source>Disponible</source>
+        <target>Available</target>
+        <note>Class = "UILabel"; text = "Disponible"; ObjectID = "7DU-E6-muQ"; Note = "⚠ Ne pas traduire";</note>
+      </trans-unit>
+      <trans-unit id="Do5-cf-M8j.text">
+        <source>Complète</source>
+        <target>Reserved</target>
+        <note>Class = "UILabel"; text = "Complète"; ObjectID = "Do5-cf-M8j"; Note = "Filtre sur les missions complètes";</note>
+      </trans-unit>
+      <trans-unit id="Ea5-1h-bdQ.headerTitle">
+        <source>STATUT</source>
+        <target>STATUS</target>
+        <note>Class = "UITableViewSection"; headerTitle = "STATUT"; ObjectID = "Ea5-1h-bdQ";</note>
+      </trans-unit>
+      <trans-unit id="JHF-Ng-HGB.segmentTitles[0]">
+        <source>First</source>
+        <target>First</target>
+        <note>Class = "UISegmentedControl"; JHF-Ng-HGB.segmentTitles[0] = "First"; ObjectID = "JHF-Ng-HGB";</note>
+      </trans-unit>
+      <trans-unit id="JHF-Ng-HGB.segmentTitles[1]">
+        <source>Second</source>
+        <target>Second</target>
+        <note>Class = "UISegmentedControl"; JHF-Ng-HGB.segmentTitles[1] = "Second"; ObjectID = "JHF-Ng-HGB";</note>
+      </trans-unit>
+      <trans-unit id="KJf-i1-Zdy.headerTitle">
+        <source>Type</source>
+        <target>Type</target>
+        <note>Class = "UITableViewSection"; headerTitle = "Type"; ObjectID = "KJf-i1-Zdy";</note>
+      </trans-unit>
+      <trans-unit id="PeP-Hj-iaS.text">
+        <source>Fin de mission</source>
+        <target>End of the mission</target>
+        <note>Class = "UILabel"; text = "Fin de mission"; ObjectID = "PeP-Hj-iaS"; Note = "⚠ Ne pas traduire";</note>
+      </trans-unit>
+      <trans-unit id="PjY-iI-kx1.text">
+        <source>N'afficher que les missions</source>
+        <target>Only show missions</target>
+        <note>Class = "UILabel"; text = "N'afficher que les missions"; ObjectID = "PjY-iI-kx1"; Note = "Filtre pour n'afficher que les missions";</note>
+      </trans-unit>
+      <trans-unit id="PsU-Q4-1vK.text">
+        <source>Disponible</source>
+        <target>Available</target>
+        <note>Class = "UILabel"; text = "Disponible"; ObjectID = "PsU-Q4-1vK"; Note = "Filtre sur les missions disponibles";</note>
+      </trans-unit>
+      <trans-unit id="Vhx-Ga-4xx.text">
+        <source>-- m</source>
+        <target/>
+        <note>Class = "UILabel"; text = "-- m"; ObjectID = "Vhx-Ga-4xx"; Note = "⚠ Ne pas traduire";</note>
+      </trans-unit>
+      <trans-unit id="YMA-Vt-HcK.text">
+        <source>Prise en main et activation du compte</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Prise en main et activation du compte"; ObjectID = "YMA-Vt-HcK"; Note = "⚠ Ne pas traduire";</note>
+      </trans-unit>
+      <trans-unit id="YNU-JT-pIj.title">
+        <source>OK</source>
+        <target>OK</target>
+        <note>Class = "UIBarButtonItem"; title = "OK"; ObjectID = "YNU-JT-pIj"; Note = "Bouton pour valider les filtres";</note>
+      </trans-unit>
+      <trans-unit id="ens-6v-v4b.text">
+        <source>0,20</source>
+        <target/>
+        <note>Class = "UILabel"; text = "0,20"; ObjectID = "ens-6v-v4b"; Note = "⚠ Ne pas traduire";</note>
+      </trans-unit>
+      <trans-unit id="jmB-c5-9id.text">
+        <source>Disponible depuis votre canapé</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Disponible depuis votre canapé"; ObjectID = "jmB-c5-9id"; Note = "⚠ Ne pas traduire";</note>
+      </trans-unit>
+      <trans-unit id="kxp-oz-qNI.text">
+        <source>A la maison</source>
+        <target/>
+        <note>Class = "UILabel"; text = "A la maison"; ObjectID = "kxp-oz-qNI"; Note = "⚠ Ne pas traduire";</note>
+      </trans-unit>
+      <trans-unit id="ocq-Dg-PJc.title">
+        <source>Filtres</source>
+        <target>Filters</target>
+        <note>Class = "UINavigationItem"; title = "Filtres"; ObjectID = "ocq-Dg-PJc"; Note = "Titre de la page \"filtres\"";</note>
+      </trans-unit>
+      <trans-unit id="qym-a8-j0f.text">
+        <source>À terminer</source>
+        <target>Accepted</target>
+        <note>Class = "UILabel"; text = "À terminer"; ObjectID = "qym-a8-j0f"; Note = "Filtre sur les missions à terminer";</note>
+      </trans-unit>
+      <trans-unit id="t1R-6z-LLs.text">
+        <source>filtres activés</source>
+        <target/>
+        <note>Class = "UILabel"; text = "filtres activés"; ObjectID = "t1R-6z-LLs"; Note = "⚠ Ne pas traduire";</note>
+      </trans-unit>
+      <trans-unit id="weX-KL-a9u.text">
+        <source>150</source>
+        <target/>
+        <note>Class = "UILabel"; text = "150"; ObjectID = "weX-KL-a9u"; Note = "⚠ Ne pas traduire";</note>
+      </trans-unit>
+      <trans-unit id="xv1-ju-mjv.text">
+        <source>filtres activés</source>
+        <target/>
+        <note>Class = "UILabel"; text = "filtres activés"; ObjectID = "xv1-ju-mjv"; Note = "⚠ Ne pas traduire";</note>
+      </trans-unit>
+      <trans-unit id="yeC-hE-6iL.title">
+        <source>Missions</source>
+        <target>Missions</target>
+        <note>Class = "UINavigationItem"; title = "Missions"; ObjectID = "yeC-hE-6iL";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="clic_and_walk_ios/Base.lproj/PopUp.storyboard" source-language="th" datatype="plaintext" target-language="en">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.4.1" build-num="9F2000"/>
+    </header>
+    <body>
+      <trans-unit id="AAF-7j-DJh.text">
+        <source>Sélectionnez le mode d’invitation</source>
+        <target>Select the invitation mode</target>
+        <note>Class = "UILabel"; text = "Sélectionnez le mode d’invitation"; ObjectID = "AAF-7j-DJh"; Note = "Titre de la popup pour sélectionner un moyen de contact pour inviter un ami à un Whasq (email ou sms)";</note>
+      </trans-unit>
+      <trans-unit id="CCs-3J-kN8.text">
+        <source>Titre de la popup</source>
+        <note>Class = "UILabel"; text = "Titre de la popup"; ObjectID = "CCs-3J-kN8"; Note = "Titre de la popup pour inviter un ami";</note>
+      </trans-unit>
+      <trans-unit id="CzR-Qf-k1t.placeholder">
+        <source>Placeholder</source>
+        <target>Placeholder</target>
+        <note>Class = "UITextField"; placeholder = "Placeholder"; ObjectID = "CzR-Qf-k1t"; Note = "Zone de saisie d'un nom de groupe";</note>
+      </trans-unit>
+      <trans-unit id="HQS-jg-t2W.text">
+        <source>Label</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "HQS-jg-t2W"; Note = "⚠ Ne pas traduire";</note>
+      </trans-unit>
+      <trans-unit id="JmB-U2-8jb.text">
+        <source>Inviter un ami</source>
+        <target>Invite a friend</target>
+        <note>Class = "UILabel"; text = "Inviter un ami"; ObjectID = "JmB-U2-8jb"; Note = "Titre de la popup pour inviter un ami";</note>
+      </trans-unit>
+      <trans-unit id="JpN-Fd-yP3.normalTitle">
+        <source>Valider</source>
+        <target>Validate</target>
+        <note>Class = "UIButton"; normalTitle = "Valider"; ObjectID = "JpN-Fd-yP3"; Note = "Bouton de validation de création d'un groupe";</note>
+      </trans-unit>
+      <trans-unit id="K01-ur-t0u.text">
+        <source>Moi</source>
+        <target>Me</target>
+        <note>Class = "UILabel"; text = "Moi"; ObjectID = "K01-ur-t0u"; Note = "Dans la popup de répartition de l'argent";</note>
+      </trans-unit>
+      <trans-unit id="KEd-7r-k0q.placeholder">
+        <source>Télephone</source>
+        <target>Phone</target>
+        <note>Class = "UITextField"; placeholder = "Télephone"; ObjectID = "KEd-7r-k0q"; Note = "Zone de saisie du numero de téléphone";</note>
+      </trans-unit>
+      <trans-unit id="LrB-ar-HBM.normalTitle">
+        <source>Valider</source>
+        <target>Validate</target>
+        <note>Class = "UIButton"; normalTitle = "Valider"; ObjectID = "LrB-ar-HBM"; Note = "Bouton de validation de création d'un groupe";</note>
+      </trans-unit>
+      <trans-unit id="M23-Ul-9he.text">
+        <source>Titre de la popup</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Titre de la popup"; ObjectID = "M23-Ul-9he"; Note = "⚠ Ne pas traduire";</note>
+      </trans-unit>
+      <trans-unit id="Pqb-6Y-v8L.normalTitle">
+        <source>Button2</source>
+        <target/>
+        <note>Class = "UIButton"; normalTitle = "Button2"; ObjectID = "Pqb-6Y-v8L"; Note = "⚠ Ne pas traduire";</note>
+      </trans-unit>
+      <trans-unit id="Q0e-fx-E5c.text">
+        <source>Message</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Message"; ObjectID = "Q0e-fx-E5c"; Note = "⚠ Ne pas traduire";</note>
+      </trans-unit>
+      <trans-unit id="SbK-p9-47z.text">
+        <source>Titre de la popup</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Titre de la popup"; ObjectID = "SbK-p9-47z"; Note = "⚠ Ne pas traduire";</note>
+      </trans-unit>
+      <trans-unit id="WHA-Yw-zJe.text">
+        <source>Association</source>
+        <target>Association</target>
+        <note>Class = "UILabel"; text = "Association"; ObjectID = "WHA-Yw-zJe"; Note = "Dans la popup de répartition de l'argent";</note>
+      </trans-unit>
+      <trans-unit id="XHA-G3-Fad.text">
+        <source>0</source>
+        <target>0</target>
+        <note>Class = "UILabel"; text = "0"; ObjectID = "XHA-G3-Fad";</note>
+      </trans-unit>
+      <trans-unit id="Ypf-tZ-uJz.text">
+        <source>Choisissez la répartition des montants</source>
+        <target>Choose the distribution of the amounts</target>
+        <note>Class = "UILabel"; text = "Choisissez la répartition des montants"; ObjectID = "Ypf-tZ-uJz";</note>
+      </trans-unit>
+      <trans-unit id="ZnD-vm-Vj3.placeholder">
+        <source>Adresse mail</source>
+        <target>E-mail address</target>
+        <note>Class = "UITextField"; placeholder = "Adresse mail"; ObjectID = "ZnD-vm-Vj3"; Note = "Zone de saisie de l'adresse email";</note>
+      </trans-unit>
+      <trans-unit id="aRR-Ee-ny1.normalTitle">
+        <source>Valider</source>
+        <target>Validate</target>
+        <note>Class = "UIButton"; normalTitle = "Valider"; ObjectID = "aRR-Ee-ny1"; Note = "Bouton de validation de l'invitation d'un ami";</note>
+      </trans-unit>
+      <trans-unit id="ac6-Zg-Afh.text">
+        <source>Créer un nouveau groupe d’amis</source>
+        <target>Create a new group of friends</target>
+        <note>Class = "UILabel"; text = "Créer un nouveau groupe d’amis"; ObjectID = "ac6-Zg-Afh"; Note = "Titre de la popup pour inviter un ami";</note>
+      </trans-unit>
+      <trans-unit id="bCc-HF-Fqx.text">
+        <source>0</source>
+        <target>0</target>
+        <note>Class = "UILabel"; text = "0"; ObjectID = "bCc-HF-Fqx";</note>
+      </trans-unit>
+      <trans-unit id="bXr-vD-0ho.normalTitle">
+        <source>Valider</source>
+        <target>Validate</target>
+        <note>Class = "UIButton"; normalTitle = "Valider"; ObjectID = "bXr-vD-0ho"; Note = "Bouton de validation de création d'un groupe";</note>
+      </trans-unit>
+      <trans-unit id="eL4-ct-GT6.text">
+        <source>Choisissez la répartition</source>
+        <target>Choose the distribution</target>
+        <note>Class = "UILabel"; text = "Choisissez la répartition"; ObjectID = "eL4-ct-GT6"; Note = "⚠ Ne pas traduire";</note>
+      </trans-unit>
+      <trans-unit id="iah-h8-ubk.normalTitle">
+        <source>Annuler</source>
+        <target>Cancel</target>
+        <note>Class = "UIButton"; normalTitle = "Annuler"; ObjectID = "iah-h8-ubk"; Note = "Dans la popup de répartition de l'argent";</note>
+      </trans-unit>
+      <trans-unit id="jw6-UO-Jz7.placeholder">
+        <source>Nom du groupe</source>
+        <target>Name of the group</target>
+        <note>Class = "UITextField"; placeholder = "Nom du groupe"; ObjectID = "jw6-UO-Jz7"; Note = "Zone de saisie d'un nom de groupe";</note>
+      </trans-unit>
+      <trans-unit id="rvj-hU-UPe.text">
+        <source>Titre de la popup</source>
+        <target>Title of the popup</target>
+        <note>Class = "UILabel"; text = "Titre de la popup"; ObjectID = "rvj-hU-UPe"; Note = "Titre de la popup pour inviter un ami";</note>
+      </trans-unit>
+      <trans-unit id="sBI-O2-YXt.normalTitle">
+        <source>Valider</source>
+        <target>Validate</target>
+        <note>Class = "UIButton"; normalTitle = "Valider"; ObjectID = "sBI-O2-YXt"; Note = "Dans la popup de répartition de l'argent";</note>
+      </trans-unit>
+      <trans-unit id="sst-Eb-O6E.normalTitle">
+        <source>Redemander un code</source>
+        <target>Ask for the code again</target>
+        <note>Class = "UIButton"; normalTitle = "Redemander un code"; ObjectID = "sst-Eb-O6E"; Note = "Validation sms";</note>
+      </trans-unit>
+      <trans-unit id="uSO-f8-mVP.normalTitle">
+        <source>ok</source>
+        <target/>
+        <note>Class = "UIButton"; normalTitle = "ok"; ObjectID = "uSO-f8-mVP"; Note = "⚠ Ne pas traduire";</note>
+      </trans-unit>
+      <trans-unit id="vm1-xE-rfw.normalTitle">
+        <source>Button1</source>
+        <target/>
+        <note>Class = "UIButton"; normalTitle = "Button1"; ObjectID = "vm1-xE-rfw"; Note = "⚠ Ne pas traduire";</note>
+      </trans-unit>
+      <trans-unit id="xX4-Ic-4yN.placeholder">
+        <source>Placeholder</source>
+        <note>Class = "UITextField"; placeholder = "Placeholder"; ObjectID = "xX4-Ic-4yN"; Note = "Zone de saisie d'un nom de groupe";</note>
+      </trans-unit>
+      <trans-unit id="ymA-7o-Yyg.text">
+        <source>ou</source>
+        <target>or</target>
+        <note>Class = "UILabel"; text = "ou"; ObjectID = "ymA-7o-Yyg"; Note = "\"ou\" de coordination entre le choix par email ou téléphone";</note>
+      </trans-unit>
+      <trans-unit id="zOV-bb-ics.text">
+        <source>Message</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Message"; ObjectID = "zOV-bb-ics"; Note = "⚠ Ne pas traduire";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="clic_and_walk_ios/Base.lproj/Profile.storyboard" source-language="th" datatype="plaintext" target-language="en">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.4.1" build-num="9F2000"/>
+    </header>
+    <body>
+      <trans-unit id="40t-zo-mjS.text">
+        <source>prenom</source>
+        <note>Class = "UILabel"; text = "prenom"; ObjectID = "40t-zo-mjS"; Note = "Pas besoin de traduire";</note>
+      </trans-unit>
+      <trans-unit id="AjJ-HZ-1PC.placeholder">
+        <source>Nom</source>
+        <note>Class = "UITextField"; placeholder = "Nom"; ObjectID = "AjJ-HZ-1PC";</note>
+      </trans-unit>
+      <trans-unit id="C0Z-p0-WrU.text">
+        <source>nom</source>
+        <note>Class = "UILabel"; text = "nom"; ObjectID = "C0Z-p0-WrU"; Note = "Pas besoin de traduire";</note>
+      </trans-unit>
+      <trans-unit id="GgZ-eO-Ycm.text">
+        <source>pseudo</source>
+        <target>Last name</target>
+        <note>Class = "UILabel"; text = "pseudo"; ObjectID = "GgZ-eO-Ycm"; Note = "Ne pas traduire";</note>
+      </trans-unit>
+      <trans-unit id="RoK-xn-fhX.text">
+        <source>email@email.com</source>
+        <target>email@email.com</target>
+        <note>Class = "UILabel"; text = "email@email.com"; ObjectID = "RoK-xn-fhX"; Note = "Pas besoin de traduire";</note>
+      </trans-unit>
+      <trans-unit id="VnW-gG-SM2.text">
+        <source>Code groupe</source>
+        <target>Group code</target>
+        <note>Class = "UILabel"; text = "Code groupe"; ObjectID = "VnW-gG-SM2";</note>
+      </trans-unit>
+      <trans-unit id="aNp-rC-2KO.normalTitle">
+        <source>Voir plus</source>
+        <target>See more</target>
+        <note>Class = "UIButton"; normalTitle = "Voir plus"; ObjectID = "aNp-rC-2KO"; Note = "Ecran profil, bouton voir plus";</note>
+      </trans-unit>
+      <trans-unit id="aXz-fG-hNC.text">
+        <source>067876545</source>
+        <target>067876545</target>
+        <note>Class = "UILabel"; text = "067876545"; ObjectID = "aXz-fG-hNC"; Note = "Pas besoin de traduire";</note>
+      </trans-unit>
+      <trans-unit id="e0P-U5-YfR.text">
+        <source>-</source>
+        <target>-</target>
+        <note>Class = "UILabel"; text = "-"; ObjectID = "e0P-U5-YfR"; Note = "Pas besoin de traduire";</note>
+      </trans-unit>
+      <trans-unit id="mNm-41-xhg.text">
+        <source>17/11/1990</source>
+        <target>17/11/1990</target>
+        <note>Class = "UILabel"; text = "17/11/1990"; ObjectID = "mNm-41-xhg"; Note = "Pas besoin de traduire";</note>
+      </trans-unit>
+      <trans-unit id="wE1-tw-fjX.placeholder">
+        <source>Prénom</source>
+        <target>Firstname</target>
+        <note>Class = "UITextField"; placeholder = "Prénom"; ObjectID = "wE1-tw-fjX";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="clic_and_walk_ios/Base.lproj/SoundRecorder.storyboard" source-language="th" datatype="plaintext" target-language="en">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.4.1" build-num="9F2000"/>
+    </header>
+    <body>
+      <trans-unit id="3n0-sO-Fbx.text">
+        <source>10</source>
+        <target>10</target>
+        <note>Class = "UILabel"; text = "10"; ObjectID = "3n0-sO-Fbx";</note>
+      </trans-unit>
+      <trans-unit id="Cxy-v3-nwg.normalTitle">
+        <source>Valider</source>
+        <target>Validate</target>
+        <note>Class = "UIButton"; normalTitle = "Valider"; ObjectID = "Cxy-v3-nwg"; Note = "Bouton de validation d'enregistrement audio";</note>
+      </trans-unit>
+      <trans-unit id="NdF-FX-Ls2.text">
+        <source>Enregistrement...</source>
+        <target>Recording...</target>
+        <note>Class = "UILabel"; text = "Enregistrement..."; ObjectID = "NdF-FX-Ls2"; Note = "Pas besoin de traduire";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="clic_and_walk_ios/Base.lproj/Whasq.storyboard" source-language="th" datatype="plaintext" target-language="en">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.4.1" build-num="9F2000"/>
+    </header>
+    <body>
+      <trans-unit id="59f-1i-g3S.text">
+        <source>Question audio</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Question audio"; ObjectID = "59f-1i-g3S"; Note = "⚠ Ne pas traduire";</note>
+      </trans-unit>
+      <trans-unit id="B7J-cg-8lD.text">
+        <source>ou</source>
+        <target>or</target>
+        <note>Class = "UILabel"; text = "ou"; ObjectID = "B7J-cg-8lD";</note>
+      </trans-unit>
+      <trans-unit id="Ben-xP-70j.normalTitle">
+        <source>Envoyer le Whasq</source>
+        <target>Send the Whasq</target>
+        <note>Class = "UIButton"; normalTitle = "Envoyer le Whasq"; ObjectID = "Ben-xP-70j"; Note = "Bouton pour envoyer le whasq et passer à l'étape de sélection des Clicwalker";</note>
+      </trans-unit>
+      <trans-unit id="CaU-KC-qo7.text">
+        <source>Description</source>
+        <target>Description</target>
+        <note>Class = "UILabel"; text = "Description"; ObjectID = "CaU-KC-qo7"; Note = "⚠ Ne pas traduire";</note>
+      </trans-unit>
+      <trans-unit id="Cv0-Nm-hGA.text">
+        <source>Ajouter une réponse</source>
+        <target>Add an answer</target>
+        <note>Class = "UILabel"; text = "Ajouter une réponse"; ObjectID = "Cv0-Nm-hGA"; Note = "Titre du bouton pour ajouter une question au QCM";</note>
+      </trans-unit>
+      <trans-unit id="GCY-xc-q3z.text">
+        <source>ou</source>
+        <target>or</target>
+        <note>Class = "UILabel"; text = "ou"; ObjectID = "GCY-xc-q3z";</note>
+      </trans-unit>
+      <trans-unit id="GfL-IR-k1d.text">
+        <source>Réponse attendue</source>
+        <target>Expected answer</target>
+        <note>Class = "UILabel"; text = "Réponse attendue"; ObjectID = "GfL-IR-k1d"; Note = "Titre de la rubrique permettant de choisir entre \"texte libre\" ou \"QCM\"";</note>
+      </trans-unit>
+      <trans-unit id="H2c-hg-MpN.text">
+        <source>12</source>
+        <target/>
+        <note>Class = "UILabel"; text = "12"; ObjectID = "H2c-hg-MpN"; Note = "⚠ Ne pas traduire";</note>
+      </trans-unit>
+      <trans-unit id="I3l-MY-svA.text">
+        <source>Média photo</source>
+        <target>Media picture</target>
+        <note>Class = "UILabel"; text = "Média photo"; ObjectID = "I3l-MY-svA"; Note = "Texte pour informer l'utilisateur qu'un média photo a été ajouté";</note>
+      </trans-unit>
+      <trans-unit id="Ipg-N9-05D.text">
+        <source>Plusieurs réponses possibles</source>
+        <target>Several possible answers</target>
+        <note>Class = "UILabel"; text = "Plusieurs réponses possibles"; ObjectID = "Ipg-N9-05D"; Note = "Titre pour le check autorisant l'utilisateur a choisir plusieurs réponses dans le QCM";</note>
+      </trans-unit>
+      <trans-unit id="KLU-U5-dDT.text">
+        <source>Prendre une photo/vidéo/son</source>
+        <target>If asked, take a picture/video/audio by clicking the icon below</target>
+        <note>Class = "UILabel"; text = "Prendre une photo/vidéo/son"; ObjectID = "KLU-U5-dDT";</note>
+      </trans-unit>
+      <trans-unit id="LG7-AT-3Sf.text">
+        <source>8</source>
+        <target/>
+        <note>Class = "UILabel"; text = "8"; ObjectID = "LG7-AT-3Sf"; Note = "⚠ Ne pas traduire";</note>
+      </trans-unit>
+      <trans-unit id="NEW-ol-oWc.text">
+        <source>Durée</source>
+        <target>Period</target>
+        <note>Class = "UILabel"; text = "Durée"; ObjectID = "NEW-ol-oWc"; Note = "Titre de la rubrique de sélection de la durée de validité du Whasq";</note>
+      </trans-unit>
+      <trans-unit id="Na9-r5-Vwt.title">
+        <source>Item</source>
+        <target>Item</target>
+        <note>Class = "UIBarButtonItem"; title = "Item"; ObjectID = "Na9-r5-Vwt";</note>
+      </trans-unit>
+      <trans-unit id="QlE-Vg-Mmd.text">
+        <source>Sélectionnez votre type de question</source>
+        <target>How do you want to ask your question?</target>
+        <note>Class = "UILabel"; text = "Sélectionnez votre type de question"; ObjectID = "QlE-Vg-Mmd"; Note = "Titre de la rubrique permettant de choisir le type de question dans la création d'un whasq";</note>
+      </trans-unit>
+      <trans-unit id="R2o-hX-VTf.text">
+        <source>Média audio</source>
+        <target>Media audio</target>
+        <note>Class = "UILabel"; text = "Média audio"; ObjectID = "R2o-hX-VTf"; Note = "Texte pour informer l'utilisateur qu'un média photo a été ajouté";</note>
+      </trans-unit>
+      <trans-unit id="RZ1-fv-4ak.placeholder">
+        <source>Code barre</source>
+        <target>Barcode</target>
+        <note>Class = "UITextField"; placeholder = "Code barre"; ObjectID = "RZ1-fv-4ak";</note>
+      </trans-unit>
+      <trans-unit id="Sbt-Rx-36O.text">
+        <source>Voir les sons</source>
+        <target>Go to audio</target>
+        <note>Class = "UILabel"; text = "Voir les sons"; ObjectID = "Sbt-Rx-36O";</note>
+      </trans-unit>
+      <trans-unit id="TgX-EG-7op.text">
+        <source>Média vidéo</source>
+        <target>Media video</target>
+        <note>Class = "UILabel"; text = "Média vidéo"; ObjectID = "TgX-EG-7op"; Note = "Texte pour informer l'utilisateur qu'un média photo a été ajouté";</note>
+      </trans-unit>
+      <trans-unit id="U6H-YT-50h.text">
+        <source>Voir les videos</source>
+        <target>See the videos</target>
+        <note>Class = "UILabel"; text = "Voir les videos"; ObjectID = "U6H-YT-50h";</note>
+      </trans-unit>
+      <trans-unit id="X2V-OH-xjZ.normalTitle">
+        <source>Annuler le Whasq</source>
+        <target>Cancel the Whasq</target>
+        <note>Class = "UIButton"; normalTitle = "Annuler le Whasq"; ObjectID = "X2V-OH-xjZ";</note>
+      </trans-unit>
+      <trans-unit id="XJe-e5-Xrz.text">
+        <source>2 / 3</source>
+        <target>2 / 3</target>
+        <note>Class = "UILabel"; text = "2 / 3"; ObjectID = "XJe-e5-Xrz";</note>
+      </trans-unit>
+      <trans-unit id="XxE-Jj-3LU.text">
+        <source>16</source>
+        <target/>
+        <note>Class = "UILabel"; text = "16"; ObjectID = "XxE-Jj-3LU"; Note = "⚠ Ne pas traduire";</note>
+      </trans-unit>
+      <trans-unit id="aN3-rl-9rF.text">
+        <source>4</source>
+        <target/>
+        <note>Class = "UILabel"; text = "4"; ObjectID = "aN3-rl-9rF"; Note = "⚠ Ne pas traduire";</note>
+      </trans-unit>
+      <trans-unit id="c0O-Yj-Avt.segmentTitles[0]">
+        <source>Texte libre</source>
+        <target>Free-text</target>
+        <note>Class = "UISegmentedControl"; c0O-Yj-Avt.segmentTitles[0] = "Texte libre"; ObjectID = "c0O-Yj-Avt";</note>
+      </trans-unit>
+      <trans-unit id="c0O-Yj-Avt.segmentTitles[1]">
+        <source>QCM</source>
+        <target>multiple choice</target>
+        <note>Class = "UISegmentedControl"; c0O-Yj-Avt.segmentTitles[1] = "QCM"; ObjectID = "c0O-Yj-Avt";</note>
+      </trans-unit>
+      <trans-unit id="di4-Sf-oI1.text">
+        <source>12h</source>
+        <target/>
+        <note>Class = "UILabel"; text = "12h"; ObjectID = "di4-Sf-oI1"; Note = "⚠ Ne pas traduire";</note>
+      </trans-unit>
+      <trans-unit id="eWr-ay-9tB.text">
+        <source>Label</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "eWr-ay-9tB"; Note = "⚠ Ne pas traduire";</note>
+      </trans-unit>
+      <trans-unit id="eZT-h5-ayZ.text">
+        <source>Prendre des photos/vidéos/sons</source>
+        <target>Take pictures/videos/audio</target>
+        <note>Class = "UILabel"; text = "Prendre des photos/vidéos/sons"; ObjectID = "eZT-h5-ayZ";</note>
+      </trans-unit>
+      <trans-unit id="eiC-Ou-Bn4.text">
+        <source>1</source>
+        <target/>
+        <note>Class = "UILabel"; text = "1"; ObjectID = "eiC-Ou-Bn4"; Note = "⚠ Ne pas traduire";</note>
+      </trans-unit>
+      <trans-unit id="gEP-fl-wr8.text">
+        <source>20</source>
+        <target/>
+        <note>Class = "UILabel"; text = "20"; ObjectID = "gEP-fl-wr8"; Note = "⚠ Ne pas traduire";</note>
+      </trans-unit>
+      <trans-unit id="gYr-wr-MxU.text">
+        <source>Label</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "gYr-wr-MxU"; Note = "⚠ Ne pas traduire";</note>
+      </trans-unit>
+      <trans-unit id="hmG-ks-ejT.segmentTitles[0]">
+        <source>Heures</source>
+        <target>Hours</target>
+        <note>Class = "UISegmentedControl"; hmG-ks-ejT.segmentTitles[0] = "Heures"; ObjectID = "hmG-ks-ejT";</note>
+      </trans-unit>
+      <trans-unit id="hmG-ks-ejT.segmentTitles[1]">
+        <source>Jours</source>
+        <target>Days</target>
+        <note>Class = "UISegmentedControl"; hmG-ks-ejT.segmentTitles[1] = "Jours"; ObjectID = "hmG-ks-ejT";</note>
+      </trans-unit>
+      <trans-unit id="ihu-4j-6JF.normalTitle">
+        <source>Suivant</source>
+        <target/>
+        <note>Class = "UIButton"; normalTitle = "Suivant"; ObjectID = "ihu-4j-6JF"; Note = "⚠ Ne pas traduire";</note>
+      </trans-unit>
+      <trans-unit id="jeE-hw-Q7o.title">
+        <source>Question</source>
+        <target>Question</target>
+        <note>Class = "UIViewController"; title = "Question"; ObjectID = "jeE-hw-Q7o"; Note = "Titre de la vue d'edition d'une question";</note>
+      </trans-unit>
+      <trans-unit id="jsN-aB-uPI.text">
+        <source>Média attendu</source>
+        <target>Optional: Ask for a picture/video/audio</target>
+        <note>Class = "UILabel"; text = "Média attendu"; ObjectID = "jsN-aB-uPI"; Note = "Titre de la rubrique permettant de choisir le média attendu en réponse au whasq (video, audio, photo ou rien)";</note>
+      </trans-unit>
+      <trans-unit id="k22-OB-7Fl.title">
+        <source>Création Whasq</source>
+        <target>Whasq creation</target>
+        <note>Class = "UINavigationItem"; title = "Création Whasq"; ObjectID = "k22-OB-7Fl"; Note = "Titre de la vue de création d'un whasq";</note>
+      </trans-unit>
+      <trans-unit id="koa-uU-Hm2.text">
+        <source>Voir les photos</source>
+        <target>See or delete your pictures =&gt;</target>
+        <note>Class = "UILabel"; text = "Voir les photos"; ObjectID = "koa-uU-Hm2";</note>
+      </trans-unit>
+      <trans-unit id="oX2-Pp-JSn.text">
+        <source>2 / 3</source>
+        <target>2 / 3</target>
+        <note>Class = "UILabel"; text = "2 / 3"; ObjectID = "oX2-Pp-JSn";</note>
+      </trans-unit>
+      <trans-unit id="pXv-K9-uLC.text">
+        <source>23</source>
+        <target/>
+        <note>Class = "UILabel"; text = "23"; ObjectID = "pXv-K9-uLC"; Note = "⚠ Ne pas traduire";</note>
+      </trans-unit>
+      <trans-unit id="pcw-Gx-gc6.placeholder">
+        <source>Ma question</source>
+        <target>Write your question precisely</target>
+        <note>Class = "UITextField"; placeholder = "Ma question"; ObjectID = "pcw-Gx-gc6"; Note = "Zone de saisie de la question";</note>
+      </trans-unit>
+      <trans-unit id="sks-xB-tcl.text">
+        <source>+</source>
+        <target/>
+        <note>Class = "UILabel"; text = "+"; ObjectID = "sks-xB-tcl"; Note = "⚠ Ne pas traduire";</note>
+      </trans-unit>
+      <trans-unit id="slS-wQ-mqe.normalTitle">
+        <source>Valider la question</source>
+        <target>Validate the question</target>
+        <note>Class = "UIButton"; normalTitle = "Valider la question"; ObjectID = "slS-wQ-mqe"; Note = "Titre du bouton pour valider la creation de la question";</note>
+      </trans-unit>
+      <trans-unit id="tr6-Yg-dqz.text">
+        <source>Réponses visibles</source>
+        <target>Allow your friends to see the answers</target>
+        <note>Class = "UILabel"; text = "Réponses visibles"; ObjectID = "tr6-Yg-dqz"; Note = "Titre pour autoriser que les réponses du Whasq soit publiques ";</note>
+      </trans-unit>
+      <trans-unit id="uG9-EA-i4k.text">
+        <source>2 / 3</source>
+        <target>2 / 3</target>
+        <note>Class = "UILabel"; text = "2 / 3"; ObjectID = "uG9-EA-i4k";</note>
+      </trans-unit>
+      <trans-unit id="x9c-ly-DqI.text">
+        <source>Sous-Label</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Sous-Label"; ObjectID = "x9c-ly-DqI"; Note = "⚠ Ne pas traduire";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="clic_and_walk_ios/th.lproj/InfoPlist.strings" source-language="th" datatype="plaintext" target-language="en">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.4.1" build-num="9F2000"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName">
+        <source>C&amp;W</source>
+        <target>Clic and Walk</target>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSCameraUsageDescription">
+        <source>Ajoute des photos et des vidéos à vos questions</source>
+        <note>Privacy - Camera Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSContactsUsageDescription">
+        <source>Invitez des amis sur ClicAndWalk</source>
+        <note>Privacy - Contacts Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSLocationWhenInUseUsageDescription">
+        <source>Trouvez les missions à proximité</source>
+        <note>Privacy - Location When In Use Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSMicrophoneUsageDescription">
+        <source>Ajouter de l'audio et des vidéos à vos questions</source>
+        <note>Privacy - Microphone Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSPhotoLibraryUsageDescription">
+        <source>Ajoute des photos et des vidéos à vos questions</source>
+        <note>Privacy - Photo Library Usage Description</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="clic_and_walk_iosTests/th.lproj/InfoPlist.strings" source-language="th" datatype="plaintext" target-language="en">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.4.1" build-num="9F2000"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <target>$(PRODUCT_NAME)</target>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
