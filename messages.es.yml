@@ -1,15 +1,15 @@
 app:
-  title: Whasq - changement de mot de passe
+  title: Whasq - Cambiar la contraseña
   form:
     change.password:
-      label.password: Nouveau mot de passe
-      label.confirm.password: Confirmez le mot de passe
-      label.remark: Le mot de passe doit contenir au moins 8 lettres dont au moins 4 autres caractères (majuscule, miniscule, chiffre et caractère spécial).
-      button.submit: Effectuer le changement
+      label.password: Nueva contraseña
+      label.confirm.password: Confirmar la contraseña
+      label.remark:  La contraseña debe contener al menos 8 letras entre las cuales 4 caracteres (mayuscula, minuscula, numero y un caracter especial).
+      button.submit: Realizar el cambio
       result:
-        success: Le changement de votre mot de pase a bien été pris en compte
-        failure: Impossible de modifier le mot de passe. Le lien est peut-être erroné ou n\'est plus actif ou alors ne contient pas au moins 8 lettres dont au moins 4 autres caractères (majuscule, miniscule, chiffre et caractère spécial)
+        success: El cambio de la contraseña ha sido registrado
+        failure: Imposible cambiar la contraseña. El enlace es incorrecto o ya no esta activo o no tiene al menos 8 letras de las cuales 4 carateres (mayuscula, minuscula, numero y un caracter especial)
     unsubscribe:
       result:
-        success: Votre désinscription a bien été prise en compte
-        failure: Votre désinscription n\'a bien été pris en compte. Le lien est peut-être erroné ou n\'est plus actif. Ou tout simplement vous aves déjà été désincrit(e)
+        success: Hemos dado de baja a tu cuenta 
+        failure: No hemos podido darle de baja a tu cuenta.  El enlace es incorrecto o ya no esta activo o simplemente ya le dimos de baja a tu cuenta.
