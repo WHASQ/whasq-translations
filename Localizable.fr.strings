@@ -19,10 +19,10 @@
 "add-whasq-notify-label" = "Notifier autour de moi";
 "add-whasq-urgent-label" = "C'est urgent";
 "add-whasq-preview-button" = "Prévisualiser";
-"add-whasq-geoloc-explanation-label" = "Vous avez choisi de ne pas permettre à Whasq de vous géolocaliser. Si vous souhaitez notifier les whasqueurs proches de vous, vous devez l’y autoriser. Pour cela :";
+"add-whasq-geoloc-explanation-label" = "Vous avez choisi de ne pas permettre à Whasq de vous géolocaliser. Si vous souhaitez notifier les whasqers proches de vous, vous devez l’y autoriser. Pour cela :";
 "add-whasq-geoloc-first-step-label" = "1. Rendez-vous dans Réglages > Whasq > Position";
 "add-whasq-geoloc-second-step-label" = "2. Sélectionner «Lorsque l’app est active »";
-"add-whasq-geoloc-title-label" = "Vous souhaitez notifier les whasqueurs proches de vous ?";
+"add-whasq-geoloc-title-label" = "Vous souhaitez notifier les whasqers proches de vous ?";
 "add-whasq-geoloc-next-button" = "OK";
 "add-whasq-geoloc-not-button" = "Ne pas autoriser";
 "alert-action-ok" = "OK";
@@ -184,7 +184,7 @@
 "login-connect-email-placeholder" = "Adresse email";
 "login-connect-password-placeholder" = "Mot de passe";
 "geoloc-title-label" = "Facilitez vos échanges";
-"geoloc-description-label" = "Pour solliciter les whasqueurs proches de vous, \npermettez à Whasq d’accéder à votre géolocalisation";
+"geoloc-description-label" = "Pour solliciter les whasqers proches de vous, \npermettez à Whasq d’accéder à votre géolocalisation";
 "geoloc-allow-button" = "Autoriser";
 "geoloc-not-allow-button" = "Ne pas autoriser";
 "notification-allow-button" = "Autoriser";
