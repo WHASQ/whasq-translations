@@ -316,7 +316,7 @@
       </trans-unit>
       <trans-unit id="i5a-lW-bbw.title">
         <source>Valider</source>
-        <target>Validar</target>
+        <target>Aceptar</target>
         <note>Class = "UIBarButtonItem"; title = "Valider"; ObjectID = "i5a-lW-bbw"; Note = "Bouton dans la barre du haut pour valider la sélection des contacts";</note>
       </trans-unit>
       <trans-unit id="irc-oI-iwx.title">
@@ -331,7 +331,7 @@
       </trans-unit>
       <trans-unit id="kT6-sH-Tp9.normalTitle">
         <source>Valider</source>
-        <target>Validar</target>
+        <target>Aceptar</target>
         <note>Class = "UIButton"; normalTitle = "Valider"; ObjectID = "kT6-sH-Tp9"; Note = "Bouton de validation de la sélection des amis pour le whasq en bas de la page";</note>
       </trans-unit>
       <trans-unit id="lIi-lL-FYs.text">
@@ -361,7 +361,7 @@
       </trans-unit>
       <trans-unit id="uLl-lU-5nJ.normalTitle">
         <source>Valider</source>
-        <target>Validar</target>
+        <target>Aceptar</target>
         <note>Class = "UIButton"; normalTitle = "Valider"; ObjectID = "uLl-lU-5nJ"; Note = "Bouton de validation de la sélection des amis pour le whasq en bas de la page";</note>
       </trans-unit>
       <trans-unit id="wYT-Ts-DQt.placeholder">
@@ -475,7 +475,7 @@
       </trans-unit>
       <trans-unit id="Avant de créer des Whasq, vous pouvez ajouter des contacts">
         <source>Avant de créer des Whasq, vous pouvez ajouter des contacts</source>
-        <target>Antes de crear un Whasq, puedes agragar a tus contactos</target>
+        <target>Antes de crear un Whasq, puedes agregar a tus contactos</target>
         <note>Titre popup quand essai whasq sans amis</note>
       </trans-unit>
       <trans-unit id="CODE">
@@ -499,7 +499,7 @@
       </trans-unit>
       <trans-unit id="En cliquant sur Transferer, une demande de transfert sera lancée">
         <source>En cliquant sur Transferer, une demande de transfert sera lancée</source>
-        <target>Al hacer clic en Transferer, una aplicación de transferencia que será lanzado</target>
+        <target>Al hacer clic en Transferencia, un pedido de transferencia será lanzado</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="En pause">
@@ -524,7 +524,7 @@
       </trans-unit>
       <trans-unit id="Entrez le SMS de vérification">
         <source>Entrez le SMS de vérification</source>
-        <target>Introduzca la verificación de SMS</target>
+        <target>Introduzca codigo SMS de verificación </target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Erreur">
@@ -572,7 +572,7 @@
       </trans-unit>
       <trans-unit id="Inviter des amis">
         <source>Inviter des amis</source>
-        <target>Invitar a amigos</target>
+        <target>Invitar amigos</target>
         <note>Titre popup quand essai whasq sans amis</note>
       </trans-unit>
       <trans-unit id="Jours">
@@ -596,7 +596,7 @@
       </trans-unit>
       <trans-unit id="Les réponses ont été envoyées ! :)">
         <source>Les réponses ont été envoyées ! :)</source>
-        <target>¡Las respuestas se han enviado ¡  :)</target>
+        <target>¡Las respuestas han sido enviadas¡  :)</target>
         <note>Réponse à un whasq</note>
       </trans-unit>
       <trans-unit id="Les sons">
@@ -625,7 +625,7 @@
       </trans-unit>
       <trans-unit id="Mission complétée">
         <source>Mission complétée</source>
-        <target>misión completada</target>
+        <target>Misión completada</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Nous devons connaitre votre adresse mail pour pouvoir créer le compte ">
@@ -639,7 +639,7 @@
       </trans-unit>
       <trans-unit id="PATIENTEZ SVP, Nous chargeons vos contacts">
         <source>PATIENTEZ SVP, Nous chargeons vos contacts</source>
-        <target>POR FAVOR ESPERE, cargamos sus contactos</target>
+        <target>POR FAVOR ESPERE, cargamos tus contactos</target>
         <note>Upload des contacts</note>
       </trans-unit>
       <trans-unit id="Paiments en attente">
@@ -709,7 +709,7 @@
       </trans-unit>
       <trans-unit id="Réservation effectuée">
         <source>Réservation effectuée</source>
-        <target>Reserva realizada</target>
+        <target>Reservación realizada</target>
         <note>Après reservation complète</note>
       </trans-unit>
       <trans-unit id="SMS de vérification">
@@ -724,7 +724,7 @@
       </trans-unit>
       <trans-unit id="Ton whasq">
         <source>Ton whasq</source>
-        <target>Mi 1era pregunta</target>
+        <target>Mi Whasq</target>
         <note/>
       </trans-unit>
       <trans-unit id="Tous les quizzes ont été remplis, les réponses vont être envoyées">
@@ -739,12 +739,12 @@
       </trans-unit>
       <trans-unit id="Un SMS de confirmation va vous être envoyé">
         <source>Un SMS de confirmation va vous être envoyé</source>
-        <target>Un SMS de confirmación será enviado</target>
+        <target>Te enviaremos un SMS de confirmación</target>
         <note/>
       </trans-unit>
       <trans-unit id="Veuillez retrouver notre application sur l'AppStore et nous laisser un commentaire. Merci">
         <source>Veuillez retrouver notre application sur l'AppStore et nous laisser un commentaire. Merci</source>
-        <target>Por favor, encontrar nuestra aplicación en la App Store y nos deja un comentario. Gracias</target>
+        <target>Por favor, encuentra nuestra aplicación en la App Store y  dejanos un comentario. Gracias</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Virement effectué">
@@ -772,7 +772,7 @@
       </trans-unit>
       <trans-unit id="Vous serez informé par une notification si la mission se libère">
         <source>Vous serez informé par une notification si la mission se libère</source>
-        <target>Serás informado a través de una notificación si la mision es liberada</target>
+        <target>Serás informado a través de una notificación si la mision se libera</target>
         <note>Après reservation complète</note>
       </trans-unit>
       <trans-unit id="add.group.popup.default.name">
@@ -977,13 +977,13 @@
       </trans-unit>
       <trans-unit id="home.filter.title.single">
         <source>%i/3 filtre activé</source>
-        <target>%i/3 filtro activo</target>
+        <target>%i/3 filtros activos</target>
         <note/>
       </trans-unit>
       <trans-unit id="home.filter.whasq.on">
         <source>Missions WHASQ</source>
         <target>Misiones WHASQ</target>
-        <note/>
+        <note/>S
       </trans-unit>
       <trans-unit id="home.refresh.error.toast">
         <source>Il y a eu un problème</source>
@@ -1062,7 +1062,7 @@
       </trans-unit>
       <trans-unit id="list.noclicwalker.popup.email.error">
         <source>L'envoi de l'email a échoué.</source>
-        <target>El envió dele-mail ha sido rechazado</target>
+        <target>El envió del e-mail ha sido rechazado</target>
         <note/>
       </trans-unit>
       <trans-unit id="list.noclicwalker.popup.email.impossible">
@@ -1107,7 +1107,7 @@
       </trans-unit>
       <trans-unit id="login.account.validation.password.error">
         <source>Veuiller entrer un mot de passe valide.</source>
-        <target>Ingresa  una contraseña correcta</target>
+        <target>Ingresa una contraseña correcta</target>
         <note/>
       </trans-unit>
       <trans-unit id="login.account.withemail.connection.error">
@@ -1207,7 +1207,7 @@
       </trans-unit>
       <trans-unit id="mission.type.community">
         <source>On vous pose une question</source>
-        <target>Mi Whasq</target>
+        <target>una pregunta para ti</target>
         <note/>
       </trans-unit>
       <trans-unit id="mission.type.dataCollect">
@@ -1484,7 +1484,7 @@
       </trans-unit>
       <trans-unit id="whasq.create.question.image.replace.popup.replace.cancel">
         <source>Annuler</source>
-        <target>Anular</target>
+        <target>Cancelar</target>
         <note/>
       </trans-unit>
       <trans-unit id="whasq.create.question.image.replace.popup.title">
@@ -1746,7 +1746,7 @@
       </trans-unit>
       <trans-unit id="qan-7E-5Nw.text">
         <source>Site / Blog</source>
-        <target>Página Web / Blog</target>
+        <target>Página Web</target>
         <note>Class = "UILabel"; text = "Site / Blog"; ObjectID = "qan-7E-5Nw";</note>
       </trans-unit>
       <trans-unit id="wEM-mC-XJr.text">
@@ -1768,7 +1768,7 @@
     <body>
       <trans-unit id="6Bz-9y-7fN.text">
         <source>N'afficher que les Whasq</source>
-        <target>Solo mostrar Whasq</target>
+        <target>Solo mostrar los Whasqs</target>
         <note>Class = "UILabel"; text = "N'afficher que les Whasq"; ObjectID = "6Bz-9y-7fN"; Note = "Filtre pour n'afficher que les missions Whasq";</note>
       </trans-unit>
       <trans-unit id="7DU-E6-muQ.text">
@@ -1778,7 +1778,7 @@
       </trans-unit>
       <trans-unit id="Do5-cf-M8j.text">
         <source>Complète</source>
-        <target>Reservada</target>
+        <target>Completa</target>
         <note>Class = "UILabel"; text = "Complète"; ObjectID = "Do5-cf-M8j"; Note = "Filtre sur les missions complètes";</note>
       </trans-unit>
       <trans-unit id="Ea5-1h-bdQ.headerTitle">
@@ -1808,7 +1808,7 @@
       </trans-unit>
       <trans-unit id="PjY-iI-kx1.text">
         <source>N'afficher que les missions</source>
-        <target>Solo mostrar las misions</target>
+        <target>Solo mostrar las misiones</target>
         <note>Class = "UILabel"; text = "N'afficher que les missions"; ObjectID = "PjY-iI-kx1"; Note = "Filtre pour n'afficher que les missions";</note>
       </trans-unit>
       <trans-unit id="PsU-Q4-1vK.text">
@@ -1909,7 +1909,7 @@
       </trans-unit>
       <trans-unit id="JpN-Fd-yP3.normalTitle">
         <source>Valider</source>
-        <target>Validar</target>
+        <target>Aceptar</target>
         <note>Class = "UIButton"; normalTitle = "Valider"; ObjectID = "JpN-Fd-yP3"; Note = "Bouton de validation de création d'un groupe";</note>
       </trans-unit>
       <trans-unit id="K01-ur-t0u.text">
@@ -1924,7 +1924,7 @@
       </trans-unit>
       <trans-unit id="LrB-ar-HBM.normalTitle">
         <source>Valider</source>
-        <target>Validar</target>
+        <target>Aceptar</target>
         <note>Class = "UIButton"; normalTitle = "Valider"; ObjectID = "LrB-ar-HBM"; Note = "Bouton de validation de création d'un groupe";</note>
       </trans-unit>
       <trans-unit id="M23-Ul-9he.text">
@@ -1969,7 +1969,7 @@
       </trans-unit>
       <trans-unit id="aRR-Ee-ny1.normalTitle">
         <source>Valider</source>
-        <target>Validar</target>
+        <target>Aceptar</target>
         <note>Class = "UIButton"; normalTitle = "Valider"; ObjectID = "aRR-Ee-ny1"; Note = "Bouton de validation de l'invitation d'un ami";</note>
       </trans-unit>
       <trans-unit id="ac6-Zg-Afh.text">
@@ -1984,7 +1984,7 @@
       </trans-unit>
       <trans-unit id="bXr-vD-0ho.normalTitle">
         <source>Valider</source>
-        <target>Validar</target>
+        <target>Aceptar</target>
         <note>Class = "UIButton"; normalTitle = "Valider"; ObjectID = "bXr-vD-0ho"; Note = "Bouton de validation de création d'un groupe";</note>
       </trans-unit>
       <trans-unit id="eL4-ct-GT6.text">
@@ -2009,7 +2009,7 @@
       </trans-unit>
       <trans-unit id="sBI-O2-YXt.normalTitle">
         <source>Valider</source>
-        <target>Validar</target>
+        <target>Aceptar</target>
         <note>Class = "UIButton"; normalTitle = "Valider"; ObjectID = "sBI-O2-YXt"; Note = "Dans la popup de répartition de l'argent";</note>
       </trans-unit>
       <trans-unit id="sst-Eb-O6E.normalTitle">
@@ -2062,7 +2062,7 @@
       </trans-unit>
       <trans-unit id="GgZ-eO-Ycm.text">
         <source>pseudo</source>
-        <target>Apellido</target>
+        <target>Apodo</target>
         <note>Class = "UILabel"; text = "pseudo"; ObjectID = "GgZ-eO-Ycm"; Note = "Ne pas traduire";</note>
       </trans-unit>
       <trans-unit id="RoK-xn-fhX.text">
@@ -2097,7 +2097,7 @@
       </trans-unit>
       <trans-unit id="wE1-tw-fjX.placeholder">
         <source>Prénom</source>
-        <target>Nombre de pila</target>
+        <target>Nombre</target>
         <note>Class = "UITextField"; placeholder = "Prénom"; ObjectID = "wE1-tw-fjX";</note>
       </trans-unit>
     </body>
@@ -2114,7 +2114,7 @@
       </trans-unit>
       <trans-unit id="Cxy-v3-nwg.normalTitle">
         <source>Valider</source>
-        <target>Validar</target>
+        <target>Aceptar</target>
         <note>Class = "UIButton"; normalTitle = "Valider"; ObjectID = "Cxy-v3-nwg"; Note = "Bouton de validation d'enregistrement audio";</note>
       </trans-unit>
       <trans-unit id="NdF-FX-Ls2.text">
@@ -2181,7 +2181,7 @@
       </trans-unit>
       <trans-unit id="KLU-U5-dDT.text">
         <source>Prendre une photo/vidéo/son</source>
-        <target>Si pedido toma una (s) foto/video/audio dale clic en el icono de abajo</target>
+        <target>Si toma una (s) foto/video/audio dale clic en el icono de abajo</target>
         <note>Class = "UILabel"; text = "Prendre une photo/vidéo/son"; ObjectID = "KLU-U5-dDT";</note>
       </trans-unit>
       <trans-unit id="LG7-AT-3Sf.text">
@@ -2191,7 +2191,7 @@
       </trans-unit>
       <trans-unit id="NEW-ol-oWc.text">
         <source>Durée</source>
-        <target>Periodo</target>
+        <target>Duracion</target>
         <note>Class = "UILabel"; text = "Durée"; ObjectID = "NEW-ol-oWc"; Note = "Titre de la rubrique de sélection de la durée de validité du Whasq";</note>
       </trans-unit>
       <trans-unit id="Na9-r5-Vwt.title">
@@ -2336,7 +2336,7 @@
       </trans-unit>
       <trans-unit id="pcw-Gx-gc6.placeholder">
         <source>Ma question</source>
-        <target>Escribe precisamente tu pregunta</target>
+        <target>Mi pregunta</target>
         <note>Class = "UITextField"; placeholder = "Ma question"; ObjectID = "pcw-Gx-gc6"; Note = "Zone de saisie de la question";</note>
       </trans-unit>
       <trans-unit id="sks-xB-tcl.text">
