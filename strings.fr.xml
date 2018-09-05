@@ -374,6 +374,13 @@
     <!-- Whasq -->
     <string name="read">Lu</string>
     <string name="WHASQ_ANSWER_VALIDATE_CHAMPION_MESSAGE">Cette réponse est une solution ?</string>
+    
+    <!-- Whasq Answers -->
+    <string name="WHASQ_ANSWER_OPTION_EDIT">Editer</string>
+    <string name="WHASQ_ANSWER_OPTION_DELETE">Supprimer</string>
+    <string name="WHASQ_ANSWER_OPTION_REPORT">Signaler</string>
+    <string name="WHASQ_ANSWER_OPTION_DELETE_MESSAGE_SUCCESS">Votre réponse a été supprimé.</string>
+    <string name="WHASQ_ANSWER_OPTION_REPORT_MESSAGE_SUCCESS">Votre signalement a été pris en compte.</string>
 
     <!-- Geolocation -->
     <string name="GEOLOCATION_PERMISSION_TITLE">Facilitez vos échanges</string>

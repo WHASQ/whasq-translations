@@ -389,6 +389,13 @@
     <string name="status_unresolved">Status : unresolved</string>
     <string name="read">read</string>
     <string name="WHASQ_ANSWER_VALIDATE_CHAMPION_MESSAGE">Is this answer a solution?</string>
+    
+    <!-- Whasq Answers -->
+    <string name="WHASQ_ANSWER_OPTION_EDIT">Edit</string>
+    <string name="WHASQ_ANSWER_OPTION_DELETE">Delete</string>
+    <string name="WHASQ_ANSWER_OPTION_REPORT">Report</string>
+    <string name="WHASQ_ANSWER_OPTION_DELETE_MESSAGE_SUCCESS">Your answer has been deleted.</string>
+    <string name="WHASQ_ANSWER_OPTION_REPORT_MESSAGE_SUCCESS">Your report has been taken into account.</string>
 
     <!-- Geolocation -->
     <string name="GEOLOCATION_PERMISSION_TITLE">Facilitate your discussions</string>
@@ -430,7 +437,7 @@
     <!-- ********************************************************************************************** -->
 
     <string name="email_mandatory">Email address *</string>
-    <string name="fullname_mandatory"Full name *</string>
+    <string name="fullname_mandatory">Full name *</string>
     <string name="ranking_no_rank_for_month">The podium has not yet been defined for this month.</string>
     <string name="session_expired">Your session has expired, please reconnect.</string>
     <string name="error_useful_already">You already liked this comment</string>

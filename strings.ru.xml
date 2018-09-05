@@ -389,6 +389,13 @@
     <string name="status_unresolved">Статус: нерешён</string>
     <string name="read">прочитать</string>
     <string name="WHASQ_ANSWER_VALIDATE_CHAMPION_MESSAGE">Является ли этот ответ решением?</string>
+    
+    <!-- Whasq Answers -->
+    <string name="WHASQ_ANSWER_OPTION_EDIT">Edit</string>
+    <string name="WHASQ_ANSWER_OPTION_DELETE">Delete</string>
+    <string name="WHASQ_ANSWER_OPTION_REPORT">Report</string>
+    <string name="WHASQ_ANSWER_OPTION_DELETE_MESSAGE_SUCCESS">Your answer has been deleted.</string>
+    <string name="WHASQ_ANSWER_OPTION_REPORT_MESSAGE_SUCCESS">Your report has been taken into account.</string>
 			
     <!-- Geolocation -->
     <string name="GEOLOCATION_PERMISSION_TITLE">Развейте вашу дискуссиюFacilitate your discussions</string>
