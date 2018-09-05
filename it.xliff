@@ -22,7 +22,7 @@
       </trans-unit>
       <trans-unit id="F5n-eU-FYL.text">
         <source>C’est plus rapide avec Facebook !</source>
-        <target>E più veloce con Facebook !</target>
+        <target>E più veloce con Facebook!</target>
         <note>Class = "UILabel"; text = "C’est plus rapide avec Facebook !"; ObjectID = "F5n-eU-FYL"; Note = "Phrase d'incitation à utiliser Facebook sur la homepage";</note>
       </trans-unit>
       <trans-unit id="H3Z-PH-Rnt.text">
@@ -52,12 +52,12 @@
       </trans-unit>
       <trans-unit id="QzB-wA-Y91.text">
         <source>Votre numéro de téléphone permet de valider le paiement ainsi que de maintenir la sécurité au sein de l’application.</source>
-        <target>Il tuo numero di telefono permette di convalidare il pagamento e di mantenere la sicurezza all'interno dell'app.</target>
+        <target>Il tuo numero di telefono permette di convalidare il pagamento e di mantenere la sicurezza nell'app.</target>
         <note>Class = "UILabel"; text = "Votre numéro de téléphone permet de valider le paiement ainsi que de maintenir la sécurité au sein de l’application."; ObjectID = "QzB-wA-Y91";</note>
       </trans-unit>
       <trans-unit id="RgP-Kc-9eR.text">
         <source>C’est plus rapide avec Facebook !</source>
-        <target>E più veloce con Facebook !</target>
+        <target>E più veloce con Facebook!</target>
         <note>Class = "UILabel"; text = "C’est plus rapide avec Facebook !"; ObjectID = "RgP-Kc-9eR";</note>
       </trans-unit>
       <trans-unit id="VPK-vn-SxK.normalTitle">
@@ -87,7 +87,7 @@
       </trans-unit>
       <trans-unit id="gTe-eJ-jOJ.normalTitle">
         <source>Changer de mot de passe</source>
-        <target>Cambiare la password</target>
+        <target>Modificare la password</target>
         <note>Class = "UIButton"; normalTitle = "Changer de mot de passe"; ObjectID = "gTe-eJ-jOJ"; Note = "Bouton pour se connecter sur la homepage";</note>
       </trans-unit>
       <trans-unit id="hXY-KD-7Kp.normalTitle">
@@ -107,7 +107,7 @@
       </trans-unit>
       <trans-unit id="jfm-TS-WcM.text">
         <source>Vos données sont protégées et elles ne sont pas revendues.</source>
-        <target>I tuoi dati vengono protetti e non verranno venduti.</target>
+        <target>I tuoi dati sono protetti e non saranno venduti.</target>
         <note>Class = "UILabel"; text = "Vos données sont protégées et elles ne sont pas revendues."; ObjectID = "jfm-TS-WcM";</note>
       </trans-unit>
       <trans-unit id="kAJ-Kf-fOB.normalTitle">
@@ -144,7 +144,7 @@
     <body>
       <trans-unit id="1Hu-LK-2Ri.normalTitle">
         <source>Valider les changements</source>
-        <target>Convalidare i cambiamenti</target>
+        <target>Convalidare le modifiche</target>
         <note>Class = "UIButton"; normalTitle = "Valider les changements"; ObjectID = "1Hu-LK-2Ri"; Note = "Bouton dans la cagnotte, après avoir changé les infos bancaires";</note>
       </trans-unit>
       <trans-unit id="4fq-WM-kqh.text">
@@ -244,7 +244,7 @@
       </trans-unit>
       <trans-unit id="wYF-O9-Ax1.text">
         <source>Informations de paiement</source>
-        <target>Notizie di pagamento</target>
+        <target>Informazione sul pagamento</target>
         <note>Class = "UILabel"; text = "Informations de paiement"; ObjectID = "wYF-O9-Ax1"; Note = "Dans la cagnotte";</note>
       </trans-unit>
       <trans-unit id="yzQ-eh-Ll9.text">
@@ -393,12 +393,12 @@
       </trans-unit>
       <trans-unit id="A7k-PQ-S9N.text">
         <source>Durée</source>
-        <target>Periodo voluto</target>
+        <target>Durata</target>
         <note>Class = "UILabel"; text = "Durée"; ObjectID = "A7k-PQ-S9N"; Note = "Placeholder, ne pas traduire";</note>
       </trans-unit>
       <trans-unit id="Bev-p0-vnw.text">
-        <source>Quizz n°</source>
-        <target>Quizz n°</target>
+        <source>Quiz n°</source>
+        <target>Quiz n°</target>
         <note>Class = "UILabel"; text = "Quizz n°"; ObjectID = "Bev-p0-vnw";</note>
       </trans-unit>
       <trans-unit id="IOi-Ha-heD.text">
@@ -460,12 +460,12 @@
     <body>
       <trans-unit id="Annuler">
         <source>Annuler</source>
-        <target>annullare</target>
+        <target>Cancellare</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Annuler le Whasq">
         <source>Annuler le Whasq</source>
-        <target>Cancellare lo Whasq</target>
+        <target>Cancellare il Whasq</target>
         <note/>
       </trans-unit>
       <trans-unit id="Attendre">
@@ -474,8 +474,8 @@
         <note>Réponse à une mission/whasq</note>
       </trans-unit>
       <trans-unit id="Avant de créer des Whasq, vous pouvez ajouter des contacts">
-        <source>Avant de créer des Whasq, vous pouvez ajouter des contacts</source>
-        <target>Prima di creare dei Whasq, potete aggiungere dei contatti</target>
+        <source>Avant de créer des Whasqs, vous pouvez ajouter des contacts</source>
+        <target>Prima di creare dei Whasqs, puoi aggiungere dei contatti</target>
         <note>Titre popup quand essai whasq sans amis</note>
       </trans-unit>
       <trans-unit id="CODE">
@@ -494,12 +494,12 @@
       </trans-unit>
       <trans-unit id="ENVOYER">
         <source>ENVOYER</source>
-        <target>MANDARE</target>
+        <target>INVIARE</target>
         <note>Réponse à une mission/whasq</note>
       </trans-unit>
       <trans-unit id="En cliquant sur Transferer, une demande de transfert sera lancée">
         <source>En cliquant sur Transferer, une demande de transfert sera lancée</source>
-        <target>Facendo clic su cedente, una domanda di trasferimento da lanciare</target>
+        <target>Fai clic su trasferire per effettuare una richiesta di trasferimiento</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="En pause">
@@ -518,13 +518,13 @@
         <note>Sound recorder</note>
       </trans-unit>
       <trans-unit id="Entrez le SMS dans la boite de dialogue">
-        <source>Entrez le SMS dans la boite de dialogue</source>
-        <target>Entrare il SMS nel dialogo</target>
+        <source>Entrez le code SMS dans la boite de dialogue</source>
+        <target>Inserire il codice SMS nella finestra di dialogo</target>
         <note/>
       </trans-unit>
       <trans-unit id="Entrez le SMS de vérification">
-        <source>Entrez le SMS de vérification</source>
-        <target>Inserire l'SMS di verifica</target>
+        <source>Entrez le code SMS de vérification</source>
+        <target>Inserire il codice SMS di verifica</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Erreur">
@@ -534,7 +534,7 @@
       </trans-unit>
       <trans-unit id="Erreur lors de l'enregistrement audio :">
         <source>Erreur lors de l'enregistrement audio :</source>
-        <target>Errore di registrazione audio:</target>
+        <target>Errore durante della registrazione audio:</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Erreur lors de la récuperation des données Facebook">
@@ -562,7 +562,7 @@
       </trans-unit>
       <trans-unit id="Informations de paiement changées">
         <source>Informations de paiement changées</source>
-        <target>Informazioni di pagamento cambiate</target>
+        <target>Informazioni di pagamento modificate</target>
         <note/>
       </trans-unit>
       <trans-unit id="Informations manquantes">
@@ -596,12 +596,12 @@
       </trans-unit>
       <trans-unit id="Les réponses ont été envoyées ! :)">
         <source>Les réponses ont été envoyées ! :)</source>
-        <target>Perfetto, le risposte sono state mandate ! :)</target>
+        <target>Perfetto, le risposte sono state inviate ! :)</target>
         <note>Réponse à un whasq</note>
       </trans-unit>
       <trans-unit id="Les sons">
         <source>Les sons</source>
-        <target>I suoni</target>
+        <target>I file audio</target>
         <note/>
       </trans-unit>
       <trans-unit id="Les vidéos">
@@ -639,12 +639,12 @@
       </trans-unit>
       <trans-unit id="PATIENTEZ SVP, Nous chargeons vos contacts">
         <source>PATIENTEZ SVP, Nous chargeons vos contacts</source>
-        <target>ATTENDE, carichiamo i tuoi contatti</target>
+        <target>ASPETTI per favore, carichiamo i tuoi contatti</target>
         <note>Upload des contacts</note>
       </trans-unit>
       <trans-unit id="Paiments en attente">
         <source>Paiments en attente</source>
-        <target>Pagamenti in attesta</target>
+        <target>Pagamenti in attesa</target>
         <note>Bis</note>
       </trans-unit>
       <trans-unit id="Paiments refusés">
@@ -654,7 +654,7 @@
       </trans-unit>
       <trans-unit id="Paiments supprimés">
         <source>Paiments supprimés</source>
-        <target>Pagamenti eliminati</target>
+        <target>Pagamenti cancellati</target>
         <note/>
       </trans-unit>
       <trans-unit id="Paiments validés">
@@ -679,7 +679,7 @@
       </trans-unit>
       <trans-unit id="Profil mis à jour">
         <source>Profil mis à jour</source>
-        <target>Aggiornate</target>
+        <target>Profilo aggiornato</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Progression">
@@ -689,17 +689,17 @@
       </trans-unit>
       <trans-unit id="Pseudo">
         <source>Pseudo</source>
-        <target>Nome di utente</target>
+        <target>Pseudonimo</target>
         <note>Réponse anonyme à un whasq</note>
       </trans-unit>
       <trans-unit id="Quel est votre pseudo ?">
         <source>Quel est votre pseudo ?</source>
-        <target>Qual'è il tuo nome di utente?</target>
+        <target>Qual'è il tuo pseudonimo?</target>
         <note>Réponse anonyme à un whasq</note>
       </trans-unit>
       <trans-unit id="Quizz">
         <source>Quizz</source>
-        <target>Quizz</target>
+        <target>Quiz</target>
         <note/>
       </trans-unit>
       <trans-unit id="Retour sur Clic&amp;Walk">
@@ -724,12 +724,12 @@
       </trans-unit>
       <trans-unit id="Ton whasq">
         <source>Ton whasq</source>
-        <target>La mia prima domanda</target>
+        <target>Il mio whasq</target>
         <note/>
       </trans-unit>
       <trans-unit id="Tous les quizzes ont été remplis, les réponses vont être envoyées">
         <source>Tous les quizzes ont été remplis, les réponses vont être envoyées</source>
-        <target>Tutti i quizz sono stati fatti, le risposte verranno mandate.</target>
+        <target>Tutti i quiz sono stati fatti, le risposte saranno inviate.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Transférer">
@@ -739,12 +739,12 @@
       </trans-unit>
       <trans-unit id="Un SMS de confirmation va vous être envoyé">
         <source>Un SMS de confirmation va vous être envoyé</source>
-        <target>Un SMS di conferma ti sarà mandato</target>
+        <target>Un SMS di conferma ti sarà inviato</target>
         <note/>
       </trans-unit>
       <trans-unit id="Veuillez retrouver notre application sur l'AppStore et nous laisser un commentaire. Merci">
         <source>Veuillez retrouver notre application sur l'AppStore et nous laisser un commentaire. Merci</source>
-        <target>Si prega di trovare la nostra applicazione su App Store e lasciare un commento. grazie</target>
+        <target>Si prega di trovare la nostra app su App Store e lasciaci un commento. Grazie.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Virement effectué">
@@ -762,17 +762,17 @@
       </trans-unit>
       <trans-unit id="Votre nom et prénom sont nécessaires pour la demande de virement">
         <source>Votre nom et prénom sont nécessaires pour la demande de virement</source>
-        <target>Il tuo cognome e nome sono richiesti per la richiesta di trasferimento</target>
+        <target>Il tuo cognome e nome sono richiesti per la richiesta di pagamento</target>
         <note>Lors d'une demande de paiement</note>
       </trans-unit>
       <trans-unit id="Voulez-vous supprimer ce Whasq ?">
         <source>Voulez-vous supprimer ce Whasq ?</source>
-        <target>Vuoi eliminare lo Whasq ?</target>
+        <target>Vuoi cancellare il Whasq ?</target>
         <note/>
       </trans-unit>
       <trans-unit id="Vous serez informé par une notification si la mission se libère">
         <source>Vous serez informé par une notification si la mission se libère</source>
-        <target>Sarete informati da una notificazione se la missione si libera</target>
+        <target>Sarai informato/a da una notifica se la missione si libera</target>
         <note>Après reservation complète</note>
       </trans-unit>
       <trans-unit id="add.group.popup.default.name">
@@ -817,7 +817,7 @@
       </trans-unit>
       <trans-unit id="contact.whasq.creation.success.popup.title">
         <source>Félicitation</source>
-        <target>Auguri</target>
+        <target>Fantastico</target>
         <note>Selection de contacts avant envoi du whasq</note>
       </trans-unit>
       <trans-unit id="create.account.default.country.code">
@@ -842,22 +842,22 @@
       </trans-unit>
       <trans-unit id="create.account.validation.email.error">
         <source>Veuiller entrer un email valide.</source>
-        <target>Entrare un indirizzo mail valido.</target>
+        <target>Inserire un indirizzo mail correttp.</target>
         <note/>
       </trans-unit>
       <trans-unit id="create.account.validation.password.error">
         <source>Veuiller entrer un mot de passe valide.</source>
-        <target>Entrare una password valida.</target>
+        <target>Inserire una password corretta.</target>
         <note/>
       </trans-unit>
       <trans-unit id="create.account.validation.phonenumber.error">
         <source>Veuiller entrer un numéro de téléphone valide.</source>
-        <target>Entrare un numero di telefono valido.</target>
+        <target>Inserire un numero di telefono corretto.</target>
         <note/>
       </trans-unit>
       <trans-unit id="create.account.withemail.connection.error">
         <source>Erreur lors de la connexion</source>
-        <target>Errore durante il collegamento</target>
+        <target>Errore nell'accesso a Clic and Walk</target>
         <note/>
       </trans-unit>
       <trans-unit id="create.account.withemail.error.default">
@@ -867,7 +867,7 @@
       </trans-unit>
       <trans-unit id="create.account.withfacebook.connection.error">
         <source>Erreur lors de la connexion facebook</source>
-        <target>Errore durante il collegamento a Facebook</target>
+        <target>Errore nell'accesso a Facebook</target>
         <note/>
       </trans-unit>
       <trans-unit id="create.account.withfacebook.error.default">
@@ -877,7 +877,7 @@
       </trans-unit>
       <trans-unit id="error.upload.failed">
         <source>L'upload a échoué</source>
-        <target>L'upload è fallito</target>
+        <target>Il caricamento è fallito</target>
         <note>Lors de la réponse à un whasq</note>
       </trans-unit>
       <trans-unit id="friends.facebook.error.toast">
@@ -897,7 +897,7 @@
       </trans-unit>
       <trans-unit id="friends.import.from.other">
         <source>Autres...</source>
-        <target>Altro...</target>
+        <target>Altri...</target>
         <note/>
       </trans-unit>
       <trans-unit id="friends.invitation.send.toast">
@@ -907,7 +907,7 @@
       </trans-unit>
       <trans-unit id="friends.retrieveFriend.facebook.error.toast">
         <source>Erreur lors de la récupération de vos amis Facebook</source>
-        <target>Errore durante il recupero dei tuoi amici Facebook</target>
+        <target>Errore nel recupero dei tuoi amici Facebook</target>
         <note/>
       </trans-unit>
       <trans-unit id="friends.title">
@@ -917,7 +917,7 @@
       </trans-unit>
       <trans-unit id="generic.error.description">
         <source>Il y a eu un problème</source>
-        <target>C'è stato un problema</target>
+        <target>>Si è verificato un errore</target>
         <note/>
       </trans-unit>
       <trans-unit id="generic.error.title">
@@ -932,7 +932,7 @@
       </trans-unit>
       <trans-unit id="group.detail.delete.error.toast">
         <source>Il y a eu un problème</source>
-        <target>C'è stato un problema</target>
+        <target>>Si è verificato un errore</target>
         <note/>
       </trans-unit>
       <trans-unit id="group.detail.edit.default.name">
@@ -942,7 +942,7 @@
       </trans-unit>
       <trans-unit id="group.detail.options.delete">
         <source>Supprimer le groupe</source>
-        <target>Eliminare il gruppo</target>
+        <target>Cancellare il gruppo</target>
         <note/>
       </trans-unit>
       <trans-unit id="group.detail.options.manage.friends">
@@ -957,12 +957,12 @@
       </trans-unit>
       <trans-unit id="group.detail.popup.delete.confirm">
         <source>Supprimer</source>
-        <target>Eliminare</target>
+        <target>Cancellare</target>
         <note/>
       </trans-unit>
       <trans-unit id="group.detail.popup.delete.message">
         <source>Voulez-vous supprimer ce groupe ?</source>
-        <target>Vuoi eliminare questo gruppo?</target>
+        <target>Vuoi cancellare questo gruppo?</target>
         <note/>
       </trans-unit>
       <trans-unit id="group.detail.popup.delete.title">
@@ -987,12 +987,12 @@
       </trans-unit>
       <trans-unit id="home.refresh.error.toast">
         <source>Il y a eu un problème</source>
-        <target>C'è stato un problema</target>
+        <target>Si è verificato un errore</target>
         <note/>
       </trans-unit>
       <trans-unit id="home.title">
         <source>Missions disponibles</source>
-        <target>Missioni disponibili</target>
+        <target>Missioni disponibile</target>
         <note>MissionsContainerViewController</note>
       </trans-unit>
       <trans-unit id="http://fr.clicandwalk.com/">
@@ -1007,7 +1007,7 @@
       </trans-unit>
       <trans-unit id="list.contact.emptystate">
         <source>Clic&amp;Walk c’est mieux si on le partage avec ses amis !</source>
-        <target>Clic and Walk è meglio se lo condividi con i tuoi amici !</target>
+        <target>Clic and Walk è meglio se lo condividi con i suoi amici!</target>
         <note/>
       </trans-unit>
       <trans-unit id="list.contact.friend.title">
@@ -1022,7 +1022,7 @@
       </trans-unit>
       <trans-unit id="list.contact.refresh.error.toast">
         <source>Il y a eu un problème</source>
-        <target>C'è stato un problema</target>
+        <target>Si è verificato un errore</target>
         <note>ListContactsViewController</note>
       </trans-unit>
       <trans-unit id="list.noclicwalker.email.html.body">
@@ -1037,12 +1037,12 @@
       </trans-unit>
       <trans-unit id="list.noclicwalker.emptystate">
         <source>Clic&amp;Walk c’est mieux si on le partage avec ses amis !</source>
-        <target>Clic and Walk è meglio se lo condividi con i tuoi amici !</target>
+        <target>Clic and Walk è meglio se lo condividi con i suoi amici !</target>
         <note/>
       </trans-unit>
       <trans-unit id="list.noclicwalker.popup.SMS.cancel">
         <source>L'envoi du message a été annulé.</source>
-        <target>L'invio del messaggio è stato annullato.</target>
+        <target>L'invio del messaggio è stato cancellato.</target>
         <note/>
       </trans-unit>
       <trans-unit id="list.noclicwalker.popup.SMS.error">
@@ -1077,7 +1077,7 @@
       </trans-unit>
       <trans-unit id="list.noclicwalker.refresh.error.toast">
         <source>Il y a eu un problème</source>
-        <target>C'è stato un problema</target>
+        <target>Si è verificato un errore</target>
         <note>ListNoClicwalkerViewController</note>
       </trans-unit>
       <trans-unit id="list.noclicwalker.sms.body">
@@ -1092,7 +1092,7 @@
       </trans-unit>
       <trans-unit id="login.account.facebook.login.cancel">
         <source>Authentification avec Facebook annulée</source>
-        <target>Autenticazione con Facebook annullata</target>
+        <target>Autenticazione con Facebook cancellata</target>
         <note/>
       </trans-unit>
       <trans-unit id="login.account.title">
@@ -1102,17 +1102,17 @@
       </trans-unit>
       <trans-unit id="login.account.validation.email.error">
         <source>Veuiller entrer un email valide.</source>
-        <target>Introdurre un indirizzo mail valido.</target>
+        <target>Inserire un indirizzo e-mail corretto.</target>
         <note/>
       </trans-unit>
       <trans-unit id="login.account.validation.password.error">
         <source>Veuiller entrer un mot de passe valide.</source>
-        <target>Introdurre una password valida.</target>
+        <target>Inserire una password corretta.</target>
         <note/>
       </trans-unit>
       <trans-unit id="login.account.withemail.connection.error">
         <source>Erreur lors de la connexion</source>
-        <target>Errore durante la connessione</target>
+        <target>Errore nell'accesso a Clic and Walk</target>
         <note/>
       </trans-unit>
       <trans-unit id="login.account.withemail.error.default">
@@ -1122,7 +1122,7 @@
       </trans-unit>
       <trans-unit id="login.account.withfacebook.connection.error">
         <source>Erreur lors de la connexion facebook</source>
-        <target>Errore durante la connessione a Facebook</target>
+        <target>Errore nell'accesso a Facebook</target>
         <note/>
       </trans-unit>
       <trans-unit id="login.account.withfacebook.error.default">
@@ -1137,12 +1137,12 @@
       </trans-unit>
       <trans-unit id="mission.distance.km">
         <source>à %i km</source>
-        <target>in %i km</target>
+        <target>a %i km</target>
         <note/>
       </trans-unit>
       <trans-unit id="mission.distance.m">
         <source>à %i m</source>
-        <target>in %i m</target>
+        <target>a %i m</target>
         <note/>
       </trans-unit>
       <trans-unit id="mission.distance.undefined">
@@ -1192,7 +1192,7 @@
       </trans-unit>
       <trans-unit id="mission.status.full">
         <source>M'avertir</source>
-        <target>Comunica</target>
+        <target>Avvertirmi</target>
         <note/>
       </trans-unit>
       <trans-unit id="mission.status.inProgress">
@@ -1207,7 +1207,7 @@
       </trans-unit>
       <trans-unit id="mission.type.community">
         <source>On vous pose une question</source>
-        <target>Il mio Whasq</target>
+        <target>Ti facciamo una domanda</target>
         <note/>
       </trans-unit>
       <trans-unit id="mission.type.dataCollect">
@@ -1237,12 +1237,12 @@
       </trans-unit>
       <trans-unit id="mission.type.sponsoring">
         <source>oui</source>
-        <target>si</target>
+        <target>sì</target>
         <note/>
       </trans-unit>
       <trans-unit id="mission.type.store">
         <source>En magasin</source>
-        <target>Nel negozio</target>
+        <target>In negozio</target>
         <note/>
       </trans-unit>
       <trans-unit id="mission.type.undefined">
@@ -1252,7 +1252,7 @@
       </trans-unit>
       <trans-unit id="missions.detail.askparticipation.popup.message">
         <source>Participez à la mission pour acceder aux questions.</source>
-        <target>Partecipate alla missione per accedere alle domande.</target>
+        <target>Partecipi alla missione per accedere alle domande.</target>
         <note/>
       </trans-unit>
       <trans-unit id="missions.detail.askparticipation.popup.title">
@@ -1262,7 +1262,7 @@
       </trans-unit>
       <trans-unit id="missions.list.emptystate">
         <source>Vous n'avez pas encore de missions disponibles ...</source>
-        <target>Non avete delle missioni disponibile...</target>
+        <target>Non ci sono missioni disponibile...</target>
         <note/>
       </trans-unit>
       <trans-unit id="missions.list.title">
@@ -1291,7 +1291,7 @@
       </trans-unit>
       <trans-unit id="popup.askconnexion.desc">
         <source>Pour acceder à cette fonctionnalité, vous devez vous connecter</source>
-        <target>Per accedere a questa funzionalità, dovete connettervi</target>
+        <target>Per accedere a questa funzionalità, devi connetterti</target>
         <note/>
       </trans-unit>
       <trans-unit id="popup.askconnexion.title">
@@ -1311,7 +1311,7 @@
       </trans-unit>
       <trans-unit id="reset.password.popup.error.message">
         <source>Oops, il semble que ton adresse email ne soit pas valide. Vérifie la stp.</source>
-        <target>Oops, sembra che il tuo indirizzo mail non è valido. Verificalo per favore.</target>
+        <target>Oops, sembra che il tuo indirizzo e-mail non è corretto. Verificalo per favore.</target>
         <note/>
       </trans-unit>
       <trans-unit id="reset.password.popup.error.title">
@@ -1326,7 +1326,7 @@
       </trans-unit>
       <trans-unit id="reset.password.popup.success.message">
         <source>Un nouveau mot de passe a été envoyé à cette adresse email.</source>
-        <target>Una nuova password e stata mandata a questo indirizzo mail.</target>
+        <target>Una nuova password e stata inviata su questo indirizzo e-mail.</target>
         <note/>
       </trans-unit>
       <trans-unit id="reset.password.popup.success.title">
@@ -1356,17 +1356,17 @@
       </trans-unit>
       <trans-unit id="whasq.answer.question.camera.access.denied.error">
         <source>Accès à l'appareil photo refusé</source>
-        <target>Accesso alla macchina fotografica rifiutata</target>
+        <target>Accesso alla fotocamera rifiutato</target>
         <note>Réponse à un whasq</note>
       </trans-unit>
       <trans-unit id="whasq.answer.question.next.button">
         <source>Suivant</source>
-        <target>Prossimo</target>
+        <target>Seguente</target>
         <note>Réponse à un whasq</note>
       </trans-unit>
       <trans-unit id="whasq.answer.question.send.button">
         <source>Envoyer</source>
-        <target>Mandare</target>
+        <target>Inviare</target>
         <note>Pop up pseudo, réponse anonyme à un whasq
    Réponse à un whasq</note>
       </trans-unit>
@@ -1377,7 +1377,7 @@
       </trans-unit>
       <trans-unit id="whasq.answer.question.type.check.subtitle">
         <source>Plusieurs réponses possibles</source>
-        <target>Parecchie risposte possibile</target>
+        <target>Molte risposte possibile</target>
         <note/>
       </trans-unit>
       <trans-unit id="whasq.answer.question.type.radio.subtitle">
@@ -1397,17 +1397,17 @@
       </trans-unit>
       <trans-unit id="whasq.answer.question.video.record.error">
         <source>Erreur lors de l'enregistrement video.</source>
-        <target>Errore durante la registrazione del video.</target>
+        <target>Si è verificato durante la registrazione del video.</target>
         <note>Réponse à un whasq</note>
       </trans-unit>
       <trans-unit id="whasq.answer.question.video.record.error.plus">
         <source>Erreur lors de l'enregistrement video :</source>
-        <target>Errore durante la registrazione del video :</target>
+        <target>Si è verificato un errore durante la registrazione del video :</target>
         <note>Réponse à un whasq</note>
       </trans-unit>
       <trans-unit id="whasq.answer.record.audio.error.popup.message">
         <source>Il y a eu une erreur concernant l'audio</source>
-        <target>C'è stato un errore con l'audio</target>
+        <target>Si è verificato un errore con l'audio</target>
         <note>Liste de médias
    Réponse à un whasq</note>
       </trans-unit>
@@ -1424,7 +1424,7 @@
       </trans-unit>
       <trans-unit id="whasq.answer.record.audio.popup.message">
         <source>Une erreur est survenue lors de l'enregistrement.</source>
-        <target>C'è stato un errore durante la registrazione.</target>
+        <target>Si è verificato un errore durante la registrazione.</target>
         <note/>
       </trans-unit>
       <trans-unit id="whasq.answer.record.audio.popup.replace.button">
@@ -1464,17 +1464,17 @@
       </trans-unit>
       <trans-unit id="whasq.create.question.audio.record.error">
         <source>Erreur lors de l'enregistrement audio :</source>
-        <target>Errore durante la registrazione del audio :</target>
+        <target>Si è verificato un errore durante la registrazione del audio :</target>
         <note/>
       </trans-unit>
       <trans-unit id="whasq.create.question.camera.access.denied.error">
         <source>Accès à l'appareil photo refusé</source>
-        <target>Accesso alla macchina fotografica rifiutata</target>
+        <target>Accesso alla fotocamera rifiutata</target>
         <note/>
       </trans-unit>
       <trans-unit id="whasq.create.question.image.replace.popup.message">
         <source>Voulez-vous remplacer cette image ?</source>
-        <target>Vuoi sostituire l'immagine?</target>
+        <target>Vuoi sostituire l'inmagine?</target>
         <note/>
       </trans-unit>
       <trans-unit id="whasq.create.question.image.replace.popup.replace.button">
@@ -1494,17 +1494,17 @@
       </trans-unit>
       <trans-unit id="whasq.create.question.video.record.error">
         <source>Erreur lors de l'enregistrement video.</source>
-        <target>Errore durante la registrazione del video.</target>
+        <target>Si è verificato un errore durante la registrazione del video.</target>
         <note/>
       </trans-unit>
       <trans-unit id="whasq.create.question.video.record.error.plus">
         <source>Erreur lors de l'enregistrement video :</source>
-        <target>Errore durante la registrazione del video :</target>
+        <target>Si è verificato un errore durante la registrazione del video :</target>
         <note/>
       </trans-unit>
       <trans-unit id="whasq.create.question.video.start.error">
         <source>Erreur lors du lancement de la vidéo :</source>
-        <target>Errore durante il lancio del video :</target>
+        <target>Si è verificato un errore durante il lancio del video :</target>
         <note>Liste de médias</note>
       </trans-unit>
       <trans-unit id="whasq.create.video.question.title">
@@ -1744,11 +1744,6 @@
         <target>Item</target>
         <note>Class = "UITabBarItem"; title = "Item"; ObjectID = "pjp-Bk-cCg";</note>
       </trans-unit>
-      <trans-unit id="qan-7E-5Nw.text">
-        <source>Site / Blog</source>
-        <target>Sito / Blog</target>
-        <note>Class = "UILabel"; text = "Site / Blog"; ObjectID = "qan-7E-5Nw";</note>
-      </trans-unit>
       <trans-unit id="wEM-mC-XJr.text">
         <source>19</source>
         <target>19</target>
@@ -1959,12 +1954,12 @@
       </trans-unit>
       <trans-unit id="Ypf-tZ-uJz.text">
         <source>Choisissez la répartition des montants</source>
-        <target>Scegliete la ripartizione degli importi</target>
+        <target>Scegliere la ripartizione degli importi</target>
         <note>Class = "UILabel"; text = "Choisissez la répartition des montants"; ObjectID = "Ypf-tZ-uJz";</note>
       </trans-unit>
       <trans-unit id="ZnD-vm-Vj3.placeholder">
         <source>Adresse mail</source>
-        <target>Indirizzo mail</target>
+        <target>Indirizzo e-mail</target>
         <note>Class = "UITextField"; placeholder = "Adresse mail"; ObjectID = "ZnD-vm-Vj3"; Note = "Zone de saisie de l'adresse email";</note>
       </trans-unit>
       <trans-unit id="aRR-Ee-ny1.normalTitle">
@@ -2062,7 +2057,7 @@
       </trans-unit>
       <trans-unit id="GgZ-eO-Ycm.text">
         <source>pseudo</source>
-        <target>Cognome</target>
+        <target>Pseudonimmo</target>
         <note>Class = "UILabel"; text = "pseudo"; ObjectID = "GgZ-eO-Ycm"; Note = "Ne pas traduire";</note>
       </trans-unit>
       <trans-unit id="RoK-xn-fhX.text">
@@ -2097,7 +2092,7 @@
       </trans-unit>
       <trans-unit id="wE1-tw-fjX.placeholder">
         <source>Prénom</source>
-        <target>Conome</target>
+        <target>Nome</target>
         <note>Class = "UITextField"; placeholder = "Prénom"; ObjectID = "wE1-tw-fjX";</note>
       </trans-unit>
     </body>
@@ -2191,7 +2186,7 @@
       </trans-unit>
       <trans-unit id="NEW-ol-oWc.text">
         <source>Durée</source>
-        <target>Periodo</target>
+        <target>Durata</target>
         <note>Class = "UILabel"; text = "Durée"; ObjectID = "NEW-ol-oWc"; Note = "Titre de la rubrique de sélection de la durée de validité du Whasq";</note>
       </trans-unit>
       <trans-unit id="Na9-r5-Vwt.title">
@@ -2201,7 +2196,7 @@
       </trans-unit>
       <trans-unit id="QlE-Vg-Mmd.text">
         <source>Sélectionnez votre type de question</source>
-        <target>Come volete chiedere la vostra domanda?</target>
+        <target>Come vuoi chiedere la tua domanda?</target>
         <note>Class = "UILabel"; text = "Sélectionnez votre type de question"; ObjectID = "QlE-Vg-Mmd"; Note = "Titre de la rubrique permettant de choisir le type de question dans la création d'un whasq";</note>
       </trans-unit>
       <trans-unit id="R2o-hX-VTf.text">
@@ -2216,7 +2211,7 @@
       </trans-unit>
       <trans-unit id="Sbt-Rx-36O.text">
         <source>Voir les sons</source>
-        <target>Ascoltare i suoni</target>
+        <target>Ascoltare gli audio</target>
         <note>Class = "UILabel"; text = "Voir les sons"; ObjectID = "Sbt-Rx-36O";</note>
       </trans-unit>
       <trans-unit id="TgX-EG-7op.text">
@@ -2231,7 +2226,7 @@
       </trans-unit>
       <trans-unit id="X2V-OH-xjZ.normalTitle">
         <source>Annuler le Whasq</source>
-        <target>Cancellare lo Whasq</target>
+        <target>Cancellare il Whasq</target>
         <note>Class = "UIButton"; normalTitle = "Annuler le Whasq"; ObjectID = "X2V-OH-xjZ";</note>
       </trans-unit>
       <trans-unit id="XJe-e5-Xrz.text">
@@ -2256,7 +2251,7 @@
       </trans-unit>
       <trans-unit id="c0O-Yj-Avt.segmentTitles[1]">
         <source>QCM</source>
-        <target>scelta multipla</target>
+        <target>domande a risposta multipla</target>
         <note>Class = "UISegmentedControl"; c0O-Yj-Avt.segmentTitles[1] = "QCM"; ObjectID = "c0O-Yj-Avt";</note>
       </trans-unit>
       <trans-unit id="di4-Sf-oI1.text">
@@ -2321,7 +2316,7 @@
       </trans-unit>
       <trans-unit id="koa-uU-Hm2.text">
         <source>Voir les photos</source>
-        <target>Vedere o eliminare le vostre foto =&gt;</target>
+        <target>Vedere o cancellare le tue foto =&gt;</target>
         <note>Class = "UILabel"; text = "Voir les photos"; ObjectID = "koa-uU-Hm2";</note>
       </trans-unit>
       <trans-unit id="oX2-Pp-JSn.text">
@@ -2336,7 +2331,7 @@
       </trans-unit>
       <trans-unit id="pcw-Gx-gc6.placeholder">
         <source>Ma question</source>
-        <target>Scrivere precisamente la vostra domanda</target>
+        <target>Scrivere precisamente la tua domanda</target>
         <note>Class = "UITextField"; placeholder = "Ma question"; ObjectID = "pcw-Gx-gc6"; Note = "Zone de saisie de la question";</note>
       </trans-unit>
       <trans-unit id="sks-xB-tcl.text">
@@ -2351,7 +2346,7 @@
       </trans-unit>
       <trans-unit id="tr6-Yg-dqz.text">
         <source>Réponses visibles</source>
-        <target>Permettere ai vostri amici di vedere le risposte</target>
+        <target>Autorizzare ai tuoi amici di vedere le risposte</target>
         <note>Class = "UILabel"; text = "Réponses visibles"; ObjectID = "tr6-Yg-dqz"; Note = "Titre pour autoriser que les réponses du Whasq soit publiques ";</note>
       </trans-unit>
       <trans-unit id="uG9-EA-i4k.text">
