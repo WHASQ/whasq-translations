@@ -227,7 +227,7 @@
     <string name="next">Seguente</string>
 
     <!-- Notifications -->
-    <string name="notitification_title">Notificazione</string>
+    <string name="notitification_title">Notifiche</string>
     <string name="notificationType_other">Nuova modifica</string>
     <string name="notificationType_whasq_skills_matching">%1$s ha creato un Whasq, che potrebbe interessarLe: %2$s</string>
     <string name="notificationType_skill_recommendation">%1$s Le ha suggerito il talento:</string>
@@ -240,7 +240,7 @@
     <string name="notificationType_whasq_new_skill">Un nuovo talento  %1$s è stato appena aggiunto! Completa il Suo profilo?</string>
     <string name="notificationType_whasq_new_admin_whasq">%1$s ha aggiunto un whasq %2$s</string>
     <string name="notificationType_whasq_tag_user">Lei è stato raccomandato da %1$s per il whasq : %2$s.</string>
-    <string name="no_notification">Risponde al Suo primo whasq e vedrà notificazione.</string>
+    <string name="no_notification">Risponde al Suo primo whasq e vedrà notifiche.</string>
     <!-- Import picture -->
     <string name="alert_choose_picture_profil_title">Foto del profilo</string>
     <string name="alert_choose_picture_profil_capture_picture">Fare una foto</string>
@@ -413,7 +413,7 @@
     
     <string name="email_mandatory">Indirizzo email *</string>
     <string name="fullname_mandatory">Nome completo *</string>
-    <string name="ranking_no_rank_for_month">La classifica non è ancora stata definito per questo mese.</string>
+    <string name="ranking_no_rank_for_month">La classifica non è ancora stata definita per questo mese.</string>
     <string name="session_expired">La Sua sessione è scaduta, Le preghiamo di riconnetterLe.</string>
     <string name="error_useful_already">Ti è già piaciuto questo commento</string>
 </resources>
