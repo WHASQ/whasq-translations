@@ -28,7 +28,7 @@ const messages = {
     'fullname': 'Full name',
     'job-position': 'Job position',
     'assistance': 'Need help ? Contact jessie@whasq.com (Monday to Friday from 9am to 12am and from 2pm to 6pm Paris Time).',
-    'download-attachment': 'Télécharger la pièce jointe', /* TODO */
+    'download-attachment': 'Download the attachment',
 
     // Menu 
     'activity': 'Activity',
@@ -255,9 +255,9 @@ const messages = {
     'add-whasq-item-notify-around': 'Notify around you?',
     'add-whasq-item-urgent': 'Urgent?',
     'add-whasq-item-send-everyone': 'Send to everyone?',
-    'add-whasq-skill-required': 'Il est obligatoire de renseigner au moins un talent.', /* TODO */
-    'add-whasq-title-required': 'Il est obligatoire de renseigner le titre.', /* TODO */
-    'add-whasq-message-required': 'Il est obligatoire de renseigner le message.', /* TODO */
+    'add-whasq-skill-required': 'You have to choose at least one skill.',
+    'add-whasq-title-required': 'The title field is required.',
+    'add-whasq-message-required': 'The message field is required.',
 
     // WhasqsReports 
     'whasqs-reports-title': 'Reported Whasqs',
