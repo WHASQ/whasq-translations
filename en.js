@@ -235,7 +235,7 @@ const messages = {
     'whasqs-action-unban-user': 'Remove the ban of the user',
     'whasqs-action-ban-user': 'Ban the user',
     'whasqs-action-remove-whasq': 'Removal of the whasq',
-    'whasqs-notify-around': 'Notifier autour', /* TODO */
+    'whasqs-notify-around': 'Notify around', /* TODO */
     'whasqs-language': 'Langue', /* TODO */
 
     // WhasqChannelModal 
