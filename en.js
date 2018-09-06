@@ -235,19 +235,19 @@ const messages = {
     'whasqs-action-unban-user': 'Remove the ban of the user',
     'whasqs-action-ban-user': 'Ban the user',
     'whasqs-action-remove-whasq': 'Removal of the whasq',
-    'whasqs-notify-around': 'Notifier autour', /* TODO */
-    'whasqs-language': 'Langue', /* TODO */
+    'whasqs-notify-around': 'Notify around me',
+    'whasqs-language': 'Language',
 
     // WhasqChannelModal 
     'whasq-channel-title': 'Whasq title "{whasq-title}"',
     'usefull-answer': 'useful',
     'champion-answer': 'CHAMPION',
-    'whasq-channel-edit-whasq-title': 'Titre', /* TODO */
-    'whasq-channel-edit-whasq-message': 'Message', /* TODO */
-    'whasq-channel-edit-answer-message': 'Message', /* TODO */
-    'whasq-channel-block-answer-confirm': 'Etes vous sûr de vouloir bloquer cette réponse ?', /* TODO */
-    'whasq-channel-unblock-answer-confirm': 'Etes vous sûr de vouloir débloquer cette réponse ?', /* TODO */
-    'whasq-channel-delete-answer-confirm': 'Etes vous sûr de vouloir supprimer cette réponse ?', /* TODO */
+    'whasq-channel-edit-whasq-title': 'Title',
+    'whasq-channel-edit-whasq-message': 'Message',
+    'whasq-channel-edit-answer-message': 'Message',
+    'whasq-channel-block-answer-confirm': 'Are you sure you want to block this answer?',
+    'whasq-channel-unblock-answer-confirm': 'Are you sure you want to unblock this answer?',
+    'whasq-channel-delete-answer-confirm': 'Are you sure you want to delete this answer?',
     
     // AddWhasqModal 
     'add-whasq-title': 'Add a new whasq',
