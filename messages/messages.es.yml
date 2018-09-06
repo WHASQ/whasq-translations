@@ -115,7 +115,7 @@ email:
             body.div2: "Para modificar la contraseña, por favor dale click al enlace :"
             body.div3: Cambiar mi contraseña
             body.div4: Cuidado, este enlace solo esta disponible unas horas.
-            warning: Your account has been blocked due to 4 failed connection attemps. In order to unlock it you must change your password.
+            warning: Tu cuenta ha sido bloqueada luego de 4 intentos fallidos. Para desbloquearla debes cambiar tu contraseña.
         creation:
             title: ¡Bienvenido a Whasq! - Nuevos detalles de la cuenta
             body.div1: ¡Bienvenido a Whasq!
