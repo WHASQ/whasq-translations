@@ -158,7 +158,6 @@ const messages = {
     'minutes-earned-dda-kpi-help-title': 'Minutes gagnées DDA',
     'minutes-earned-dda-kpi-help-message': 'Cet indicateur représente le nombre de minutes gagnées depuis le début de l\'activité.',
     'minutes-earned-month-kpi-title': 'Minutes gagnées du mois',
-    'minutes-earned-dda-kpi-title': 'Minutes gagnées DDA',
 
     // Podium
     'podium-title': 'Podium',
@@ -236,11 +235,19 @@ const messages = {
     'whasqs-action-unban-user': 'Retirer le bannissement de l\'utilisateur',
     'whasqs-action-ban-user': 'Bannir l\'utilisateur',
     'whasqs-action-remove-whasq': 'Suppression du whasq',
+    'whasqs-notify-around': 'Notifier autour',
+    'whasqs-language': 'Langue',
 
     // WhasqChannelModal
     'whasq-channel-title': 'Conversation du whasq "{whasq-title}"',
     'usefull-answer': 'utile(s)',
     'champion-answer': 'CHAMPION(NE)',
+    'whasq-channel-edit-whasq-title': 'Titre',
+    'whasq-channel-edit-whasq-message': 'Message',
+    'whasq-channel-edit-answer-message': 'Message',
+    'whasq-channel-block-answer-confirm': 'Etes vous sûr de vouloir bloquer cette réponse ?',
+    'whasq-channel-unblock-answer-confirm': 'Etes vous sûr de vouloir débloquer cette réponse ?',
+    'whasq-channel-delete-answer-confirm': 'Etes vous sûr de vouloir supprimer cette réponse ?',
 
     // AddWhasqModal
     'add-whasq-title': 'Ajout d\'un nouveau whasq',
