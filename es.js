@@ -28,7 +28,7 @@ const messages = {
     'fullname': 'Nombre y apellido',
     'job-position': 'Puesto de trabajo',
     'assistance':'¿Necesitas ayuda? Escríbenos a jessie@whasq.com (de lunes a viernes de 9 a.m a 12pm y de 2 p.m a 6 p.m.)',
-    'download-attachment': 'Télécharger la pièce jointe', /* TODO */
+    'download-attachment': 'Descargar el archivo adjunto',
 
     // Menu
     'activity': 'Actividad',
@@ -157,7 +157,7 @@ const messages = {
     'minutes-earned-dda-kpi-title': 'Minutos ganados DCA',
     'minutes-earned-dda-kpi-help-title': 'Minutos ganados  DCA',
     'minutes-earned-dda-kpi-help-message': 'Este indicador representa el número de minutos ganados desde el comienzo de la actividad.',
-    'minutes-earned-month-kpi-title': 'Minutos ganados del mes de ', 
+    'minutes-earned-month-kpi-title': 'Minutos ganados en el mes de ', 
     'minutes-earned-dda-kpi-title': 'Minutos ganados DCA', 
   
     // Podium
@@ -255,21 +255,21 @@ const messages = {
     'add-whasq-item-notify-around': '¿Notificar a mi alrededor?',
     'add-whasq-item-urgent': '¿Urgente?',
     'add-whasq-item-send-everyone': '¿Enviar a todos?',
-    'add-whasq-skill-required': 'Il est obligatoire de renseigner au moins un talent.', /* TODO */
-    'add-whasq-title-required': 'Il est obligatoire de renseigner le titre.', /* TODO */
-    'add-whasq-message-required': 'Il est obligatoire de renseigner le message.', /* TODO */
+    'add-whasq-skill-required': 'Es obligatorio indicar al menos un talento.', 
+    'add-whasq-title-required': 'Es obligatorio indicar el título.', 
+    'add-whasq-message-required': 'Es obligatorio indicar el mensaje.', 
   
     // WhasqsReports
     'whasqs-reports-title': 'Whasqs señalados',
     'whasqs-reports-unblock-whasq-confirm-message': '¿Estás seguro que quieres desbloquear este whasq?',
     'whasqs-reports-unban-user-confirm-message': '¿Estás seguro que quieres levantar la prohibición a este usuario ?',
     'whasqs-reports-ban-user-confirm-message': '¿Estás seguro que quieres prohibir a este usuario?',
-    'whasqs-reports-remove-whasq-confirm-message': '¿Estas segurO que quieres borrar este whasq ?',
+    'whasqs-reports-remove-whasq-confirm-message': '¿Estas seguro que quieres borrar este whasq ?',
     'whasqs-reports-list': 'Lista de Whasq señalados',
     'whasqs-reports-column-id': 'ID',
     'whasqs-reports-column-creation-date': 'Fecha de creación',
     'whasqs-reports-column-last-update': 'Ultima actualización',
-    'whasqs-reports-column-title': 'Titulo',
+    'whasqs-reports-column-title': 'Título',
     'whasqs-reports-column-status': 'Estado',
     'whasqs-reports-column-urgent': 'Urgente',
     'whasqs-reports-column-answers': 'Respuestas',
@@ -322,7 +322,7 @@ const messages = {
     'users-column-last-connection': 'Ultima conexión',
     'users-column-avatar': 'Avatar',
     'users-column-fullname': 'Nombre y apellido',
-    'users-column-title': 'Titulo',
+    'users-column-title': 'Título',
     'users-column-email': 'E-mail',
     'users-column-actions': 'Acciones',
     'users-action-see-profile': 'Ver el perfil',
@@ -335,7 +335,7 @@ const messages = {
     'users-confirm-consider-admin': '¿Estás seguro que quieres considerar este usuario como administrador?',
     'users-confirm-dont-consider-admin': '¿Estás seguro que ya no quieres considerar este usuario como administrador?', 
     'users-action-consider-user-admin-success': 'El usuario con el ID {userId} es ahora administrador.', 
-    'users-action-stop-consider-user-admin-success': 'El usuario con el ID {userId} ua no es administrador.', 
+    'users-action-stop-consider-user-admin-success': 'El usuario con el ID {userId} ya no es administrador.', 
   
     // ImportUsersModal
     'users-import-title': 'Importar contactos',
