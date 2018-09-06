@@ -62,8 +62,8 @@ push:
         new.title: Se acaba de agregar un nuevo talento
         new.body: Enriquece tu perfil 💪
     user.tagged:
-        new.title: Usted ha sido recomendado 💪
-        new.body: Su experiencia es necesaria 😜
+        new.title: Te han recomendado 💪
+        new.body:  Tu experiencia es necesaria 😜
     admin.whasq:
         new.title: Un whasq especial está disponible
         new.body: Ver el tema 👀
