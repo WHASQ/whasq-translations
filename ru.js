@@ -28,7 +28,7 @@ const messages = {
     'fullname': 'Полное имя',
     'job-position': 'Должность',
     'assistance': 'Вам нужна помощь? Свяжитесь с jessie@whasq.com (с понедельника по пятницу с 9:00 до 12:00 и с 14:00 до 18:00 Время в Париже)',
-    'download-attachment': 'Télécharger la pièce jointe', /* TODO */
+    'download-attachment': 'Загрузить приложение',
 
     // Menu 
     'activity': 'Активность',
@@ -255,9 +255,9 @@ const messages = {
     'add-whasq-item-notify-around': 'Сообщить поблизости?',
     'add-whasq-item-urgent': 'Срочный?',
     'add-whasq-item-send-everyone': 'Отправить всем?', 
-    'add-whasq-skill-required': 'Il est obligatoire de renseigner au moins un talent.', /* TODO */
-    'add-whasq-title-required': 'Il est obligatoire de renseigner le titre.', /* TODO */
-    'add-whasq-message-required': 'Il est obligatoire de renseigner le message.', /* TODO */
+    'add-whasq-skill-required': 'Пожалуйста, заполните хотя бы один талант',
+    'add-whasq-title-required': 'Пожалуйста, заполните заголовок.',
+    'add-whasq-message-required': 'Пожалуйста, заполните сообщение.',
 
     // WhasqsReports 
     'whasqs-reports-title': 'Нежелательные вопросы',
