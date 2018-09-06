@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="mission_type_missions_filter">N\'afficher que les missions</string>
+    <string name="mission_type_missions_filter">Only show the missions</string>
 
-    <string name="grpd.cgu_consent.title">Consentement</string>
-    <string name="grpd.cgu_consent.accept">Autoriser</string>
+    <string name="grpd.cgu_consent.title">Consent</string>
+    <string name="grpd.cgu_consent.accept">Allow</string>
 
-    <string name="grpd.cgu.title">CGU</string>
-    <string name="grpd.cgu_accept">Je valide</string>
-    <string name="grpd.cgu_msg">Veuillez lire toutes les conditions générales d\'utilisation pour pouvoir poursuivre.</string>
-    <string name="grpd.cgu_subtitle">Nous avons mis à jour nos conditions générales d\'utilisation.</string>
+    <string name="grpd.cgu.title">Terms and Conditions of Use</string>
+    <string name="grpd.cgu_accept">I accept</string>
+    <string name="grpd.cgu_msg">Please read all the Terms and Conditions of Use before continuing.</string>
+    <string name="grpd.cgu_subtitle">We have updated our Terms and Conditions of Use.</string>
 
-    <string name="sign_in.cgu.action_accept">J\'accepte les CGU</string>
+    <string name="sign_in.cgu.action_accept">I accept the Terms and Conditions of Use</string>
 
-    <string name="more.cgu">Conditions générales d\'utilisation</string>
-    <string name="more.ask_my_data">Demander toutes mes données</string>
-    <string name="more.delete_account">Supprimer mon compte</string>
-    <string name="error.cgu_must_be_accepted">Vous devez valider le conditions pour pouvoir continuer.</string>
+    <string name="more.cgu">Terms and Conditions of Use</string>
+    <string name="more.ask_my_data">Request my data</string>
+    <string name="more.delete_account">Delete my account</string>
+    <string name="error.cgu_must_be_accepted">In order to continue, you have to accept the Terms and Conditions of Use.</string>
 
-    <string name="more.send_mail">Envoyer un email</string>
-    <string name="more_request_personal_data_successful">Vos données ont bien été envoyées à votre adresse email :)</string>
+    <string name="more.send_mail">Send an email</string>
+    <string name="more_request_personal_data_successful">Your data has been successfully sent to your email address :)</string>
 
-    <string name="delete_account.msg">Attention, vos données personnelles seront détruites et la suppression du compte entraînera la perte d\'accès à l\'application.
-    \nVeuillez saisir le mot DELETE dans la case ci dessous.</string>
-    <string name="delete_account.success">Votre compte a bien été supprimé.</string>
+    <string name="delete_account.msg">Be careful, your personal data will be destroyed and the account removal will not allow you access the application.
+    \nPlease enter the word DELETE in the box below.</string>
+    <string name="delete_account.success">Your account has been deleted.</string>
 </resources>
