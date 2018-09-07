@@ -6,10 +6,10 @@ error:
     user.deleted: Questo utente è stato eliminato
     user.bad.credentials: Autenticazione faillita
     user.bad.credentials.warning: Autenticazione faillita. Si prega di verificare le Sue credenziali. Questa è la tua ultima prova prima di bloccare il Suo account
-    user.bad.credentials.locked: Autenticazione faillita. Il Suo account è stato bloccato. Per favore, cambia la Sua password
+    user.bad.credentials.locked: "Autenticazione faillita. Il Suo account è stato bloccato. Si prega di contattare il vostro amministratore %adminEmail%"
     user.bad.checksum: Impossibile di modificare la password perché non è corretto il checksum
     user.email.already.in.use: L'indirizzo email è già stato registrato
-    user.email.private.store: Ops, il tuo account esiste già 😛 Connettiti con il tuo indirizzo email @%{domain} e la password che hai ricevuto via email
+    user.email.private.store: Ops, il tuo account esiste già 😛 Connettiti con il tuo indirizzo email @%domain% e la password che hai ricevuto via email
     user.email.unknow: Nessun utente trovato
     answer.not.champion: Quest risposta non è una soluzione
     answer.useful.exists: Ti è già piaciuto questo commento 😛
@@ -74,13 +74,13 @@ email:
         signature: Jessie 😘
     user:
         set.admin:
-            title: Privilegi di amministratore concessi per %{storeName}
+            title: Privilegi di amministratore concessi per %storeName%
             body.div1: Ha accesso a
             body.div2: https://bo.whasq.com
     mailing:
         whasq.activity:
-            title.nocount: %{numberOfUsersLookingForHelp} persona ha bisogno del Suo aiuto
-            title.count: %{numberOfUsersLookingForHelp} persone hanno bigosno del Suo aiuto
+            title.nocount: "%numberOfUsersLookingForHelp% persona ha bisogno del Suo aiuto"
+            title.count: "%numberOfUsersLookingForHelp% persone hanno bigosno del Suo aiuto"
             body.div1: "Aiutarla/Aiutarli :"
             body.div2: "più ..."
             body.div3: "Connettersi a l'app per dare loro una risposta 💪🙂"
@@ -90,36 +90,36 @@ email:
             body.div2: "Come connettersi :"
             body.div3: "Scaricare l'applicazione :"
         weekly.podium:
-            title: %{firstName}, miglior whasqer della settimana %{weekNumber}!
-            title.generic: Migliori whasqers della settimana %{weekNumber}!
+            title: "%firstName%, miglior whasqer della settimana %weekNumber%!"
+            title.generic: Migliori whasqers della settimana %weekNumber%!
             body.div1: "I primi 3 whasquers della settimana:"
             body.div2: Grazie a tutti i whasqers! Alla settimana prossima 💪🙂
         monthly.podium:
-            title: %{firstName}, miglior whasqer di %{monthName}!
-            title.generic: I migliori whasqers di %{monthName}!
+            title: "%firstName%, miglior whasqer di %monthName%!"
+            title.generic: I migliori whasqers di %monthName%!
             body.div1: "I primi 3 whasqers del mese:"
         footer:
-            join.community: UNIRE ALLA COMMUNITÀ %{fullName}
+            join.community: UNIRE ALLA COMMUNITÀ %fullName%
             unsubscribe: Cancellare iscrizione
             how.it.works: Come funziona?
     gdpr:
         title: Whasq - recupero dati
-        body.div1: "Ha richiesto di ricevere i dati personali memorizzati nell'applicazione whasq per il account: %{email}"
+        body.div1: "Ha richiesto di ricevere i dati personali memorizzati nell'applicazione whasq per il account: %email%"
         body.div2: "Si prega di trovare sotto un link per scaricarli:"
         body.div3: Scaricare i miei dati personali Whasq
         body.div4: Attenzione, questo collegamento ha una durata limitata di 48 ore.
     account:
         password.change: 
             title: Whasq - modifica della password
-            body.div1: "Hai dimenticato la Sua password o vuole cambiare di password: %{email}"
+            body.div1: "Hai dimenticato la Sua password o vuole cambiare di password: %email%"
             body.div2: "Per modificare la Sua password, per favore clicca sul link:"
             body.div3: Cambiare la mia password
             body.div4: Attenzione, questo collegamento ha una durata limitata.
-            warning: Il Suo account è stato bloccato a causa di 4 tentativi di connessione. Devi cambiare la password per sbloccarla.
+            warning: Il Suo account è stato bloccato a causa di 4 tentativi di connessione. Devi contattare il tuo amministratore %adminEmail%.
         creation:
             title: Benvenuto su Whasq - Dettagli dell'Account
             body.div1: Benvenuto su Whasq!
-            body.div2: "Il Suo conto è stato creato con la password: %{password}. è possibile di cambiarlo nella schermata di accesso all'app."
+            body.div2: "Il Suo conto è stato creato con la password: %password%. è possibile di cambiarlo nella schermata di accesso all'app."
             body.div3: Le invieremo alcune e-mail su come utilizzare Whasq. Nel frattempo, prova e inizia a esplorare. Siamo contenti che sia qui!
             body.div4: "Come connettersi:"
             body.div5: https://www.youtube.com/watch?v=RxUiayE-gDQ
