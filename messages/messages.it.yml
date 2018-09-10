@@ -9,7 +9,7 @@ error:
     user.bad.credentials.locked: "Autenticazione faillita. Il Suo account è stato bloccato. Si prega di contattare il vostro amministratore %adminEmail%"
     user.bad.checksum: Impossibile di modificare la password perché non è corretto il checksum
     user.email.already.in.use: L'indirizzo email è già stato registrato
-    user.email.private.store: Ops, il tuo account esiste già 😛 Connettiti con il tuo indirizzo email @%domain% e la password che hai ricevuto via email
+    user.email.private.store: Ops, il tuo account esiste già 😛 Connettiti con il tuo indirizzo email @%domain% e la password che hai ricevuto via email. Se non lo trovi clicca su "password dimenticata"!
     user.email.unknow: Nessun utente trovato
     answer.not.champion: Quest risposta non è una soluzione
     answer.useful.exists: Ti è già piaciuto questo commento 😛
