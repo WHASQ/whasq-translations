@@ -10,7 +10,7 @@ error:
     user.bad.credentials.locked: "Echec d'authentification. Votre compte a été bloqué. Merci de contacter votre administrateur: %adminEmail%"
     user.bad.checksum: Impossible de modifier le mot de passe car le checksum est incorrect
     user.email.already.in.use: Cet email est déjà utilisé
-    user.email.private.store: Oups, votre compte existe déjà 😛 Connectez-vous grâce à votre adresse @%domain% et le mot de passe que vous avez reçu par mail
+    user.email.private.store: Oups, votre compte existe déjà 😛 Connectez-vous grâce à votre adresse @%domain% et le mot de passe que vous avez reçu par mail. Si vous ne le retrouvez pas, cliquez sur mot de passe oublié ! 
     user.search.empty: Pas de recherche saisie
     user.email.unknow: Aucun utilisateur trouvé pour cet email
     answer.not.champion: Cette réponse n'est pas une solution
