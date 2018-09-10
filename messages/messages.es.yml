@@ -9,7 +9,7 @@ error:
     user.bad.credentials.locked: "Tu cuenta ha sido bloqueada debido a  4 intentos de conexión. Para desbloquear la cuenta, por favor contacta a tu administrador: %adminEmail%"
     user.bad.checksum: Imposible modificar la contraseña ya que el le checksum no es correcto
     user.email.already.in.use: Este e-mail ya ha sido utilizado
-    user.email.private.store: La cuenta ya existe 😛 Conéctate con tu correo electrónico @%domain% y la contraseña que recibiste a tu correo electrónico
+    user.email.private.store: La cuenta ya existe 😛 Conéctate con tu correo electrónico @%domain% y la contraseña que recibiste a tu correo electrónico. Si no la encuentras dale click en contraseña olvidada.
     user.email.unknow: No se encuentra ninguna cuenta con este e-mail
     answer.not.champion: Esta respuesta no es una solución
     answer.useful.exists: Ya te ha gustado este comentario 😛
