@@ -50,8 +50,12 @@ push:
         new.same.skill.body: Кому-то требуется ваше эксперное мнение 😎
         new.answer.title: Вы получили ответ 👌
         new.answer.body: Кто-то ответил на ваш запрос 😜
+        report.title: Your whasq has been reported 👀 #todo
+        report.body: No worries, your administrator will take care of it #todo
     answer:
         champion.title: Поздравляем! Ваш ответ подсказал решение!🏆
+        report.title: Ваш ответ был пожалован 👀 #todo
+        report.body: No worries, your administrator will take care of it #todo
     notif:
         new.title: Новый like 👍
         new.body: Кому-то понравился ваш ответ!
