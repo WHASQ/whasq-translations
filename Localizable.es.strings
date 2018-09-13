@@ -13,8 +13,8 @@
 "add-whasq-name-placeholder" = "Mi titulo";
 "add-whasq-notify-label" = "Notificar a mi alrededor";
 "add-whasq-present.label" = "A cambio ..; ej: un cafe";
-"add-whasq-preview-button" = "vista previa";
-"add-whasq-skill-button" = "aceptar";
+"add-whasq-preview-button" = "Vista previa";
+"add-whasq-skill-button" = "Aceptar";
 "add-whasq-skill-label" = "los talentos indicados en el whasq ( minimo 1, 3 maximo)";
 "add-whasq-skills-label" = "Talentos indicados";
 "add-whasq-title" = "Whasquer";
