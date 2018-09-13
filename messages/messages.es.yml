@@ -10,6 +10,7 @@ error:
     user.bad.checksum: Imposible modificar la contraseña ya que el le checksum no es correcto
     user.email.already.in.use: Este e-mail ya ha sido utilizado
     user.email.private.store: La cuenta ya existe 😛 Conéctate con tu correo electrónico @%domain% y la contraseña que recibiste a tu correo electrónico. Si no la encuentras dale click en contraseña olvidada.
+    user.email.inexisting.store.domain: The client with domain @%domain% doesn't exist yet. Please contact us on jessie@whasq.com #todo
     user.email.unknow: No se encuentra ninguna cuenta con este e-mail
     answer.not.champion: Esta respuesta no es una solución
     answer.useful.exists: Ya te ha gustado este comentario 😛
@@ -50,8 +51,12 @@ push:
         new.same.skill.body: Alguien necesita tu ayuda 😎
         new.answer.title: Una respuesta te espera 👌
         new.answer.body: Alguien ha respondido a tu Whasq 😜
+        report.title: Your whasq has been reported 👀 #todo
+        report.body: No worries, your administrator will take care of it #todo
     answer:
         champion.title: Tu respuesta es una solución 🏆
+        report.title: Your answer has been reported 👀 #todo
+        report.body: No worries, your administrator will take care of it #todo
     notif:
         new.title: Nuevo like 👍
         new.body: ¡A alguien le gusta tu respuesta!
