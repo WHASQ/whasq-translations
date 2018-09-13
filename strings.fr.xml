@@ -248,4 +248,166 @@
 
 	    <!-- New password -->
 	    <string name="NEW_PASSWORD_DIALOG_EMPTY_EMAIL_ERROR">Vous devez renseigner votre e-mail</string>
+	    <string name="NEW_PASSWORD_DIALOG_EMAIL_SENT">Un e-mail a été envoyé à %s.</string>
+	
+	    <string name="NEW_PASSWORD_DIALOG_TITLE">Réinitialiser le mot de passe</string>
+	    <string name="NEW_PASSWORD_DIALOG_EXPLANATION">Entrez votre e-mail afin de modifier ou réinitialiser votre mot de passe.</string>
+	    <string name="NEW_PASSWORD_EMAIL_HINT">E-mail</string>
+		
+	    <!-- Time Gain -->
+	    <string name="TIME_GAIN_TITLE_OWNER"> Aidez-nous à nous améliorer</string>
+	    <string name="TIME_GAIN_QUESTION"> Combien de temps cela vous a t'il permis de gagner ?</string>
+	    <string name="TIME_GAIN_QUESTION_OWNER"> Cool ! Votre whasq  \"%s\" a été résolu il y a %s.\n\n L'aide de la communauté vous a fait gagner::</string>
+	    <string name="TIME_GAIN_QUESTION_RESOLVER"> Quel talent ! il y a %s, vous avez trouvé la solution de ce whasq\"%s\". C'était comment ?</string>
+	    <string name="TIME_GAIN_ANSWER_HALF_AN_HOUR">1/2 heure</string>
+	    <string name="TIME_GAIN_ANSWER_ONE_HOUR">1 heure</string>
+	    <string name="TIME_GAIN_ANSWER_HALF_A_DAY">1/2 journée</string>
+	    <string name="TIME_GAIN_ANSWER_ONE_DAY">1 jour</string>
+	    <string name="TIME_GAIN_ANSWER_TWO_DAYS">2 jours</string>
+	    <string name="TIME_GAIN_ANSWER_THREE_DAYS">3 jours</string>
+	    <string name="TIME_GAIN_ANSWER_VERY_EASY">Très facile 🤩</string>
+	    <string name="TIME_GAIN_ANSWER_EASY"> Facile 😉</string>
+	    <string name="TIME_GAIN_ANSWER_DIFFICULT">Difficile 😅</string>
+	    <string name="TIME_GAIN_ANSWER_VERY_DIFFICULT">Très difficile😱</string>
+		
+	   <!-- Recommendations -->
+	    <string name="RECOMMENDATIONS_SKIP_BUTTON">Continuer</string>
+	    <string name="RECOMMENDATIONS_INTRO"> Il est temps d'enrichir votre profil</string>
+	    <string name="RECOMMENDATIONS_TALENTS_RECOMMENDED">%s vous a recommandé les talents:: </string>
+	    <string name="RECOMMENDATIONS_OTHERS">Autres talents pouvant vous intéresser:</string>
 
+	   <!-- Notifications -->
+	    <string name="NOTIFICATION_TITLE">Notifications</string>
+	    <string name="NOTIFICATION_EMPTY_MESSAGE">Si quelqu'un aime votre réponse ou recommande un de vos talents, vous recevrez des notifications.</string>
+	    <string name="NOTIFICATION_HEADER_TODAY">Aujourd’hui/string>
+	    <string name="NOTIFICATION_HEADER_OLDER">Anciennes </string>
+	    <string name="NOTIFICATION_TYPE_OTHER">Nouvelle notification</string>
+	    <string name="NOTIFICATION_TYPE_SKILL_RECOMMENDATION">%1$s vous a recommandé le talent:</string>
+	    <string name="NOTIFICATION_TYPE_SKILL_SUGGESTION">%1$s vous a suggéré le talent:</string>
+	    <string name="NOTIFICATION_TYPE_NEW_WHASQ">%1$s a créé un whasq pouvant vous intéresser: %2$s</string>
+	    <string name="NOTIFICATION_TYPE_NEW_ANSWER">%1$s a répondu à votre whasq: %2$s</string>
+	    <string name="NOTIFICATION_TYPE_USEFULL_ANSWER">%1$s a trouvé votre réponse utile !%2$s</string>
+	    <string name="NOTIFICATION_TYPE_CHAMPION_ANSWER">%1$s vous a désigné comme champion de son whasq%2$s</string>
+	    <string name="NOTIFICATION_TYPE_BLACKLISTED">%1$s a signalé votre whasq: %2$s</string>
+	    <string name="NOTIFICATION_TYPE_NEW_SKILL">Un nouveau talent %1$s a été ajouté ! Voulez-vous l’ajouter à votre profil ? string>
+            <string name="NOTIFICATION_TYPE_NEW_ADMIN_WHASQ">%1$s a posté un nouveau whasq: %2$s</string>
+	    <string name="NOTIFICATION_TYPE_TAG"> "Vous avez été recommandé par %1$s pour le whasq :%2$s.</string>
+	    <string name="NOTIFICATION_BLACKLISTED_MESSAGE"> "Ce Whasq n’est plus visible.</string>
+		    
+	   <!-- Skills suggestions -->
+	   <string name="SKILLS_SUGGESTIONS_TITLE">Recommander des talents</string>
+		
+           <!-- Rankings -->
+		
+           <string name="RANKING_NOT_DEFINE"> Le podium n'a pas encore été défini pour ce mois.</string>
+		
+	   <plurals name="RANKING_POSITION_SUFFIX">
+	   <item quantity="one">@string/RANKING_POSITION_SUFFIX_FIRST</item>
+	   <item quantity="two">@string/RANKING_POSITION_SUFFIX_SECOND</item>
+	   <item quantity="other">@string/RANKING_POSITION_SUFFIX_OTHERS</item>
+	   </plurals>
+	   <string name="RANKING_POSITION_SUFFIX_FIRST">er</string>
+	   <string name="RANKING_POSITION_SUFFIX_SECOND">e</string>
+	   <string name="RANKING_POSITION_SUFFIX_OTHERS">e</string>
+		
+	  <!-- Alerts -->
+	   
+	    <string name="ALERT_PROFILE_PICTURE_TITLE">Choisis ta photo de profil</string>
+	    <string name="ALERT_PROFILE_PICTURE_ENTRY_CAPTURE">Depuis l'appareil photo</string>
+	    <string name="ALERT_PROFILE_PICTURE_ENTRY_IMPORT"> Depuis la galerie</string>
+	    <string name="ALERT_DELETE_ACCOUNT_MESSAGE"> Attention, vos données personnelles seront détruites et la suppression du compte entraînera la perte d'accès à l'application. Veuillez saisir le mot DELETE dans la case ci-dessous.</string>
+	    <string name="ALERT_WHASQ_REPORT_TITLE">Signalé</string>
+	    <string name="ALERT_WHASQ_REPORT_MESSAGE"> Voulez-vous vraiment signaler ce Whasq ? </string>
+	    <string name="ALERT_WHASQ_DELETE_TITLE"> Supprimer le Whasq</string>
+	    <string name="ALERT_WHASQ_DELETE_MESSAGE"> Voulez-vous vraiment supprimer ce Whasq ?</string>
+	    <string name="ALERT_WHASQ_ARCHIVE_TITLE">Archiver le Whasq</string>
+	    <string name="ALERT_WHASQ_ARCHIVE_MESSAGE"> Voulez-vous vraiment archiver ce Whasq ?</string>
+	    <string name="ALERT_WHASQ_LOGOUT_TITLE">Se déconnecter</string>
+	    <string name="ALERT_WHASQ_LOGOUT_MESSAGE"> Voulez-vous vraiment vous déconnecter?</string>
+	    <string name="ALERT_SKILL_DELETE_TITLE">Attention</string>
+	    <string name="ALERT_SKILL_DELETE_MESSAGE"> "Voulez-vous vraiment supprimer le talent </string>
+	    <string name="ALERT_LANGUAGE_DELETE_TITLE">Attention</string>
+	    <string name="ALERT_LANGUAGE_DELETE_MESSAGE"> Voulez-vous vraiment supprimer cette langue de votre profil  : </string>
+		    
+		    
+         <!-- BottomSheets -->
+		    
+	    <string name="BOTTOM_SHEET_ENTRY_WHASQ_REPORT">Signaler</string>
+	    <string name="BOTTOM_SHEET_ENTRY_WHASQ_EDIT">Editer</string>
+	    <string name="BOTTOM_SHEET_ENTRY_WHASQ_DELETE"> Effacer le whasq?</string>
+	    <string name="BOTTOM_SHEET_ENTRY_WHASQ_ARCHIVE">Archiver le whasq</string>
+	    <string name="BOTTOM_SHEET_TITLE_FILE"> Supprimer la pièce jointe</string>
+	    <string name="BOTTOM_SHEET_ENTRY_FILE_DELETE">Supprimer</string>
+	    <string name="BOTTOM_SHEET_ENTRY_PROFILE_PICTURE_SHOW">Afficher la photo de profil</string>
+	    <string name="BOTTOM_SHEET_ENTRY_PROFILE_PICTURE_EDIT_CAMERA">Depuis l'appareil photo</string>
+	    <string name="BOTTOM_SHEET_ENTRY_PROFILE_PICTURE_EDIT_STORAGE">Depuis la galerie</string>
+	    <string name="BOTTOM_SHEET_ENTRY_ACCOUNT_CGU">Conditions générales d'utilisation</string>
+	    <string name="BOTTOM_SHEET_ENTRY_ACCOUNT_FAQ">FAQ </string>
+	    <string name="BOTTOM_SHEET_ENTRY_ACCOUNT_DATAS">Demander toutes mes données</string>
+	    <string name="BOTTOM_SHEET_ENTRY_ACCOUNT_LOGOUT">Se déconnecter</string>
+	    <string name="BOTTOM_SHEET_ENTRY_ACCOUNT_DELETE">Supprimer mon compte</string>
+		    
+         <!-- Permissions -->
+		
+	     <string name="PERMISSIONS_TITLE">Autoriser</string>
+	    <string name="PERMISSIONS_REFUSE_MESSAGE">Veuillez accepter les conditions générales d'utilisations pour pouvoir continuer</string>
+	    <string name="PERMISSIONS_MEDIA_MESSAGE"> Merci d’accepter les CGU afin de visualiser la pièce </string>
+		    
+	<!-- SnackBars -->
+		    
+	     <string name="SNACK_BAR_REPORT_SUCCESS">Le signalement sera pris en compte </string>
+	    <string name="SNACK_BAR_DELETE_SUCCESS">Supprimer le Whasq</string>
+	    <string name="SNACK_BAR_ARCHIVE_SUCCESS">Le whasq a été archivé</string>
+		    
+       	 <!-- Filters -->
+	    <string-array name="FILTERS_TROPHY">
+	    <item>@string/FILTER_TODAY</item>
+	    <item>@string/FILTER_THIS_WEEK</item>
+	    <item>@string/FILTER_THIS_MONTH</item>
+	    <item>@string/FILTER_THIS_YEAR</item>
+	    </string-array>
+	    <string name="FILTER_TODAY">Aujourd’hui</string>
+	    <string name="FILTER_THIS_WEEK">Cette semaine</string>
+	    <string name="FILTER_THIS_MONTH">Ce mois-ci</string>
+	    <string name="FILTER_THIS_YEAR">Cette année</string>
+	    <string name="FILTER_NEWER">Récents</string>
+	    <string name="FILTER_OLDER">Anciens</string>
+	    <string name="FILTER_SOLVED">Résolus</string>
+	    <string name="FILTER_NOT_SOLVED">Non résolus</string>
+	
+	 <!-- Dates -->
+	    <string name="DATES_FEW_SECONDS_AGO">Il y a quelques secondes s</string>
+	
+	    <plurals name="DATES_HOURS_AGO">
+	    <item quantity="one">@string/DATES_ONE_HOUR_AGO</item>
+	    <item quantity="other">@string/DATES_FEW_HOURS_AGO</item>
+	    </plurals>
+	    <string name="DATES_ONE_HOUR_AGO"> Il y a %1$d heure</string>
+	   <string name="DATES_FEW_HOURS_AGO"> Il y a %1$d heures</string>
+		
+	   <plurals name="DATES_DAYS_AGO">
+           <item quantity="one">@string/DATES_ONE_DAY_AGO</item>
+	   <item quantity="other">@string/DATES_FEW_DAYS_AGO</item>
+	   </plurals>
+	   <string name="DATES_ONE_DAY_AGO">Il y a %1$ jour </string>
+	   <string name="DATES_FEW_DAYS_AGO">Il y a %1$d jours </string>
+		
+	   <plurals name="DATES_MINUTES_AGO">
+	   <item quantity="one">@string/DATES_ONE_MINUTE_AGO</item>
+           <item quantity="other">@string/DATES_FEW_MINUTES_AGO</item>
+	   </plurals>
+	   <string name="DATES_ONE_MINUTE_AGO">Il y a %1$d minute</string>
+	   <string name="DATES_FEW_MINUTES_AGO">Il y a %1$d minutes</string>
+		
+       </resources>
+
+
+
+	
+
+	
+
+	
+    
+		    
+	
