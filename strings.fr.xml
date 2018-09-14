@@ -323,7 +323,8 @@
 	    <string name="ALERT_WHASQ_ARCHIVE_TITLE">Archiver le Whasq</string>
 	    <string name="ALERT_WHASQ_ARCHIVE_MESSAGE"> Voulez-vous vraiment archiver ce Whasq ?</string>
 	    <string name="ALERT_WHASQ_LOGOUT_TITLE">Se déconnecter</string>
-	    <string name="ALERT_WHASQ_LOGOUT_MESSAGE"> Voulez-vous vraiment vous déconnecter?</string>
+	    <string name="ALERT_WHASQ_LOGOUT_MESSAGE">Voulez-vous vraiment vous déconnecter?</string>
+            <string name="ALERT_WHASQ_CHANGE_PASSWORD_TITLE">Changer le mot de passe</string>
 	    <string name="ALERT_SKILL_DELETE_TITLE">Attention</string>
 	    <string name="ALERT_SKILL_DELETE_MESSAGE"> "Voulez-vous vraiment supprimer le talent </string>
 	    <string name="ALERT_LANGUAGE_DELETE_TITLE">Attention</string>
