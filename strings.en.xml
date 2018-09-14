@@ -297,6 +297,7 @@
     <string name="ALERT_WHASQ_ARCHIVE_TITLE">Whasq archive</string>
     <string name="ALERT_WHASQ_ARCHIVE_MESSAGE">Do you really want to archive your whasq ?</string>
     <string name="ALERT_WHASQ_LOGOUT_TITLE">Logout</string>
+    <string name="ALERT_WHASQ_CHANGE_PASSWORD_TITLE">Change password</string>
     <string name="ALERT_WHASQ_LOGOUT_MESSAGE">Do you really want to log out ?</string>
     <string name="ALERT_SKILL_DELETE_TITLE">Warning !</string>
     <string name="ALERT_SKILL_DELETE_MESSAGE">Do you really want to cancel this skill : </string>
