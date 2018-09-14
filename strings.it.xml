@@ -298,6 +298,7 @@
     <string name="ALERT_WHASQ_ARCHIVE_MESSAGE">Sicuro/a di archiviare questo whasq?</string>
     <string name="ALERT_WHASQ_LOGOUT_TITLE">Log out</string>
     <string name="ALERT_WHASQ_LOGOUT_MESSAGE">Sicuro/a di voler uscire?</string>
+    <string name="ALERT_WHASQ_CHANGE_PASSWORD_TITLE">Modificare la password</string>
     <string name="ALERT_SKILL_DELETE_TITLE">Attenzione!</string>
     <string name="ALERT_SKILL_DELETE_MESSAGE">Sicuro/a di voler cancellare questo talento?</string>
     <string name="ALERT_LANGUAGE_DELETE_TITLE">Warning !</string>
