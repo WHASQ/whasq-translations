@@ -50,12 +50,12 @@ push:
         new.same.skill.body: Кому-то требуется ваше эксперное мнение 😎
         new.answer.title: Вы получили ответ 👌
         new.answer.body: Кто-то ответил на ваш запрос 😜
-        report.title: Your whasq has been reported 👀 #todo
-        report.body: No worries, your administrator will take care of it #todo
+        report.title: На ваш вопрос поступила жалоба 👀
+        report.body: Не беспокойтесь, ваш администратов об этом позаботится
     answer:
         champion.title: Поздравляем! Ваш ответ подсказал решение!🏆
-        report.title: Ваш ответ был пожалован 👀 #todo
-        report.body: No worries, your administrator will take care of it #todo
+        report.title: На ваш ответ поступила жалоба 👀
+        report.body: Не беспокойтесь, ваш администратов об этом позаботится
     notif:
         new.title: Новый like 👍
         new.body: Кому-то понравился ваш ответ!
@@ -78,8 +78,8 @@ email:
         signature: Jessie 😘
     user:
         set.admin:
-            title: Admin priviledge granted for %storeName%
-            body.div1: You have been granted Admin access to
+            title: Привилегии администратора предоставлены для %storeName%
+            body.div1: Вам предоставлен доступ администратора к
             body.div2: https://bo.whasq.com
     mailing:
         whasq.activity:
