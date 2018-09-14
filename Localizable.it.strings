@@ -149,6 +149,7 @@
 "logout-alert-action-no" = "No";
 "logout-alert-action-yes" = "Sì";
 "logout-alert-message" = "Sicuro/a di voler uscire?";
+"logout-dialog-change-password" = "Modificare la password";
 "mandatory-update-message" = "Un aggiornamento è disponibile. Aggiorna la tua App per favore 💪";
 "minutes" = "minuti";
 "miss-skill-email-dest" = "jessie@whasq.com";
