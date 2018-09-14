@@ -96,7 +96,7 @@
 "login-connect-action" = "Se connecter";
 "login-skill-title" = "Talents";
 "login-title" = "Connexion";
-"logout-action-sheet" = "Se déconnecter";
+"logout-action-sheet" = "Se déconnecter / Changement de mot de passe";
 "logout-alert-action-no" = "Non";
 "logout-alert-action-yes" = "Oui";
 "logout-alert-message" = "Voulez vous vraiment vous déconnecter ?";
