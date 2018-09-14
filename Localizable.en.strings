@@ -96,7 +96,7 @@
 "login-connect-action" = "Connect";
 "login-skill-title" = "Skills";
 "login-title" = "Login";
-"logout-action-sheet" = "Log out";
+"logout-action-sheet" = "Log out / ";
 "logout-alert-action-no" = "No";
 "logout-alert-action-yes" = "Yes";
 "logout-alert-message" = "Do you really want to log out ?";
@@ -141,7 +141,7 @@
 "registration-alert-empty-message" = "Please complete all fields to continue";
 "registration-alert-email-message" = "Your e-mail address is not found. Try again";
 "registration-alert-error-message" = "An error has occured during registration, It looks like the Internet connection is not working right 🙄";
-"registration-alert-password-count-message" = "Password must contain at least 6 characters";
+"registration-alert-password-count-message" = "The password must contain at least 8 letters including at least 4 other characters (uppercase, lowercase, numeral and special character) 👀";
 "registration-alert-password-message" = "Both passwords do not match. Try again";
 "registration-picture-gallery" = "From the gallery";
 "registration-picture-photo" = "From the camera";
