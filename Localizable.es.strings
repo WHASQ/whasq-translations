@@ -146,6 +146,7 @@
 "login-skill-title" = "Talentos";
 "login-title" = "Conexión";
 "logout-action-sheet" = "Desconectarse";
+"logout-dialog-change-password" = "Cambiar la contraseña";
 "logout-alert-action-no" = "No";
 "logout-alert-action-yes" = "Si";
 "logout-alert-message" = "¿Estás seguro que quieres desconectarte?";
@@ -204,7 +205,7 @@
 "registration-alert-email-message" = "El e-mail no es correcto, inténtalo de nuevo 🙁";
 "registration-alert-empty-message" = "Por favor completa todos los campos para poder continuar.";
 "registration-alert-error-message" = "Se produjo un error al inscribirse, revisa la conexión internet 🙄";
-"registration-alert-password-count-message" = "La contraseña debe contener al menos 6 caracteres.";
+"registration-alert-password-count-message" = "La contraseña debe contener al menos 8 letras, incluyendo al menos otros 4 caracteres (mayúsculas, minúsculas, números y caracteres especiales) 👀";
 "registration-alert-password-message" = "";
 "registration-picture-gallery" = "de la galeria de fotos";
 "registration-picture-photo" = "Abrir la camara";
