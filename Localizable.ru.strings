@@ -99,6 +99,7 @@
 "logout-action-sheet" = "Выйти";
 "logout-alert-action-no" = "Нет";
 "logout-alert-action-yes" = "Да";
+"logout-dialog-change-password" = "Изменить пароль";
 "logout-alert-message" = "Вы действительно хотите выйти?";
 "mandatory-update-message" = "Обновление доступно. Обновите приложение 💪";
 "minutes" = "Минуты";
