@@ -300,6 +300,7 @@
 	    <string name="ALERT_WHASQ_ARCHIVE_MESSAGE"> ¿Quieres archivar este Whasq?</string>
 	    <string name="ALERT_WHASQ_LOGOUT_TITLE">Desconectarse</string>
 	    <string name="ALERT_WHASQ_LOGOUT_MESSAGE"> ¿Estás seguro que quieres desconectarte?</string>
+            <string name="ALERT_WHASQ_CHANGE_PASSWORD_TITLE">Cambiar la contraseña</string>
 	    <string name="ALERT_SKILL_DELETE_TITLE">Cuidado</string>
 	    <string name="ALERT_SKILL_DELETE_MESSAGE"> ¿Quieres borrar el talento?</string>
 	    <string name="ALERT_LANGUAGE_DELETE_TITLE">Cuidado</string>
