@@ -205,7 +205,7 @@
 "registration-alert-email-message" = "Il Suo indirizzo email non è stato trovato. Riprova 🙁";
 "registration-alert-empty-message" = "Si prega di completare tutto per continuare";
 "registration-alert-error-message" = "Si è verificato un errore durante la registrazione, controlla la Sua connessione Internet 🙄";
-"registration-alert-password-count-message" = "La password deve contenere almeno 6 caratteri";
+"registration-alert-password-count-message" = "La password deve contene almeno 8 lettere di cui almeno altri 4 caratteri (maiuscola, minuscola, numero e carattere speciale)";
 "registration-alert-password-message" = "Le password non sono le stesse. Riprova";
 "registration-picture-gallery" = "Dalla galleria";
 "registration-picture-photo" = "Dalla fotocamera";
