@@ -141,7 +141,7 @@
 "registration-alert-empty-message" = "Veuillez remplir tous les champs pour continuer";
 "registration-alert-email-message" = "L'adresse mail n'est pas conforme 🙁";
 "registration-alert-error-message" = "Une erreur s'est produite lors de l'inscription, vérifiez votre connexion internet 🙄";
-"registration-alert-password-count-message" = "Le mot de passe doit comporter au moins 6 caractères";
+"registration-alert-password-count-message" = "Le mot de passe doit contenir au moins 8 lettres dont au moins 4 autres caractères (majuscule, miniscule, chiffre et caractère spécial) 👀";
 "registration-alert-password-message" = "Les mots de passes ne sont pas identiques";
 "registration-picture-gallery" = "Depuis la galerie";
 "registration-picture-photo" = "Depuis l'appareil photo";
