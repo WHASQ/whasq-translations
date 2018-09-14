@@ -299,6 +299,7 @@
     <string name="ALERT_WHASQ_ARCHIVE_MESSAGE">Вы действительно хотите отправить свой вопрос в архив?</string>
     <string name="ALERT_WHASQ_LOGOUT_TITLE">Выход</string>
     <string name="ALERT_WHASQ_LOGOUT_MESSAGE">Вы действительно хотите выйти?</string>
+    <string name="ALERT_WHASQ_CHANGE_PASSWORD_TITLE">Изменить пароль</string>
     <string name="ALERT_SKILL_DELETE_TITLE">Осторожно!</string>
     <string name="ALERT_SKILL_DELETE_MESSAGE">Вы действительно хотите удалить этот навык: </string>
     <string name="ALERT_LANGUAGE_DELETE_TITLE">Осторожно!</string>
