@@ -252,3 +252,4 @@
 "recommended-skill-accept-error-alert" = "An error happened when trying to add the skill 🙄\n Please try again later";
 "recommended-skill-refuse-error-alert" = "An error happened when trying to ignore the skill 🙄\n Please try again later";
 "whasq-set-champion-alert" = "Is this answer a solution?";
+"whasq-download-attachment" = "[Download Attachment]";

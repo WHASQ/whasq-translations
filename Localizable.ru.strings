@@ -253,3 +253,4 @@
 "recommended-skill-accept-error-alert" = "Произошла ошибка при попытке добавить новый навык. 🙄\n Попробуйте позже ";
 "recommended-skill-refuse-error-alert" = "Произошла ошибка при попытке проигнорировать навык. 🙄\n Попробуйте позже. ";
 "whasq-set-champion-alert" = "Является ли этот ответ решением?";
+"whasq-download-attachment" = "[Загрузить приложение]";
