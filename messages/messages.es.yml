@@ -8,10 +8,10 @@ error:
     user.bad.credentials.warning: Error de autenticación. Verifica tus ID’s. Este es su último intento antes de que tu cuenta se bloquee.
     user.bad.credentials.locked: "Tu cuenta ha sido bloqueada debido a  4 intentos de conexión. Para desbloquear la cuenta, por favor contacta a tu administrador: %adminEmail%"
     user.bad.checksum: Imposible modificar la contraseña ya que el le checksum no es correcto
-    user.account.bad.checksum: We were not able to activate your account. The link has is probably expired #todo
+    user.account.bad.checksum: Imposible activar la cuenta. El enlace probablemente ha expirado
     user.email.already.in.use: Este e-mail ya ha sido utilizado
     user.email.private.store: La cuenta ya existe 😛 Conéctate con tu correo electrónico @%domain% y la contraseña que recibiste a tu correo electrónico. Si no la encuentras dale click en contraseña olvidada.
-    user.email.inexisting.store.domain: The client with domain @%domain% doesn't exist yet. Please contact us on jessie@whasq.com #todo
+    user.email.inexisting.store.domain: El cliente con el dominio @% domain% aún no existe. Por favor contáctenos en jessie@whasq.com
     user.email.unknow: No se encuentra ninguna cuenta con este e-mail
     answer.not.champion: Esta respuesta no es una solución
     answer.useful.exists: Ya te ha gustado este comentario 😛
@@ -52,12 +52,12 @@ push:
         new.same.skill.body: Alguien necesita tu ayuda 😎
         new.answer.title: Una respuesta te espera 👌
         new.answer.body: Alguien ha respondido a tu Whasq 😜
-        report.title: Your whasq has been reported 👀 #todo
-        report.body: No worries, your administrator will take care of it #todo
+        report.title: Tu whasq ha sido reportado 👀 
+        report.body: No te preocupes, Ntu administrador se encargará de eso
     answer:
         champion.title: Tu respuesta es una solución 🏆
-        report.title: Your answer has been reported 👀 #todo
-        report.body: No worries, your administrator will take care of it #todo
+        report.title: Tu comentario ha sido reportado 👀 
+        report.body: No te preocupes, Ntu administrador se encargará de eso
     notif:
         new.title: Nuevo like 👍
         new.body: ¡A alguien le gusta tu respuesta!
@@ -79,10 +79,10 @@ email:
         byebye: Hasto pronto,
         signature: Jessie 😘
     user:
-        activate.account: #todo
-            title: Whasq - Account activation #todo
-            body.div1: "You've asked to create your Whasq account! Great! In order to continue please activate it by clicking on this " #todo
-            body.div2: activation link #todo
+        activate.account:
+        title: Whasq - Activación de cuenta
+            body.div1: "Le han pedido que cree su cuenta Whasq! Genial! Para continuar, actívelo haciendo clic en este "
+            body.div2: enlace de activación
         set.admin:
             title: Admin priviledge granted for %storeName%
             body.div1: Tienes el acceso administrador a 
