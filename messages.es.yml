@@ -15,9 +15,9 @@ app:
         success: Hemos dado de baja a tu cuenta 
         failure: No hemos podido darle de baja a tu cuenta.  El enlace es incorrecto o ya no esta activo o simplemente ya le dimos de baja a tu cuenta.
     activate.account:
-      title: Whasq - activate account #todo
-      body.div1: Your account has been activated 😉 #todo
-      body.div2: "In order to continue creating the account click " #todo
-      body.div3: here #todo
+      title: Whasq - Activación de la cuenta
+      body.div1: Tu cuenta ha sido activada 😉 
+      body.div2: "Para seguir creando la cuenta, haga clic aquí "
+      body.div3: aquí
       result:
-        failure: Oups, we were unable to create an activation link #todo
+        failure: Oops, no pudimos crear un enlace de activación, pruebe de nuevo por favor
