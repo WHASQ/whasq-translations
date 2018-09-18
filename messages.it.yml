@@ -15,9 +15,9 @@ app:
         success: La Sua cancellazione è stata presa in considerazione
         failure: La Sua cancellazione non è stata presa in considerazione. Il link potrebbe essere sbagliato o non più attivo. O è stato/a semplicemente cancellato/a.
     activate.account:
-      title: Whasq - activate account #todo
-      body.div1: Your account has been activated 😉 #todo
-      body.div2: "In order to continue creating the account click " #todo
-      body.div3: here #todo
+      title: Whasq - Attivazione dell'account 
+      body.div1: Il Suo account è stato attivato 😉
+      body.div2: "Per continuare la creazione dell'account fa clic " 
+      body.div3: qui #todo
       result:
-        failure: Oups, we were unable to create an activation link #todo
+        failure: Ops, impossibile di creare il link di attivazione, riprova per favore
