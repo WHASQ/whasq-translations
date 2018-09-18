@@ -9,7 +9,6 @@ app:
       result:
         success: The password change has been taken into account
         failure: Impossible to modify the password.  The link may be wrong or no longer active or it may not contain at least 8 letters including at least 4 other characters (capital letter, lowercase letter, number and special character)
-        unsubscribe:
     unsubscribe:
       title: Whasq - unsubscribe from mailing the list
       result:
