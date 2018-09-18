@@ -9,6 +9,7 @@ error:
     user.bad.credentials.warning: Authentication failure. Please verify your credentials. This is your last try before getting your account locked
     user.bad.credentials.locked: "Authentication failure. Your account has been locked. Please contact your admininistrator: %adminEmail%"
     user.bad.checksum: We were not able to change your password. Checksum is icorrect
+    user.account.bad.checksum: We were not able to activate your account. The link has is probably expired
     user.email.already.in.use: This email is already in use
     user.email.private.store: Oops, your account already exists 😛 Connect with your email address @%domain% and the password you've received by email. If you don't find it, click on "forgotten password".
     user.email.inexisting.store.domain: The client with domain @%domain% doesn't exist yet. Please contact us on jessie@whasq.com
@@ -78,6 +79,10 @@ email:
         byebye: See you soon,
         signature: Jessie 😘
     user:
+        activate.account:
+            title: Whasq - Account activation
+            body.div1: "You've asked to create your Whasq account! Great! In order to continue please activate it by clicking on this "
+            body.div2: activation link
         set.admin:
             title: Admin priviledge granted for %storeName%
             body.div1: You have been granted Admin access to
