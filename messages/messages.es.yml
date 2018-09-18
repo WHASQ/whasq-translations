@@ -84,7 +84,7 @@ email:
             body.div1: "Le han pedido que cree su cuenta Whasq! Genial! Para continuar, actívelo haciendo clic en este "
             body.div2: enlace de activación
         set.admin:
-            title: Admin priviledge granted for %storeName%
+            title: Privilegio de administrador otorgado para %storeName%
             body.div1: Tienes el acceso administrador a 
             body.div2: https://bo.whasq.com
     mailing:
