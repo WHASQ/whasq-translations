@@ -15,9 +15,9 @@ app:
         success: Votre désinscription a bien été prise en compte
         failure: Votre désinscription n\'a pas bien été prise en compte. Le lien est peut-être erroné ou n\'est plus actif. Ou vous avez tout simplement déjà été désinscrit(e).
     activate.account:
-      title: Whasq - activate account #todo
-      body.div1: Your account has been activated 😉 #todo
-      body.div2: "In order to continue creating the account click " #todo
-      body.div3: here #todo
+      title: Whasq - Activation du compte 
+      body.div1: Votre compte a été activé 😉 
+      body.div2: "Pour poursuivre la création de votre compte cliquez "
+      body.div3: ici 
       result:
-        failure: Oups, we were unable to create an activation link #todo
+        failure: Oups, impossible de créer un lien d'activation, réessayer s'il vous plaît
