@@ -81,7 +81,7 @@ email:
     user:
         activate.account:
             title: Whasq - Activation du compte
-            body.div1: "Super ! Vous avez demandé à créer votre compte Whasq ! Pour continuer, activez-le en cliquant sur ce lien"
+            body.div1: "Super ! Vous avez demandé à créer votre compte Whasq ! Pour continuer, activez-le en cliquant sur ce "
             body.div2: lien d'activation
         set.admin:
             title: Admin priviledge granted for %storeName%
