@@ -9,10 +9,10 @@ error:
     user.bad.credentials.warning: Echec d'authentification. Vérifiez vos identifiants. Ceci est votre dernier essai avant que votre compte ne soit vérrouillé
     user.bad.credentials.locked: "Echec d'authentification. Votre compte a été bloqué. Merci de contacter votre administrateur: %adminEmail%"
     user.bad.checksum: Impossible de modifier le mot de passe car le checksum est incorrect
-    user.account.bad.checksum: We were not able to activate your account. The link has is probably expired #todo
+    user.account.bad.checksum: Impossible d'activer votre compte. Le lien a probablement expiré.
     user.email.already.in.use: Cet email est déjà utilisé
     user.email.private.store: Oups, votre compte existe déjà 😛 Connectez-vous grâce à votre adresse @%domain% et le mot de passe que vous avez reçu par mail. Si vous ne le retrouvez pas, cliquez sur mot de passe oublié !
-    user.email.inexisting.store.domain: The client with domain @%domain% doesn't exist yet. Please contact us on jessie@whasq.com #todo
+    user.email.inexisting.store.domain: Le client avec le domaine @%domain% n'existe pas encore. Contactez-nous sur jessie@whasq.com pour plus d'info !
     user.search.empty: Pas de recherche saisie
     user.email.unknow: Aucun utilisateur trouvé pour cet email
     answer.not.champion: Cette réponse n'est pas une solution
@@ -52,12 +52,12 @@ push:
         new.same.skill.body: Quelqu'un a besoin de vous 😎
         new.answer.title: Une réponse vous attend 👌
         new.answer.body: Quelqu'un a répondu à votre whasq 😜
-        report.title: Your whasq has been reported 👀 #todo
-        report.body: No worries, your administrator will take care of it #todo
+        report.title: Votre whasq a été signalé 👀
+        report.body: Ne vous inquiétez pas, votre administrateur s'en charge
     answer:
         champion.title: Bravo ! Votre réponse est une solution 🏆
-        report.title: Your answer has been reported 👀 #todo
-        report.body: No worries, your administrator will take care of it #todo
+        report.title: Votre commentaire a été signalé 👀
+        report.body: Ne vous inquiétez pas, votre administrateur s'en charge
     notif:
         new.title: Nouveau like 👍
         new.body: Quelqu'un a liké votre réponse ! 
@@ -79,10 +79,10 @@ email:
         byebye: A bientôt,
         signature: Jessie 😘
     user:
-        activate.account: #todo
-            title: Whasq - Account activation #todo
-            body.div1: "You've asked to create your Whasq account! Great! In order to continue please activate it by clicking on this " #todo
-            body.div2: activation link #todo
+        activate.account:
+            title: Whasq - Activation du compte
+            body.div1: "Super ! Vous avez demandé à créer votre compte Whasq ! Pour continuer, activez-le en cliquant sur ce lien"
+            body.div2: lien d'activation
         set.admin:
             title: Admin priviledge granted for %storeName%
             body.div1: Vous avez un accès administrateur à
