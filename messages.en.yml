@@ -1,15 +1,24 @@
 app:
   form:
-    title: Whasq - change your password
     change.password:
+      title: Whasq - change your password
       label.password: New password
       label.confirm.password: Confirm new password
-      label.remark: The password must contain at least 8 letters including at least 4 other characters (capital letter, lowercase letter, number and special character).
+      label.remark: The password must contain at least 8 letters including at least 4 other characters (capital letter, lowercase letter, number and special character)
       button.submit: Make the change
       result:
         success: The password change has been taken into account
         failure: Impossible to modify the password.  The link may be wrong or no longer active or it may not contain at least 8 letters including at least 4 other characters (capital letter, lowercase letter, number and special character)
         unsubscribe:
+    unsubscribe:
+      title: Whasq - unsubscribe from mailing the list
       result:
         success: Your unsubsribe request has been taken into account
-        failure: Your unsubscribe request has not been taken into account. The link may be wrong or no longer active. Or you have just been unregistered.
+        failure: Your unsubscribe request has not been taken into account. The link may be wrong or no longer active. Or you have just been unregistered
+    activate.account:
+      title: Whasq - activate account
+      body.div1: Your account has been activated 😉
+      body.div2: "In order to continue creating the account click "
+      body.div3: here
+      result:
+        failure: Oups, we were unable to create an activation link
