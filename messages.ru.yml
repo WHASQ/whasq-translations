@@ -1,15 +1,23 @@
 app:
   form:
-    title: Whasq - changement de mot de passe
     change.password:
-      label.password: Nouveau mot de passe
-      label.confirm.password: Confirmez le mot de passe
-      label.remark: Le mot de passe doit contenir au moins 8 lettres dont au moins 4 autres caractères (majuscule, miniscule, chiffre et caractère spécial).
-      button.submit: Effectuer le changement
+      title: Whasq - change your password
+      label.password: New password
+      label.confirm.password: Confirm new password
+      label.remark: The password must contain at least 8 letters including at least 4 other characters (capital letter, lowercase letter, number and special character)
+      button.submit: Make the change
       result:
-        success: Le changement de votre mot de pase a bien été pris en compte
-        failure: Impossible de modifier le mot de passe. Le lien est peut-être erroné ou n\'est plus actif ou alors ne contient pas au moins 8 lettres dont au moins 4 autres caractères (majuscule, miniscule, chiffre et caractère spécial)
+        success: The password change has been taken into account
+        failure: Impossible to modify the password.  The link may be wrong or no longer active or it may not contain at least 8 letters including at least 4 other characters (capital letter, lowercase letter, number and special character)
     unsubscribe:
+      title: Whasq - unsubscribe from mailing the list
       result:
-        success: Votre désinscription a bien été prise en compte
-        failure: Votre désinscription n\'a bien été pris en compte. Le lien est peut-être erroné ou n\'est plus actif. Ou tout simplement vous aves déjà été désincrit(e)
+        success: Your unsubsribe request has been taken into account
+        failure: Your unsubscribe request has not been taken into account. The link may be wrong or no longer active. Or you have just been unregistered
+    activate.account:
+      title: Whasq - activate account
+      body.div1: Your account has been activated 😉
+      body.div2: "In order to continue creating the account click "
+      body.div3: here
+      result:
+        failure: Oups, we were unable to create an activation link
