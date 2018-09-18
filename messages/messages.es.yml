@@ -8,6 +8,7 @@ error:
     user.bad.credentials.warning: Error de autenticación. Verifica tus ID’s. Este es su último intento antes de que tu cuenta se bloquee.
     user.bad.credentials.locked: "Tu cuenta ha sido bloqueada debido a  4 intentos de conexión. Para desbloquear la cuenta, por favor contacta a tu administrador: %adminEmail%"
     user.bad.checksum: Imposible modificar la contraseña ya que el le checksum no es correcto
+    user.account.bad.checksum: We were not able to activate your account. The link has is probably expired #todo
     user.email.already.in.use: Este e-mail ya ha sido utilizado
     user.email.private.store: La cuenta ya existe 😛 Conéctate con tu correo electrónico @%domain% y la contraseña que recibiste a tu correo electrónico. Si no la encuentras dale click en contraseña olvidada.
     user.email.inexisting.store.domain: The client with domain @%domain% doesn't exist yet. Please contact us on jessie@whasq.com #todo
@@ -78,6 +79,10 @@ email:
         byebye: Hasto pronto,
         signature: Jessie 😘
     user:
+        activate.account: #todo
+            title: Whasq - Account activation #todo
+            body.div1: "You've asked to create your Whasq account! Great! In order to continue please activate it by clicking on this " #todo
+            body.div2: activation link #todo
         set.admin:
             title: Admin priviledge granted for %storeName%
             body.div1: Tienes el acceso administrador a 
