@@ -1,23 +1,23 @@
 app:
   form:
     change.password:
-      title: Whasq - change your password
-      label.password: New password
-      label.confirm.password: Confirm new password
-      label.remark: The password must contain at least 8 letters including at least 4 other characters (capital letter, lowercase letter, number and special character)
-      button.submit: Make the change
+      title: Whasq - Измените свой пароль
+      label.password: Новый пароль
+      label.confirm.password: Подтвердите новый пароль
+      label.remark: Пароль должен содержать не менее 8 букв, включая как минимум 4 других символа (прописная буква, строчная буква, номер и специальный символ)
+      button.submit: Внесите изменения
       result:
-        success: The password change has been taken into account
-        failure: Impossible to modify the password.  The link may be wrong or no longer active or it may not contain at least 8 letters including at least 4 other characters (capital letter, lowercase letter, number and special character)
+        success: Изменение пароля было учтено
+        failure: Невозможно изменить пароль. Ссылка может быть неправильной или неактивной или не содержать не менее 8 букв, включая как минимум 4 других символа (прописная буква, строчная буква, номер и специальный символ)
     unsubscribe:
-      title: Whasq - unsubscribe from mailing the list
+      title: Whasq - отписаться от рассылки списка
       result:
-        success: Your unsubsribe request has been taken into account
-        failure: Your unsubscribe request has not been taken into account. The link may be wrong or no longer active. Or you have just been unregistered
+        success: Ваш отказ от подписки был учтен
+        failure: Ваш запрос на отмену подписки не был принят во внимание. Ссылка может быть неправильной или более активной. Или вы только что были незарегистрированы
     activate.account:
-      title: Whasq - activate account
-      body.div1: Your account has been activated 😉
-      body.div2: "In order to continue creating the account click "
-      body.div3: here
+      title: Whasq - активировать аккаунт
+      body.div1: Аккаунт активирован 😉
+      body.div2: "Чтобы продолжить создание учетной записи, нажмите "
+      body.div3: здесь
       result:
-        failure: Oups, we were unable to create an activation link
+        failure: Нам не удалось создать ссылку активации
