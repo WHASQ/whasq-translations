@@ -96,6 +96,7 @@
 "login-connect-action" = "Connect";
 "login-skill-title" = "Skills";
 "login-title" = "Login";
+"logout-action-sheet" = "Log out";
 "logout-dialog-change-password" = "Change password";
 "logout-alert-action-no" = "No";
 "logout-alert-action-yes" = "Yes";
