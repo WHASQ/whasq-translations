@@ -254,3 +254,4 @@
 "alert-cannot-send-mail" = "Unable to send an email with this device";
 "whasq-set-champion-alert" = "Questa risposta è una soluzione?";
 "whasq-download-attachment" = "[Scaricare l'allegato]";
+"whaspoint-description-description" = "Lei è stato raccomandato per %@";

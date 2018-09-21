@@ -254,3 +254,4 @@
 "recommended-skill-refuse-error-alert" = "Une erreur est survenue lors la suppression du talent recommendé 🙄\n Veuillez réessayer plus tard";
 "whasq-set-champion-alert" = "Cette réponse est une solution ?";
 "whasq-download-attachment" = "[Télécharger la PJ]";
+"whaspoint-description-description" = "Vous avez été recommandé par %@";

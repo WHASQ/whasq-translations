@@ -254,3 +254,4 @@
 "recommended-skill-refuse-error-alert" = "Произошла ошибка при попытке проигнорировать навык. 🙄\n Попробуйте позже. ";
 "whasq-set-champion-alert" = "Является ли этот ответ решением?";
 "whasq-download-attachment" = "[Загрузить приложение]";
+"whaspoint-description-description" = "Вы были рекомендованы пользователем %@";
