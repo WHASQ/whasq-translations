@@ -144,7 +144,7 @@
 "login-register-password-placeholder" = "Password";
 "login-register-phone-placeholder" = "Numero di telefono";
 "login-skill-title" = "Talento";
-"login-title" = "Log in";
+"login-title" = "Connessione";
 "logout-action-sheet" = "Log out";
 "logout-alert-action-no" = "No";
 "logout-alert-action-yes" = "Sì";
