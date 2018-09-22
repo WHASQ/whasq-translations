@@ -353,7 +353,10 @@ const messages = {
     'import-users-fullname': 'Полное имя',
     'import-users-email': 'электронная почта', 
     'import-users-job-position': 'Должность', 
-    'import-users-phone': 'телефон', 
+    'import-users-phone': 'телефон',
+    'import-users-download-exemple': 'Пример загрузки',
+    'import-users-instructions-part-1': 'Полный загруженный пример и Сохранить как csv (значения, разделенные запятыми) файл',
+    'import-users-instructions-part-2': '(ТОЛЬКО 4 колонки ТОЛЬКО в ОПРЕДЕЛЕННОМ порядке)',
 
     // Targets 
     'targets-title': 'Цели и Gamification',
