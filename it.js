@@ -354,6 +354,9 @@ const messages = {
     'import-users-email': 'Email',
     'import-users-job-position': 'Posto',
     'import-users-phone': 'Numero di telefono',
+    'import-users-download-exemple': 'Download example', //todo
+    'import-users-instructions-part-1': 'Complete downloaded example and Save As csv (comma separated values) file', //todo
+    'import-users-instructions-part-2': '(4 columns ONLY in DEFINED order)', //todo
 
     // Targets
     'targets-title': 'Obiettivi e Gamificazione',
