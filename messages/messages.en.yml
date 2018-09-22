@@ -83,6 +83,7 @@ email:
             title: Whasq - Account activation
             body.div1: "You've asked to create your Whasq account! Great! In order to continue please activate it by clicking on this "
             body.div2: activation link
+            body.div3: If you meet difficulties, copy and paste the link below into your browser.
         set.admin:
             title: Admin priviledge granted for %storeName%
             body.div1: You have been granted Admin access to
