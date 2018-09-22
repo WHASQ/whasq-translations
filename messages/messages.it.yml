@@ -83,6 +83,7 @@ email:
             title: Whasq - Attivazione dell'account
             body.div1: "Ha chiesto di creare il Suo account Whasq! Ottimo! Per continuare, attivalo facendo clic su questo "
             body.div2: link di attivazione
+            body.div3: In caso di difficoltà, copia e incolla il link sottostante nel tuo browser.
         set.admin:
             title: Privilegi di amministratore concessi per %storeName%
             body.div1: Ha accesso a
