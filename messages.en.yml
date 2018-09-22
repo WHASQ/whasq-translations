@@ -17,7 +17,7 @@ app:
     activate.account:
       title: Whasq - activate account
       body.div1: Your account has been activated 😉
-      body.div2: "In order to continue creating the account click "
-      body.div3: here
+      body.div2: The next step is to complete your profile.
+      body.div3: Go
       result:
         failure: Oups, we were unable to create an activation link
