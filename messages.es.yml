@@ -17,7 +17,7 @@ app:
     activate.account:
       title: Whasq - Activación de la cuenta
       body.div1: Tu cuenta ha sido activada 😉 
-      body.div2: "El siguiente paso es completar tu perfil."
-      body.div3: Continuar
+      body.div2: "La prochaine étape consiste à compléter votre profil." #todo
+      body.div3: Poursuivre #todo
       result:
         failure: Oops, no pudimos crear un enlace de activación, pruebe de nuevo por favor
