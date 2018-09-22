@@ -353,7 +353,10 @@ const messages = {
     'import-users-fullname': 'Nombre y apellido copmleto', 
     'import-users-email': 'E-mail', 
     'import-users-job-position': 'Puesto de trabajo',
-    'import-users-phone': 'Telefono', 
+    'import-users-phone': 'Telefono',
+    'import-users-download-exemple': 'Download example', //todo
+    'import-users-instructions-part-1': 'Complete downloaded example and Save As csv (comma separated values) file', //todo
+    'import-users-instructions-part-2': '(4 columns ONLY in DEFINED order)', //todo
 
     // Targets
     'targets-title': 'Objectivos & Gamificación',
