@@ -354,9 +354,9 @@ const messages = {
     'import-users-email': 'Email',
     'import-users-job-position': 'Posto',
     'import-users-phone': 'Numero di telefono',
-    'import-users-download-exemple': 'Download example', //todo
-    'import-users-instructions-part-1': 'Complete downloaded example and Save As csv (comma separated values) file', //todo
-    'import-users-instructions-part-2': '(4 columns ONLY in DEFINED order)', //todo
+    'import-users-download-exemple': 'Scaricare l\'esempio', 
+    'import-users-instructions-part-1': 'Completare il file scaricato e salvare come un file csv (valori separati da virgola)',
+    'import-users-instructions-part-2': '(SOLO 4 colonne in ordine DEFINITO))',
 
     // Targets
     'targets-title': 'Obiettivi e Gamificazione',
