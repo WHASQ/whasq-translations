@@ -4,7 +4,7 @@ error:
     action.data.invalid: I dati inviati non sono corretti
     user.locked: Questo utente è stato bloccato
     user.deleted: Questo utente è stato eliminato
-    user.bad.credentials: Autenticazione faillita
+    user.bad.credentials: "Autenticazione faillita. Vérifiez vos identifiants 😎  Hint: Search up for account creation email. Se non lo trovi clicca su "password dimenticata"!" #todo
     user.bad.credentials.warning: Autenticazione faillita. Si prega di verificare le Sue credenziali. Questa è la tua ultima prova prima di bloccare il Suo account
     user.bad.credentials.locked: "Autenticazione faillita. Il Suo account è stato bloccato. Si prega di contattare il vostro amministratore %adminEmail%"
     user.bad.checksum: Impossibile di modificare la password perché non è corretto il checksum
