@@ -343,6 +343,7 @@ const messages = {
     'users-confirm-dont-consider-admin': 'Are you sure you do not want to consider this user as an administrator anymore?',
     'users-action-consider-user-admin-success': 'The user with the id {userId} is now administrator.',
     'users-action-stop-consider-user-admin-success': 'The user with the id {userId} is no longer an administrator.',
+    'users-column-geolocated': 'Géolocalisé', /* TODO */
   
     // ImportUsersModal
     'users-import-title': 'Import contacts',
