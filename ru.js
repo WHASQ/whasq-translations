@@ -343,7 +343,7 @@ const messages = {
     'users-confirm-dont-consider-admin': 'Вы уверены, что не хотите рассматривать этого пользователя как администратора?', 
     'users-action-consider-user-admin-success': 'Пользователь id {userId} теперь является администратором.', 
     'users-action-stop-consider-user-admin-success': 'Пользователь id {userId} больше не является администратором.', 
-    'users-column-geolocated': 'Géolocalisé', /* TODO */
+    'users-column-geolocated': 'Местоположение определено',
   
     // ImportUsersModal
     'users-import-title': 'Импорт пользователя', 
