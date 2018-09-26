@@ -5,7 +5,7 @@ error:
     user.profile.already.updated: Your profile name can be modified only once, please contact your administrator
     user.locked: User blocked
     user.deleted: User deleted
-    user.bad.credentials: "Authentication failure. Please verify your credentials 😎  Hint: Search up for account creation email. If you don't find it, click on "forgotten password"
+    user.bad.credentials: "Authentication failure. Please verify your credentials 😎  Hint: Search up for account creation email. If you don't find it, click on 'forgotten password'"
     user.bad.credentials.warning: Authentication failure. Please verify your credentials. This is your last try before getting your account locked
     user.bad.credentials.locked: "Authentication failure. Your account has been locked. Please contact your admininistrator: %adminEmail%"
     user.bad.checksum: We were not able to change your password. Checksum is icorrect
