@@ -201,7 +201,7 @@ const messages = {
     'gdpr-decline-btn': 'Declinare',
     'gdpr-authorize-btn': 'Autorizzare',
     'gdpr-decline-title': 'Il consenso è necessario',
-    'gdpr-decline-message': 'Per utilizzare l\'applicazione Whasq, è richiesta l\'accettazione delle Condizioni d\'uso'.',
+    'gdpr-decline-message': 'Per utilizzare l\'applicazione Whasq, è richiesta l\'accettazione delle Condizioni d\'uso.',
 
     // Register
     'register-title': 'Iscrizione',
