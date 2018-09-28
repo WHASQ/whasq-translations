@@ -1,8 +1,8 @@
 const messages = {
-    'Email': 'Email',
-    'Register': 'S\'inscrire',
-    'Password': 'Mot de passe',
-    'Remember me': 'Se souvenir de moi',
+    'Email': 'Эл. адрес',
+    'Register': 'Pегистр',
+    'Password': 'Пароль',
+    'Remember me': 'Запомнить меня',
     'no-identification-info': 'Si vous n\'avez pas vos identifiants, veuillez contacter votre administrateur',
     'login-next': 'Suivant',
     'login-unrecognized-email-title': 'Le client "{domain}" n\'existe pas',
