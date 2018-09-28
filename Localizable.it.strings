@@ -244,7 +244,7 @@
 "notification-new-skill" = "Un nuovo talent (%@) è stato aggiunto! Lei vuole aggiungerlo sul Suo profilo?";
 "faq-action-sheet" = "FAQ";
 "faq-not-found-alert-message" = "Impossibile carricare la FAQ, controlla la Sua connessione Internet e riprova per favore";
-"recommended-skill-description-label" = "%@ raccomandato per questi talenti:";
+"recommended-skill-description-label" = "raccomandato per questi talenti:";
 "profile-skill-empty-label" = "Certo che ne ha un po', completa il Suo profilo 😉";
 "recommended-other-skill-description-label" = "Altri talenti che potrebbero interessarti: ";
 "recommended-skill-accept-error-alert" = "Si è verificato un errore durante l'aggiunta del talento 🙄 \Riprovare più tardi";
