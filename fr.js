@@ -344,6 +344,7 @@ const messages = {
     'users-action-consider-user-admin-success': 'L\'utilisateur d\'id {userId} est maintenant administrateur.',
     'users-action-stop-consider-user-admin-success': 'L\'utilisateur d\'id {userId} n\'est maintenant plus administrateur.',
     'users-column-geolocated': 'Géolocalisé',
+    'error-file-format': 'Le format du fichier n\'est pas correct',
 
     // ImportUsersModal
     'users-import-title': 'Import d\'utilisateurs',
