@@ -344,7 +344,7 @@ const messages = {
     'users-action-consider-user-admin-success': 'Пользователь id {userId} теперь является администратором.', 
     'users-action-stop-consider-user-admin-success': 'Пользователь id {userId} больше не является администратором.', 
     'users-column-geolocated': 'Местоположение определено',
-    'error-file-format': 'Le format du fichier n\'est pas correct', /* TODO */
+    'error-file-format': 'Формат файла неверен',
   
     // ImportUsersModal
     'users-import-title': 'Импорт пользователя', 
