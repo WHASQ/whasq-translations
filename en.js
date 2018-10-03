@@ -343,8 +343,8 @@ const messages = {
     'users-confirm-dont-consider-admin': 'Are you sure you do not want to consider this user as an administrator anymore?',
     'users-action-consider-user-admin-success': 'The user with the id {userId} is now administrator.',
     'users-action-stop-consider-user-admin-success': 'The user with the id {userId} is no longer an administrator.',
-    'users-column-geolocated': 'Géolocalisé', /* TODO */
-    'error-file-format': 'Le format du fichier n\'est pas correct', /* TODO */
+    'users-column-geolocated': 'Geolocated',
+    'error-file-format': 'The file format is not correct',
   
     // ImportUsersModal
     'users-import-title': 'Import contacts',
