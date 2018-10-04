@@ -24,7 +24,7 @@ const messages = {
     'first-ranking-suffix': 'ero',
     'second-ranking-suffix': 'do',
     'third-ranking-suffix': 'ero',
-    'default-ranking-suffix': 
+    'default-ranking-suffix': 'ème', /* TODO */
     
     // Header
     'header-profile': 'Perfil',
@@ -44,6 +44,7 @@ const messages = {
     // Footer
     'footer-privacy-policy': 'Política de confidencialidad',
     'footer-assistance': '¿Necesitas ayuda? Contacta jessie@whasq.com (De lunes a viernes de 9:00am à 12:00pm y de las 2:00 a 6:00 pm)',
+    'footer-follow-us': 'Suivez-nous :', /* TODO */
 
     // Home
     'home-title': 'Titre de la page d\'accueil',
@@ -75,6 +76,11 @@ const messages = {
     'whasq-notify-around': 'Notificar a mi alrededor',
     'whasq-urgent': 'Urgente',
     'whasq-channel': 'Idioma del whasq',
+    'whasq-no-media': 'Pas de média', /* TODO */
+    'whasq-media-image': 'Photo whasq', /* TODO */
+    'whasq-media-video': 'Vidéo whasq', /* TODO */
+    'whasq-media-audio': 'Audio whasq', /* TODO */
+    'whasq-media-file': 'Fichier whasq', /* TODO */
 
     // Profile
     'error-getting-user': 'Un error se produjo al recuperar el profil del usuario',
@@ -85,7 +91,7 @@ const messages = {
     'user-answers': 'respuestas',
     'user-whasqs': 'whasqs',
     'user-skill-added': 'El talento \'{skillName}\' ha sido agregado.',
-    'error-adding-skill': 'Un error se produjo al agregar el talento'{skillName}\'.',
+    'error-adding-skill': 'Un error se produjo al agregar el talento\'{skillName}\'.',
     'user-skill-removed': 'El talento \'{skillName}\' ha sido borrado.',
     'error-removing-skill': 'Un error se produjo al borrar el talento\'{skillName}\'.',
     'error-getting-available-skills': 'Un error se produjo al recuperar los talentos disponibles.',
@@ -254,6 +260,17 @@ const messages = {
     'suggestions-modal-subtitle': 'Es hora de mejorar tu perfil',
     'suggestions-modal-other-skills': 'Otros talentos que podrian interesarte :',
     'suggestions-modal-recommended-by': '{fullname} te ha recomendado los siguientes talentos :',
+
+    // ZoomImageModal
+    'zoom-image-modal-title': 'Zoom de l\'image', /* TODO */
+
+    // UploadProfileImageModal
+    'drop-file-here-or-click': 'Déposez votre fichier ici ou cliquez pour sélectionner le fichier à importer.', /* TODO */
+    'profile-image-size-limit': 'Seuls les fichiers images d\'une taille inférieure à 1Mo sont acceptés.', /* TODO */
+    'error-importing-profile-image': 'Une erreur s\'est produite lors de l\'import de l\'image. Veuillez réessayer.', /* TODO */
+    'import-profile-image': 'Importer l\'image', /* TODO */
+    'choose-profile-image': 'Choisissez votre image de profil', /* TODO */
+    'profile-image-square-required': 'L\'image doit avoir un format carré.', /* TODO */
 }
 
 export default messages

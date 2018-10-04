@@ -44,6 +44,7 @@ const messages = {
     // Footer
     'footer-privacy-policy': 'Privacy policy',
     'footer-assistance': 'Need assistance ? Please contact jessie@whasq.com (From monday to friday, 9am to 12am and 2pm to 6pm)',
+    'footer-follow-us': 'Suivez-nous :', /* TODO */
 
     // Home
     'home-title': 'Whasqs',
@@ -75,6 +76,11 @@ const messages = {
     'whasq-notify-around': 'Notify around me',
     'whasq-urgent': 'Its urgent',
     'whasq-channel': 'Written in',
+    'whasq-no-media': 'Pas de média', /* TODO */
+    'whasq-media-image': 'Photo whasq', /* TODO */
+    'whasq-media-video': 'Vidéo whasq', /* TODO */
+    'whasq-media-audio': 'Audio whasq', /* TODO */
+    'whasq-media-file': 'Fichier whasq', /* TODO */
 
     // Profile
     'error-getting-user': 'An error has occured during the users profil recovery',
@@ -166,10 +172,10 @@ const messages = {
     'answer-import-file-button': 'Import the file',
     'answer-import-requirements': 'Your file must be an image, vidéo, audio or Microsoft Office.',
     'answer-import-size-limit': 'maximum size for the file: 1mo.',
-    'answer-change-attachment': 'Change your file'
-    'answer-delete-confirm-message': 'Warning ! Do you really want to cancel your answer ?'
-    'answer-report-confirm-message': 'Warning ! Do you really want to cancel this answer ?'
-    'answer-champion-confirm-message': 'Warning ! Do you really want to cancel this answer as the resolution of your whasq ?'
+    'answer-change-attachment': 'Change your file',
+    'answer-delete-confirm-message': 'Warning ! Do you really want to cancel your answer ?',
+    'answer-report-confirm-message': 'Warning ! Do you really want to cancel this answer ?',
+    'answer-champion-confirm-message': 'Warning ! Do you really want to cancel this answer as the resolution of your whasq ?',
     'answer-media-attachment-no-preview': 'Oups, no preview possible',
 
     // WhasqPerso
@@ -179,7 +185,7 @@ const messages = {
 
     // Podium
     'podium-ranking-tab-title': 'Podium',
-    'podium-whasqpoints-tab-title': 'MY Whasqpoints'
+    'podium-whasqpoints-tab-title': 'MY Whasqpoints',
 
     // TimeSavingsModal
     'time-savings-title': 'Help us to imrove !',
@@ -190,7 +196,7 @@ const messages = {
     'time-savings-three-days': '3 days',
 
     // TermOfUse
-    'term-of-use-title': 'Do you consent to follow the terms of use ?",
+    'term-of-use-title': 'Do you consent to follow the terms of use ?',
     'term-of-use-decline-btn': 'Refuse',
     'term-of-use-authorize-btn': 'Accept',
     'tof-decline-title': 'Terms of use are mandatory',
@@ -210,7 +216,7 @@ const messages = {
     'register-job-position': 'Job',
     'register-channels': 'Languages',
     'register-channel-required': 'Warning ! Sorry, you must have one language to complete your registration.',
-    'register-add': 'Add'
+    'register-add': 'Add',
     'register-password': 'Password', 
     'register-password-confirm': 'Confirm your password',
     'register-password-format': 'Password must contain minimum 8 letters and at least 4 others characters (capital, lowercase, number and special characters',
@@ -254,6 +260,17 @@ const messages = {
     'suggestions-modal-subtitle': 'It\s time to enrich your profil', 
     'suggestions-modal-other-skills': 'Others skills that may interest you :', 
     'suggestions-modal-recommended-by': '{fullname} has recommanded you for thoses skills  :', 
+
+    // ZoomImageModal
+    'zoom-image-modal-title': 'Zoom de l\'image', /* TODO */
+
+    // UploadProfileImageModal
+    'drop-file-here-or-click': 'Déposez votre fichier ici ou cliquez pour sélectionner le fichier à importer.', /* TODO */
+    'profile-image-size-limit': 'Seuls les fichiers images d\'une taille inférieure à 1Mo sont acceptés.', /* TODO */
+    'error-importing-profile-image': 'Une erreur s\'est produite lors de l\'import de l\'image. Veuillez réessayer.', /* TODO */
+    'import-profile-image': 'Importer l\'image', /* TODO */
+    'choose-profile-image': 'Choisissez votre image de profil', /* TODO */
+    'profile-image-square-required': 'L\'image doit avoir un format carré.', /* TODO */
 }
 
 export default messages

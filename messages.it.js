@@ -44,6 +44,7 @@ const messages = {
     // Footer
     'footer-privacy-policy': 'Informativa sulla privacy',
     'footer-assistance': 'Ha bisogno di aiuta? Contatta jessie@whasq.com (dal lunedì al venerdì dalle 9:00 alle 12:00 e dalle 14:00 alle 18:00)',
+    'footer-follow-us': 'Suivez-nous :', /* TODO */
 
     // Home
     'home-title': 'Titolo della pagina della home page',
@@ -75,6 +76,11 @@ const messages = {
     'whasq-notify-around': 'Notificare i whasqers intorno a me',
     'whasq-urgent': 'Urgente',
     'whasq-channel': 'Lingua del whasq',
+    'whasq-no-media': 'Pas de média', /* TODO */
+    'whasq-media-image': 'Photo whasq', /* TODO */
+    'whasq-media-video': 'Vidéo whasq', /* TODO */
+    'whasq-media-audio': 'Audio whasq', /* TODO */
+    'whasq-media-file': 'Fichier whasq', /* TODO */
 
     // Profile
     'error-getting-user': 'Si è verificato un errore durante il recupero del profilo del utente',
@@ -194,7 +200,7 @@ const messages = {
     'term-of-use-decline-btn': 'Declinare',
     'term-of-use-authorize-btn': 'Autorizzare',
     'tof-decline-title': 'Consenso dei termini e condizioni d\'uso',
-    'tof-decline-message': Per utilizzare l\'applicazione Whasq, è richiesta l\'accettazione delle Condizioni d\'uso',
+    'tof-decline-message': 'Per utilizzare l\'applicazione Whasq, è richiesta l\'accettazione delle Condizioni d\'uso',
 
     // Gdpr
     'gdpr-title': 'Consenso',
@@ -254,6 +260,17 @@ const messages = {
     'suggestions-modal-subtitle': 'È tempo di arricchire il Suo profilo',
     'suggestions-modal-other-skills': 'Altri talenti che potrebbero interessarti:',
     'suggestions-modal-recommended-by': '{fullname} Le ha raccomandato per i talenti :',
+
+    // ZoomImageModal
+    'zoom-image-modal-title': 'Zoom de l\'image', /* TODO */
+
+    // UploadProfileImageModal
+    'drop-file-here-or-click': 'Déposez votre fichier ici ou cliquez pour sélectionner le fichier à importer.', /* TODO */
+    'profile-image-size-limit': 'Seuls les fichiers images d\'une taille inférieure à 1Mo sont acceptés.', /* TODO */
+    'error-importing-profile-image': 'Une erreur s\'est produite lors de l\'import de l\'image. Veuillez réessayer.', /* TODO */
+    'import-profile-image': 'Importer l\'image', /* TODO */
+    'choose-profile-image': 'Choisissez votre image de profil', /* TODO */
+    'profile-image-square-required': 'L\'image doit avoir un format carré.', /* TODO */
 }
 
 export default messages

@@ -44,6 +44,7 @@ const messages = {
     // Footer
     'footer-privacy-policy': 'Politique de confidentialité',
     'footer-assistance': 'Besoin d’aide ? Contactez jessie@whasq.com (Du lundi à vendredi de 9:00 à 12:00 et de 14:00 à 18:00)',
+    'footer-follow-us': 'Suivez-nous :',
 
     // Home
     'home-title': 'Titre de la page d\'accueil',
@@ -75,6 +76,11 @@ const messages = {
     'whasq-notify-around': 'Notifier autour de moi',
     'whasq-urgent': 'Urgent',
     'whasq-channel': 'Langue du whasq',
+    'whasq-no-media': 'Pas de média',
+    'whasq-media-image': 'Photo whasq',
+    'whasq-media-video': 'Vidéo whasq',
+    'whasq-media-audio': 'Audio whasq',
+    'whasq-media-file': 'Fichier whasq',
 
     // Profile
     'error-getting-user': 'Une erreur s\'est produite lors de la récupération du profil de l\'utilisateur',
@@ -254,6 +260,17 @@ const messages = {
     'suggestions-modal-subtitle': 'Il est temps d\'enrichir votre profil',
     'suggestions-modal-other-skills': 'Autres talents pouvant vous intéresser :',
     'suggestions-modal-recommended-by': '{fullname} vous a recommendé pour ces talents :',
+
+    // ZoomImageModal
+    'zoom-image-modal-title': 'Zoom de l\'image', /* TODO */
+
+    // UploadProfileImageModal
+    'drop-file-here-or-click': 'Déposez votre fichier ici ou cliquez pour sélectionner le fichier à importer.', /* TODO */
+    'profile-image-size-limit': 'Seuls les fichiers images d\'une taille inférieure à 1Mo sont acceptés.', /* TODO */
+    'error-importing-profile-image': 'Une erreur s\'est produite lors de l\'import de l\'image. Veuillez réessayer.', /* TODO */
+    'import-profile-image': 'Importer l\'image', /* TODO */
+    'choose-profile-image': 'Choisissez votre image de profil', /* TODO */
+    'profile-image-square-required': 'L\'image doit avoir un format carré.', /* TODO */
 }
 
 export default messages
