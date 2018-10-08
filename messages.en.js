@@ -7,7 +7,7 @@ const messages = {
     'login-next': 'Next',
     'login-unrecognized-email-title': 'Customer "{domain}" do not exist',
     'login-unrecognized-email-message': 'Please sent an email at jessie@whasq.com.',
-    'login-code-sent-title': 'Confirmation of your account',
+    'login-code-sent-title': 'Account activation',
     'login-code-sent-message': 'An email with the link to verify your email address has been sent to you.',
     'login': 'Login',
     'login-email-placeholder': 'Email',
