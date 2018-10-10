@@ -36,7 +36,7 @@ const messages = {
     'header-admin': 'Админ',
     'header-change-password': 'Изменить пароль',
     'header-faq': 'FAQ',
-    'header-term-of-use': 'Пользовательское соглашение’,
+    'header-term-of-use': 'Пользовательское соглашение',
     'header-information-asked': 'Ваши данные были отправлены на ваш адрес эл. почты.',
     'header-account-deleted': 'Ваш аккаунт был удачно удалён.',
     'header-password-changed': 'Вам было отправлено письмо для смены пароля.',
@@ -73,7 +73,7 @@ const messages = {
     'whasq-delete-confirm': 'Вы уверены, что хотите удалить этот whasq?',
     'error-deleting-whasq': 'Произошла ошибка при удалении whasq. Пожалуйста, попробуйте ещё раз.',
     'whasq-exchange': 'Обмен',
-    'whasq-notify-around': 'Отправить уведомления вокруг меня’,
+    'whasq-notify-around': 'Отправить уведомления вокруг меня',
     'whasq-urgent': 'Срочно',
     'whasq-channel': 'Язык whasq',
     'whasq-no-media': 'Pas de média', /* TODO */
