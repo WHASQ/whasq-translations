@@ -261,7 +261,7 @@ const messages = {
     'suggestions-modal-other-skills': 'Вас могут заинтересовать следующие таланты:',
     'suggestions-modal-recommended-by': '{fullname} порекомендовал (-а) вас за следующие таланты:',
     
-    / ZoomImageModal
+    // ZoomImageModal
     'zoom-image-modal-title': 'Zoom de l\'image', /* TODO */
 
     // UploadProfileImageModal
