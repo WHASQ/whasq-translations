@@ -45,6 +45,12 @@ error:
     email.invalid: Adresse e-mail non valide
     password.invalid: Le mot de passe doit contenir au moins 8 lettres dont au moins 4 autres caractères (majuscule, miniscule, chiffre et caractère spécial) 👀
     fullname.invalid: Invalid name
+    login:
+        activation.title: Activation de votre compte
+        activation.message: Un email avec le lien pour valider votre adresse email vient de vous être envoyé 👌 
+    version:
+        optionalUpdateMessage: A new version of the Whasq application is available, would you like to update it now ? 😜 #todo
+        mandatoryUpdateMessage: We did an important upgrade recently. Please update you app to benefit from the latest features 👌 #todo
 push:
     whasq:
         new.title: Un Whasq vous attend
@@ -99,7 +105,7 @@ email:
             title: "%firstName%, meilleur(e) whasqer de la semaine %weekNumber% !"
             title.generic: Meilleurs whasqers de la semaine %weekNumber% !
             body.div1: "Le top 3 des whasquers de la semaine :"
-            body.div2: Merci à tous les whasqers ! A la semaine prochaine 💪🙂
+            body.div2: Merci à tous les whasqers 💪🙂
         monthly.podium:
             title: "%firstName%, meilleur whasqer du mois de %monthName% !"
             title.generic: Meilleurs whasqers du mois de %monthName%!
