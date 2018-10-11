@@ -49,8 +49,8 @@ error:
         activation.title: Activation de votre compte
         activation.message: Un email avec le lien pour valider votre adresse email vient de vous être envoyé 👌 
     version:
-        optionalUpdateMessage: A new version of the Whasq application is available, would you like to update it now ? 😜 #todo
-        mandatoryUpdateMessage: We did an important upgrade recently. Please update you app to benefit from the latest features 👌 #todo
+        optionalUpdateMessage: Une nouvelle version de Whasq est disponible, souhaitez-vous la mettre à jour maintenant ? 😜
+        mandatoryUpdateMessage: Nous avons récemment effectué une mise à niveau importante. Veuillez mettre à jour votre application pour bénéficier des dernières fonctionnalités SVP 👌
 push:
     whasq:
         new.title: Un Whasq vous attend
