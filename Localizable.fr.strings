@@ -255,7 +255,7 @@
 "whasq-set-champion-alert" = "Cette réponse est une solution ?";
 "whasq-download-attachment" = "[Télécharger la PJ]";
 "whaspoint-description-description" = "Vous avez été recommandé par %@";
-"verify-connect-action" = "Next";
+"verify-connect-action" = "Suivant";
 "tooltip-whasq-my-skills" = "Affichez les whasqs concernant vos talents et rédigés dans la langue ajoutée dans votre profil."; 
 "tooltip-whasq-all-skills" = "Affichez les whasqs dans la langue ajoutée dans votre profil."; //
 "tooltip-create-whasq" = "Posez votre question !";
