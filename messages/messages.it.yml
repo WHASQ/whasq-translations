@@ -46,11 +46,11 @@ error:
     password.invalid: La password deve contene almeno 8 lettere di cui almeno altri 4 caratteri (maiuscola, minuscola, numero e carattere speciale) 👀
     fullname.invalid: Il nome non è corretto
     login:
-        activation.title: Account activation #todo
-        activation.message: An email with the link to verify your email address has been sent to you 👌 #todo
+        activation.title: Attivazione dell'account 
+        activation.message: Ti abbiamo inviato un'email con il link, così puoi controllare l'e-mail 👌 
     version:
-        optionalUpdateMessage: A new version of the Whasq application is available, would you like to update it now ? 😜 #todo
-        mandatoryUpdateMessage: We did an important upgrade recently. Please update you app to benefit from the latest features 👌 #todo
+        optionalUpdateMessage: È disponibile una nuova versione dell'applicazione Whasq, si desidera aggiornare ora?😜 
+        mandatoryUpdateMessage: Di recente abbiamo fatto un aggiornamento. Si prega di aggiornare l'applicazione per beneficiare delle ultime funzionalità 👌
 push:
     whasq:
         new.title: C'è un whasq per te
