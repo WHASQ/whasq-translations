@@ -46,11 +46,11 @@ error:
     password.invalid: La contraseña debe contener al menos 8 letras, incluyendo al menos otros 4 caracteres (mayúsculas, minúsculas, números y caracteres especiales) 👀
     fullname.invalid: Nombre inválido
     login:
-        activation.title: Account activation #todo
-        activation.message: An email with the link to verify your email address has been sent to you 👌 #todo
+        activation.title: Activación de la cuenta 
+        activation.message: Te hemos enviado un enlace para que puedas verificar tu correo. 👌 
     version:
-        optionalUpdateMessage: A new version of the Whasq application is available, would you like to update it now ? 😜 #todo
-        mandatoryUpdateMessage: We did an important upgrade recently. Please update you app to benefit from the latest features 👌 #todo
+        optionalUpdateMessage: Una nueva versión de la aplicación Whasq está disponible, ¿Te gustaría actualizarla ahora? 😜 
+        mandatoryUpdateMessage:Recientemente hemos realizado una actualización. Por favor actualiza la aplicación para beneficiar de las últimas características 👌
 push:
     whasq:
         new.title: Un Whasq te está esperando 
@@ -63,7 +63,7 @@ push:
     answer:
         champion.title: Tu respuesta es una solución 🏆
         report.title: Tu comentario ha sido reportado 👀 
-        report.body: No te preocupes, Ntu administrador se encargará de eso
+        report.body: No te preocupes, tu administrador se encargará de eso
     notif:
         new.title: Nuevo like 👍
         new.body: ¡A alguien le gusta tu respuesta!
@@ -87,9 +87,9 @@ email:
     user:
         activate.account:
             title: Whasq - Activación de cuenta
-            body.div1: "Le han pedido que cree su cuenta Whasq! Genial! Para continuar, actívelo haciendo clic en este "
+            body.div1: " ¡Es hora de crear tu cuenta! Genial! Para continuar, activala haciendo clic en este "
             body.div2: enlace de activación
-            body.div3: Si tiene dificultades, copie y pegue el siguiente enlace en su navegador.
+            body.div3: Si tienes dificultades, copia y pega el siguiente enlace en tu navegador.
         set.admin:
             title: Privilegio de administrador otorgado para %storeName%
             body.div1: Tienes el acceso administrador a 
