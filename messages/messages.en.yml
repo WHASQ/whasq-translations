@@ -81,7 +81,7 @@ email:
     user:
         activate.account:
             title: Whasq - Account activation
-            body.div1: "You've asked to create your Whasq account! Great! In order to continue please activate it by clicking on this "
+            body.div1: "It's time to create your account. Great! To activate your account, click on this "
             body.div2: activation link
             body.div3: If you meet difficulties, copy and paste the link below into your browser.
         set.admin:
