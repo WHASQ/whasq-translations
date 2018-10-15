@@ -50,7 +50,7 @@ error:
         activation.message: Te hemos enviado un enlace para que puedas verificar tu correo. 👌 
     version:
         optionalUpdateMessage: Una nueva versión de la aplicación Whasq está disponible, ¿Te gustaría actualizarla ahora? 😜 
-        mandatoryUpdateMessage:Recientemente hemos realizado una actualización. Por favor actualiza la aplicación para beneficiar de las últimas características 👌
+        mandatoryUpdateMessage: Recientemente hemos realizado una actualización. Por favor actualiza la aplicación para beneficiar de las últimas características 👌
 push:
     whasq:
         new.title: Un Whasq te está esperando 
