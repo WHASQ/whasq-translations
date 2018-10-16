@@ -100,6 +100,10 @@ email:
             body.div1: Join Whasq and help your colleagues with your talents!
             body.div2: "How to join & complete my profile:"
             body.div3: "Donwload the app:"
+            body.div4: 1. Download the « Whasq » application
+            body.div5: 2. Click on « Password forgotten or change password »
+            body.div6: 3. We will send you an email with your new password
+            body.div7: "4. Great, you're Whasqer! 💪🙂"
         weekly.podium:
             title: "%firstName%, best whasqer of the week %weekNumber%!"
             title.generic: Best whasqers of the week %weekNumber%!
