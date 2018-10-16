@@ -255,10 +255,10 @@
 "whasq-set-champion-alert" = "¡Tu respuesta es una solución ?";
 "whasq-download-attachment" = "[Descargar el archivo adjunto]";
 "whaspoint-description-description" = "Has sido recomendado por %@";
-"verify-connect-action" = "Next"; //todo
+"verify-connect-action" = "Siguiente";
 "tooltip-whasq-my-skills" = "Todos los whasqs de acuerdo a tus talentos y escritos en el idioma que elegiste en tu perfil .";
 "tooltip-whasq-all-skills" = "Todos los whasqs en el idioma que indicaste en tu perfil.";
-"tooltip-create-whasq" = " Haz tu pregunta !";
+"tooltip-create-whasq" = " ¡Haz tu pregunta !";
 "tooltip-whasq-media-types" = "Para ilustrar tu pregunta puedes agregar una/un imagen, texto, video 🎬, o mensaje de voz 🎙. También puedes usarlos para responder un whasq.";
 "tooltip-whasq-add-skills" = "¡Elige 3 talentos que podrían ayudarte a resolver tu whasq !";
 "tooltip-whasq-add-language" = "Selecciona el idioma en el que está escrito tu whasq. La elección del idioma depende de los idiomas agregados en tu perfil 🇫🇷🇪🇸🇷🇺,..";
