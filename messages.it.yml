@@ -6,7 +6,7 @@ app:
       label.confirm.password: Confermare la password
       label.remark: La password deve contenere almeno 8 lettere, di cui almeno altri 4 caratteri (maiuscola, minuscola, numero e carattere speciale).
       button.submit: Effetuare la modifica
-      link.go: Return to app #todo
+      link.go: Ritorna all'app
       result:
         success: La modifica della password è stata presa in considerazione.
         failure: Impossibile modificare la password. Il link potrebbe essere sbagliato o non più attivo o non contenere almeno 8 lettere, di cui almeno altri 4 caratteri (maiuscola, minuscola, numero e carattere speciale)
