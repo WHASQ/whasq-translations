@@ -6,6 +6,7 @@ app:
       label.confirm.password: Confirm new password
       label.remark: The password must contain at least 8 letters including at least 4 other characters (capital letter, lowercase letter, number and special character)
       button.submit: Make the change
+      link.go: Return to app
       result:
         success: The password change has been taken into account
         failure: Impossible to modify the password.  The link may be wrong or no longer active or it may not contain at least 8 letters including at least 4 other characters (capital letter, lowercase letter, number and special character)
