@@ -115,6 +115,10 @@ email:
             body.div1: Inscrivez-vous sur Whasq et aidez vos collégues grâce à vos talents.
             body.div2: "Comment se connecter :"
             body.div3: "Télécharger l'application :"
+            body.div4: 1. Téléchargez l’application « Whasq » 
+            body.div5: 2. Cliquez sur « Mot de passe oublié ou changement de mot de passe »
+            body.div6: 3. Recevez votre mot de passe par mail
+            body.div7: 4. Ça y est vous êtes Whasqer ! 💪🙂
         footer:
             join.community: REJOIGNEZ LA COMMUNAUTÉ %fullName%
             unsubscribe: Se désincrire
