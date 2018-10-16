@@ -6,7 +6,7 @@ app:
       label.confirm.password: Confirmar la contraseña
       label.remark:  La contraseña debe contener al menos 8 letras entre las cuales 4 caracteres (mayuscula, minuscula, numero y un caracter especial).
       button.submit: Realizar el cambio
-      link.go: Return to app #todo
+      link.go: Volver a la aplicación
       result:
         success: El cambio de la contraseña ha sido registrado
         failure: Imposible cambiar la contraseña. El enlace es incorrecto o ya no esta activo o no tiene al menos 8 letras de las cuales 4 carateres (mayuscula, minuscula, numero y un caracter especial)
