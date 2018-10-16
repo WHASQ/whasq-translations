@@ -106,6 +106,10 @@ email:
             body.div1: Iscriversi su Whasq e aiutare i Suoi colleghi con i Suoi talenti.
             body.div2: "Come connettersi :"
             body.div3: "Scaricare l'applicazione :"
+            body.div4: 1. Scarica l'applicazione « Whasq »
+            body.div5: 2. Fai clic su « Password dimenticata o cambia password »
+            body.div6: 3. Ti invieremo un'email con la tua nuova password
+            body.div7: 4. Congratulazioni, sei Whasqer! 💪🙂
         weekly.podium:
             title: "%firstName%, miglior whasqer della settimana %weekNumber%!"
             title.generic: Migliori whasqers della settimana %weekNumber%!
