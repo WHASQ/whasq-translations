@@ -14,8 +14,8 @@ const messages = {
     'login-password-placeholder': 'Пароль',
     'login-bad-password': 'Неверный пароль. Пожалуйста, попробуйте еще раз.',
     'login-error': 'Ошибка подключения к серверу. Пожалуйста, попробуйте еще раз.',
-    'login-password-see-password': 'Voir le mot de passe', /* TODO */
-    'login-password-not-see-password': 'Cacher le mot de passe', /* TODO */
+    'login-password-see-password': 'См. Пароль',
+    'login-password-not-see-password': 'Скрыть пароль',
   
     //  Global
     'search': 'Поиск',
@@ -27,7 +27,7 @@ const messages = {
     'second-ranking-suffix': '(-ой/-ая)',
     'third-ranking-suffix': '(-ий/-ья)',
     'default-ranking-suffix': '(-ый/-ая)',
-    'back-to-homepage': 'Retour à l\'accueil', /* TODO */
+    'back-to-homepage': 'Вернуться на главную',
 
     // Header
     'header-profile': 'Профиль',
@@ -47,7 +47,7 @@ const messages = {
     // Footer
     'footer-privacy-policy': 'Политика конфиденциальности',
     'footer-assistance': 'Нужна помощь ? Свяжитесь с jessie@whasq.com (с понедельника по пятницу с 9:00 по 12:00 и с 14:00 по 18:00)',
-    'footer-follow-us': 'Suivez-nous :',
+    'footer-follow-us': 'Следуйте за нами:',
 
     // Home
     'home-title': 'Главная',
@@ -64,7 +64,7 @@ const messages = {
     // Whasq
     'whasq-days-ago': '{days} дня назад',
     'whasq-read': 'прочитано',
-    'whasq-read-count': 'Consulté {count} fois', /* TODO */
+    'whasq-read-count': 'Просмотрено {count} разы',
     'whasq-answers-count': 'Кол-во ответов',
     'whasq-whasqpoints-solution': 'whasqpoints за помощь',
     'whasq-whasqpoints-usefull-answer': 'whasqpoints за полезный ответ',
@@ -80,11 +80,11 @@ const messages = {
     'whasq-notify-around': 'Отправить уведомления вокруг меня',
     'whasq-urgent': 'Срочно',
     'whasq-channel': 'Язык whasq',
-    'whasq-no-media': 'Pas de média', /* TODO */
-    'whasq-media-image': 'Photo whasq', /* TODO */
-    'whasq-media-video': 'Vidéo whasq', /* TODO */
-    'whasq-media-audio': 'Audio whasq', /* TODO */
-    'whasq-media-file': 'Fichier whasq', /* TODO */
+    'whasq-no-media': 'Нет медиа',
+    'whasq-media-image': 'Whasq Фото',
+    'whasq-media-video': 'Видео Whasq',
+    'whasq-media-audio': 'Звук Whasq',
+    'whasq-media-file': 'Файл Whasq',
 
     // Profile
     'error-getting-user': 'Произошла ошибка при загрузке профиля пользователя.',
@@ -181,7 +181,7 @@ const messages = {
     'answer-report-confirm-message': 'Вы уверены, что хотите пожаловаться на это сообщение?',
     'answer-champion-confirm-message': ' Вы уверены, что хотите отметить этот ответ как решение вашего запроса whasq?',
     'answer-media-attachment-no-preview': 'Предосмотр не доступен',
-    'answer-empty-content': 'Votre devez rédiger un message ou ajouter un média pour pouvoir envoyer votre réponse.', /* TODO */
+    'answer-empty-content': 'Вы должны написать сообщение или добавить медиа для отправки ответа.',
 
     // WhasqPerso
     'whasq-perso-read-times': 'Прочитано {readUsersCount} раз',
@@ -219,7 +219,7 @@ const messages = {
     'register-fullname': 'Имя Фамилия',
     'register-phone': 'Номер тел.',
     'register-job-position': 'Должность',
-    'register-channels': 'Langues parlées', /* TODO */
+    'register-channels': 'Разговорные языки',
     'register-channel-required': 'Необходимо ввести хотя бы один язык для регистрации пользователя.',
     'register-add': 'Добавить',
     'register-password': 'Пароль',
@@ -267,19 +267,19 @@ const messages = {
     'suggestions-modal-recommended-by': '{fullname} порекомендовал (-а) вас за следующие таланты:',
     
     // ZoomImageModal
-    'zoom-image-modal-title': 'Zoom de l\'image', /* TODO */
+    'zoom-image-modal-title': 'Увеличить изображение',
 
     // UploadProfileImageModal
-    'drop-file-here-or-click': 'Déposez votre fichier ici ou cliquez pour sélectionner le fichier à importer.', /* TODO */
-    'profile-image-size-limit': 'Seuls les fichiers images d\'une taille inférieure à 1Mo sont acceptés.', /* TODO */
-    'error-importing-profile-image': 'Une erreur s\'est produite lors de l\'import de l\'image. Veuillez réessayer.', /* TODO */
-    'import-profile-image': 'Importer l\'image', /* TODO */
-    'choose-profile-image': 'Choisissez votre image de profil', /* TODO */
-    'profile-image-square-required': 'L\'image doit avoir un format carré.', /* TODO */
+    'drop-file-here-or-click': 'Отбросьте свой файл здесь или нажмите, чтобы выбрать файл для импорта.',
+    'profile-image-size-limit': 'Принимаются только файлы изображений размером менее 1 МБ.',
+    'error-importing-profile-image': 'При импорте изображения произошла ошибка. Повторите попытку.',
+    'import-profile-image': 'Импортировать изображение',
+    'choose-profile-image': 'Выберите свое изображение профиля',
+    'profile-image-square-required': 'Изображение должно иметь квадратный формат.',
     
     // TagUserModal
-    'tag-user-modal-title': 'Tagguer un utilisateur', /* TODO */
-    'tag-user-modal-search': 'Recherchez un utilisateur', /* TODO */
+    'tag-user-modal-title': 'Отметить пользователя',
+    'tag-user-modal-search': 'Поиск пользователя',
 }
 
 export default messages
