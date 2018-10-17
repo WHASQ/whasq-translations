@@ -119,7 +119,7 @@
 "forgot-password-message" = "Ingresa tu e-mail para cambiar o restablecer tu contraseña";
 "forgot-password-placeholder" = "Tu e-mail";
 "forgot-password-send" = "Enviar";
-"forgot-password-success" = "Te hemos enviado un e-mail para restablecer tu contraseña al correo";
+"forgot-password-success" = "Te hemos enviado un e-mail para restablecer tu contraseña al correo: ";
 "forgot-password-title" = "Contraseña olvidada";
 "forgot-password-title" = "Contraseña olvidada";
 "forgot-password" = "Contraseña olvidada o cambiar la contraseña";
