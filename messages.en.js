@@ -27,6 +27,7 @@ const messages = {
     'second-ranking-suffix': 'nd',
     'third-ranking-suffix': 'rd',
     'default-ranking-suffix': 'th',
+    'back-to-homepage': 'Retour à l\'accueil', /* TODO */
 
     // Header
     'header-profile': 'Profil',

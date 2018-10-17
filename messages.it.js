@@ -27,6 +27,7 @@ const messages = {
     'second-ranking-suffix': 'o',
     'third-ranking-suffix': 'o',
     'default-ranking-suffix': 'o',
+    'back-to-homepage': 'Retour à l\'accueil', /* TODO */
 
     // Header
     'header-profile': 'Profile',

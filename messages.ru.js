@@ -27,6 +27,7 @@ const messages = {
     'second-ranking-suffix': '(-ой/-ая)',
     'third-ranking-suffix': '(-ий/-ья)',
     'default-ranking-suffix': '(-ый/-ая)',
+    'back-to-homepage': 'Retour à l\'accueil', /* TODO */
 
     // Header
     'header-profile': 'Профиль',

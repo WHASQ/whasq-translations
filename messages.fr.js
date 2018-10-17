@@ -27,6 +27,7 @@ const messages = {
     'second-ranking-suffix': 'ème',
     'third-ranking-suffix': 'ème',
     'default-ranking-suffix': 'ème',
+    'back-to-homepage': 'Retour à l\'accueil',
 
     // Header
     'header-profile': 'Profil',

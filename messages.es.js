@@ -27,6 +27,7 @@ const messages = {
     'second-ranking-suffix': 'do',
     'third-ranking-suffix': 'ero',
     'default-ranking-suffix': 'ème', /* TODO */
+    'back-to-homepage': 'Retour à l\'accueil', /* TODO */
     
     // Header
     'header-profile': 'Perfil',
