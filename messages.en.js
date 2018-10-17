@@ -14,6 +14,8 @@ const messages = {
     'login-password-placeholder': 'Password',
     'login-bad-password': 'Password entered is not correct. Please try again.',
     'login-error': 'An error has occured while connecting. Please try again.',
+    'login-password-see-password': 'Voir le mot de passe', /* TODO */
+    'login-password-not-see-password': 'Cacher le mot de passe', /* TODO */
   
     //  Global
     'search': 'Search',
@@ -177,6 +179,7 @@ const messages = {
     'answer-report-confirm-message': 'Warning ! Do you really want to cancel this answer ?',
     'answer-champion-confirm-message': 'Warning ! Do you really want to cancel this answer as the resolution of your whasq ?',
     'answer-media-attachment-no-preview': 'Oups, no preview possible',
+    'answer-empty-content': 'Votre devez rédiger un message ou ajouter un média pour pouvoir envoyer votre réponse.', /* TODO */
 
     // WhasqPerso
     'whasq-perso-read-times': 'Read {readUsersCount} times',
@@ -214,7 +217,7 @@ const messages = {
     'register-fullname': 'Complete name',
     'register-phone': 'Phone',
     'register-job-position': 'Job',
-    'register-channels': 'Languages',
+    'register-channels': 'Langues parlées', /* TODO */
     'register-channel-required': 'Warning ! Sorry, you must have one language to complete your registration.',
     'register-add': 'Add',
     'register-password': 'Password', 
@@ -271,6 +274,10 @@ const messages = {
     'import-profile-image': 'Importer l\'image', /* TODO */
     'choose-profile-image': 'Choisissez votre image de profil', /* TODO */
     'profile-image-square-required': 'L\'image doit avoir un format carré.', /* TODO */
+    
+    // TagUserModal
+    'tag-user-modal-title': 'Tagguer un utilisateur', /* TODO */
+    'tag-user-modal-search': 'Recherchez un utilisateur', /* TODO */
 }
 
 export default messages

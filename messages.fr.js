@@ -14,6 +14,8 @@ const messages = {
     'login-password-placeholder': 'Mot de passe',
     'login-bad-password': 'Le mot de passe saisi n\'est pas correct. Veuillez réessayer.',
     'login-error': 'Une erreur s\'est produite de la connexion. Veuillez réessayer.',
+    'login-password-see-password': 'Voir le mot de passe',
+    'login-password-not-see-password': 'Cacher le mot de passe',
   
     //  Global
     'search': 'Recherche',
@@ -177,6 +179,7 @@ const messages = {
     'answer-report-confirm-message': 'Etes-vous sûr de vouloir signaler cette réponse ?',
     'answer-champion-confirm-message': 'Etes-vous sûr de vouloir définir cette réponse comme la résolution de votre whasq ?',
     'answer-media-attachment-no-preview': 'Pas de prévisualisation possible',
+    'answer-empty-content': 'Votre devez rédiger un message ou ajouter un média pour pouvoir envoyer votre réponse.',
 
     // WhasqPerso
     'whasq-perso-read-times': 'Lu {readUsersCount} fois',
@@ -214,7 +217,7 @@ const messages = {
     'register-fullname': 'Nom complet',
     'register-phone': 'Téléphone',
     'register-job-position': 'Poste',
-    'register-channels': 'Langues',
+    'register-channels': 'Langues parlées',
     'register-channel-required': 'Il faut ajouter au moins une langue pour finaliser votre inscription.',
     'register-add': 'Ajouter',
     'register-password': 'Mot de passe',
@@ -271,6 +274,10 @@ const messages = {
     'import-profile-image': 'Importer l\'image',
     'choose-profile-image': 'Choisissez votre image de profil',
     'profile-image-square-required': 'L\'image doit avoir un format carré.',
+    
+    // TagUserModal
+    'tag-user-modal-title': 'Tagguer un utilisateur',
+    'tag-user-modal-search': 'Recherchez un utilisateur',
 }
 
 export default messages

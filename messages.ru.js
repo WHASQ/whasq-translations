@@ -14,6 +14,8 @@ const messages = {
     'login-password-placeholder': 'Пароль',
     'login-bad-password': 'Неверный пароль. Пожалуйста, попробуйте еще раз.',
     'login-error': 'Ошибка подключения к серверу. Пожалуйста, попробуйте еще раз.',
+    'login-password-see-password': 'Voir le mot de passe', /* TODO */
+    'login-password-not-see-password': 'Cacher le mot de passe', /* TODO */
   
     //  Global
     'search': 'Поиск',
@@ -177,6 +179,7 @@ const messages = {
     'answer-report-confirm-message': 'Вы уверены, что хотите пожаловаться на это сообщение?',
     'answer-champion-confirm-message': ' Вы уверены, что хотите отметить этот ответ как решение вашего запроса whasq?',
     'answer-media-attachment-no-preview': 'Предосмотр не доступен',
+    'answer-empty-content': 'Votre devez rédiger un message ou ajouter un média pour pouvoir envoyer votre réponse.', /* TODO */
 
     // WhasqPerso
     'whasq-perso-read-times': 'Прочитано {readUsersCount} раз',
@@ -214,7 +217,7 @@ const messages = {
     'register-fullname': 'Имя Фамилия',
     'register-phone': 'Номер тел.',
     'register-job-position': 'Должность',
-    'register-channels': 'Языки',
+    'register-channels': 'Langues parlées', /* TODO */
     'register-channel-required': 'Необходимо ввести хотя бы один язык для регистрации пользователя.',
     'register-add': 'Добавить',
     'register-password': 'Пароль',
@@ -271,6 +274,10 @@ const messages = {
     'import-profile-image': 'Importer l\'image', /* TODO */
     'choose-profile-image': 'Choisissez votre image de profil', /* TODO */
     'profile-image-square-required': 'L\'image doit avoir un format carré.', /* TODO */
+    
+    // TagUserModal
+    'tag-user-modal-title': 'Tagguer un utilisateur', /* TODO */
+    'tag-user-modal-search': 'Recherchez un utilisateur', /* TODO */
 }
 
 export default messages
