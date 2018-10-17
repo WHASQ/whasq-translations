@@ -46,7 +46,7 @@ const messages = {
     // Footer
     'footer-privacy-policy': 'Политика конфиденциальности',
     'footer-assistance': 'Нужна помощь ? Свяжитесь с jessie@whasq.com (с понедельника по пятницу с 9:00 по 12:00 и с 14:00 по 18:00)',
-    'footer-follow-us': 'Suivez-nous :', #todo
+    'footer-follow-us': 'Suivez-nous :',
 
     // Home
     'home-title': 'Главная',
@@ -63,6 +63,7 @@ const messages = {
     // Whasq
     'whasq-days-ago': '{days} дня назад',
     'whasq-read': 'прочитано',
+    'whasq-read-count': 'Consulté {count} fois', /* TODO */
     'whasq-answers-count': 'Кол-во ответов',
     'whasq-whasqpoints-solution': 'whasqpoints за помощь',
     'whasq-whasqpoints-usefull-answer': 'whasqpoints за полезный ответ',

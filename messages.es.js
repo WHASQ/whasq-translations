@@ -63,6 +63,7 @@ const messages = {
     // Whasq
     'whasq-days-ago': 'Hace unos {days} días',
     'whasq-read': 'leído',
+    'whasq-read-count': 'Consulté {count} fois', /* TODO */
     'whasq-answers-count': 'Número',
     'whasq-whasqpoints-solution': 'whasqpuntos si encuentras la solución',
     'whasq-whasqpoints-usefull-answer': 'whasqpoints si tu respuesta es útil',
