@@ -119,7 +119,7 @@
 "forgot-password-message" = "Per favore, inserisce la Sua email per modificare o fare un reset della Sua password:";
 "forgot-password-placeholder" = "La Sua email";
 "forgot-password-send" = "Inviare";
-"forgot-password-success" = "Ha ricevuto un email per fare un reset della tua password al seguente indirizzo:";
+"forgot-password-success" = "Ha ricevuto un email per fare un reset della tua password al seguente indirizzo: ";
 "forgot-password-title" = "Password dimenticata?";
 "forgot-password-title" = "Password dimenticata";
 "forgot-password" = "Password dimenticata o cambio di password";
