@@ -161,7 +161,7 @@
 "wasq-type-voice" = "Message vocal";
 "whaspoint-description-high" = "vous a désigné comme champion de son whasq.";
 "whaspoint-description-low" = "a trouvé votre réponse utile.";
-"whasq-read-1" = "Lu :";
+"whasq-read-1" = "Consulté :";
 "whasq-read-2" = "fois";
 "whasq-read-count-0" = "lu ";
 "whasq-read-count-1" = " fois - ";
