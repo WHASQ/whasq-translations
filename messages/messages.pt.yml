@@ -1,147 +1,146 @@
 error:
-    action.not.allowed: Action non autorisé pour cet utilisateur
-    action.save.failed: Echec de l'enregistrement
-    action.data.invalid: Les données envoyées ne sont pas valides
-    user.profile.already.updated: Votre nom du profil ne peut être mise à jour qu'une seule fois, contactez votre administrateur
-    user.locked: Cet utilisateur a été bloqué
-    user.deleted: Cet utilisateur a été supprimé
-    user.bad.credentials: "Echec d'authentification. Vérifiez vos identifiants 😎  Astuce : Cherchez votre e-mail de confirmation de création de compte. Si vous ne le retrouvez pas, cliquez sur mot de passe oublié !"
-    user.bad.credentials.warning: Echec d'authentification. Vérifiez vos identifiants. Ceci est votre dernier essai avant que votre compte ne soit vérrouillé
-    user.bad.credentials.locked: "Echec d'authentification. Votre compte a été bloqué. Merci de contacter votre administrateur: %adminEmail%"
-    user.bad.checksum: Impossible de modifier le mot de passe car le checksum est incorrect
-    user.account.bad.checksum: Impossible d'activer votre compte. Le lien a probablement expiré.
-    user.email.already.in.use: Cet email est déjà utilisé
-    user.email.private.store: Oups, votre compte existe déjà 😛 Connectez-vous grâce à votre adresse @%domain% et le mot de passe que vous avez reçu par mail. Si vous ne le retrouvez pas, cliquez sur mot de passe oublié !
-    user.email.inexisting.store.domain: Le client avec le domaine @%domain% n'existe pas encore. Contactez-nous sur jessie@whasq.com pour plus d'info !
-    user.search.empty: Pas de recherche saisie
-    user.email.unknow: Aucun utilisateur trouvé pour cet email
-    answer.not.champion: Cette réponse n'est pas une solution
-    answer.useful.exists: Vous avez déjà liké ce commentaire 😛
-    answer.not.found: Cette réponse n'existe pas ou a été supprimée
-    answer.with.attribute: Le commentaire ne peut pas être supprimé car il est apprécié par vos collègues  😛
-    answer.deletion.by.author: Seul l'auteur peut supprimer une réponse
-    answer.edition.by.author: Seul l'auteur peut modifier une réponse
-    answer.report.himself: Un utilisateur ne peut pas signaler sa propre réponse
-    whasq.already.champion: Ce whasq a déjà été solutionné
-    whasq.answer.same.user: L'auteur du whasq et l'auteur de la réponse sont le même utilisateur
-    whasq.read.not.allow: Cet utilisateur ne peut pas voir les réponses de ce whasq
-    whasq.only.author.action: Seul l'auteur du whasq peut effectué cette action
-    whasq.deleted: Ce whasq a été supprimé
-    whasq.inexisting: Ce whasq n'existe pas
-    whasq.not.resolved.yet: Ce whasq n'est pas encore résolu
-    whasq.already.estimated.owner: Ce whasq a été reçu une estimation par son auteur
-    whasq.already.estimated.resolver: Ce whasq a été reçu une estimation par l'apporteur de la réponse
-    whasq.estimation.mismatch: Oups, mauvais match whasq & user
-    whasq.blacklisted: Ce whasq a été signalé
-    whasq.edit.with.answer: Ce whasq ne peut pas être modifié car il comporte déjà des réponses
-    whasq.create.missing.title: Un whasq doit comporter un titre  😜
-    whasq.create.missing.skill: Un whasq doit comporter au moins un talent 😜
-    whasq.create.missing.language: Un whasq doit avoir une langue de rédaction définie 😜
-    recommendation.already.exist: Vous avez déjà recommandé cette compétence
-    recommendation.accept: Seul un utilisateur recommandé peut accepter une recommandation
-    recommendation.refuse : L'utilisateur a déjà ce talent. La recommandation a été définie comme "refusée"
-    recommendation.waiting: La recommandation n'est plus en attente de validation
-    store.any.public: Il n'existe aucun store publique
-    email.invalid: Adresse e-mail non valide
-    password.invalid: Le mot de passe doit contenir au moins 8 lettres dont au moins 4 autres caractères (majuscule, minuscule, chiffre et caractère spécial) 👀
-    fullname.invalid: Invalid name
+    action.not.allowed: O utilizador não tem autorização para  efectuar esta operação
+    action.save.failed: O registro falhou
+    action.data.invalid: Os dados enviados não são válidoss
+    user.profile.already.updated: O seu nome de perfil pode ser modificado apenas uma vez. Por favor, entre em contato com o administrador
+    user.locked: Utilizador bloqueado 
+    user.deleted: Utilizador surpimido
+    user.bad.credentials: "Falhou a autenticação. Confira os seus dados 😎  Dica: procure o mail de criação de conta. Se não o encontrar,  clique  em “ esqueci-me da palavra passe”
+    user.bad.credentials.warning: Falhou a autenticação. Confira os seus dados. Está é a sua ùltima tentativa antes que a sua conta seja bloqueada
+    user.bad.credentials.locked: "Falhou a autenticação.A sua conta foi bloqueada. Por favor, contate o administrador : %adminEmail%"
+    user.bad.checksum: Não conseguimos mudar a sua palavra-passe. O checksum está incorreto 
+    user.account.bad.checksum: Impossível de activar a sua conta. Provavelmente , o link expirou.
+    user.email.already.in.use: Este mail já está a ser utilizado
+    user.email.private.store: Ahh, você já têm uma conta aqui  😛 Inicie a sessão com o seu email e a palavra passe que vôce recebeu por mail. Se não tiver encontrado carregue em “ esqueci-me da palavra-passe” !
+    user.email.inexisting.store.domain: O cliente com o mail @%domain% ainda não existe. Contacte-nos através de jessie@whasq.com por mais informações !
+    user.search.empty: Nenhuma palavra de pequisa foi fornecida
+    user.email.unknow: Nenhum utilizador corresponde a este mail.
+    answer.not.champion:  Esta resposta não é uma solução 
+    answer.useful.exists: Vôce já deixou um like neste comentário 😛
+    answer.not.found: Esta resposta já não existe ou foi suprimida 
+    answer.with.attribute: O comentário não pode ser excluído porque já foi apreciado pelos seus colegas 😛
+    answer.deletion.by.author: Só o autor pode apagar esta resposta
+    answer.edition.by.author: Só o autor pode modificar esta resposta
+    answer.report.himself: O utilizador não pode denúnciar a sua própria resposta.
+    whasq.already.champion: Este whasq já foi resolvido
+    whasq.answer.same.user: O autor deste whasq e o autor da resposta são o mesmo utilizador 
+    whasq.read.not.allow: Este uilizador não pode ver as respostas deste whasq 
+    whasq.only.author.action: Só o autor do whasq pode efetuar esta ação
+    whasq.deleted: Este whasq foi suprimido
+    whasq.inexisting: Este whasq não existe
+    whasq.not.resolved.yet: Este whasq ainda não foi resolvido 
+    whasq.already.estimated.owner: Este whasq recebeu uma estimativa da parte do seu autor 
+    whasq.already.estimated.resolver: Este whasq já foi alvo de uma estimativa da parte do colaborador que forneceu a resposta.
+    whasq.estimation.mismatch: Oups, má correspondência entre whasq e utilizador 
+    whasq.blacklisted: Este whasq foi denúnciado
+    whasq.edit.with.answer: Este whasq não pode ser modificado pois já contém algumas respostas
+    whasq.create.missing.title: Preencha o título do wahsq  😜
+    whasq.create.missing.skill: Preencha pelo menos uma competência 😜
+    whasq.create.missing.language: Preencha a língua na qual este whasq vai ser editado 😜
+    recommendation.already.exist: Vôce já recomendou este talento
+    recommendation.accept: Só o receptor da recomendação pode aceitar a mesma  
+    recommendation.refuse : O utlizador já possui esta competência no seu perfil. Por isso a sua recomendação vai ser catalogada como “ anulada”
+    recommendation.waiting: A recomendação já não está à espera de validação
+    store.any.public: A loja física não existe 
+    email.invalid: E-mail inválido
+    password.invalid: A palavra-passe deve conter pelo menos 8 letras, e destas 4 devem ser caractéres : maiúsculos, minúsculos, números e especiais 👀
+    fullname.invalid: Nome de utilizador inválido
     login:
-        activation.title: Activation de votre compte
-        activation.message: Un email avec le lien pour valider votre adresse email vient de vous être envoyé 👌 
+        activation.title: Ativação da sua conta
+        activation.message: Um e-mail com o link para autenticar o seu endereço de e-mail foi enviado 👌 
     version:
-        optionalUpdateMessage: Une nouvelle version de Whasq est disponible, souhaitez-vous la mettre à jour maintenant ? 😜
-        mandatoryUpdateMessage: Nous avons récemment effectué une mise à niveau importante. Veuillez mettre à jour votre application pour bénéficier des dernières fonctionnalités SVP 👌
+        optionalUpdateMessage: Uma nova versão do Whasq está disponível, deseja atualizá-la agora ? 😜
+        mandatoryUpdateMessage: Recentemente fizemos uma atualização importante. Atualize a sua aplicação para poder aproveitar as novas funcionalidades, SFV 👌
 push:
     whasq:
-        new.title: Un Whasq vous attend
-        new.arround.body: Quelqu'un à proximité a besoin de vos conseils
-        new.same.skill.body: Quelqu'un a besoin de vous 😎
-        new.answer.title: Une réponse vous attend 👌
-        new.answer.body: Quelqu'un a répondu à votre whasq 😜
-        report.title: Votre whasq a été signalé 👀
-        report.body: Ne vous inquiétez pas, votre administrateur s'en charge
-    answer:
-        champion.title: Bravo ! Votre réponse est une solution 🏆
-        report.title: Votre commentaire a été signalé 👀
-        report.body: Ne vous inquiétez pas, votre administrateur s'en charge
+        new.title: Um novo whasq está disponível 
+        new.arround.body: Alguém perto de si precisa de um conselho
+        new.same.skill.body: Alguém precisa de si 😎
+        new.answer.title: Tem uma resposta à sua espera  👌
+        new.answer.body: Alguém respodeu ao seu whasq  😜
+        report.title: O seu whasq foi denúnciado 👀
+        report.body: Não se preocupe, o seu administrador vai encarregar-se!:
+        champion.title: Parabéns ! A sua resposta corresponde à solução 🏆
+        report.title: O seu comentário foi denúnciado 👀
+        report.body: Não se preocupe, o seu administrador vai encarregar-se!
     notif:
-        new.title: Nouveau like 👍
-        new.body: Quelqu'un a liké votre réponse ! 
+        new.title: Um novo like! 👍
+        new.body: Alguém deu like numa reposta sua ! 
     reco:
-        new.title: Nouvelle recommendation 
-        new.body: Quelqu'un a recommandé vos talents !
+        new.title: Nova recomendação
+        new.body: Alguém recomendou as suas competências !
     skill:
-        new.title: Nouveau talent vient d'être ajouté
-        new.body: Enrichi ton profil 💪
+        new.title: Uma nova competência foi adicionada 
+        new.body: Enriqueça o seu perfil 💪
     user.tagged:
-        new.title: Vous avez été recommandé 💪
-        new.body: Quelqu'un a besoin de vous 😎
+        new.title: Vôce foi recomendado 💪
+        new.body: Alguém precisa de si 😎
     admin.whasq:
-        new.title: Un Whasq spécial vous attend
-        new.body: Découvrez le 👀
+        new.title: Um whasq especial está disponível
+        new.body: Venha descobri-lo 👀
 email:
     general: 
-        greeting: Bonjour !
-        byebye: A bientôt,
+        greeting: Bom dia !
+        byebye: Até  já,
         signature: Jessie 😘
     user:
         activate.account:
-            title: Whasq - Activation du compte
-            body.div1: "Super ! Vous avez demandé à créer votre compte Whasq ! Pour continuer, activez-le en cliquant sur ce "
+            title: Whasq - Ativação da conta
+            body.div1: "Fantástico! ! Você pediu para criar a sua conta Whasq ! Para continuar, clique aqui "
             body.div2: lien d'activation
-            body.div3: Si vous rencontrez des difficultés, copiez et collez le lien ci-dessous dans votre navigateur.
+            body.div3: Se estiver a ter dificuldades, copie e cole o link em baixo no seu navegador internet.
         set.admin:
-            title: Admin priviledge granted for %storeName%
-            body.div1: Vous avez un accès administrateur à
+            title: Privilégio de administrador concedido a  %storeName%
+            body.div1: O acesso administrador foi-lhe concedido em
             body.div2: https://bo.whasq.com
     mailing:
         whasq.activity:
-            title.nocount: "%numberOfUsersLookingForHelp% personne a besoin de vous"
-            title.count: "%numberOfUsersLookingForHelp% personnes ont besoin de vous"
-            body.div1: "Aidez les :"
-            body.div2: "plus ..."
-            body.div3: Connectez-vous dans l'application pour la/leur répondre 💪🙂
+            title.nocount: "%numberOfUsersLookingForHelp% alguém precisa de si"
+            title.count: "%numberOfUsersLookingForHelp% pessoas precisam de si"
+            body.div1: "Ajude-os  :"
+            body.div2: "mais ..."
+            body.div3: Conecte-se na aplicação para poder responder-lhes 💪🙂
         weekly.podium:
-            title: "%firstName%, meilleur(e) whasqer de la semaine %weekNumber% !"
-            title.generic: Meilleurs whasqers de la semaine %weekNumber% !
-            body.div1: "Le top 3 des whasquers de la semaine :"
-            body.div2: Merci à tous les whasqers 💪🙂
+            title: "%firstName%, o(a) melhor whasquer da semana %weekNumber% !"
+            title.generic: Melhores whasquers da semana %weekNumber% !
+            body.div1: "O top 3 dos melhores whasquers da semana :"
+            body.div2: Obrigada a todos os whasquers! 💪🙂
         monthly.podium:
-            title: "%firstName%, meilleur whasqer du mois de %monthName% !"
-            title.generic: Meilleurs whasqers du mois de %monthName%!
-            body.div1: "Top 3 des meilleurs whasqers du mois:"
+            title: "%firstName%, melhor whasquer do mês de  %monthName% !"
+            title.generic: Melhores Whasquers do mês de  %monthName%!
+            body.div1: "O top 3 dos melhores whasquers do mês:"
         complete.profile:
-            title: Vos collégues ont besoin de vous !
-            body.div1: Inscrivez-vous sur Whasq et aidez vos collégues grâce à vos talents.
-            body.div2: "Comment se connecter :"
-            body.div3: "Télécharger l'application :"
-            body.div4: 1. Téléchargez l’application « Whasq » 
-            body.div5: 2. Cliquez sur « Mot de passe oublié ou changement de mot de passe »
-            body.div6: 3. Recevez votre mot de passe par mail
-            body.div7: 4. Ça y est vous êtes Whasqer ! 💪🙂
+            title: Os seus colegas precisam de si! !
+            body.div1: Junte-se à comunidade Whasq e ajude os seus colegas com as suas competências!
+            body.div2: "Como inscrever-se   :"
+            body.div3: "Descarregar a aplicação :"
+            body.div4: 1. Descarregar a aplicação « Whasq » 
+            body.div5: 2. Clique em  « Esqueci-me da palavra-passe ou modificar a palavra-passe »
+            body.div6: 3. Vai receber um mail com a sua nova palavra-passe 
+            body.div7: 4. Fantástico! Voce é um Whasquer! ! 💪🙂
         footer:
-            join.community: REJOIGNEZ LA COMMUNAUTÉ %fullName%
-            unsubscribe: Se désincrire
-            how.it.works: Comment ça marche ?
+            join.community: JUNTE-SE À COMUNIDADE %fullName%
+            unsubscribe: Desinscrever-se 
+            how.it.works: Como funciona?
     gdpr:
-        title:  Whasq - récupération de données
-        body.div1: "Vous avez demandé à recevoir les données personnelles stockées sur l'application whasq pour le compte: %email%"
-        body.div2: "Veuillez trouver ci-dessous un lien pour les télécharger:"
-        body.div3: Télécharger mes données Whasq
-        body.div4: Attention, ce lien a une durée de vie limitée à 48h.
+        title:  Whasq - Recuperação dos dados 
+        body.div1: "Você pediu que os seus dados sejam armazenados na aplicação whasq com a conta: %email%"
+        body.div2: "Clique no link em baixo para descarregá-los:"
+        body.div3: Descarregar os seus dados Whasq
+        body.div4: Atenção, este link tem uma duraçào de vida limitada de 48h.
     account:
         password.change: 
-            title: Whasq - changement de mot de passe
-            body.div1: "Vous avez perdu votre mot de passe ou souhaitez le changer pour le compte: %email%"
-            body.div2: "Pour modifier votre mot de passe, veuillez cliquer sur le lien"
-            body.div3: Changer mon mot de passe
-            body.div4: Attention, ce lien a une durée de vie limitée.
-            warning: Pour votre sécurité, votre compte a été bloqué suite aux 4 tentatives de connexion. Vous devez contacter votre administrateur %adminEmail%.
+            title: Whasq - mudar a palavra-passe
+            body.div1: "Esqueceu-se da sua palavra-passe ou quer mudá-la para a conta: %email%"
+            body.div2: "Para mudar sua palavra passe, por favor carregue no link"
+            body.div3: Mudar a palavra passe 
+            body.div4: Atenção, este link tem data de expiração.
+            warning: Para sua segurança, sua conta foi bloqueada após 4 tentativas de conecção. Para desbloqueá-la deve contatar o administrador   %adminEmail%.
         creation:
-            title: Bienvenu sur Whasq - Détail du nouveau compte
-            body.div1: Bienvenu(e) sur Whasq !
-            body.div2: "Votre compte a été créé avec un mot de passe: %password%. N'hésitez pas à le changer sur l'écran de connexion dans l'application."
-            body.div3: Nous vous enverrons quelques emails rapides sur la façon de tirer le meilleur parti de Whasq. En attendant, plongez et commencez à explorer. Nous sommes heureux que vous soyez ici !
-            body.div4: "Comment se connecter :"
+            title: Bem vindo(a) ao Whasq  - Detalhes da nova conta
+            body.div1: Bem vindo(a) ao Whasq !
+            body.div2: "A sua conta foi criada com a palavra-passe: %password%. Você pode mudá-la quando quiser no ecrã de iniciar a sessão."
+            body.div3: Nós vamos enviar-lhe alguns emails simplificados para orientá-lo(a) na melhor forma de benificiar de Whasq. Entretanto,  lance-se e comece a explorar. Estamos felizes que esteja aqui !
+            body.div4: "Como registrar-se :"
             body.div5: https://www.youtube.com/watch?v=Fwkivlzmt3Q
             body.div6: https://api.whasq.com/bundles/app/images/tutorial-youtube-fr.jpeg
