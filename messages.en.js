@@ -116,9 +116,12 @@ const messages = {
 
     // AddUserSkillModal
     'add-user-skill-title': 'You certaibly have other skills, just add them',
+    'add-user-skill-subtitle': 'Vous avez sûrement d\'autres talents, vous pouvez les ajouter !', /* TODO */
+    'add-user-skill-subtitle-first-login': 'Vous avez des talents, inscrivez les dans votre profil !', /* TODO */
     
     // AddUserChannelModal
     'add-user-channel-title': 'Select then language you speak',
+    'add-user-channel-subtitle': 'Sélectionnez les langues que vous parlez', /* TODO */
 
     // MediaAttachment
     'media-attachment-download': 'Download the media attachement',
@@ -146,7 +149,7 @@ const messages = {
     'whasq-write-message-placeholder': 'My message',
     'whasq-write-exchange-placeholder': 'I offer you... ex: a coffee',
     'whasq-write-notify-around': 'Notify around me',
-    'whasq-write-urgent': 'It\s urgent',
+    'whasq-write-urgent': 'It\'s urgent',
     'whasq-write-import-file-title': 'Import a file (photo, video, audio ou Microsoft Office)',
     'whasq-write-import-drop-here': 'Drop here your file.',
     'whasq-write-error-importing-file': 'An error has occured during the file\'s import.',
@@ -262,7 +265,7 @@ const messages = {
 
     // SuggestionsModal
     'suggestions-modal-title': 'Suggestions',
-    'suggestions-modal-subtitle': 'It\s time to enrich your profil', 
+    'suggestions-modal-subtitle': 'It\'s time to enrich your profil', 
     'suggestions-modal-other-skills': 'Others skills that may interest you :', 
     'suggestions-modal-recommended-by': '{fullname} has recommanded you for thoses skills  :', 
 
@@ -280,6 +283,16 @@ const messages = {
     // TagUserModal
     'tag-user-modal-title': 'Tagguer un utilisateur', /* TODO */
     'tag-user-modal-search': 'Recherchez un utilisateur', /* TODO */
+    
+    // TutoModal
+    'tuto-modal-title': 'Conseils et astuces', /* TODO */
+    'tuto-modal-homepage-ask-whasq': 'Posez votre question.', /* TODO */
+    'tuto-modal-homepage-my-skills': 'Affichez les whasqs concernant vos talents et rédigés dans la langue ajoutée dans votre profil.', /* TODO */
+    'tuto-modal-homepage-all-skills': 'Affichez les whasqs dans la langue ajoutée dans votre profil.', /* TODO */
+    'tuto-modal-add-whasq-add-media': 'Ajoutez des médias pour illustrer votre question. Par exemple image, texte, vidéo ou juste son. Vous pouvez les utiliser aussi pour répondre à un whasq.', /* TODO */
+    'tuto-modal-add-whasq-add-skill': 'Choisissez 3 talents qui pourront vous aider à résoudre votre whasq.', /* TODO */
+    'tuto-modal-add-whasq-add-channel': 'Sélectionnez la langue dans laquelle votre whasq est rédigé. Le choix de la langue dépend des langues ajoutées dans votre profil : fr, es, ru, ...', /* TODO */
+    'tuto-modal-profile-update': 'Ajoutez un peu de couleur sur l\'app en mettant à jour votre profil.', /* TODO */
 }
 
 export default messages

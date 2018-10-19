@@ -116,9 +116,12 @@ const messages = {
 
     // AddUserSkillModal
     'add-user-skill-title': 'Ajout d\'un talent',
+    'add-user-skill-subtitle': 'Vous avez sûrement d\'autres talents, vous pouvez les ajouter !',
+    'add-user-skill-subtitle-first-login': 'Vous avez des talents, inscrivez les dans votre profil !',
     
     // AddUserChannelModal
     'add-user-channel-title': 'Ajout d\'une langue',
+    'add-user-channel-subtitle': 'Sélectionnez les langues que vous parlez',
 
     // MediaAttachment
     'media-attachment-download': 'Télécharger la pièce jointe',
@@ -280,6 +283,16 @@ const messages = {
     // TagUserModal
     'tag-user-modal-title': 'Tagguer un utilisateur',
     'tag-user-modal-search': 'Recherchez un utilisateur',
+    
+    // TutoModal
+    'tuto-modal-title': 'Conseils et astuces',
+    'tuto-modal-homepage-ask-whasq': 'Posez votre question.',
+    'tuto-modal-homepage-my-skills': 'Affichez les whasqs concernant vos talents et rédigés dans la langue ajoutée dans votre profil.',
+    'tuto-modal-homepage-all-skills': 'Affichez les whasqs dans la langue ajoutée dans votre profil.',
+    'tuto-modal-add-whasq-add-media': 'Ajoutez des médias pour illustrer votre question. Par exemple image, texte, vidéo ou juste son. Vous pouvez les utiliser aussi pour répondre à un whasq.',
+    'tuto-modal-add-whasq-add-skill': 'Choisissez 3 talents qui pourront vous aider à résoudre votre whasq.',
+    'tuto-modal-add-whasq-add-channel': 'Sélectionnez la langue dans laquelle votre whasq est rédigé. Le choix de la langue dépend des langues ajoutées dans votre profil : fr, es, ru, ...',
+    'tuto-modal-profile-update': 'Ajoutez un peu de couleur sur l\'app en mettant à jour votre profil.',
 }
 
 export default messages
