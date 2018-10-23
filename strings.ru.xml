@@ -1,17 +1,17 @@
 <!--
- ~ Copyright (C) 2017 MINDORKS NEXTGEN PRIVATE LIMITED
- ~ Licensed under the Apache License, Version 2.0 (the "License");
- ~ you may not use this file except in compliance with the License.
- ~ You may obtain a copy of the License at
- ~
- ~     https://mindorks.com/license/apache-v2
- ~
- ~ Unless required by applicable law or agreed to in writing, software
- ~ distributed under the License is distributed on an "AS IS" BASIS,
- ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
- ~ See the License for the specific language governing permissions and
- ~ limitations under the License
- -->
+  ~ Copyright (C) 2017 MINDORKS NEXTGEN PRIVATE LIMITED
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     https://mindorks.com/license/apache-v2
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License
+  -->
 
 <!-- This file store all english strings -->
 <resources>
@@ -21,7 +21,7 @@
     <string name="COMMON_SAVE">Сохранить</string>
     <string name="COMMON_SEND">Отправить</string>
     <string name="COMMON_FEATURE_COMING_SOON">Эта идея ещё не была реализована</string>
-    
+
     <string name="COMMON_YES">Да</string>
     <string name="COMMON_NO">Да</string>
     <string name="COMMON_CONFIRM">Подтвердить</string>
@@ -31,7 +31,8 @@
     <string name="COMMON_ALLOW">Разрешить</string>
     <string name="COMMON_NOT_ALLOW">Запретить</string>
     <string name="COMMON_LOGIN">Вход</string>
-    
+    <string name="COMMON_DOWNLOAD_ATTACHEMENT">[Загрузить приложение]</string>
+
     <!-- ERRORS -->
     <string name="ERROR_DISCONNECT">Ваша сессия истекла</string>
     <string name="ERROR_COMMENT_ALREADY_LIKED">Baм уже понравился этот комментарий</string>
@@ -54,20 +55,20 @@
     <string name="ERROR_EMPTY_LANGUAGES">Вы должны ввести минимум один язык</string>
     <string name="ERROR_UNCHECKED_CGU">Примите условия и правила</string>
     <string name="ERROR_EMPTY_REGISTER_FORM">Форма заполнена не полностью</string>
-    
+
     <!-- CGU -->
     <string name="CGU_TITLE">Правила пользования</string>
     <string name="CGU_READ_ALL">Пожалуйста, прочитайте все правила использования, чтобы продолжить</string>
-    
+
     <!-- FAQ -->
     <string name="FAQ_TITLE">ЧаВо</string>
-    
+
     <!-- Medias -->
     <string name="MEDIA_TYPE_TEXT">Вопрос</string>
     <string name="MEDIA_TYPE_IMAGE">Вопрос с изображением</string>
     <string name="MEDIA_TYPE_VIDEO">Видео-вопрос</string>
     <string name="MEDIA_TYPE_AUDIO">Аудио-вопрос</string>
-    
+
     <!-- EditTexts Hints -->
     <string name="HINT_EMAIL_ADDRESS">Адрес электронной почты</string>
     <string name="HINT_PASSWORD">Пароль</string>
@@ -81,11 +82,11 @@
     <string name="HINT_TITLE">Мой oбращение</string>
     <string name="HINT_MESSAGE">Мой сообщение</string>
     <string name="HINT_EXCHANGE">Предлагаю в обмен на.. чашечку кофе</string>
-    
+
     <!-- EditTexts Labels -->
     <string name="LABEL_EMAIL">Электронная почта *</string>
     <string name="LABEL_FULL_NAME">Полное имя *</string>
-    
+
     <!-- Buttons Texts -->
     <string name="BUTTON_CONNECT">Соеденить</string>
     <string name="BUTTON_NEXT">Далее</string>
@@ -94,7 +95,7 @@
     <string name="BUTTON_VALIDATE">Подтвердить</string>
     <string name="BUTTON_PREVIEW">Предварительный просмотр</string>
     <string name="BUTTON_PUBLISH">Опубликовать</string>
-    
+
     <!-- TabBar Titles -->
     <string name="TAB_BAR_LOGIN_TITLE">Вход</string>
     <string name="TAB_BAR_REGISTER_TITLE">Регистрация</string>
@@ -102,7 +103,7 @@
     <string name="TAB_BAR_ALL_WHASQ_TITLE">Всё</string>
     <string name="TAB_BAR_LEADER_BOARD">Таблица рекордов</string>
     <string name="TAB_BAR_MY_WHASQ_POINTS">Мои баллы</string>
-    
+
     <!-- Profile Pages title -->
     <string name="PROFILE_TITLE">Профиль</string>
     <string name="PROFILE_RANK">Ранг</string>
@@ -121,26 +122,26 @@
     <string name="PROFILE_DATAS_SENDING_SUCCESS">Ваши данные были отправлены на ваш адрес электронной почты</string>
     <string name="PROFILE_DATAS_SENDING_ERROR">Произошла ошибка, ваши данные не были отправлены, попробуйте ещё раз</string>
     <string name="PROFILE_MY_WHASQ">Мои вопросы</string>
-    
+
     <plurals name="PROFILE_WHASQ_COUNT">
         <item quantity="one">@string/PROFILE_WHASQ_COUNT_ONE</item>
         <item quantity="other">@string/PROFILE_WHASQ_COUNT_MORE</item>
     </plurals>
-    <string name="PROFILE_WHASQ_COUNT_ONE" formatted="false">$d вопрос</string>
-    <string name="PROFILE_WHASQ_COUNT_MORE" formatted="false">$d вопросов</string>
-    
+    <string name="PROFILE_WHASQ_COUNT_ONE" formatted="false">%d вопрос</string>
+    <string name="PROFILE_WHASQ_COUNT_MORE" formatted="false">%d вопросов</string>
+
     <!-- Login Activity -->
     <string name="LOGIN_PASSWORD_FORGOTTEN">Восстановление или изменение пароля</string>
     <string name="CONDITIONS_OF_USE"><u>Я согласен(на) с условиями и правилами использования</u></string>
-    
+
     <!-- Camera Activity -->
     <string name="CAPTURE_LIMIT_LENGTH_REACHED_TITLE">Запись видео остановлена</string>
     <string name="CAPTURE_LIMIT_LENGTH_REACHED_MESSAGE">Вы достигли максимальной длины видео</string>
-    
+
     <!-- Microphone Activity -->
     <string name="AUDIO_LIMIT_LENGTH_REACHED_TITLE">Запись аудио остановлена</string>
     <string name="AUDIO_LIMIT_LENGTH_REACHED_MESSAGE">Вы достигли максимальной длины для аудиозаписи</string>
-    
+
     <!-- Language Activity -->
     <string name="LANGUAGE_TITLE_PROFILE">Мои языки</string>
     <string name="LANGUAGE_TITLE_WHASQ">Языки</string>
@@ -148,7 +149,7 @@
     <string name="LANGUAGE_SUBTITLE_WHASQ">Пожалуйста, выберите язык этого вопроса</string>
     <string name="LANGUAGE_ERROR_EMPTY_SELECTION">You must select at least one language</string>
     <string name="LANGUAGE_ERROR_NO_SELECTION">Нужно выбрать как минимум один язык</string>
-    
+
     <!-- Skills Activity -->
     <string name="SKILLS_TITLE_REGISTRATION">Мои навыки</string>
     <string name="SKILLS_TITLE_PROFILE">Мои навыки</string>
@@ -157,13 +158,13 @@
     <string name="SKILLS_SUBTITLE_PROFILE">Какие у вас есть навыки?</string>
     <string name="SKILLS_SUBTITLE_WHASK">Выберите 3 навыка для этого вопроса</string>
     <string name="SKILLS_SUGGESTION"><u>Предложить навык</u></string>
-    
+
     <!-- Email -->
     <string name="EMAIL_APP_SELECTOR_TEXT">Предлагайте навыки на почту</string>
     <string name="EMAIL_MISSING_SKILL_DEST">jessie@whasq.com</string>
     <string name="EMAIL_MISSING_SKILL_SUBJECT">Предложение навыка!</string>
     <string name="EMAIL_MISSING_SKILL_BODY">Привет! Я предлагаю добавить навык: </string>
-    
+
     <!-- Whasq -->
     <string name="WHASQ_TITLE">Вопрос</string>
     <string name="WHASQ_EDIT_TITLE">Изменить</string>
@@ -185,17 +186,18 @@
     <string name="WHASQ_EDITION_NO_MORE_SKILLS">Можно запросить не более 3 навыков</string>
     <string name="WHASQ_POINT_USEFULL_MESSAGE" formatted="false">%1$s нашёл(ла) ваш ответ полезным</string>
     <string name="WHASQ_POINT_CHAMPION_MESSAGE" formatted="false">%1$s объявил(а) ваш ответ лучшим</string>
+    <string name="WHASQ_POINT_RECOMMEND_MESSAGE">Вы были рекомендованы пользователем %s</string>
     <string name="WHASQ_DEFAULT_MESSAGE">Если вы можете мне помочь, свяжитесь со мной</string>
-    
+
     <plurals name="WHASQ_ANSWERS_COUNT">
         <item quantity="zero">@string/WHASQ_ANSWERS_COUNT_ZERO</item>
         <item quantity="one">@string/WHASQ_ANSWERS_COUNT_ONE</item>
         <item quantity="other">@string/WHASQ_ANSWERS_COUNT_MORE</item>
     </plurals>
     <string name="WHASQ_ANSWERS_COUNT_ZERO">Нет ответов</string>
-    <string name="WHASQ_ANSWERS_COUNT_ONE" formatted="false">$d ответ</string>
-    <string name="WHASQ_ANSWERS_COUNT_MORE" formatted="false">$d ответов</string>
-    
+    <string name="WHASQ_ANSWERS_COUNT_ONE" formatted="false">%d ответ</string>
+    <string name="WHASQ_ANSWERS_COUNT_MORE" formatted="false">%d ответов</string>
+
     <plurals name="WHASQ_READ_COUNT">
         <item quantity="zero">@string/WHASQ_READ_COUNT_ZERO</item>
         <item quantity="one">@string/WHASQ_READ_COUNT_ONE</item>
@@ -204,7 +206,7 @@
     <string name="WHASQ_READ_COUNT_ZERO">Нет просмотров</string>
     <string name="WHASQ_READ_COUNT_ONE">Прочитали %1$s раз</string>
     <string name="WHASQ_READ_COUNT_OTHER">Прочитали %1$s раз</string>
-    
+
     <!-- Whasq Answers -->
     <string name="WHASQ_ANSWER_OPTION_EDIT">Изменить</string>
     <string name="WHASQ_ANSWER_OPTION_DELETE">Удалить</string>
@@ -217,20 +219,20 @@
     <string name="WHASQ_ANSWER_MEDIA_ENTRY_IMPORT">Импортировать фотографию</string>
     <string name="WHASQ_ANSWER_MEDIA_ENTRY_VIDEO">Видео</string>
     <string name="WHASQ_ANSWER_MEDIA_ENTRY_AUDIO">Аудио</string>
-    
+
     <!-- Geolocation -->
     <string name="GEOLOCATION_PERMISSION_TITLE">Развейте вашу дискуссию</string>
     <string name="GEOLOCATION_PERMISSION_EXPLANATION">Если вы хотите уведомлять только пользователей рядом с вами, необходимо разрешить приложению использовать геолокацию и запрашивать ID вашего телефона</string>
     <string name="GEOLOCATION_PERMISSION_ALLOW">Разрешить</string>
     <string name="GEOLOCATION_PERMISSION_NOT_ALLOW">Не разрешать</string>
-    
+
     <!-- New password -->
     <string name="NEW_PASSWORD_DIALOG_EMPTY_EMAIL_ERROR">Вы должны ввести адрес электронной почты</string>
     <string name="NEW_PASSWORD_DIALOG_EMAIL_SENT">Письмо было отправлено по адресу: %s.</string>
     <string name="NEW_PASSWORD_DIALOG_TITLE">Сменить пароль</string>
     <string name="NEW_PASSWORD_DIALOG_EXPLANATION">Чтобы сменить пароль, пожалуйста, введите адрес вашей электронной почты</string>
     <string name="NEW_PASSWORD_EMAIL_HINT">Почта</string>
-    
+
     <!-- Time Gain -->
     <string name="TIME_GAIN_TITLE_OWNER">>Помогите нам улучшить это приложенние!</string>
     <string name="TIME_GAIN_QUESTION">Как много времени вы сэкономили?</string>
@@ -246,13 +248,13 @@
     <string name="TIME_GAIN_ANSWER_EASY">Легко</string>
     <string name="TIME_GAIN_ANSWER_DIFFICULT">Сложно</string>
     <string name="TIME_GAIN_ANSWER_VERY_DIFFICULT">Очень сложно 😱</string>
-    
+
     <!-- Recommendations -->
     <string name="RECOMMENDATIONS_SKIP_BUTTON">Пропустить</string>
     <string name="RECOMMENDATIONS_INTRO">Ваши коллеги порекомедовали вас за ваши навыки.\n\nВы их подтверждаете?</string>
     <string name="RECOMMENDATIONS_TALENTS_RECOMMENDED">%s порекомендовал вас за эти навыки: </string>
     <string name="RECOMMENDATIONS_OTHERS">Другие навыки, которые могут вас заинтересовать:</string>
-    
+
     <!-- Notifications -->
     <string name="NOTIFICATION_TITLE">Уведомление</string>
     <string name="NOTIFICATION_EMPTY_MESSAGE">Ответьте на хотя бы один вопрос и вы начнёте получать уведомления</string>
@@ -270,13 +272,13 @@
     <string name="NOTIFICATION_TYPE_NEW_ADMIN_WHASQ">%1$s задал вопрос: %2$s</string>
     <string name="NOTIFICATION_TYPE_TAG">Вас порекомендовал %1$s. Помогите ему с вопросом %2$s</string>
     <string name="NOTIFICATION_BLACKLISTED_MESSAGE">Этот вопрос более не видим</string>
-    
+
     <!-- Skills suggestions -->
     <string name="SKILLS_SUGGESTIONS_TITLE">Предложить навыки</string>
-    
+
     <!-- Rankings -->
     <string name="RANKING_NOT_DEFINE">Подиум пока не определен для этого месяца</string>
-    
+
     <plurals name="RANKING_POSITION_SUFFIX">
         <item quantity="one">@string/RANKING_POSITION_SUFFIX_FIRST</item>
         <item quantity="two">@string/RANKING_POSITION_SUFFIX_SECOND</item>
@@ -285,7 +287,7 @@
     <string name="RANKING_POSITION_SUFFIX_FIRST">вый</string>
     <string name="RANKING_POSITION_SUFFIX_SECOND">ой</string>
     <string name="RANKING_POSITION_SUFFIX_OTHERS">ий</string>
-    
+
     <!-- Alerts -->
     <string name="ALERT_PROFILE_PICTURE_TITLE">Фото профиля</string>
     <string name="ALERT_PROFILE_PICTURE_ENTRY_CAPTURE">Сделать фотографию</string>
@@ -303,7 +305,7 @@
     <string name="ALERT_SKILL_DELETE_MESSAGE">Вы действительно хотите удалить этот навык: </string>
     <string name="ALERT_LANGUAGE_DELETE_TITLE">Осторожно!</string>
     <string name="ALERT_LANGUAGE_DELETE_MESSAGE">Вы действительно хотите удалить владение этим языком из профиля: </string>
-    
+
     <!-- BottomSheets -->
     <string name="BOTTOM_SHEET_ENTRY_WHASQ_REPORT">Пожаловаться</string>
     <string name="BOTTOM_SHEET_ENTRY_WHASQ_EDIT">Изменить</string>
@@ -320,17 +322,17 @@
     <string name="BOTTOM_SHEET_ENTRY_ACCOUNT_LOGOUT">Выход</string>
     <string name="BOTTOM_SHEET_ENTRY_ACCOUNT_DELETE">Удалить аккаунт</string>
     <string name="BOTTOM_SHEET_ENTRY_ACCOUNT_UPDATE_PASSWORD">Изменить пароль</string>
-    
+
     <!-- Permissions -->
     <string name="PERMISSIONS_TITLE">Разрешения</string>
     <string name="PERMISSIONS_REFUSE_MESSAGE">Для продолжения необходимо предоставить все разрешения</string>
     <string name="PERMISSIONS_MEDIA_MESSAGE">Чтобы задавать вопросы такого вида вы должны предоставить следующие разрешения</string>
-    
+
     <!-- SnackBars -->
     <string name="SNACK_BAR_REPORT_SUCCESS">Ваша жалоба будет принята во внимание</string>
     <string name="SNACK_BAR_DELETE_SUCCESS">Ваш вопрос был удалён</string>
     <string name="SNACK_BAR_ARCHIVE_SUCCESS">Ваш вопрос был отправлен в архив</string>
-    
+
     <!-- Filters -->
     <string-array name="FILTERS_TROPHY">
         <item>@string/FILTER_TODAY</item>
@@ -346,29 +348,43 @@
     <string name="FILTER_OLDER">Старые</string>
     <string name="FILTER_SOLVED">Решённые</string>
     <string name="FILTER_NOT_SOLVED">Нерешённые</string>
-    
+
     <!-- Dates -->
     <string name="DATES_FEW_SECONDS_AGO">Несколько секунд назад</string>
-    
+
     <plurals name="DATES_HOURS_AGO">
         <item quantity="one">@string/DATES_ONE_HOUR_AGO</item>
         <item quantity="other">@string/DATES_FEW_HOURS_AGO</item>
     </plurals>
     <string name="DATES_ONE_HOUR_AGO">%1$d час назад</string>
     <string name="DATES_FEW_HOURS_AGO">%1$d часов назад</string>
-    
+
     <plurals name="DATES_DAYS_AGO">
         <item quantity="one">@string/DATES_ONE_DAY_AGO</item>
         <item quantity="other">@string/DATES_FEW_DAYS_AGO</item>
     </plurals>
     <string name="DATES_ONE_DAY_AGO">%1$d день назад</string>
     <string name="DATES_FEW_DAYS_AGO">%1$d дней назад</string>
-    
+
     <plurals name="DATES_MINUTES_AGO">
         <item quantity="one">@string/DATES_ONE_MINUTE_AGO</item>
         <item quantity="other">@string/DATES_FEW_MINUTES_AGO</item>
     </plurals>
     <string name="DATES_ONE_MINUTE_AGO">%1$d минуту назад</string>
     <string name="DATES_FEW_MINUTES_AGO">%1$d минут назад</string>
-    
+    <string name="DATE_YTD">C начала %s</string>
+
+    <!--Onboarding-->
+    <string name="TOOLTIP_WHASQ_MY_SKILLS">Отобразите whasq о ваших талантах и ​​напишите на языке, добавленном в ваш профиль.</string>
+    <string name="TOOLTIP_WHASQ_ALL_SKILLS">Отобразите все whasq на языке, добавленном в ваш профиль.</string>
+    <string name="TOOLTIP_CREATE_WHASQ">Задайте свой вопрос!</string>
+    <string name="TOOLTIP_WHASQ_MEDIA_TYPES">Добавьте медиафайлы, чтобы проиллюстрировать ваш вопрос. например. изображение, текст, видео или просто звук. Вы также можете использовать их для ответа на Whasq.</string>
+    <string name="TOOLTIP_WHASQ_ADD_SKILLS">Выберите 3 таланта, которые могут помочь вам решить ваш whasq!</string>
+    <string name="TOOLTIP_WHASQ_ADD_LANGUAGE">Выберите язык, на котором написан ваш whasq. Выбор языка зависит от языков, добавленных в ваш профиль 🇫🇷🇪🇸🇷🇺, ..</string>
+    <string name="TOOLTIP_PROFILE_PICTURE">Добавьте некоторый цвет в приложение, обновив свой профиль</string>
+    <string name="TOOLTIP_PROFILE_ENRICH">Проведите влево, чтобы добавить свои таланты и языки, на которых вы говорите !</string>
+
+    <!-- WHASQ CREATION -->
+    <string name="WHASQ_CREATION_TITLE">Whasq</string>
+
 </resources>

@@ -1,17 +1,17 @@
 <!--
- ~ Copyright (C) 2017 MINDORKS NEXTGEN PRIVATE LIMITED
- ~ Licensed under the Apache License, Version 2.0 (the "License");
- ~ you may not use this file except in compliance with the License.
- ~ You may obtain a copy of the License at
- ~
- ~     https://mindorks.com/license/apache-v2
- ~
- ~ Unless required by applicable law or agreed to in writing, software
- ~ distributed under the License is distributed on an "AS IS" BASIS,
- ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
- ~ See the License for the specific language governing permissions and
- ~ limitations under the License
- -->
+	  ~ Copyright (C) 2017 MINDORKS NEXTGEN PRIVATE LIMITED
+	  ~ Licensed under the Apache License, Version 2.0 (the "License");
+	  ~ you may not use this file except in compliance with the License.
+	  ~ You may obtain a copy of the License at
+	  ~
+	  ~     https://mindorks.com/license/apache-v2
+	  ~
+	  ~ Unless required by applicable law or agreed to in writing, software
+	  ~ distributed under the License is distributed on an "AS IS" BASIS,
+	  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+	  ~ See the License for the specific language governing permissions and
+	  ~ limitations under the License
+	  -->
 
 <!-- This file store all english strings -->
 <resources>
@@ -30,7 +30,8 @@
     <string name="COMMON_ALLOW">Autoriser</string>
     <string name="COMMON_NOT_ALLOW">Ne pas autoriser</string>
     <string name="COMMON_LOGIN">Connexion</string>
-    
+    <string name="COMMON_DOWNLOAD_ATTACHEMENT">[Télécharger la PJ]</string>
+
     <!-- ERRORS -->
     <string name="ERROR_DISCONNECT">Votre session a expiré.</string>
     <string name="ERROR_COMMENT_ALREADY_LIKED">Vous avez déjà aimé ce commentaire</string>
@@ -53,20 +54,20 @@
     <string name="ERROR_EMPTY_LANGUAGES">Vous devez sélectionner des langues</string>
     <string name="ERROR_UNCHECKED_CGU">Vous devez accepter les CGU</string>
     <string name="ERROR_EMPTY_REGISTER_FORM">Le formulaire est incomplet</string>
-    
+
     <!-- CGU -->
     <string name="CGU_TITLE">Conditions générales d\'utilisation</string>
     <string name="CGU_READ_ALL">Veuillez lire toutes les conditions générales d\'utilisation pour pouvoir poursuivre</string>
-    
+
     <!-- FAQ -->
     <string name="FAQ_TITLE">Foire Aux Questions</string>
-    
+
     <!-- Medias -->
     <string name="MEDIA_TYPE_TEXT">Message whasq</string>
     <string name="MEDIA_TYPE_IMAGE">Photo whasq</string>
     <string name="MEDIA_TYPE_VIDEO">Vidéo whasq</string>
     <string name="MEDIA_TYPE_AUDIO">Audio whasq</string>
-    
+
     <!-- EditTexts Hints -->
     <string name="HINT_EMAIL_ADDRESS">Adresse e-mail</string>
     <string name="HINT_PASSWORD">Mot de passe</string>
@@ -80,11 +81,11 @@
     <string name="HINT_TITLE">Mon titre</string>
     <string name="HINT_MESSAGE">Mon message</string>
     <string name="HINT_EXCHANGE">Je propose en échange…un café</string>
-    
+
     <!-- EditTexts Labels -->
     <string name="LABEL_EMAIL">Adresse e-mail *</string>
     <string name="LABEL_FULL_NAME">Nom complet *</string>
-    
+
     <!-- Buttons Texts -->
     <string name="BUTTON_CONNECT">Se connecter</string>
     <string name="BUTTON_NEXT">Suivant</string>
@@ -93,7 +94,7 @@
     <string name="BUTTON_VALIDATE">Valider</string>
     <string name="BUTTON_PREVIEW">Prévisualiser</string>
     <string name="BUTTON_PUBLISH">Publier</string>
-    
+
     <!-- TabBar Titles -->
     <string name="TAB_BAR_LOGIN_TITLE">Connexion</string>
     <string name="TAB_BAR_REGISTER_TITLE">Inscription</string>
@@ -101,7 +102,7 @@
     <string name="TAB_BAR_ALL_WHASQ_TITLE">Tout</string>
     <string name="TAB_BAR_LEADER_BOARD">Classement</string>
     <string name="TAB_BAR_MY_WHASQ_POINTS">Mes Whasqpoints</string>
-    
+
     <!-- Profile Pages title -->
     <string name="PROFILE_TITLE">Profil</string>
     <string name="PROFILE_RANK">Position</string>
@@ -120,30 +121,30 @@
     <string name="PROFILE_DATAS_SENDING_SUCCESS">Vos données ont été envoyées sur votre adresse e-mail</string>
     <string name="PROFILE_DATAS_SENDING_ERROR">Une erreur est survenue, vos données n\'ont pas pu être envoyées, veuillez réessayer</string>
     <string name="PROFILE_MY_WHASQ">My whasqs</string>
-    
+
     <plurals name="PROFILE_WHASQ_COUNT">
         <item quantity="one">@string/PROFILE_WHASQ_COUNT_ONE</item>
         <item quantity="other">@string/PROFILE_WHASQ_COUNT_MORE</item>
     </plurals>
-    <string name="PROFILE_WHASQ_COUNT_ONE" formatted="false">$d whasq</string>
-    <string name="PROFILE_WHASQ_COUNT_MORE" formatted="false">$d whasqs</string>
-    
-    
+    <string name="PROFILE_WHASQ_COUNT_ONE" formatted="false">%d whasq</string>
+    <string name="PROFILE_WHASQ_COUNT_MORE" formatted="false">%d whasqs</string>
+
+
     <!-- Login Activity -->
     <string name="LOGIN_PASSWORD_FORGOTTEN">Mot de passe oublié ou changement de mot de passe</string>
     <string name="CONDITIONS_OF_USE"><u>J\'accepte les conditions générales d\'utilisation</u></string>
-    
-    
+
+
     <!-- Camera Activity -->
     <string name="CAPTURE_LIMIT_LENGTH_REACHED_TITLE">Enregistrement vidéo interrompu</string>
     <string name="CAPTURE_LIMIT_LENGTH_REACHED_MESSAGE">Vous avez atteint la durée maximum d\enregistrement vidéo.</string>
-    
-    
+
+
     <!-- Microphone Activity -->
     <string name="AUDIO_LIMIT_LENGTH_REACHED_TITLE">Enregistrement audio interrompu</string>
     <string name="AUDIO_LIMIT_LENGTH_REACHED_MESSAGE">Vous avez atteint la durée maximum d\enregistrement audio.</string>
-    
-    
+
+
     <!-- Language Activity -->
     <string name="LANGUAGE_TITLE_PROFILE">Mes langues</string>
     <string name="LANGUAGE_TITLE_WHASQ">Langues</string>
@@ -151,8 +152,8 @@
     <string name="LANGUAGE_SUBTITLE_WHASQ">Sélectionnez la langue du whasq.</string>
     <string name="LANGUAGE_ERROR_EMPTY_SELECTION">Vous devez sélectionner au moions une langue.</string>
     <string name="LANGUAGE_ERROR_NO_SELECTION">Oups, vous devez sélectionner au moins une langue</string>
-    
-    
+
+
     <!-- Skills Activity -->
     <string name="SKILLS_TITLE_REGISTRATION">Mes talents</string>
     <string name="SKILLS_TITLE_PROFILE">Mes talents</string>
@@ -161,15 +162,15 @@
     <string name="SKILLS_SUBTITLE_PROFILE">Quels talents possédez-vous?</string>
     <string name="SKILLS_SUBTITLE_WHASK">Les talents concernés par ce whasq (3 maximum) :</string>
     <string name="SKILLS_SUGGESTION"><u>Suggérer un talent par mail</u></string>
-    
-    
+
+
     <!-- Email -->
     <string name="EMAIL_APP_SELECTOR_TEXT">Suggérer des talents par mail</string>
     <string name="EMAIL_MISSING_SKILL_DEST">jessie@whasq.com</string>
     <string name="EMAIL_MISSING_SKILL_SUBJECT">Suggestion d’un talent !</string>
     <string name="EMAIL_MISSING_SKILL_BODY">Bonjour. Je suggère d\’ajouter le talent :</string>
-    
-    
+
+
     <!-- Whasq -->
     <string name="WHASQ_TITLE">Whasq</string>
     <string name="WHASQ_EDIT_TITLE">Editer</string>
@@ -191,19 +192,19 @@
     <string name="WHASQ_EDITION_NO_MORE_SKILLS">Un whasq ne peut comporter que 3 talents maximum</string>
     <string name="WHASQ_POINT_USEFULL_MESSAGE" formatted="false">%1$s a trouvé votre réponse utile !</string>
     <string name="WHASQ_POINT_CHAMPION_MESSAGE" formatted="false">%1$s vous a désigné champion de son whasq !</string>
+    <string name="WHASQ_POINT_RECOMMEND_MESSAGE">Vous avez été recommandé par %s</string>
     <string name="WHASQ_DEFAULT_MESSAGE">Si vous pouvez m\'aider, merci de me contacter.</string>
-    
-    
+
+
     <plurals name="WHASQ_ANSWERS_COUNT">
         <item quantity="zero">@string/WHASQ_ANSWERS_COUNT_ZERO</item>
         <item quantity="one">@string/WHASQ_ANSWERS_COUNT_ONE</item>
         <item quantity="other">@string/WHASQ_ANSWERS_COUNT_MORE</item>
     </plurals>
     <string name="WHASQ_ANSWERS_COUNT_ZERO">No answer</string>
-    <string name="WHASQ_ANSWERS_COUNT_ONE" formatted="false">$d réponse</string>
-    <string name="WHASQ_ANSWERS_COUNT_MORE" formatted="false">$d réponses</string>
-    
-    
+    <string name="WHASQ_ANSWERS_COUNT_ONE" formatted="false">%d réponse</string>
+    <string name="WHASQ_ANSWERS_COUNT_MORE" formatted="false">%d réponses</string>
+
     <plurals name="WHASQ_READ_COUNT">
         <item quantity="zero">@string/WHASQ_READ_COUNT_ZERO</item>
         <item quantity="one">@string/WHASQ_READ_COUNT_ONE</item>
@@ -212,8 +213,8 @@
     <string name="WHASQ_READ_COUNT_ZERO">Non lu</string>
     <string name="WHASQ_READ_COUNT_ONE">Lu %1$s fois</string>
     <string name="WHASQ_READ_COUNT_OTHER">Lu %1$s fois</string>
-    
-    
+
+
     <!-- Whasq Answers -->
     <string name="WHASQ_ANSWER_OPTION_EDIT">Editer</string>
     <string name="WHASQ_ANSWER_OPTION_DELETE">Supprimer</string>
@@ -226,28 +227,28 @@
     <string name="WHASQ_ANSWER_MEDIA_ENTRY_IMPORT">Importer une photo</string>
     <string name="WHASQ_ANSWER_MEDIA_ENTRY_VIDEO">Vidéo</string>
     <string name="WHASQ_ANSWER_MEDIA_ENTRY_AUDIO">Audio</string>
-    
-    
+
+
     <!-- Geolocation -->
     <string name="GEOLOCATION_PERMISSION_TITLE">Facilitez vos échanges</string>
-    <string name="GEOLOCATION_PERMISSION_EXPLANATION">Pour solliciter les whasqers proches de vous, \npermettez à Whasq d’accéder à votre géolocalisation</string>
+    <string name="GEOLOCATION_PERMISSION_EXPLANATION">Pour solliciter les whasqueurs proches de vous, \npermettez à Whasq d\'accéder à votre géolocalisation</string>
     <string name="GEOLOCATION_PERMISSION_ALLOW">Autoriser l’accès</string>
     <string name="GEOLOCATION_PERMISSION_NOT_ALLOW">Ne pas autoriser</string>
-    
-    
+
+
     <!-- New password -->
     <string name="NEW_PASSWORD_DIALOG_EMPTY_EMAIL_ERROR">Vous devez renseigner votre e-mail</string>
     <string name="NEW_PASSWORD_DIALOG_EMAIL_SENT">Un e-mail a été envoyé à %s.</string>
-    
+
     <string name="NEW_PASSWORD_DIALOG_TITLE">Réinitialiser le mot de passe</string>
     <string name="NEW_PASSWORD_DIALOG_EXPLANATION">Entrez votre e-mail afin de modifier ou réinitialiser votre mot de passe.</string>
     <string name="NEW_PASSWORD_EMAIL_HINT">E-mail</string>
-    
+
     <!-- Time Gain -->
     <string name="TIME_GAIN_TITLE_OWNER"> Aidez-nous à nous améliorer</string>
-    <string name="TIME_GAIN_QUESTION"> Combien de temps cela vous a t\'il permis de gagner ?</string>
+    <string name="TIME_GAIN_QUESTION"> Combien de temps cela vous a-t-il permis de gagner ?</string>
     <string name="TIME_GAIN_QUESTION_OWNER"> Cool ! Votre whasq  \"%s\" a été résolu il y a %s.\n\n L\'aide de la communauté vous a fait gagner:</string>
-    <string name="TIME_GAIN_QUESTION_RESOLVER"> Quel talent ! il y a %s, vous avez trouvé la solution de ce whasq\"%s\". C'était comment ?</string>
+    <string name="TIME_GAIN_QUESTION_RESOLVER"> Quel talent ! il y a %s, vous avez trouvé la solution de ce whasq\"%s\". C\'était comment ?</string>
     <string name="TIME_GAIN_ANSWER_HALF_AN_HOUR">1/2 heure</string>
     <string name="TIME_GAIN_ANSWER_ONE_HOUR">1 heure</string>
     <string name="TIME_GAIN_ANSWER_HALF_A_DAY">1/2 journée</string>
@@ -258,13 +259,13 @@
     <string name="TIME_GAIN_ANSWER_EASY"> Facile 😉</string>
     <string name="TIME_GAIN_ANSWER_DIFFICULT">Difficile 😅</string>
     <string name="TIME_GAIN_ANSWER_VERY_DIFFICULT">Très difficile😱</string>
-    
+
     <!-- Recommendations -->
     <string name="RECOMMENDATIONS_SKIP_BUTTON">Continuer</string>
     <string name="RECOMMENDATIONS_INTRO"> Il est temps d\'enrichir votre profil</string>
     <string name="RECOMMENDATIONS_TALENTS_RECOMMENDED">%s vous a recommandé les talents:: </string>
     <string name="RECOMMENDATIONS_OTHERS">Autres talents pouvant vous intéresser:</string>
-    
+
     <!-- Notifications -->
     <string name="NOTIFICATION_TITLE">Notifications</string>
     <string name="NOTIFICATION_EMPTY_MESSAGE">Si quelqu\'un aime votre réponse ou recommande un de vos talents, vous recevrez des notifications.</string>
@@ -278,17 +279,17 @@
     <string name="NOTIFICATION_TYPE_USEFULL_ANSWER">%1$s a trouvé votre réponse utile !%2$s</string>
     <string name="NOTIFICATION_TYPE_CHAMPION_ANSWER">%1$s vous a désigné comme champion de son whasq%2$s</string>
     <string name="NOTIFICATION_TYPE_BLACKLISTED">%1$s a signalé votre whasq: %2$s</string>
-    <string name="NOTIFICATION_TYPE_NEW_SKILL">Un nouveau talent %1$s a été ajouté ! Voulez-vous l’ajouter à votre profil ? </string>
+    <string name="NOTIFICATION_TYPE_NEW_SKILL">Un nouveau talent %1$s a été ajouté ! Voulez-vous l\'ajouter à votre profil ? </string>
     <string name="NOTIFICATION_TYPE_NEW_ADMIN_WHASQ">%1$s a posté un nouveau whasq: %2$s</string>
     <string name="NOTIFICATION_TYPE_TAG"> "Vous avez été recommandé par %1$s pour le whasq :%2$s.</string>
-    <string name="NOTIFICATION_BLACKLISTED_MESSAGE"> "Ce Whasq n’est plus visible.</string>
-    
+    <string name="NOTIFICATION_BLACKLISTED_MESSAGE"> "Ce Whasq n\'est plus visible.</string>
+
     <!-- Skills suggestions -->
     <string name="SKILLS_SUGGESTIONS_TITLE">Recommander des talents</string>
-    
+
     <!-- Rankings -->
     <string name="RANKING_NOT_DEFINE"> Le podium n\'a pas encore été défini pour ce mois.</string>
-    
+
     <plurals name="RANKING_POSITION_SUFFIX">
         <item quantity="one">@string/RANKING_POSITION_SUFFIX_FIRST</item>
         <item quantity="two">@string/RANKING_POSITION_SUFFIX_SECOND</item>
@@ -297,9 +298,9 @@
     <string name="RANKING_POSITION_SUFFIX_FIRST">er</string>
     <string name="RANKING_POSITION_SUFFIX_SECOND">e</string>
     <string name="RANKING_POSITION_SUFFIX_OTHERS">e</string>
-    
+
     <!-- Alerts -->
-    
+
     <string name="ALERT_PROFILE_PICTURE_TITLE">Choisis ta photo de profil</string>
     <string name="ALERT_PROFILE_PICTURE_ENTRY_CAPTURE">Depuis l\'appareil photo</string>
     <string name="ALERT_PROFILE_PICTURE_ENTRY_IMPORT"> Depuis la galerie</string>
@@ -316,10 +317,10 @@
     <string name="ALERT_SKILL_DELETE_MESSAGE"> "Voulez-vous vraiment supprimer le talent </string>
     <string name="ALERT_LANGUAGE_DELETE_TITLE">Attention</string>
     <string name="ALERT_LANGUAGE_DELETE_MESSAGE"> Voulez-vous vraiment supprimer cette langue de votre profil  : </string>
-    
-    
+
+
     <!-- BottomSheets -->
-    
+
     <string name="BOTTOM_SHEET_ENTRY_WHASQ_REPORT">Signaler</string>
     <string name="BOTTOM_SHEET_ENTRY_WHASQ_EDIT">Editer</string>
     <string name="BOTTOM_SHEET_ENTRY_WHASQ_DELETE"> Effacer le whasq?</string>
@@ -335,19 +336,19 @@
     <string name="BOTTOM_SHEET_ENTRY_ACCOUNT_LOGOUT">Se déconnecter</string>
     <string name="BOTTOM_SHEET_ENTRY_ACCOUNT_DELETE">Supprimer mon compte</string>
     <string name="BOTTOM_SHEET_ENTRY_ACCOUNT_UPDATE_PASSWORD">Changer le mot de passe</string>
-    
+
     <!-- Permissions -->
-    
+
     <string name="PERMISSIONS_TITLE">Autoriser</string>
     <string name="PERMISSIONS_REFUSE_MESSAGE">Veuillez accepter les conditions générales d\'utilisations pour pouvoir continuer</string>
     <string name="PERMISSIONS_MEDIA_MESSAGE"> Merci d’accepter les CGU afin de visualiser la pièce </string>
-    
+
     <!-- SnackBars -->
-    
+
     <string name="SNACK_BAR_REPORT_SUCCESS">Le signalement sera pris en compte </string>
     <string name="SNACK_BAR_DELETE_SUCCESS">Supprimer le Whasq</string>
     <string name="SNACK_BAR_ARCHIVE_SUCCESS">Le whasq a été archivé</string>
-    
+
     <!-- Filters -->
     <string-array name="FILTERS_TROPHY">
         <item>@string/FILTER_TODAY</item>
@@ -363,40 +364,42 @@
     <string name="FILTER_OLDER">Anciens</string>
     <string name="FILTER_SOLVED">Résolus</string>
     <string name="FILTER_NOT_SOLVED">Non résolus</string>
-    
+
     <!-- Dates -->
-    <string name="DATES_FEW_SECONDS_AGO">Il y a quelques secondes s</string>
-    
+    <string name="DATES_FEW_SECONDS_AGO">Il y a quelques secondes</string>
+
     <plurals name="DATES_HOURS_AGO">
         <item quantity="one">@string/DATES_ONE_HOUR_AGO</item>
         <item quantity="other">@string/DATES_FEW_HOURS_AGO</item>
     </plurals>
-    <string name="DATES_ONE_HOUR_AGO"> Il y a %1$d heure</string>
-    <string name="DATES_FEW_HOURS_AGO"> Il y a %1$d heures</string>
-    
+    <string name="DATES_ONE_HOUR_AGO">Il y a %1$d heure</string>
+    <string name="DATES_FEW_HOURS_AGO">Il y a %1$d heures</string>
+
     <plurals name="DATES_DAYS_AGO">
         <item quantity="one">@string/DATES_ONE_DAY_AGO</item>
         <item quantity="other">@string/DATES_FEW_DAYS_AGO</item>
     </plurals>
-    <string name="DATES_ONE_DAY_AGO">Il y a %1$d jour </string>
-    <string name="DATES_FEW_DAYS_AGO">Il y a %1$d jours </string>
-    
+    <string name="DATES_ONE_DAY_AGO">Il y a %1$d jour</string>
+    <string name="DATES_FEW_DAYS_AGO">Il y a %1$d jours</string>
+
     <plurals name="DATES_MINUTES_AGO">
         <item quantity="one">@string/DATES_ONE_MINUTE_AGO</item>
         <item quantity="other">@string/DATES_FEW_MINUTES_AGO</item>
     </plurals>
     <string name="DATES_ONE_MINUTE_AGO">Il y a %1$d minute</string>
     <string name="DATES_FEW_MINUTES_AGO">Il y a %1$d minutes</string>
-    
+    <string name="DATE_YTD">Depuis le début %s</string>
+
+    <!--Onboarding-->
+    <string name="TOOLTIP_WHASQ_MY_SKILLS">Affichez les whasqs concernant vos talents et rédigés dans la langue ajoutée dans votre profil.</string>
+    <string name="TOOLTIP_WHASQ_ALL_SKILLS">Affichez les whasqs dans la langue ajoutée dans votre profil.</string>
+    <string name="TOOLTIP_CREATE_WHASQ">Posez votre question !</string>
+    <string name="TOOLTIP_WHASQ_MEDIA_TYPES">Ajoutez des médias pour illustrer votre question. par ex. image, texte, vidéo, ou juste le son. Vous pouvez les utiliser aussi pour répondre un Whasq.</string>
+    <string name="TOOLTIP_WHASQ_ADD_SKILLS">Choisissez 3 talents qui pourront vous aider à résoudre votre whasq !</string>
+    <string name="TOOLTIP_WHASQ_ADD_LANGUAGE">Sélectionnez la langue dans laquelle votre whasq est rédigé. Le choix de la langue dépend des langues ajoutées dans votre profil</string>
+    <string name="TOOLTIP_PROFILE_PICTURE">Ajoutez une peu de couleur sur l\'app en mettant à jour votre profil.</string>
+    <string name="TOOLTIP_PROFILE_ENRICH">Balayez vers la gauche pour ajouter vos talents et les langues que vous parlez !</string>
+
+    <!-- WHASQ CREATION -->
+    <string name="WHASQ_CREATION_TITLE">Whasq</string>
 </resources>
-
-
-
-
-
-
-
-
-
-
-
