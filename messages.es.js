@@ -14,8 +14,8 @@ const messages = {
     'login-password-placeholder': 'Contraseña',
     'login-bad-password': 'La contraseña es incorrecta. Por favor intentalo de nuevo.',
     'login-error': 'Se produjo un error al momento de conectarse. Por favor intentalo de nuevo.',
-    'login-password-see-password': 'Voir le mot de passe', /* TODO */
-    'login-password-not-see-password': 'Cacher le mot de passe', /* TODO */
+    'login-password-see-password': 'Ver la contraseña', 
+    'login-password-not-see-password': 'No mostrar la contraseña',
   
     //  Global
     'search': 'Búsqueda',
@@ -26,8 +26,8 @@ const messages = {
     'first-ranking-suffix': 'ero',
     'second-ranking-suffix': 'do',
     'third-ranking-suffix': 'ero',
-    'default-ranking-suffix': 'ème', /* TODO */
-    'back-to-homepage': 'Retour à l\'accueil', /* TODO */
+    'default-ranking-suffix':
+    'back-to-homepage': 'Volver a la pagina principal',
     
     // Header
     'header-profile': 'Perfil',
@@ -47,7 +47,7 @@ const messages = {
     // Footer
     'footer-privacy-policy': 'Política de confidencialidad',
     'footer-assistance': '¿Necesitas ayuda? Contacta jessie@whasq.com (De lunes a viernes de 9:00am à 12:00pm y de las 2:00 a 6:00 pm)',
-    'footer-follow-us': 'Suivez-nous :', /* TODO */
+    'footer-follow-us': 'Síguenos :', 
 
     // Home
     'home-title': 'Titre de la page d\'accueil',
@@ -64,7 +64,7 @@ const messages = {
     // Whasq
     'whasq-days-ago': 'Hace unos {days} días',
     'whasq-read': 'leído',
-    'whasq-read-count': 'Consulté {count} fois', /* TODO */
+    'whasq-read-count': 'Leído{count} veces', 
     'whasq-answers-count': 'Número',
     'whasq-whasqpoints-solution': 'whasqpuntos si encuentras la solución',
     'whasq-whasqpoints-usefull-answer': 'whasqpoints si tu respuesta es útil',
@@ -80,11 +80,11 @@ const messages = {
     'whasq-notify-around': 'Notificar a mi alrededor',
     'whasq-urgent': 'Urgente',
     'whasq-channel': 'Idioma del whasq',
-    'whasq-no-media': 'Pas de média', /* TODO */
-    'whasq-media-image': 'Photo whasq', /* TODO */
-    'whasq-media-video': 'Vidéo whasq', /* TODO */
-    'whasq-media-audio': 'Audio whasq', /* TODO */
-    'whasq-media-file': 'Fichier whasq', /* TODO */
+    'whasq-no-media': 'Sin archivo', 
+    'whasq-media-image': 'Foto whasq',
+    'whasq-media-video': 'Video whasq', 
+    'whasq-media-audio': 'Audio whasq', 
+    'whasq-media-file': 'Archivo whasq', 
 
     // Profile
     'error-getting-user': 'Un error se produjo al recuperar el profil del usuario',
@@ -116,12 +116,12 @@ const messages = {
 
     // AddUserSkillModal
     'add-user-skill-title': 'Agregar un talento',
-    'add-user-skill-subtitle': 'Vous avez sûrement d\'autres talents, vous pouvez les ajouter !', /* TODO */
-    'add-user-skill-subtitle-first-login': 'Vous avez des talents, inscrivez les dans votre profil !', /* TODO */
+    'add-user-skill-subtitle': '¡De seguro que tienes otros talentos, es hora que agregarlos !',
+    'add-user-skill-subtitle-first-login': '¡ De seguro que tienes talentos, es hora de agregarlos !',
     
     // AddUserChannelModal
     'add-user-channel-title': 'Agregar un idioma',
-    'add-user-channel-subtitle': 'Sélectionnez les langues que vous parlez', /* TODO */
+    'add-user-channel-subtitle': 'Elige los idiomas que hablas', 
 
     // MediaAttachment
     'media-attachment-download': 'Descargar el archivo adjunto',
@@ -139,7 +139,7 @@ const messages = {
     'notification-message-suggest': '{fullname} te ha recomendado el talento',
     'notification-message-blacklist': '{fullname} ha señalado el whasq',
     'notification-message-admin-whasq': '{fullname} ha publicado un nuevo Whasq',
-    'notification-days-ago': 'Hace {days} jours',
+    'notification-days-ago': 'Hace {days} dias',
 
     // WhasqWrite
     'whasq-write-title': 'Titulo *',
@@ -154,7 +154,7 @@ const messages = {
     'whasq-write-import-drop-here': 'Envía aquí tu archivo .',
     'whasq-write-error-importing-file': 'Un error se produjo al importar el archivo.',
     'whasq-write-import-file-button': 'Importar el archivo',
-    'whasq-write-import-requirements': 'Tu archivo debe ser doit una image, un video, audio o Microsoft Office.',
+    'whasq-write-import-requirements': 'Tu archivo debe ser una imagen, un video, audio o Microsoft Office.',
     'whasq-write-import-size-limit': 'La talla maxima del archivo es 1mo.',
     'whasq-write-linked-skills': 'Talentos indicados',
     'whasq-write-linked-channel': 'Idioma indicado',
@@ -184,7 +184,7 @@ const messages = {
     'answer-report-confirm-message': '¿ Estás seguro que quieres senalar esta respuesta ?',
     'answer-champion-confirm-message': '¿ Estás seguro que quieres definir elegir esta respuesta como la solución de tu whasq ?',
     'answer-media-attachment-no-preview': 'Vista previa no disponible',
-    'answer-empty-content': 'Votre devez rédiger un message ou ajouter un média pour pouvoir envoyer votre réponse.', /* TODO */
+    'answer-empty-content': 'Debes escribir un mensaje o agregar un archivo para enviar tu respuesta.',
 
     // WhasqPerso
     'whasq-perso-read-times': 'Leído {readUsersCount} veces',
@@ -222,17 +222,17 @@ const messages = {
     'register-fullname': 'Nombre completo',
     'register-phone': 'Telefono',
     'register-job-position': 'Puesto ',
-    'register-channels': 'Langues parlées', /* TODO */
+    'register-channels': 'Idiomas que hablas', 
     'register-channel-required': 'Es necesario agregar al menos un idioma para finalisar la inscripcion.',
     'register-add': 'Agregar',
-    'register-password': 'Contrasena',
-    'register-password-confirm': 'Confirmar la contrasena',
-    'register-password-format': 'La contraseñ debe tener al menos 8 letras, 4 autres caracteres (mayuscula, miniscula, numero et caracter especial)',
-    'register-passwords-dont-match': 'La contraseña no es corresponde.',
+    'register-password': 'Contraseña',
+    'register-password-confirm': 'Confirmar la contraseña',
+    'register-password-format': 'La contraseña debe tener al menos 8 letras, 4 autres caracteres (mayuscula, miniscula, numero et caracter especial)',
+    'register-passwords-dont-match': 'La contraseña no corresponde.',
     'register-button': 'Inscribirse',
     'register-field-required': 'Es necesario completar la casilla "{field}" para finalisar la inscripción .',
-    'register-password-see-password': 'Ver la contrasena',
-    'register-password-not-see-password': 'Esconder la contrasena',
+    'register-password-see-password': 'Ver la contraseña',
+    'register-password-not-see-password': 'Esconder la contraseña',
 
     // Ranking
     'ranking-answers-label': 'RESPUESTAS',
@@ -270,29 +270,29 @@ const messages = {
     'suggestions-modal-recommended-by': '{fullname} te ha recomendado los siguientes talentos :',
 
     // ZoomImageModal
-    'zoom-image-modal-title': 'Zoom de l\'image', /* TODO */
+    'zoom-image-modal-title': 'Zoom de la imagen',
 
     // UploadProfileImageModal
-    'drop-file-here-or-click': 'Déposez votre fichier ici ou cliquez pour sélectionner le fichier à importer.', /* TODO */
-    'profile-image-size-limit': 'Seuls les fichiers images d\'une taille inférieure à 1Mo sont acceptés.', /* TODO */
-    'error-importing-profile-image': 'Une erreur s\'est produite lors de l\'import de l\'image. Veuillez réessayer.', /* TODO */
-    'import-profile-image': 'Importer l\'image', /* TODO */
-    'choose-profile-image': 'Choisissez votre image de profil', /* TODO */
-    'profile-image-square-required': 'L\'image doit avoir un format carré.', /* TODO */
+    'drop-file-here-or-click': 'Suelta tu archivo aquí o dale clic para seleccionar el archivo a importar.', 
+    'profile-image-size-limit': 'Solo se aceptan archivos de imagen menores de 1MB..', 
+    'error-importing-profile-image': 'Se produjo un error al importar la imagen. Por favor intentalo de nuevo.',
+    'import-profile-image': 'Importar la imagen, 
+    'choose-profile-image': 'Elige tu foto de perfil', 
+    'profile-image-square-required': 'La imagen debe ser cuadrada.', 
     
     // TagUserModal
-    'tag-user-modal-title': 'Tagguer un utilisateur', /* TODO */
-    'tag-user-modal-search': 'Recherchez un utilisateur', /* TODO */
+    'tag-user-modal-title': 'Etiquetar un usuario', 
+    'tag-user-modal-search': 'Buscar un usuario', 
     
     // TutoModal
-    'tuto-modal-title': 'Conseils et astuces', /* TODO */
-    'tuto-modal-homepage-ask-whasq': 'Posez votre question.', /* TODO */
-    'tuto-modal-homepage-my-skills': 'Affichez les whasqs concernant vos talents et rédigés dans la langue ajoutée dans votre profil.', /* TODO */
-    'tuto-modal-homepage-all-skills': 'Affichez les whasqs dans la langue ajoutée dans votre profil.', /* TODO */
-    'tuto-modal-add-whasq-add-media': 'Ajoutez des médias pour illustrer votre question. Par exemple image, texte, vidéo ou juste son. Vous pouvez les utiliser aussi pour répondre à un whasq.', /* TODO */
-    'tuto-modal-add-whasq-add-skill': 'Choisissez 3 talents qui pourront vous aider à résoudre votre whasq.', /* TODO */
-    'tuto-modal-add-whasq-add-channel': 'Sélectionnez la langue dans laquelle votre whasq est rédigé. Le choix de la langue dépend des langues ajoutées dans votre profil : fr, es, ru, ...', /* TODO */
-    'tuto-modal-profile-update': 'Ajoutez un peu de couleur sur l\'app en mettant à jour votre profil.', /* TODO */
+    'tuto-modal-title': 'Consejos y astucias', 
+    'tuto-modal-homepage-ask-whasq': 'Haz tu pregunta.', 
+    'tuto-modal-homepage-my-skills': 'Mostrar los whasqs de acuerdo a tus talentos y escritos en el idioma indicado en tu perfil.', 
+    'tuto-modal-homepage-all-skills': 'Mostrar los whasqs en el idioma que indicaste en tu perfil.',
+    'tuto-modal-add-whasq-add-media': 'Para ilustrar tu pregunta, agrega una imagen, texto, vidéo o un mensaje de voz. Tambien los puedes utilizar al responder un whasq.', 
+    'tuto-modal-add-whasq-add-skill': '¡Elige 3 talentos que podrian ayudarte a resolver tu whasq ! .',
+    'tuto-modal-add-whasq-add-channel': 'Elige el idioma de tu whasq. La eleccion del idioma depende de los idiomas agregados en tu perfil: fr, es, ru, ...', 
+    'tuto-modal-profile-update': 'Dale un poco de vida a la aplicacion, actualiza tu foto de perfil.', 
 }
 
 export default messages
