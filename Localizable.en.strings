@@ -256,11 +256,12 @@
 "whasq-download-attachment" = "[Download Attachment]";
 "whaspoint-description-description" = "You have been recommended by %@";
 "verify-connect-action" = "Next";
-"tooltip-whasq-my-skills" = "Here, all the whasqs according to your talents and written in the language you chose in your profile."; 
-"tooltip-whasq-all-skills" = "Here, all the whasqs in the language that you indicated in your profile ."; 
+"tooltip-whasq-my-skills" = "Here, all the whasqs according to your talents and written in the language you chose in your profile.";
+"tooltip-whasq-all-skills" = "Here, all the whasqs in the language that you indicated in your profile .";
 "tooltip-create-whasq" = "Ask your question !";
 "tooltip-whasq-media-types" = "To illustrate your question you can add a / an image, text, video 🎬, or voice message 🎙. You can also use them to answer a whasq.";
 "tooltip-whasq-add-skills" = "Choose 3 talents that could help you solve your whasq !";
-"tooltip-whasq-add-language" = "Select the language in which your whasq is written. The choice of language depends on the languages added in your profile 🇫🇷🇪🇸🇷🇺,.."; //todo
+"tooltip-whasq-add-language" = "Select the language in which your whasq is written. The choice of language depends on the languages added in your profile 🇫🇷🇪🇸🇷🇺,..";
 "tooltip-profile-picture" = "Give a personal touch to the application, it's time to update your profile picture😎";
 "tooltip-profile-enrich" = "Swipe left to add your talents 🎻🎭 and the languages you speak 🇫🇷🇪🇸🇷🇺,..!";
+"podium-ytd" = "from the beginning";
