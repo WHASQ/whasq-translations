@@ -256,11 +256,12 @@
 "whasq-download-attachment" = "[Scaricare l'allegato]";
 "whaspoint-description-description" = "Lei è stato raccomandato per %@";
 "verify-connect-action" = "Seguente";
-"tooltip-whasq-my-skills" = "Tutti gli whasq secondo i tuoi talenti e scritti nella lingua che hai scelto nel tuo profilo."; 
+"tooltip-whasq-my-skills" = "Tutti gli whasq secondo i tuoi talenti e scritti nella lingua che hai scelto nel tuo profilo.";
 "tooltip-whasq-all-skills" = "Tutti gli whasq nella lingua che hai indicato nel tuo profilo.";
-"tooltip-create-whasq" = "Fai la tua domanda!"; 
-"tooltip-whasq-media-types" = "Per illustrare la tua domanda puoi aggiungere un'immagine, testo, video 🎬 o un messaggio vocale 🎙. Puoi anche usarli per rispondere a un whasq."; 
-"tooltip-whasq-add-skills" = "Scegli 3 talenti che potrebbero aiutarti a risolvere il tuo whasq!"; 
-"tooltip-whasq-add-language" = "Seleziona la lingua in cui è scritto il tuo whasq. La scelta della lingua dipende dalle lingue aggiunte nel tuo profilo 🇫🇷🇪🇸🇷🇺,.."; 
+"tooltip-create-whasq" = "Fai la tua domanda!";
+"tooltip-whasq-media-types" = "Per illustrare la tua domanda puoi aggiungere un'immagine, testo, video 🎬 o un messaggio vocale 🎙. Puoi anche usarli per rispondere a un whasq.";
+"tooltip-whasq-add-skills" = "Scegli 3 talenti che potrebbero aiutarti a risolvere il tuo whasq!";
+"tooltip-whasq-add-language" = "Seleziona la lingua in cui è scritto il tuo whasq. La scelta della lingua dipende dalle lingue aggiunte nel tuo profilo 🇫🇷🇪🇸🇷🇺,..";
 "tooltip-profile-picture" = "Dai un po 'di vita all'applicazione, aggiorna la tua immagine del profilo 😎";
 "tooltip-profile-enrich" = "Scorri verso sinistra per aggiungere i tuoi talenti 🎻🎭 e le lingue che parli 🇫🇷🇪🇸🇷🇺,..!";
+"podium-ytd" = "dall'inizio";
