@@ -210,7 +210,7 @@
 "registration-picture-gallery" = "de la galeria de fotos";
 "registration-picture-photo" = "Abrir la camara";
 "registration-picture-title" = "Elige tu foto de perfil";
-"registration-skills-pro" = "Hola, es hora de completar tu perfil ...Cuéntanos ¿cómo y en qué áreas puedes ayudar a los demás? ";
+"registration-skills-pro" = "Hola, es hora de completar tu perfil ...Cuéntanos ¿cómo y en qué áreas puedes ayudar a los demás? Puedes aconsejar y ayudar en: ";
 "report-comment" = "Señalar el comentario";
 "request-data-action-sheet" = "Pedir mi informacion";
 "show-picture" = "Mostrar la foto de perfil";
@@ -264,3 +264,4 @@
 "tooltip-whasq-add-language" = "Selecciona el idioma en el que está escrito tu whasq. La elección del idioma depende de los idiomas agregados en tu perfil 🇫🇷🇪🇸🇷🇺,..";
 "tooltip-profile-picture" = "Dale un poco de vida a la aplicación , actualiza tu foto de perfil 😎";
 "tooltip-profile-enrich" = "Desliza hacia la izquierda para agregar tus talentos 🎻🎭 y los idiomas que hablas🇫🇷🇪🇸🇷🇺,..!";
+"podium-ytd" = "desde el comienzo";
