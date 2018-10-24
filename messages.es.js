@@ -16,7 +16,7 @@ const messages = {
     'login-error': 'Se produjo un error al momento de conectarse. Por favor intentalo de nuevo.',
     'login-password-see-password': 'Ver la contraseña', 
     'login-password-not-see-password': 'No mostrar la contraseña',
-    'login-forgotten-or-change-password': 'Mot de passe oublié ou changement de mot de passe ?', /* TODO */
+    'login-forgotten-or-change-password': '¿contraseña olvidada o cambiar la contraseña ?', 
   
     //  Global
     'search': 'Búsqueda',
@@ -27,7 +27,7 @@ const messages = {
     'first-ranking-suffix': 'ero',
     'second-ranking-suffix': 'do',
     'third-ranking-suffix': 'ero',
-    'default-ranking-suffix': 'ème', /* TODO */
+    'default-ranking-suffix':
     'back-to-homepage': 'Volver a la pagina principal',
     
     // Header
