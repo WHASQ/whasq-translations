@@ -16,7 +16,7 @@ const messages = {
     'login-error': 'Ошибка подключения к серверу. Пожалуйста, попробуйте еще раз.',
     'login-password-see-password': 'См. Пароль',
     'login-password-not-see-password': 'Скрыть пароль',
-    'login-forgotten-or-change-password': 'Mot de passe oublié ou changement de mot de passe ?', /* TODO */
+    'login-forgotten-or-change-password': 'Забытый пароль или смена пароля',
   
     //  Global
     'search': 'Поиск',
@@ -114,12 +114,12 @@ const messages = {
 
     // AddUserSkillModal
     'add-user-skill-title': 'Добавить талант',
-    'add-user-skill-subtitle': 'Vous avez sûrement d\'autres talents, vous pouvez les ajouter !', /* TODO */
-    'add-user-skill-subtitle-first-login': 'Vous avez des talents, inscrivez les dans votre profil !', /* TODO */
+    'add-user-skill-subtitle': 'У вас наверняка есть другие таланты, вы можете добавить их!',
+    'add-user-skill-subtitle-first-login': 'У вас есть таланты, добавьте их в свой профиль!',
     
     // AddUserChannelModal
     'add-user-channel-title': 'Добавить язык',
-    'add-user-channel-subtitle': 'Sélectionnez les langues que vous parlez', /* TODO */
+    'add-user-channel-subtitle': 'Выберите языки, на которых вы говорите.',
 
     // MediaAttachment
     'media-attachment-download': 'Скачать прикрепленный файл',
@@ -137,7 +137,7 @@ const messages = {
     'notification-message-suggest': '{fullname} вам посоветовал(-а) добавить талант.',
     'notification-message-blacklist': '{fullname} пожаловался(-ась) на ваш whasq',
     'notification-message-admin-whasq': '{fullname} опубликовал(-а) новый whasq',
-    'notification-message-tag-user': 'Vous avez été recommandé par {fullname} pour le whasq', /* TODO */
+    'notification-message-tag-user': '{fullname} рекомендовал вас для whasq',
     'notification-days-ago': '{days} дн. назад',
 
     // WhasqWrite
@@ -285,14 +285,14 @@ const messages = {
     'tag-user-modal-search': 'Поиск пользователя',
     
     // TutoModal
-    'tuto-modal-title': 'Conseils et astuces', /* TODO */
-    'tuto-modal-homepage-ask-whasq': 'Posez votre question.', /* TODO */
-    'tuto-modal-homepage-my-skills': 'Affichez les whasqs concernant vos talents et rédigés dans la langue ajoutée dans votre profil.', /* TODO */
-    'tuto-modal-homepage-all-skills': 'Affichez les whasqs dans la langue ajoutée dans votre profil.', /* TODO */
-    'tuto-modal-add-whasq-add-media': 'Ajoutez des médias pour illustrer votre question. Par exemple image, texte, vidéo ou juste son. Vous pouvez les utiliser aussi pour répondre à un whasq.', /* TODO */
-    'tuto-modal-add-whasq-add-skill': 'Choisissez 3 talents qui pourront vous aider à résoudre votre whasq.', /* TODO */
-    'tuto-modal-add-whasq-add-channel': 'Sélectionnez la langue dans laquelle votre whasq est rédigé. Le choix de la langue dépend des langues ajoutées dans votre profil : fr, es, ru, ...', /* TODO */
-    'tuto-modal-profile-update': 'Ajoutez un peu de couleur sur l\'app en mettant à jour votre profil.', /* TODO */
+    'tuto-modal-title': 'Советы и рекомендации',
+    'tuto-modal-homepage-ask-whasq': 'Задайте свой вопрос.',
+    'tuto-modal-homepage-my-skills': 'Отобразите whasq о ваших талантах и на языке, добавленном в ваш профиль.',
+    'tuto-modal-homepage-all-skills': 'Отобразите все whasq на языке, добавленном в ваш профиль.',
+    'tuto-modal-add-whasq-add-media': 'Добавьте медиафайлы, чтобы проиллюстрировать ваш вопрос. Например, изображение, текст, видео или просто звук. Вы также можете использовать их для ответа на whasq.',
+    'tuto-modal-add-whasq-add-skill': 'Выберите 3 таланта, которые помогут вам решить ваш whasq.',
+    'tuto-modal-add-whasq-add-channel': 'Выберите язык, на котором написан ваш whasq. Выбор языка зависит от языков, добавленных в ваш профиль: fr, es, ru, ...',
+    'tuto-modal-profile-update': 'Добавьте цвет в Whasq, обновив свой профиль.',
 }
 
 export default messages
