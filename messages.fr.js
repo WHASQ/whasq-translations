@@ -16,7 +16,8 @@ const messages = {
     'login-error': 'Une erreur s\'est produite de la connexion. Veuillez réessayer.',
     'login-password-see-password': 'Voir le mot de passe',
     'login-password-not-see-password': 'Cacher le mot de passe',
-  
+    'login-forgotten-or-change-password': 'Mot de passe oublié ou changement de mot de passe ?',
+
     //  Global
     'search': 'Recherche',
     'previous': 'Précédent',
@@ -48,9 +49,6 @@ const messages = {
     'footer-privacy-policy': 'Politique de confidentialité',
     'footer-assistance': 'Besoin d’aide ? Contactez jessie@whasq.com (Du lundi à vendredi de 9:00 à 12:00 et de 14:00 à 18:00)',
     'footer-follow-us': 'Suivez-nous :',
-
-    // Home
-    'home-title': 'Titre de la page d\'accueil',
 
     // WhasqsSearch
     'whasqs-search-my-skills-filter': 'Pour mes talents',
@@ -138,7 +136,8 @@ const messages = {
     'notification-message-recommendation': '{fullname} vous a recommandé le talent',
     'notification-message-suggest': '{fullname} vous a suggéré le talent',
     'notification-message-blacklist': '{fullname} a signalé votre whasq',
-    'notification-message-admin-whasq': '{fullname} a posté un nouveau Whasq',
+    'notification-message-admin-whasq': '{fullname} a posté un nouveau whasq',
+    'notification-message-tag-user': 'Vous avez été recommandé par {fullname} pour le whasq',
     'notification-days-ago': 'Il y a {days} jours',
 
     // WhasqWrite
@@ -239,6 +238,7 @@ const messages = {
     'ranking-solutions-label': 'SOLUTIONS',
     'ranking-see-profile': 'Voir le profil',
     'ranking-no-podium-for-selected-month': 'Il n\'y a pas de classement pour le mois sélectionné',
+    'ranking-ytd-label': 'Depuis le début {year}',
 
     // Whasqpoint
     'whasqpoint-message-usefull': '{fullname} a trouvé votre réponse utile !',

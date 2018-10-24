@@ -16,6 +16,7 @@ const messages = {
     'login-error': 'Ошибка подключения к серверу. Пожалуйста, попробуйте еще раз.',
     'login-password-see-password': 'См. Пароль',
     'login-password-not-see-password': 'Скрыть пароль',
+    'login-forgotten-or-change-password': 'Mot de passe oublié ou changement de mot de passe ?', /* TODO */
   
     //  Global
     'search': 'Поиск',
@@ -48,9 +49,6 @@ const messages = {
     'footer-privacy-policy': 'Политика конфиденциальности',
     'footer-assistance': 'Нужна помощь ? Свяжитесь с jessie@whasq.com (с понедельника по пятницу с 9:00 по 12:00 и с 14:00 по 18:00)',
     'footer-follow-us': 'Следуйте за нами:',
-
-    // Home
-    'home-title': 'Главная',
 
     // WhasqsSearch
     'whasqs-search-my-skills-filter': 'Мои таланты',
@@ -138,7 +136,8 @@ const messages = {
     'notification-message-recommendation': '{fullname} вас порекомендовал(-а) за ваш талант.',
     'notification-message-suggest': '{fullname} вам посоветовал(-а) добавить талант.',
     'notification-message-blacklist': '{fullname} пожаловался(-ась) на ваш whasq',
-    'notification-message-admin-whasq': '{fullname} опубликовал(-а) новый Whasq',
+    'notification-message-admin-whasq': '{fullname} опубликовал(-а) новый whasq',
+    'notification-message-tag-user': 'Vous avez été recommandé par {fullname} pour le whasq', /* TODO */
     'notification-days-ago': '{days} дн. назад',
 
     // WhasqWrite
@@ -239,6 +238,7 @@ const messages = {
     'ranking-solutions-label': 'РЕШЕНИЯ',
     'ranking-see-profile': 'Посмотреть профиль',
     'ranking-no-podium-for-selected-month': 'Для выбранного месяца классификаций нет',
+    'ranking-ytd-label': 'C начала {year}',
 
     // Whasqpoint
     'whasqpoint-message-usefull': '{fullname} отметил(-а) ваш ответ как полезный!',

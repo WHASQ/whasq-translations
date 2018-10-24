@@ -16,6 +16,7 @@ const messages = {
     'login-error': 'Se produjo un error al momento de conectarse. Por favor intentalo de nuevo.',
     'login-password-see-password': 'Ver la contraseña', 
     'login-password-not-see-password': 'No mostrar la contraseña',
+    'login-forgotten-or-change-password': 'Mot de passe oublié ou changement de mot de passe ?', /* TODO */
   
     //  Global
     'search': 'Búsqueda',
@@ -26,7 +27,7 @@ const messages = {
     'first-ranking-suffix': 'ero',
     'second-ranking-suffix': 'do',
     'third-ranking-suffix': 'ero',
-    'default-ranking-suffix':
+    'default-ranking-suffix': 'ème', /* TODO */
     'back-to-homepage': 'Volver a la pagina principal',
     
     // Header
@@ -48,9 +49,6 @@ const messages = {
     'footer-privacy-policy': 'Política de confidencialidad',
     'footer-assistance': '¿Necesitas ayuda? Contacta jessie@whasq.com (De lunes a viernes de 9:00am à 12:00pm y de las 2:00 a 6:00 pm)',
     'footer-follow-us': 'Síguenos :', 
-
-    // Home
-    'home-title': 'Titre de la page d\'accueil',
 
     // WhasqsSearch
     'whasqs-search-my-skills-filter': 'De acuerdo a mis talentos',
@@ -138,7 +136,8 @@ const messages = {
     'notification-message-recommendation': '{fullname} te ha recomendado un talento',
     'notification-message-suggest': '{fullname} te ha recomendado el talento',
     'notification-message-blacklist': '{fullname} ha señalado el whasq',
-    'notification-message-admin-whasq': '{fullname} ha publicado un nuevo Whasq',
+    'notification-message-admin-whasq': '{fullname} ha publicado un nuevo whasq',
+    'notification-message-tag-user': 'Vous avez été recommandé par {fullname} pour le whasq', /* TODO */
     'notification-days-ago': 'Hace {days} dias',
 
     // WhasqWrite
@@ -239,6 +238,7 @@ const messages = {
     'ranking-solutions-label': 'SOLUCIONES',
     'ranking-see-profile': 'Ver el perfil',
     'ranking-no-podium-for-selected-month': 'El podio aún no se ha definido este mes',
+    'ranking-ytd-label': 'Desde el comienzo {year}',
 
     // Whasqpoint
     'whasqpoint-message-usefull': '¡{fullname} ha encontrado tu respuesta útil!',
@@ -276,7 +276,7 @@ const messages = {
     'drop-file-here-or-click': 'Suelta tu archivo aquí o dale clic para seleccionar el archivo a importar.', 
     'profile-image-size-limit': 'Solo se aceptan archivos de imagen menores de 1MB..', 
     'error-importing-profile-image': 'Se produjo un error al importar la imagen. Por favor intentalo de nuevo.',
-    'import-profile-image': 'Importar la imagen, 
+    'import-profile-image': 'Importar la imagen', 
     'choose-profile-image': 'Elige tu foto de perfil', 
     'profile-image-square-required': 'La imagen debe ser cuadrada.', 
     
