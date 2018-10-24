@@ -256,11 +256,12 @@
 "whasq-download-attachment" = "[Télécharger la PJ]";
 "whaspoint-description-description" = "Vous avez été recommandé par %@";
 "verify-connect-action" = "Suivant";
-"tooltip-whasq-my-skills" = "Affichez les whasqs concernant vos talents et rédigés dans la langue ajoutée dans votre profil."; 
+"tooltip-whasq-my-skills" = "Affichez les whasqs concernant vos talents et rédigés dans la langue ajoutée dans votre profil.";
 "tooltip-whasq-all-skills" = "Affichez les whasqs dans la langue ajoutée dans votre profil."; //
 "tooltip-create-whasq" = "Posez votre question !";
 "tooltip-whasq-media-types" = "Ajoutez des médias pour illustrer votre question. par ex. image, texte, vidéo 🎬, ou juste le son 🎙. Vous pouvez les utiliser aussi pour répondre un Whasq.";
-"tooltip-whasq-add-skills" = "Choisissez 3 talents qui pourront vous aider à résoudre votre whasq !"; 
-"tooltip-whasq-add-language" = "Sélectionnez la langue dans laquelle votre whasq est rédigé. Le choix de la langue dépend des langues ajoutées dans votre profil 🇫🇷🇪🇸🇷🇺,.."; 
+"tooltip-whasq-add-skills" = "Choisissez 3 talents qui pourront vous aider à résoudre votre whasq !";
+"tooltip-whasq-add-language" = "Sélectionnez la langue dans laquelle votre whasq est rédigé. Le choix de la langue dépend des langues ajoutées dans votre profil 🇫🇷🇪🇸🇷🇺,..";
 "tooltip-profile-picture" = "Ajoutez une peu de couleur sur l'app en mettant à jour votre profil 😎";
 "tooltip-profile-enrich" = "Balayez vers la gauche pour ajouter vos talents 🎻🎭 et les langues que vous parlez 🇫🇷🇪🇸🇷🇺,..!";
+"podium-ytd" = "depuis le début";
