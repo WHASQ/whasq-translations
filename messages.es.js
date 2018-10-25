@@ -27,9 +27,9 @@ const messages = {
     'first-ranking-suffix': 'ero',
     'second-ranking-suffix': 'do',
     'third-ranking-suffix': 'ero',
-    'default-ranking-suffix': 'ème', /* TODO */
+    'default-ranking-suffix': 'ème', 
     'back-to-homepage': 'Volver a la pagina principal',
-    'loading': 'Chargement...', /* TODO */
+    'loading': 'Cargando...', 
     
     // Header
     'header-profile': 'Perfil',
@@ -138,7 +138,7 @@ const messages = {
     'notification-message-suggest': '{fullname} te ha recomendado el talento',
     'notification-message-blacklist': '{fullname} ha señalado el whasq',
     'notification-message-admin-whasq': '{fullname} ha publicado un nuevo whasq',
-    'notification-message-tag-user': 'Vous avez été recommandé par {fullname} pour le whasq', /* TODO */
+    'notification-message-tag-user': 'Has sido recomendado por {fullname} para el whasq', 
     'notification-days-ago': 'Hace {days} dias',
 
     // WhasqWrite
@@ -276,9 +276,9 @@ const messages = {
 
     // UploadProfileImageModal
     'drop-file-here-or-click': 'Suelta tu archivo aquí o dale clic para seleccionar el archivo a importar.', 
-    'profile-image-size-limit': 'Solo se aceptan archivos de imagen menores de 1MB..', 
+    'profile-image-size-limit': 'Solo se aceptan las fotos menores de 1MB..', 
     'error-importing-profile-image': 'Se produjo un error al importar la imagen. Por favor intentalo de nuevo.',
-    'import-profile-image': 'Importar la imagen', 
+    'import-profile-image': 'Importa la foto', 
     'choose-profile-image': 'Elige tu foto de perfil', 
     'profile-image-square-required': 'La imagen debe ser cuadrada.', 
     
@@ -297,7 +297,7 @@ const messages = {
     'tuto-modal-profile-update': 'Dale un poco de vida a la aplicacion, actualiza tu foto de perfil.',
     
     // MyWhasqs
-    'my-whasqs-title': 'Mes whasqs', /* TODO */
+    'my-whasqs-title': 'Mis whasqs', /* TODO */
 }
 
 export default messages
