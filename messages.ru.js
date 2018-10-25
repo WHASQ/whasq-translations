@@ -29,7 +29,7 @@ const messages = {
     'third-ranking-suffix': '(-ий/-ья)',
     'default-ranking-suffix': '(-ый/-ая)',
     'back-to-homepage': 'Вернуться на главную',
-    'loading': 'Chargement...', /* TODO */
+    'loading': 'Загрузка...',
 
     // Header
     'header-profile': 'Профиль',
@@ -297,7 +297,7 @@ const messages = {
     'tuto-modal-profile-update': 'Добавьте цвет в Whasq, обновив свой профиль.',
     
     // MyWhasqs
-    'my-whasqs-title': 'Mes whasqs', /* TODO */
+    'my-whasqs-title': 'Мой wasqs',
 }
 
 export default messages
