@@ -27,8 +27,9 @@ const messages = {
     'first-ranking-suffix': 'ero',
     'second-ranking-suffix': 'do',
     'third-ranking-suffix': 'ero',
-    'default-ranking-suffix':
+    'default-ranking-suffix': 'ème', /* TODO */
     'back-to-homepage': 'Volver a la pagina principal',
+    'loading': 'Chargement...', /* TODO */
     
     // Header
     'header-profile': 'Perfil',
@@ -184,6 +185,7 @@ const messages = {
     'answer-champion-confirm-message': '¿ Estás seguro que quieres definir elegir esta respuesta como la solución de tu whasq ?',
     'answer-media-attachment-no-preview': 'Vista previa no disponible',
     'answer-empty-content': 'Debes escribir un mensaje o agregar un archivo para enviar tu respuesta.',
+    'answer-error-usefull-current-user': 'No puedes darle Like a tu propio comentario 😉',
 
     // WhasqPerso
     'whasq-perso-read-times': 'Leído {readUsersCount} veces',
@@ -292,7 +294,10 @@ const messages = {
     'tuto-modal-add-whasq-add-media': 'Para ilustrar tu pregunta, agrega una imagen, texto, vidéo o un mensaje de voz. Tambien los puedes utilizar al responder un whasq.', 
     'tuto-modal-add-whasq-add-skill': '¡Elige 3 talentos que podrian ayudarte a resolver tu whasq ! .',
     'tuto-modal-add-whasq-add-channel': 'Elige el idioma de tu whasq. La eleccion del idioma depende de los idiomas agregados en tu perfil: fr, es, ru, ...', 
-    'tuto-modal-profile-update': 'Dale un poco de vida a la aplicacion, actualiza tu foto de perfil.', 
+    'tuto-modal-profile-update': 'Dale un poco de vida a la aplicacion, actualiza tu foto de perfil.',
+    
+    // MyWhasqs
+    'my-whasqs-title': 'Mes whasqs', /* TODO */
 }
 
 export default messages

@@ -29,6 +29,7 @@ const messages = {
     'third-ranking-suffix': 'o',
     'default-ranking-suffix': 'o',
     'back-to-homepage': 'Retour à l\'accueil', /* TODO */
+    'loading': 'Chargement...', /* TODO */
 
     // Header
     'header-profile': 'Profile',
@@ -184,6 +185,7 @@ const messages = {
     'answer-champion-confirm-message': 'Sicuro/a di voler definire questa risposta come la soluzione del Suo whasq?',
     'answer-media-attachment-no-preview': 'Non può visualizzare il whasq',
     'answer-empty-content': 'Votre devez rédiger un message ou ajouter un média pour pouvoir envoyer votre réponse.', /* TODO */
+    'answer-error-usefull-current-user': 'Non puoi piacere il tuo commento 😉',
 
     // WhasqPerso
     'whasq-perso-read-times': 'Visto {readUsersCount} volte',
@@ -293,6 +295,9 @@ const messages = {
     'tuto-modal-add-whasq-add-skill': 'Choisissez 3 talents qui pourront vous aider à résoudre votre whasq.', /* TODO */
     'tuto-modal-add-whasq-add-channel': 'Sélectionnez la langue dans laquelle votre whasq est rédigé. Le choix de la langue dépend des langues ajoutées dans votre profil : fr, es, ru, ...', /* TODO */
     'tuto-modal-profile-update': 'Ajoutez un peu de couleur sur l\'app en mettant à jour votre profil.', /* TODO */
+    
+    // MyWhasqs
+    'my-whasqs-title': 'Mes whasqs', /* TODO */
 }
 
 export default messages

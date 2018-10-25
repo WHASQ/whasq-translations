@@ -29,6 +29,7 @@ const messages = {
     'third-ranking-suffix': 'ème',
     'default-ranking-suffix': 'ème',
     'back-to-homepage': 'Retour à l\'accueil',
+    'loading': 'Chargement...',
 
     // Header
     'header-profile': 'Profil',
@@ -184,6 +185,7 @@ const messages = {
     'answer-champion-confirm-message': 'Etes-vous sûr de vouloir définir cette réponse comme la résolution de votre whasq ?',
     'answer-media-attachment-no-preview': 'Pas de prévisualisation possible',
     'answer-empty-content': 'Votre devez rédiger un message ou ajouter un média pour pouvoir envoyer votre réponse.',
+    'answer-error-usefull-current-user': 'Vous ne pouvez pas aimer votre propre commentaire 😉',
 
     // WhasqPerso
     'whasq-perso-read-times': 'Lu {readUsersCount} fois',
@@ -293,6 +295,9 @@ const messages = {
     'tuto-modal-add-whasq-add-skill': 'Choisissez 3 talents qui pourront vous aider à résoudre votre whasq.',
     'tuto-modal-add-whasq-add-channel': 'Sélectionnez la langue dans laquelle votre whasq est rédigé. Le choix de la langue dépend des langues ajoutées dans votre profil : fr, es, ru, ...',
     'tuto-modal-profile-update': 'Ajoutez un peu de couleur sur l\'app en mettant à jour votre profil.',
+    
+    // MyWhasqs
+    'my-whasqs-title': 'Mes whasqs',
 }
 
 export default messages

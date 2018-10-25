@@ -29,6 +29,7 @@ const messages = {
     'third-ranking-suffix': '(-ий/-ья)',
     'default-ranking-suffix': '(-ый/-ая)',
     'back-to-homepage': 'Вернуться на главную',
+    'loading': 'Chargement...', /* TODO */
 
     // Header
     'header-profile': 'Профиль',
@@ -184,6 +185,7 @@ const messages = {
     'answer-champion-confirm-message': ' Вы уверены, что хотите отметить этот ответ как решение вашего запроса whasq?',
     'answer-media-attachment-no-preview': 'Предосмотр не доступен',
     'answer-empty-content': 'Вы должны написать сообщение или добавить медиа для отправки ответа.',
+    'answer-error-usefull-current-user': 'Извините, вы не можете оценить ваш собственный комментарий 😉',
 
     // WhasqPerso
     'whasq-perso-read-times': 'Прочитано {readUsersCount} раз',
@@ -293,6 +295,9 @@ const messages = {
     'tuto-modal-add-whasq-add-skill': 'Выберите 3 таланта, которые помогут вам решить ваш whasq.',
     'tuto-modal-add-whasq-add-channel': 'Выберите язык, на котором написан ваш whasq. Выбор языка зависит от языков, добавленных в ваш профиль: fr, es, ru, ...',
     'tuto-modal-profile-update': 'Добавьте цвет в Whasq, обновив свой профиль.',
+    
+    // MyWhasqs
+    'my-whasqs-title': 'Mes whasqs', /* TODO */
 }
 
 export default messages

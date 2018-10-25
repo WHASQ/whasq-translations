@@ -29,6 +29,7 @@ const messages = {
     'third-ranking-suffix': 'rd',
     'default-ranking-suffix': 'th',
     'back-to-homepage': 'Return to homepage', 
+    'loading': 'Chargement...', /* TODO */
 
     // Header
     'header-profile': 'Profile',
@@ -114,7 +115,7 @@ const messages = {
 
     // AddUserSkillModal
     'add-user-skill-title': 'You certaibly have other skills, just add them',
-    'add-user-skill-subtitle': 'You surely have other talents, you can add them !', /
+    'add-user-skill-subtitle': 'You surely have other talents, you can add them !',
     'add-user-skill-subtitle-first-login': 'You have talents, write them in your profile !', 
     
     // AddUserChannelModal
@@ -137,7 +138,7 @@ const messages = {
     'notification-message-suggest': '{fullname} has suggested to you the talent',
     'notification-message-blacklist': '{fullname} has reported your whasq',
     'notification-message-admin-whasq': '{fullname} has posted a new whasq',
-    'notification-message-tag-user': 'You have been recommended by {fullname} for the whasq', /
+    'notification-message-tag-user': 'You have been recommended by {fullname} for the whasq',
     'notification-days-ago': '{days} days ago',
 
     // WhasqWrite
@@ -184,6 +185,7 @@ const messages = {
     'answer-champion-confirm-message': 'Warning ! Do you really want to cancel this answer as the resolution of your whasq ?',
     'answer-media-attachment-no-preview': 'Oups, no preview possible',
     'answer-empty-content': 'You must write a message or add a media in order to send your reply.',
+    'answer-error-usefull-current-user': 'Sorry, you can not like your own comment 😉',
 
     // WhasqPerso
     'whasq-perso-read-times': 'Read {readUsersCount} times',
@@ -293,6 +295,9 @@ const messages = {
     'tuto-modal-add-whasq-add-skill': 'Choose 3 talents that could help you solve your whasq.', 
     'tuto-modal-add-whasq-add-channel': 'Select the language in which your whasq is written. The choice of language depends on the languages added in your profile: fr, es, ru, ...', 
     'tuto-modal-profile-update': 'Give a personal touch to the application, its time to update your profile picture.', 
+    
+    // MyWhasqs
+    'my-whasqs-title': 'Mes whasqs', /* TODO */
 }
 
 export default messages
