@@ -356,6 +356,9 @@ const messages = {
     'import-users-email': 'Email', /* TODO */
     'import-users-job-position': 'Poste', /* TODO */
     'import-users-phone': 'Téléphone', /* TODO */
+    'import-users-download-exemple': 'Télécharger l\'exemple', /* TODO */
+    'import-users-instructions-part-1': 'Compléter l\'exemple téléchargé et sauvegardez le en format csv (valeurs séparées par des point-virgules)', /* TODO */
+    'import-users-instructions-part-2': '(4 colonnes SEULEMENT dans l\'ordre DEFINI)', /* TODO */
 
     // Targets 
     'targets-title': 'Objectives and Gamification',
