@@ -297,7 +297,7 @@ const messages = {
     'tuto-modal-profile-update': 'Dale un poco de vida a la aplicacion, actualiza tu foto de perfil.',
     
     // MyWhasqs
-    'my-whasqs-title': 'Mis whasqs', /* TODO */
+    'my-whasqs-title': 'Mis whasqs',
 }
 
 export default messages
