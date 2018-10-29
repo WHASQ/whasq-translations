@@ -21,7 +21,7 @@
 "add-whasq-preview-button" = "Visualização";
 "add-whasq-geoloc-explanation-label" = "Você optou por não autorizar que Whasq o localiza-se. Se você quiser notificar os whasqers perto de si, você deve aceitar ser localizado. Para isso :";
 "add-whasq-geoloc-first-step-label" = "1. Vá em Parâmetros > Whasq > Posição";
-"add-whasq-geoloc-second-step-label" = "2. Selecione "Quando a aplicação está ativa »";
+"add-whasq-geoloc-second-step-label" = "2. Selecione 'Quando a aplicação está ativa'";
 "add-whasq-geoloc-title-label" = "Deseja notificar os whasqers perto de você ?";
 "add-whasq-geoloc-next-button" = "OK";
 "add-whasq-geoloc-not-button" = "Não autorizar";
@@ -259,8 +259,7 @@
 "tooltip-whasq-my-skills" = "Mostre os whasqs relacionados com as competências escritos no idioma predefinido no seu perfil.";
 "tooltip-whasq-all-skills" = "Mostrar os whasqs escritos no idioma predefinido no seu perfil."; //
 "tooltip-create-whasq" = "Faça sua pergunta !";
-"tooltip-whasq-media-types" = "Adicione um ficheiro para ilustrar da melhor forma a sua pergunta. por exemplo imagem, texto, vídeo 🎬, 
-ou apenas o som 🎙. Também pode usá-los para responder a um Whasq.";
+"tooltip-whasq-media-types" = "Adicione um ficheiro para ilustrar da melhor forma a sua pergunta. por exemplo imagem, texto, vídeo 🎬, ou apenas o som 🎙. Também pode usá-los para responder a um Whasq.";
 "tooltip-whasq-add-skills" = "Escolha 3 competências que possam ajudá-lo a resolver seu whasq !";
 "tooltip-whasq-add-language" = "Selecione o idioma no qual o seu whasq está escrito. A escolha do idioma depende dos idiomas adicionados em seu perfil 🇫🇷🇪🇸🇷🇺,..";
 "tooltip-profile-picture" = "Dê vida à aplicação atualizando o seu perfil 😎";
