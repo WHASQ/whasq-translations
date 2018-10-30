@@ -14,6 +14,9 @@ const messages = {
     'login-password-placeholder': 'Password',
     'login-bad-password': 'La password non è corretta. Riprova, per favore.',
     'login-error': 'Si è verificato un errore nella connessione. Riprova, per favore.',
+    'login-password-see-password': 'Mostra la password', 
+    'login-password-not-see-password': 'Nascondere la password', 
+    'login-forgotten-or-change-password': 'Password dimenticata o cambio di password ?', 
   
     //  Global
     'search': 'Cercare',
@@ -25,13 +28,15 @@ const messages = {
     'second-ranking-suffix': 'o',
     'third-ranking-suffix': 'o',
     'default-ranking-suffix': 'o',
+    'back-to-homepage': 'Home', 
+ 
 
     // Header
     'header-profile': 'Profile',
     'header-logout': 'Log out',
     'french': 'Francese',
     'english': 'Inglese',
-    'header-ask-info': 'Demander mes informations',
+    'header-ask-info': 'Fare la domanda degli miei dati',
     'header-delete-account': 'Chiedere le mie informazioni',
     'header-admin': 'Amministratore',
     'header-change-password': 'Cambiare la password',
@@ -44,10 +49,7 @@ const messages = {
     // Footer
     'footer-privacy-policy': 'Informativa sulla privacy',
     'footer-assistance': 'Ha bisogno di aiuta? Contatta jessie@whasq.com (dal lunedì al venerdì dalle 9:00 alle 12:00 e dalle 14:00 alle 18:00)',
-    'footer-follow-us': 'Suivez-nous :', /* TODO */
-
-    // Home
-    'home-title': 'Titolo della pagina della home page',
+    'footer-follow-us': 'Seguici :', 
 
     // WhasqsSearch
     'whasqs-search-my-skills-filter': 'Per i miei talenti',
@@ -61,6 +63,7 @@ const messages = {
     // Whasq
     'whasq-days-ago': 'Ci sono {days} giorni',
     'whasq-read': 'visto',
+    'whasq-read-count': 'Visto {count} volte', 
     'whasq-answers-count': 'Numero di risposte',
     'whasq-whasqpoints-solution': 'whasqpoints per la soluzione',
     'whasq-whasqpoints-usefull-answer': 'whasqpoints per la risposta utile',
@@ -72,15 +75,15 @@ const messages = {
     'error-archiving-whasq': 'Si è verificato un errore durante  l\'archiviazione del Suo whasq. Riprova per favore.',
     'whasq-delete-confirm': 'Sicuro/a di voler cancellare questo whasq?',
     'error-deleting-whasq': 'Si è verificato un errore durante la cancellazione del Suo whasq. Riprova per favore.',
-    'whasq-exchange': 'Scambio',
+    'whasq-exchange': 'in cambio',
     'whasq-notify-around': 'Notificare i whasqers intorno a me',
     'whasq-urgent': 'Urgente',
     'whasq-channel': 'Lingua del whasq',
-    'whasq-no-media': 'Pas de média', /* TODO */
-    'whasq-media-image': 'Photo whasq', /* TODO */
-    'whasq-media-video': 'Vidéo whasq', /* TODO */
-    'whasq-media-audio': 'Audio whasq', /* TODO */
-    'whasq-media-file': 'Fichier whasq', /* TODO */
+    'whasq-no-media': 'Nessun média', 
+    'whasq-media-image': 'Foto whasq', 
+    'whasq-media-video': 'Video whasq', 
+    'whasq-media-audio': 'messaggio vocale whasq', 
+    'whasq-media-file': 'File Whasq', 
 
     // Profile
     'error-getting-user': 'Si è verificato un errore durante il recupero del profilo del utente',
@@ -91,7 +94,7 @@ const messages = {
     'user-answers': 'risposte',
     'user-whasqs': 'whasqs',
     'user-skill-added': 'Il talento \'{skillName}\' è stato aggiunto con successo.',
-    'error-adding-skill': 'Si è verificato un errore durante l\aggiunta del talento \'{skillName}\'.',
+    'error-adding-skill': 'Si è verificato un errore durante l\'aggiunta del talento \'{skillName}\'.',
     'user-skill-removed': 'Il talento \'{skillName}\' è stato cancellato con successo.',
     'error-removing-skill': 'Si è verificato un errore durante la soppressione del talento \'{skillName}\'.',
     'error-getting-available-skills': 'Si è verificato un errore durante il recupero dei talenti disponibili.',
@@ -112,9 +115,12 @@ const messages = {
 
     // AddUserSkillModal
     'add-user-skill-title': 'Aggiunta di un talento',
+    'add-user-skill-subtitle': 'Hai sicuramente altri talenti, puoi aggiungerli !', 
+    'add-user-skill-subtitle-first-login': 'Hai sicuramente altri talenti, puoi aggiungerli !', 
     
     // AddUserChannelModal
     'add-user-channel-title': 'Aggiunta di una lingua',
+    'add-user-channel-subtitle': 'Seleziona le lingue che parli',
 
     // MediaAttachment
     'media-attachment-download': 'Scarica l\'allegato',
@@ -132,6 +138,7 @@ const messages = {
     'notification-message-suggest': '{fullname} Le ha suggerito questo talento',
     'notification-message-blacklist': '{fullname} ha segnalato il Suo whasq',
     'notification-message-admin-whasq': '{fullname} a creato un nuovo whasq',
+    'notification-message-tag-user': 'Sei stato raccomandato da {fullname} per il whasq', 
     'notification-days-ago': 'Ci sono {days} giorni',
 
     // WhasqWrite
@@ -177,6 +184,7 @@ const messages = {
     'answer-report-confirm-message': 'Sicuro/a di voler segnalare questa risposta?',
     'answer-champion-confirm-message': 'Sicuro/a di voler definire questa risposta come la soluzione del Suo whasq?',
     'answer-media-attachment-no-preview': 'Non può visualizzare il whasq',
+    'answer-empty-content': 'Devi scrivere un messaggio o aggiungere un file per inviare la tua risposta.', 
 
     // WhasqPerso
     'whasq-perso-read-times': 'Visto {readUsersCount} volte',
@@ -214,7 +222,7 @@ const messages = {
     'register-fullname': 'Nome completo',
     'register-phone': 'Telefono',
     'register-job-position': 'Posto',
-    'register-channels': 'Lingue',
+    'register-channels': 'lingue parlate', 
     'register-channel-required': 'Almeno una lingua deve essere aggiunta per finalizzare la registrazione.',
     'register-add': 'Aggiungere',
     'register-password': 'Password',
@@ -231,6 +239,7 @@ const messages = {
     'ranking-solutions-label': 'SOLUZIONE',
     'ranking-see-profile': 'Vedere il profilo',
     'ranking-no-podium-for-selected-month': 'non c\'è classifica per questo mese',
+    'ranking-ytd-label': 'Dall\'inizio {year}',
 
     // Whasqpoint
     'whasqpoint-message-usefull': '{fullname} ha trovato la Sua rispota utile!',
@@ -262,15 +271,29 @@ const messages = {
     'suggestions-modal-recommended-by': '{fullname} Le ha raccomandato per i talenti :',
 
     // ZoomImageModal
-    'zoom-image-modal-title': 'Zoom de l\'image', /* TODO */
+    'zoom-image-modal-title': 'Ingrandisci l\'immagine', 
 
     // UploadProfileImageModal
-    'drop-file-here-or-click': 'Déposez votre fichier ici ou cliquez pour sélectionner le fichier à importer.', /* TODO */
-    'profile-image-size-limit': 'Seuls les fichiers images d\'une taille inférieure à 1Mo sont acceptés.', /* TODO */
-    'error-importing-profile-image': 'Une erreur s\'est produite lors de l\'import de l\'image. Veuillez réessayer.', /* TODO */
-    'import-profile-image': 'Importer l\'image', /* TODO */
-    'choose-profile-image': 'Choisissez votre image de profil', /* TODO */
-    'profile-image-square-required': 'L\'image doit avoir un format carré.', /* TODO */
+    'drop-file-here-or-click': 'Rilascia il file qui o fai clic per selezionare il file da importarer.', 
+    'profile-image-size-limit': 'Sono accettate solo foto inferiori a 1 MB.', 
+    'error-importing-profile-image': 'Si è verificato un errore durante l\'importazione della foto. Per favore riprovar.', 
+    'import-profile-image': 'Importa la foto', 
+    'choose-profile-image': 'Scegli la tua immagine del profilo', 
+    'profile-image-square-required': 'L\'immagine deve avere un formato quadrato.', 
+    
+    // TagUserModal
+    'tag-user-modal-title': 'Tagguer un utilisateur', 
+    'tag-user-modal-search': 'Cerca un utente', 
+    
+    // TutoModal
+    'tuto-modal-title': 'Consigli e trucchi', 
+    'tuto-modal-homepage-ask-whasq': 'Fai la tua domanda.', 
+    'tuto-modal-homepage-my-skills': 'Mostra gli whasq secondo i tuoi talenti e scritti nella lingua indicata nel tuo profilo.', 
+    'tuto-modal-homepage-all-skills': 'Mostra gli whasq nella lingua che hai indicato nel tuo profilo.',
+    'tuto-modal-add-whasq-add-media': 'Per illustrare la tua domanda, aggiungi un\'immagine, un testo, un video o un messaggio vocale. Puoi anche usarli quando rispondi a un whasq.', 
+    'tuto-modal-add-whasq-add-skill': 'Scegli 3 talenti che potrebbero aiutarti a risolvere il tuo whasq.', 
+    'tuto-modal-add-whasq-add-channel': 'Scegli la lingua del tuo whasq. La scelta della lingua dipende dalle lingue aggiunte nel tuo profilo : fr, es, ru, ...', 
+    'tuto-modal-profile-update': 'Dai un po \'di vita all\'applicazione, aggiorna la tua immagine del profilo.', 
 }
 
 export default messages
