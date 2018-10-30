@@ -9,7 +9,7 @@ app:
       link.go: Return to app #todo
       result:
         success: Le changement de votre mot de passe a bien été pris en compte
-        failure: Impossible de modifier le mot de passe. Le lien est peut-être erroné ou n\'est plus actif ou alors ne contient pas au moins 8 lettres dont au moins 4 autres caractères (majuscule, miniscule, chiffre et caractère spécial)
+        failure: Impossible de modifier le mot de passe. Le lien est peut-être erroné ou n\'est plus actif.
     unsubscribe:
       title: Whasq - se désinscrire
       result:
