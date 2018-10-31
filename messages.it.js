@@ -29,7 +29,7 @@ const messages = {
     'third-ranking-suffix': 'o',
     'default-ranking-suffix': 'o',
     'back-to-homepage': 'Home', 
-    'loading': 'Chargement...', /* TODO */ 
+    'loading': 'Caricamento in corso ...',
 
     // Header
     'header-profile': 'Profile',
@@ -186,7 +186,7 @@ const messages = {
     'answer-champion-confirm-message': 'Sicuro/a di voler definire questa risposta come la soluzione del Suo whasq?',
     'answer-media-attachment-no-preview': 'Non può visualizzare il whasq',
     'answer-empty-content': 'Devi scrivere un messaggio o aggiungere un file per inviare la tua risposta.', 
-    'answer-error-usefull-current-user': 'Vous ne pouvez pas aimer votre propre commentaire 😉', /* TODO */
+    'answer-error-usefull-current-user': 'Non ti piace il tuo commento 😉',
 
     // WhasqPerso
     'whasq-perso-read-times': 'Visto {readUsersCount} volte',
@@ -298,7 +298,7 @@ const messages = {
     'tuto-modal-profile-update': 'Dai un po \'di vita all\'applicazione, aggiorna la tua immagine del profilo.', 
     
     // MyWhasqs
-    'my-whasqs-title': 'Mes whasqs', /* TODO */
+    'my-whasqs-title': 'I miei whasq',
 }
 
 export default messages

@@ -29,7 +29,7 @@ const messages = {
     'third-ranking-suffix': 'rd',
     'default-ranking-suffix': 'th',
     'back-to-homepage': 'Return to homepage', 
-    'loading': 'Chargement...', /* TODO */
+    'loading': 'Loading...',
 
     // Header
     'header-profile': 'Profile',
@@ -224,7 +224,7 @@ const messages = {
     'register-fullname': 'Complete name',
     'register-phone': 'Phone',
     'register-job-position': 'Job',
-    'register-channels': 'Langues parlées', /* TODO */
+    'register-channels': 'Spoken languages',
     'register-channel-required': 'Warning ! Sorry, you must have one language to complete your registration.',
     'register-add': 'Add',
     'register-password': 'Password', 
@@ -273,7 +273,7 @@ const messages = {
     'suggestions-modal-recommended-by': '{fullname} has recommanded you for thoses skills  :', 
 
     // ZoomImageModal
-    'zoom-image-modal-title': 'Zoom de l\'image', /* TODO */
+    'zoom-image-modal-title': 'Image zoom',
 
     // UploadProfileImageModal
     'drop-file-here-or-click': 'Drop your file here or click to select the file to import.',
@@ -290,7 +290,7 @@ const messages = {
     // TutoModal
     'tuto-modal-title': 'Tips and tricks', 
     'tuto-modal-homepage-ask-whasq': 'Ask your question.', 
-    'tuto-modal-homepage-my-skills': 'Here, all the whasqs according to your talents and written in the language you chose in your profil.', /* TODO */
+    'tuto-modal-homepage-my-skills': 'Here, all the whasqs according to your talents and written in the language you chose in your profil.',
     'tuto-modal-homepage-all-skills': 'Here, all the whasqs in the language that you indicated in your profil.',
     'tuto-modal-add-whasq-add-media': ' To illustrate your question you can add a/an image, text, video or voice message. You can also use them to answer a whasq.',
     'tuto-modal-add-whasq-add-skill': 'Choose 3 talents that could help you solve your whasq.', 
@@ -298,7 +298,7 @@ const messages = {
     'tuto-modal-profile-update': 'Give a personal touch to the application, its time to update your profile picture.', 
     
     // MyWhasqs
-    'my-whasqs-title': 'Mes whasqs', /* TODO */
+    'my-whasqs-title': 'My whasqs',
 }
 
 export default messages
