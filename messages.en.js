@@ -129,6 +129,7 @@ const messages = {
     'error-getting-notifications': 'An error has occured during the notification\'s recovery.',
     'notifications-today': 'Notifications',
     'notifications-past': 'Older',
+    'notifications-empty': 'You don\'t have a notification yet.',
     'notification-message-answer': '{fullname} has replied to your whasq',
     'notification-message-champion': '{fullname} has retained youas the champion of his whasq !',
     'notification-message-add-points': '+{whasqPoints} whasqpoints',

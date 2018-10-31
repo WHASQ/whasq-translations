@@ -129,6 +129,7 @@ const messages = {
     'error-getting-notifications': 'Un error se produjo al recuperar las notificaciones.',
     'notifications-today': 'Hoy',
     'notifications-past': 'Antiguas',
+    'notifications-empty': 'Aún no tienes una notificación.',
     'notification-message-answer': '{fullname} ha respondido a tu whasq',
     'notification-message-champion': '¡{fullname} te ha indicado campeón de su whasq !',
     'notification-message-add-points': '+{whasqPoints} whasqpuntos',

@@ -29,7 +29,7 @@ const messages = {
     'third-ranking-suffix': 'o',
     'default-ranking-suffix': 'o',
     'back-to-homepage': 'Home', 
- 
+    'loading': 'Chargement...', /* TODO */ 
 
     // Header
     'header-profile': 'Profile',
@@ -129,6 +129,7 @@ const messages = {
     'error-getting-notifications': 'Si è verificato un errore durante il recupero delle notifiche',
     'notifications-today': 'Oggi',
     'notifications-past': 'Più vecchi',
+    'notifications-empty': 'Non hai ancora una notifica.',
     'notification-message-answer': '{fullname} ha rispoto al Suo whasq',
     'notification-message-champion': '{fullname} Le ha designato campione del Suo whasq !',
     'notification-message-add-points': '+{whasqPoints} whasqpoints',
@@ -185,6 +186,7 @@ const messages = {
     'answer-champion-confirm-message': 'Sicuro/a di voler definire questa risposta come la soluzione del Suo whasq?',
     'answer-media-attachment-no-preview': 'Non può visualizzare il whasq',
     'answer-empty-content': 'Devi scrivere un messaggio o aggiungere un file per inviare la tua risposta.', 
+    'answer-error-usefull-current-user': 'Vous ne pouvez pas aimer votre propre commentaire 😉', /* TODO */
 
     // WhasqPerso
     'whasq-perso-read-times': 'Visto {readUsersCount} volte',
@@ -294,6 +296,9 @@ const messages = {
     'tuto-modal-add-whasq-add-skill': 'Scegli 3 talenti che potrebbero aiutarti a risolvere il tuo whasq.', 
     'tuto-modal-add-whasq-add-channel': 'Scegli la lingua del tuo whasq. La scelta della lingua dipende dalle lingue aggiunte nel tuo profilo : fr, es, ru, ...', 
     'tuto-modal-profile-update': 'Dai un po \'di vita all\'applicazione, aggiorna la tua immagine del profilo.', 
+    
+    // MyWhasqs
+    'my-whasqs-title': 'Mes whasqs', /* TODO */
 }
 
 export default messages

@@ -129,6 +129,7 @@ const messages = {
     'error-getting-notifications': 'Произошла ошибка при загрузке уведомлений.',
     'notifications-today': 'Сегодня',
     'notifications-past': 'Ранее',
+    'notifications-empty': 'У вас еще нет уведомления.',
     'notification-message-answer': '{fullname} ответил(-а) на ваш whasq',
     'notification-message-champion': '{fullname} отметил(-а) вас как чемпиона своего whasq !',
     'notification-message-add-points': '+{whasqPoints} whasq очков',

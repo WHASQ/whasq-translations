@@ -17,7 +17,7 @@ const messages = {
     'login-password-see-password': 'Voir le mot de passe',
     'login-password-not-see-password': 'Cacher le mot de passe',
     'login-forgotten-or-change-password': 'Mot de passe oublié ou changement de mot de passe ?',
-
+  
     //  Global
     'search': 'Recherche',
     'previous': 'Précédent',
@@ -129,6 +129,7 @@ const messages = {
     'error-getting-notifications': 'Une erreur s\'est produite lors de la récupération des notifications.',
     'notifications-today': 'Aujourd\'hui',
     'notifications-past': 'Plus anciens',
+    'notifications-empty': 'Vous n\'avez pas encore de notification.',
     'notification-message-answer': '{fullname} a répondu à votre whasq',
     'notification-message-champion': '{fullname} vous a désigné champion de son whasq !',
     'notification-message-add-points': '+{whasqPoints} whasqpoints',
@@ -157,7 +158,7 @@ const messages = {
     'whasq-write-import-requirements': 'Votre fichier doit être de type image, vidéo, audio ou Microsoft Office.',
     'whasq-write-import-size-limit': 'La taille maximale du fichier est 1mo.',
     'whasq-write-linked-skills': 'Talents concernés',
-    'whasq-write-linked-channel': 'Langue concernée',
+    'whasq-write-linked-channel': 'Ecrit en',
     'whasq-write-change-attachment': 'Changer de fichier',
     "whasq-write-preview-whasq": 'Prévisualiser le whasq',
     'whasq-write-error-title-required': 'Le titre du whasq est obligatoire',
@@ -281,11 +282,11 @@ const messages = {
     'import-profile-image': 'Importer l\'image',
     'choose-profile-image': 'Choisissez votre image de profil',
     'profile-image-square-required': 'L\'image doit avoir un format carré.',
-    
+
     // TagUserModal
     'tag-user-modal-title': 'Tagguer un utilisateur',
     'tag-user-modal-search': 'Recherchez un utilisateur',
-    
+
     // TutoModal
     'tuto-modal-title': 'Conseils et astuces',
     'tuto-modal-homepage-ask-whasq': 'Posez votre question.',
@@ -295,7 +296,7 @@ const messages = {
     'tuto-modal-add-whasq-add-skill': 'Choisissez 3 talents qui pourront vous aider à résoudre votre whasq.',
     'tuto-modal-add-whasq-add-channel': 'Sélectionnez la langue dans laquelle votre whasq est rédigé. Le choix de la langue dépend des langues ajoutées dans votre profil : fr, es, ru, ...',
     'tuto-modal-profile-update': 'Ajoutez un peu de couleur sur l\'app en mettant à jour votre profil.',
-    
+
     // MyWhasqs
     'my-whasqs-title': 'Mes whasqs',
 }
