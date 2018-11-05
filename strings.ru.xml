@@ -78,7 +78,7 @@
     <string name="HINT_MY_LANGUAGES">Мои языки</string>
     <string name="HINT_PASSWORD_CONFIRMATION">Подтвердить пароль</string>
     <string name="HINT_SEARCH">Поиск</string>
-    <string name="HINT_COMMENT">Написать комментарий</string>
+    <string name="HINT_COMMENT">Ответить (Макс. 255 символов)</string>
     <string name="HINT_TITLE">Мой oбращение</string>
     <string name="HINT_MESSAGE">Мой сообщение</string>
     <string name="HINT_EXCHANGE">Предлагаю в обмен на.. чашечку кофе</string>
