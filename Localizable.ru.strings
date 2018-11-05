@@ -38,7 +38,7 @@
 "alert-warning-delete-whasq" = "Вы действительно хотите удалить этот вопрос?";
 "alert-warning-report-whasq" = "Вы действительно хотите пожаловаться на этот вопрос?";
 "all-wasq-title" = "Все";
-"answer-placeholder-label" = "Ответить";
+"answer-placeholder-label" = "Ответить (Макс. 255 символов)"; /* max 30 characters in this wording */
 "archive-whasq" = "Заархивируйте свой вопрос";
 "archive" = "Архив";
 "blacklist-whasq-error" = "Этот вопрос не был зарегистрирован";
