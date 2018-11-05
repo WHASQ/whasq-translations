@@ -38,7 +38,7 @@
 "alert-warning-delete-whasq" = "Do you really want to delete this Whasq?";
 "alert-warning-report-whasq" = "Do you really want to report this Whasq?";
 "all-wasq-title" = "All";
-"answer-placeholder-label" = "Reply";
+"answer-placeholder-label" = "Reply (255 characters max)"; /* max 30 characters in this wording */
 "archive-whasq" = "Archive your whasq";
 "archive" = "Archive";
 "blacklist-whasq-error" = "This Whasq hasn't been reported 🙄";
