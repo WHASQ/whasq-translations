@@ -77,7 +77,7 @@
     <string name="HINT_MY_LANGUAGES">Le mie lingue</string>
     <string name="HINT_PASSWORD_CONFIRMATION">Confermare la password</string>
     <string name="HINT_SEARCH">Cercare</string>
-    <string name="HINT_COMMENT">Scrive il Suo messaggio</string>
+    <string name="HINT_COMMENT">Rispondere (Max. 255 caratt.)</string>
     <string name="HINT_TITLE">Il mio titolo</string>
     <string name="HINT_MESSAGE">Il mio messaggio</string>
     <string name="HINT_EXCHANGE">Se mi aiuta ti offro ad esempio …..un caffè </string>
