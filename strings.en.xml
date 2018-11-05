@@ -77,10 +77,10 @@
     <string name="HINT_MY_LANGUAGES">My languages</string>
     <string name="HINT_PASSWORD_CONFIRMATION">Confirm password</string>
     <string name="HINT_SEARCH">Search</string>
-    <string name="HINT_COMMENT">Write your comment</string>
+    <string name="HINT_COMMENT">Reply (255 characters max)</string>
     <string name="HINT_TITLE">My title</string>
     <string name="HINT_MESSAGE">My message</string>
-    <string name="HINT_EXCHANGE">I offer in exchange… a coffee</string>
+    <string name="HINT_EXCHANGE">I offer in exchangeâ€¦ a coffee</string>
 
     <!-- EditTexts Labels -->
     <string name="LABEL_EMAIL">Email address *</string>
