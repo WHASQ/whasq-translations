@@ -38,7 +38,7 @@
 "alert-warning-delete-whasq" = "Deseja realmente apagar este Whasq ?";
 "alert-warning-report-whasq" = "Tem a certeza que deseja denúnciar este Whasq? O criador vai ser notificado. As denúncias abusivas podem resultar na supressão da conta 🙄";
 "all-wasq-title" = "Tudo";
-"answer-placeholder-label" = "Resposta";
+"answer-placeholder-label" = "Resposta (255 caract. max)"; /* max 30 characters in this wording */
 "archive-whasq" = "Arquivar o whasq";
 "archive" = "Arquivar";
 "blacklist-whasq-error" = "O Whasq não pôde ser denúnciado 🙄";
