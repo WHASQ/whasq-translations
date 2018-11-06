@@ -36,6 +36,7 @@
     <!-- ERRORS -->
     <string name="ERROR_DISCONNECT">Ваша сессия истекла</string>
     <string name="ERROR_COMMENT_ALREADY_LIKED">Baм уже понравился этот комментарий</string>
+    <string name="ERROR_COMMENT_SAME_USER">Извините, вы не можете оценить ваш собственный комментарий</string>
     <string name="ERROR_SESSION_EXPIRED">Срок действия вашей сессии истек, пожалуйста, заново подключитесь</string>
     <string name="ERROR_WHASQ_NO_SKILLS">Пожалуйста, поставьте хотя бы один навык</string>
     <string name="ERROR_UNKNOWN">Произошла неизвестная ошибка</string>
@@ -244,11 +245,15 @@
     <string name="TIME_GAIN_ANSWER_ONE_DAY">1 день</string>
     <string name="TIME_GAIN_ANSWER_TWO_DAYS">2 days</string>
     <string name="TIME_GAIN_ANSWER_THREE_DAYS">2 дня</string>
-    <string name="TIME_GAIN_ANSWER_VERY_EASY">Очень легко 🤩</string>
+    <string name="TIME_GAIN_ANSWER_VERY_EASY">Очень легко</string>
     <string name="TIME_GAIN_ANSWER_EASY">Легко</string>
     <string name="TIME_GAIN_ANSWER_DIFFICULT">Сложно</string>
-    <string name="TIME_GAIN_ANSWER_VERY_DIFFICULT">Очень сложно 😱</string>
+    <string name="TIME_GAIN_ANSWER_VERY_DIFFICULT">Очень сложно</string>
 
+    <string name="TIME_GAIN_ANSWER_VERY_EASY_EMOJI">Очень легко 🤩</string>
+    <string name="TIME_GAIN_ANSWER_EASY_EMOJI">Легко 😉</string>
+    <string name="TIME_GAIN_ANSWER_DIFFICULT_EMOJI">Сложно 😅</string>
+    <string name="TIME_GAIN_ANSWER_VERY_DIFFICULT_EMOJI">Очень сложно 😱</string>
     <!-- Recommendations -->
     <string name="RECOMMENDATIONS_SKIP_BUTTON">Пропустить</string>
     <string name="RECOMMENDATIONS_INTRO">Ваши коллеги порекомедовали вас за ваши навыки.\n\nВы их подтверждаете?</string>
@@ -384,6 +389,10 @@
     <string name="TOOLTIP_PROFILE_PICTURE">Добавьте некоторый цвет в приложение, обновив свой профиль</string>
     <string name="TOOLTIP_PROFILE_ENRICH">Проведите влево, чтобы добавить свои таланты и языки, на которых вы говорите !</string>
 
+    <string name="TOOLTIP_WHASQ_MEDIA_TYPES_EMOJI">Добавьте медиафайлы, чтобы проиллюстрировать ваш вопрос. например. изображение, текст, видео 🎬 или просто звук 🎙. Вы также можете использовать их для ответа на Whasq.</string>
+    <string name="TOOLTIP_WHASQ_ADD_LANGUAGE_EMOJI">Выберите язык, на котором написан ваш whasq. Выбор языка зависит от языков, добавленных в ваш профиль 🇫🇷🇪🇸🇷🇺,..</string>
+    <string name="TOOLTIP_PROFILE_PICTURE_EMOJI">Добавьте некоторый цвет в приложение, обновив свой профиль 😎</string>
+    <string name="TOOLTIP_PROFILE_ENRICH_EMOJI">Проведите влево, чтобы добавить свои таланты 🎻🎭 и языки, на которых вы говорите 🇫🇷🇪🇸🇷🇺,..!</string>
     <!-- WHASQ CREATION -->
     <string name="WHASQ_CREATION_TITLE">Whasq</string>
 

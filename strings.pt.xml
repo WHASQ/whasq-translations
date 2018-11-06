@@ -35,6 +35,7 @@
     <!-- ERRORS -->
     <string name="ERROR_DISCONNECT">A sua sessão expirou.</string>
     <string name="ERROR_COMMENT_ALREADY_LIKED">Vôce já deixou um like neste comentário</string>
+    <string name="ERROR_COMMENT_SAME_USER">Sorry, you can not like your own comment</string> <!-- TODO : Not translated -->
     <string name="ERROR_SESSION_EXPIRED"> A sua sessão expirou, reinicie a sessão.</string>
     <string name="ERROR_WHASQ_NO_SKILLS">As competências relacionadas com este Whasq (1 mínimo, 3 máximo)</string>
     <string name="ERROR_UNKNOWN">Ocorreu um erro incomum.</string>
@@ -123,27 +124,23 @@
     <string name="PROFILE_MY_WHASQ">Meus whasqs</string>
 
     <plurals name="PROFILE_WHASQ_COUNT">
-        <item quantity="one">@string/PERFIL_WHASQ_CONTA_ONE</item>
-        <item quantity="other">@string/PERFIL_WHASQ_CONTAS_MORE</item>
+        <item quantity="one">@string/PROFILE_WHASQ_COUNT_ONE</item>
+        <item quantity="other">@string/PROFILE_WHASQ_COUNT_MORE</item>
     </plurals>
     <string name="PROFILE_WHASQ_COUNT_ONE" formatted="false">%d whasq</string>
     <string name="PROFILE_WHASQ_COUNT_MORE" formatted="false">%d whasqs</string>
 
-
     <!-- Login Activity -->
-    <string name="LOGIN_PASSWORD_FORGOTTEN">Esqueceu da sua palavra-passe ou quer modificá-la </string>
+    <string name="LOGIN_PASSWORD_FORGOTTEN">Esqueceu da sua palavra-passe ou quer modificá-la</string>
     <string name="CONDITIONS_OF_USE"><u>Eu aceito os termos e condições de uso</u></string>
-
 
     <!-- Camera Activity -->
     <string name="CAPTURE_LIMIT_LENGTH_REACHED_TITLE">A gravação de vídeo foi interrompida</string>
     <string name="CAPTURE_LIMIT_LENGTH_REACHED_MESSAGE">Você atingiu o tempo máximo para a gravação do vídeo.</string>
 
-
     <!-- Microphone Activity -->
     <string name="AUDIO_LIMIT_LENGTH_REACHED_TITLE">Gravação áudio interrompida</string>
     <string name="AUDIO_LIMIT_LENGTH_REACHED_MESSAGE">Você atingiu o tempo máximo para a gravação do áudio.</string>
-
 
     <!-- Language Activity -->
     <string name="LANGUAGE_TITLE_PROFILE">Meus idiomas</string>
@@ -163,13 +160,11 @@
     <string name="SKILLS_SUBTITLE_WHASK">As competências relacionadas com este whasq (3 maximum) :</string>
     <string name="SKILLS_SUGGESTION"><u>Sugerir uma comptência pelo email</u></string>
 
-
     <!-- Email -->
     <string name="EMAIL_APP_SELECTOR_TEXT">Sugerir uma comptência pelo email</string>
     <string name="EMAIL_MISSING_SKILL_DEST">jessie@whasq.com</string>
     <string name="EMAIL_MISSING_SKILL_SUBJECT">Sugestão de competência !</string>
     <string name="EMAIL_MISSING_SKILL_BODY">Bom dia. Eu sugiro adicionar a competência :</string>
-
 
     <!-- Whasq -->
     <string name="WHASQ_TITLE">Whasq</string>
@@ -195,13 +190,12 @@
     <string name="WHASQ_POINT_RECOMMEND_MESSAGE">Você foi recomendado por %s</string>
     <string name="WHASQ_DEFAULT_MESSAGE">Se puder ajudar-me, por favor entre em contato.</string>
 
-
     <plurals name="WHASQ_ANSWERS_COUNT">
         <item quantity="zero">@string/WHASQ_ANSWERS_COUNT_ZERO</item>
         <item quantity="one">@string/WHASQ_ANSWERS_COUNT_ONE</item>
         <item quantity="other">@string/WHASQ_ANSWERS_COUNT_MORE</item>
     </plurals>
-    <string name="WHASQ_ANSWERS_COUNT_ZERO">No answer</string>
+    <string name="WHASQ_ANSWERS_COUNT_ZERO">No answer</string> <!-- TODO : Not translated -->
     <string name="WHASQ_ANSWERS_COUNT_ONE" formatted="false">%d resposta</string>
     <string name="WHASQ_ANSWERS_COUNT_MORE" formatted="false">%d respostas</string>
 
@@ -213,7 +207,6 @@
     <string name="WHASQ_READ_COUNT_ZERO">Não lido</string>
     <string name="WHASQ_READ_COUNT_ONE">Lido %1$s vez</string>
     <string name="WHASQ_READ_COUNT_OTHER">Lido %1$s vezes</string>
-
 
     <!-- Whasq Answers -->
     <string name="WHASQ_ANSWER_OPTION_EDIT">Editar</string>
@@ -228,13 +221,11 @@
     <string name="WHASQ_ANSWER_MEDIA_ENTRY_VIDEO">Vídeo</string>
     <string name="WHASQ_ANSWER_MEDIA_ENTRY_AUDIO">Audio</string>
 
-
     <!-- Geolocation -->
     <string name="GEOLOCATION_PERMISSION_TITLE">Facilite as suas interações</string>
     <string name="GEOLOCATION_PERMISSION_EXPLANATION">Para solicitar os whasquers ao redor de si, \ n autorize  Whasq a aceder à sua geolocalização</string>
     <string name="GEOLOCATION_PERMISSION_ALLOW">Autorizar acesso</string>
     <string name="GEOLOCATION_PERMISSION_NOT_ALLOW">Não autorizar</string>
-
 
     <!-- New password -->
     <string name="NEW_PASSWORD_DIALOG_EMPTY_EMAIL_ERROR">Você deve preencher o seu e-mail</string>
@@ -255,10 +246,15 @@
     <string name="TIME_GAIN_ANSWER_ONE_DAY">1 dia</string>
     <string name="TIME_GAIN_ANSWER_TWO_DAYS">2 dias</string>
     <string name="TIME_GAIN_ANSWER_THREE_DAYS">3 dias</string>
-    <string name="TIME_GAIN_ANSWER_VERY_EASY">Muito fácil 🤩</string>
-    <string name="TIME_GAIN_ANSWER_EASY"> Fácil 😉</string>
-    <string name="TIME_GAIN_ANSWER_DIFFICULT">Difícil 😅</string>
-    <string name="TIME_GAIN_ANSWER_VERY_DIFFICULT">Muito difícil 😱</string>
+    <string name="TIME_GAIN_ANSWER_VERY_EASY">Muito fácil</string>
+    <string name="TIME_GAIN_ANSWER_EASY">Fácil</string>
+    <string name="TIME_GAIN_ANSWER_DIFFICULT">Difícil</string>
+    <string name="TIME_GAIN_ANSWER_VERY_DIFFICULT">Muito difícil</string>
+
+    <string name="TIME_GAIN_ANSWER_VERY_EASY_EMOJI">Muito fácil 🤩</string>
+    <string name="TIME_GAIN_ANSWER_EASY_EMOJI">Fácil 😉</string>
+    <string name="TIME_GAIN_ANSWER_DIFFICULT_EMOJI">Difícil 😅</string>
+    <string name="TIME_GAIN_ANSWER_VERY_DIFFICULT_EMOJI">Muito difícil 😱</string>
 
     <!-- Recommendations -->
     <string name="RECOMMENDATIONS_SKIP_BUTTON">Continuar</string>
@@ -351,10 +347,10 @@
 
     <!-- Filters -->
     <string-array name="FILTERS_TROPHY">
-        <item>@string/FILTER_HOJE</item>
-        <item>@string/FILTER_ESTA_SEMANA</item>
-        <item>@string/FILTER_ESTE_MÊS</item>
-        <item>@string/FILTER_ESTE_ANO</item>
+        <item>@string/FILTER_TODAY</item>
+        <item>@string/FILTER_THIS_WEEK</item>
+        <item>@string/FILTER_THIS_MONTH</item>
+        <item>@string/FILTER_THIS_YEAR</item>
     </string-array>
     <string name="FILTER_TODAY">Hoje</string>
     <string name="FILTER_THIS_WEEK">Esta semana</string>
@@ -394,11 +390,16 @@
     <string name="TOOLTIP_WHASQ_MY_SKILLS">Visualize os whasqs relacionados com as suas competências e com os idiomas do seu perfil.</string>
     <string name="TOOLTIP_WHASQ_ALL_SKILLS">Visualize os whasqs no idioma adicionado no seu perfil.</string>
     <string name="TOOLTIP_CREATE_WHASQ">Faça a sua pergunta !</string>
-    <string name="TOOLTIP_WHASQ_MEDIA_TYPES"> Para melhor ilustrar sua pergunta adicione, por exemplo, uma imagem, um texto, um vídeo ou apenas o som. Também pode usá-los para responder a um Whasq.</string>
+    <string name="TOOLTIP_WHASQ_MEDIA_TYPES">Adicione um ficheiro para ilustrar da melhor forma a sua pergunta. por exemplo imagem, texto, vídeo, ou apenas o som. Também pode usá-los para responder a um Whasq.</string>
     <string name="TOOLTIP_WHASQ_ADD_SKILLS">Escolha 3 talentos que podem ajudá-lo a resolver seu whasq !</string>
     <string name="TOOLTIP_WHASQ_ADD_LANGUAGE">Selecione o idioma no qual o seu whasq está escrito. A escolha do idioma depende dos idiomas adicionados no seu perfil</string>
     <string name="TOOLTIP_PROFILE_PICTURE">Dê vida à aplicação, atualizando o seu perfil.</string>
-    <string name="TOOLTIP_PROFILE_ENRICH">Deslizar para a esquerda para adicionar seus talentos e os seus idiomas !</string>
+    <string name="TOOLTIP_PROFILE_ENRICH">Deslize para a esquerda para adicionar as suas competências e os idiomas que fala !</string>
+
+    <string name="TOOLTIP_WHASQ_MEDIA_TYPES_EMOJI">Adicione um ficheiro para ilustrar da melhor forma a sua pergunta. por exemplo imagem, texto, vídeo 🎬, ou apenas o som 🎙. Também pode usá-los para responder a um Whasq.</string>
+    <string name="TOOLTIP_WHASQ_ADD_LANGUAGE_EMOJI">Select the language in which your whasq is written. The choice of language depends on the languages added in your profile 🇫🇷🇪🇸🇷🇺,..</string>
+    <string name="TOOLTIP_PROFILE_PICTURE_EMOJI">Dê vida à aplicação atualizando o seu perfil 😎</string>
+    <string name="TOOLTIP_PROFILE_ENRICH_EMOJI">Deslize para a esquerda para adicionar as suas competências 🎻🎭 e os idiomas que fala 🇫🇷🇪🇸🇷🇺,..!</string>
 
     <!-- WHASQ CREATION -->
     <string name="WHASQ_CREATION_TITLE">Whasq</string>

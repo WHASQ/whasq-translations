@@ -35,6 +35,7 @@
     <!-- ERRORS -->
     <string name="ERROR_DISCONNECT">Your session has expired.</string>
     <string name="ERROR_COMMENT_ALREADY_LIKED">You already liked this comment</string>
+    <string name="ERROR_COMMENT_SAME_USER">Sorry, you can not like your own comment</string>
     <string name="ERROR_SESSION_EXPIRED">Your session has expired, please reconnect.</string>
     <string name="ERROR_WHASQ_NO_SKILLS">This whasq concerned skills, at least 1</string>
     <string name="ERROR_UNKNOWN">An unknown error occurred.</string>
@@ -243,10 +244,15 @@
     <string name="TIME_GAIN_ANSWER_ONE_DAY">1 day</string>
     <string name="TIME_GAIN_ANSWER_TWO_DAYS">2 days</string>
     <string name="TIME_GAIN_ANSWER_THREE_DAYS">3 days</string>
-    <string name="TIME_GAIN_ANSWER_VERY_EASY">Very easy ??</string>
-    <string name="TIME_GAIN_ANSWER_EASY">easy  ??</string>
-    <string name="TIME_GAIN_ANSWER_DIFFICULT">Difficult  ??</string>
-    <string name="TIME_GAIN_ANSWER_VERY_DIFFICULT">Very difficult ??</string>
+    <string name="TIME_GAIN_ANSWER_VERY_EASY">Very easy</string>
+    <string name="TIME_GAIN_ANSWER_EASY">Easy</string>
+    <string name="TIME_GAIN_ANSWER_DIFFICULT">Difficult</string>
+    <string name="TIME_GAIN_ANSWER_VERY_DIFFICULT">Very difficult</string>
+
+    <string name="TIME_GAIN_ANSWER_VERY_EASY_EMOJI">Very easy 🤩</string>
+    <string name="TIME_GAIN_ANSWER_EASY_EMOJI">Easy 😉</string>
+    <string name="TIME_GAIN_ANSWER_DIFFICULT_EMOJI">Difficult 😅</string>
+    <string name="TIME_GAIN_ANSWER_VERY_DIFFICULT_EMOJI">Very difficult 😱</string>
 
     <!-- Recommendations -->
     <string name="RECOMMENDATIONS_SKIP_BUTTON">Skip</string>
@@ -274,8 +280,6 @@
 
     <!-- Skills suggestions -->
     <string name="SKILLS_SUGGESTIONS_TITLE">Suggest talents</string>
-    <!-- WHASQ CREATION -->
-    <string name="WHASQ_CREATION_TITLE">Whasq</string>
 
     <!-- Rankings -->
     <string name="RANKING_NOT_DEFINE">The podium has not yet been defined for this month.</string>
@@ -384,4 +388,12 @@
     <string name="TOOLTIP_WHASQ_ADD_LANGUAGE">Select the language in which your whasq is written. The choice of language depends on the languages added in your profile.</string>
     <string name="TOOLTIP_PROFILE_PICTURE">Give a personal touch to the application, it\'s time to update your profile picture</string>
     <string name="TOOLTIP_PROFILE_ENRICH">Swipe left to add your talents and the languages you speak !</string>
+
+    <string name="TOOLTIP_WHASQ_MEDIA_TYPES_EMOJI">To illustrate your question you can add a / an image, text, video 🎬, or voice message 🎙. You can also use them to answer a whasq.</string>
+    <string name="TOOLTIP_WHASQ_ADD_LANGUAGE_EMOJI">Select the language in which your whasq is written. The choice of language depends on the languages added in your profile 🇫🇷🇪🇸🇷🇺,..</string>
+    <string name="TOOLTIP_PROFILE_PICTURE_EMOJI">Give a personal touch to the application, it\'s time to update your profile picture 😎</string>
+    <string name="TOOLTIP_PROFILE_ENRICH_EMOJI">Swipe left to add your talents 🎻🎭 and the languages you speak 🇫🇷🇪🇸🇷🇺,..!</string>
+
+    <!-- WHASQ CREATION -->
+    <string name="WHASQ_CREATION_TITLE">Whasq</string>
 </resources>

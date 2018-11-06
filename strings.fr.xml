@@ -35,6 +35,7 @@
     <!-- ERRORS -->
     <string name="ERROR_DISCONNECT">Votre session a expiré.</string>
     <string name="ERROR_COMMENT_ALREADY_LIKED">Vous avez déjà aimé ce commentaire</string>
+    <string name="ERROR_COMMENT_SAME_USER">Vous ne pouvez pas aimer votre propre commentaire</string>
     <string name="ERROR_SESSION_EXPIRED"> Votre session a expiré, veuillez vous reconnecter.</string>
     <string name="ERROR_WHASQ_NO_SKILLS">Les talents concernés par ce Whasq (1 minimum, 3 maximum)</string>
     <string name="ERROR_UNKNOWN">Une erreur inhabituelle est survenue.</string>
@@ -129,21 +130,17 @@
     <string name="PROFILE_WHASQ_COUNT_ONE" formatted="false">%d whasq</string>
     <string name="PROFILE_WHASQ_COUNT_MORE" formatted="false">%d whasqs</string>
 
-
     <!-- Login Activity -->
     <string name="LOGIN_PASSWORD_FORGOTTEN">Mot de passe oublié ou changement de mot de passe</string>
     <string name="CONDITIONS_OF_USE"><u>J\'accepte les conditions générales d\'utilisation</u></string>
-
 
     <!-- Camera Activity -->
     <string name="CAPTURE_LIMIT_LENGTH_REACHED_TITLE">Enregistrement vidéo interrompu</string>
     <string name="CAPTURE_LIMIT_LENGTH_REACHED_MESSAGE">Vous avez atteint la durée maximum d\enregistrement vidéo.</string>
 
-
     <!-- Microphone Activity -->
     <string name="AUDIO_LIMIT_LENGTH_REACHED_TITLE">Enregistrement audio interrompu</string>
     <string name="AUDIO_LIMIT_LENGTH_REACHED_MESSAGE">Vous avez atteint la durée maximum d\enregistrement audio.</string>
-
 
     <!-- Language Activity -->
     <string name="LANGUAGE_TITLE_PROFILE">Mes langues</string>
@@ -163,13 +160,11 @@
     <string name="SKILLS_SUBTITLE_WHASK">Les talents concernés par ce whasq (3 maximum) :</string>
     <string name="SKILLS_SUGGESTION"><u>Suggérer un talent par mail</u></string>
 
-
     <!-- Email -->
     <string name="EMAIL_APP_SELECTOR_TEXT">Suggérer des talents par mail</string>
     <string name="EMAIL_MISSING_SKILL_DEST">jessie@whasq.com</string>
     <string name="EMAIL_MISSING_SKILL_SUBJECT">Suggestion d’un talent !</string>
     <string name="EMAIL_MISSING_SKILL_BODY">Bonjour. Je suggère d\’ajouter le talent :</string>
-
 
     <!-- Whasq -->
     <string name="WHASQ_TITLE">Whasq</string>
@@ -195,7 +190,6 @@
     <string name="WHASQ_POINT_RECOMMEND_MESSAGE">Vous avez été recommandé par %s</string>
     <string name="WHASQ_DEFAULT_MESSAGE">Si vous pouvez m\'aider, merci de me contacter.</string>
 
-
     <plurals name="WHASQ_ANSWERS_COUNT">
         <item quantity="zero">@string/WHASQ_ANSWERS_COUNT_ZERO</item>
         <item quantity="one">@string/WHASQ_ANSWERS_COUNT_ONE</item>
@@ -214,7 +208,6 @@
     <string name="WHASQ_READ_COUNT_ONE">Lu %1$s fois</string>
     <string name="WHASQ_READ_COUNT_OTHER">Lu %1$s fois</string>
 
-
     <!-- Whasq Answers -->
     <string name="WHASQ_ANSWER_OPTION_EDIT">Editer</string>
     <string name="WHASQ_ANSWER_OPTION_DELETE">Supprimer</string>
@@ -228,13 +221,11 @@
     <string name="WHASQ_ANSWER_MEDIA_ENTRY_VIDEO">Vidéo</string>
     <string name="WHASQ_ANSWER_MEDIA_ENTRY_AUDIO">Audio</string>
 
-
     <!-- Geolocation -->
     <string name="GEOLOCATION_PERMISSION_TITLE">Facilitez vos échanges</string>
     <string name="GEOLOCATION_PERMISSION_EXPLANATION">Pour solliciter les whasqueurs proches de vous, \npermettez à Whasq d\'accéder à votre géolocalisation</string>
     <string name="GEOLOCATION_PERMISSION_ALLOW">Autoriser l’accès</string>
     <string name="GEOLOCATION_PERMISSION_NOT_ALLOW">Ne pas autoriser</string>
-
 
     <!-- New password -->
     <string name="NEW_PASSWORD_DIALOG_EMPTY_EMAIL_ERROR">Vous devez renseigner votre e-mail</string>
@@ -255,10 +246,15 @@
     <string name="TIME_GAIN_ANSWER_ONE_DAY">1 jour</string>
     <string name="TIME_GAIN_ANSWER_TWO_DAYS">2 jours</string>
     <string name="TIME_GAIN_ANSWER_THREE_DAYS">3 jours</string>
-    <string name="TIME_GAIN_ANSWER_VERY_EASY">Très facile 🤩</string>
-    <string name="TIME_GAIN_ANSWER_EASY"> Facile 😉</string>
-    <string name="TIME_GAIN_ANSWER_DIFFICULT">Difficile 😅</string>
-    <string name="TIME_GAIN_ANSWER_VERY_DIFFICULT">Très difficile😱</string>
+    <string name="TIME_GAIN_ANSWER_VERY_EASY">Très facile</string>
+    <string name="TIME_GAIN_ANSWER_EASY">Facile</string>
+    <string name="TIME_GAIN_ANSWER_DIFFICULT">Difficile</string>
+    <string name="TIME_GAIN_ANSWER_VERY_DIFFICULT">Très difficile</string>
+
+    <string name="TIME_GAIN_ANSWER_VERY_EASY_EMOJI">Très facile 🤩</string>
+    <string name="TIME_GAIN_ANSWER_EASY_EMOJI">Facile 😉</string>
+    <string name="TIME_GAIN_ANSWER_DIFFICULT_EMOJI">Difficile 😅</string>
+    <string name="TIME_GAIN_ANSWER_VERY_DIFFICULT_EMOJI">Très difficile 😱</string>
 
     <!-- Recommendations -->
     <string name="RECOMMENDATIONS_SKIP_BUTTON">Continuer</string>
@@ -300,7 +296,6 @@
     <string name="RANKING_POSITION_SUFFIX_OTHERS">e</string>
 
     <!-- Alerts -->
-
     <string name="ALERT_PROFILE_PICTURE_TITLE">Choisis ta photo de profil</string>
     <string name="ALERT_PROFILE_PICTURE_ENTRY_CAPTURE">Depuis l\'appareil photo</string>
     <string name="ALERT_PROFILE_PICTURE_ENTRY_IMPORT"> Depuis la galerie</string>
@@ -318,9 +313,7 @@
     <string name="ALERT_LANGUAGE_DELETE_TITLE">Attention</string>
     <string name="ALERT_LANGUAGE_DELETE_MESSAGE"> Voulez-vous vraiment supprimer cette langue de votre profil  : </string>
 
-
     <!-- BottomSheets -->
-
     <string name="BOTTOM_SHEET_ENTRY_WHASQ_REPORT">Signaler</string>
     <string name="BOTTOM_SHEET_ENTRY_WHASQ_EDIT">Editer</string>
     <string name="BOTTOM_SHEET_ENTRY_WHASQ_DELETE"> Effacer le whasq?</string>
@@ -338,13 +331,11 @@
     <string name="BOTTOM_SHEET_ENTRY_ACCOUNT_UPDATE_PASSWORD">Changer le mot de passe</string>
 
     <!-- Permissions -->
-
     <string name="PERMISSIONS_TITLE">Autoriser</string>
     <string name="PERMISSIONS_REFUSE_MESSAGE">Veuillez accepter les conditions générales d\'utilisations pour pouvoir continuer</string>
     <string name="PERMISSIONS_MEDIA_MESSAGE"> Merci d’accepter les CGU afin de visualiser la pièce </string>
 
     <!-- SnackBars -->
-
     <string name="SNACK_BAR_REPORT_SUCCESS">Le signalement sera pris en compte </string>
     <string name="SNACK_BAR_DELETE_SUCCESS">Supprimer le Whasq</string>
     <string name="SNACK_BAR_ARCHIVE_SUCCESS">Le whasq a été archivé</string>
@@ -399,6 +390,11 @@
     <string name="TOOLTIP_WHASQ_ADD_LANGUAGE">Sélectionnez la langue dans laquelle votre whasq est rédigé. Le choix de la langue dépend des langues ajoutées dans votre profil</string>
     <string name="TOOLTIP_PROFILE_PICTURE">Ajoutez une peu de couleur sur l\'app en mettant à jour votre profil.</string>
     <string name="TOOLTIP_PROFILE_ENRICH">Balayez vers la gauche pour ajouter vos talents et les langues que vous parlez !</string>
+
+    <string name="TOOLTIP_WHASQ_MEDIA_TYPES_EMOJI">Ajoutez des médias pour illustrer votre question. par ex. image, texte, vidéo 🎬, ou juste le son 🎙. Vous pouvez les utiliser aussi pour répondre un Whasq.</string>
+    <string name="TOOLTIP_WHASQ_ADD_LANGUAGE_EMOJI">Sélectionnez la langue dans laquelle votre whasq est rédigé. Le choix de la langue dépend des langues ajoutées dans votre profil 🇫🇷🇪🇸🇷🇺,..</string>
+    <string name="TOOLTIP_PROFILE_PICTURE_EMOJI">Ajoutez une peu de couleur sur l\'app en mettant à jour votre profil 😎</string>
+    <string name="TOOLTIP_PROFILE_ENRICH_EMOJI">Balayez vers la gauche pour ajouter vos talents 🎻🎭 et les langues que vous parlez  🇫🇷🇪🇸🇷🇺,..!</string>
 
     <!-- WHASQ CREATION -->
     <string name="WHASQ_CREATION_TITLE">Whasq</string>

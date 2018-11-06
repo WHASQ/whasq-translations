@@ -35,6 +35,7 @@
     <!-- ERRORS -->
     <string name="ERROR_DISCONNECT">La Sua sessione è scaduta.</string>
     <string name="ERROR_COMMENT_ALREADY_LIKED">Ti è già piaciuto questo comento</string>
+    <string name="ERROR_COMMENT_SAME_USER">Non puoi piacere il tuo commento</string>
     <string name="ERROR_SESSION_EXPIRED">La Sua sessione è scaduta, Le preghiamo di riconnetterLe.</string>
     <string name="ERROR_WHASQ_NO_SKILLS"> Scegliere almeno uno talento</string>
     <string name="ERROR_UNKNOWN"> Si è verificato un errore.</string>
@@ -243,10 +244,15 @@
     <string name="TIME_GAIN_ANSWER_ONE_DAY">1 giorno</string>
     <string name="TIME_GAIN_ANSWER_TWO_DAYS">2 giorni</string>
     <string name="TIME_GAIN_ANSWER_THREE_DAYS">3 giorni</string>
-    <string name="TIME_GAIN_ANSWER_VERY_EASY">Molto facile 🤩</string>
-    <string name="TIME_GAIN_ANSWER_EASY">Facile  😉</string>
-    <string name="TIME_GAIN_ANSWER_DIFFICULT">Difficile  😅</string>
-    <string name="TIME_GAIN_ANSWER_VERY_DIFFICULT">Molto difficile 😱</string>
+    <string name="TIME_GAIN_ANSWER_VERY_EASY">Molto facile</string>
+    <string name="TIME_GAIN_ANSWER_EASY">Facile</string>
+    <string name="TIME_GAIN_ANSWER_DIFFICULT">Difficile</string>
+    <string name="TIME_GAIN_ANSWER_VERY_DIFFICULT">Molto difficile</string>
+
+    <string name="TIME_GAIN_ANSWER_VERY_EASY_EMOJI">Molto facile 🤩</string>
+    <string name="TIME_GAIN_ANSWER_EASY_EMOJI">Facile 😉</string>
+    <string name="TIME_GAIN_ANSWER_DIFFICULT_EMOJI">Difficile 😅</string>
+    <string name="TIME_GAIN_ANSWER_VERY_DIFFICULT_EMOJI">Molto difficile 😱</string>
 
     <!-- Recommendations -->
     <string name="RECOMMENDATIONS_SKIP_BUTTON">Saltare</string>
@@ -379,11 +385,15 @@
     <string name="TOOLTIP_CREATE_WHASQ">Fai la tua domanda!</string>
     <string name="TOOLTIP_WHASQ_MEDIA_TYPES">Per illustrare la tua domanda puoi aggiungere un\'immagine, testo, video un messaggio vocale. Puoi anche usarli per rispondere a un whasq.</string>
     <string name="TOOLTIP_WHASQ_ADD_SKILLS">Scegli 3 talenti che potrebbero aiutarti a risolvere il tuo whasq!</string>
-    <string name="TOOLTIP_WHASQ_ADD_LANGUAGE">Seleziona la lingua in cui Ã¨ scritto il tuo whasq. La scelta della lingua dipende dalle lingue aggiunte nel tuo profilo.</string>
+    <string name="TOOLTIP_WHASQ_ADD_LANGUAGE">Seleziona la lingua in cui è scritto il tuo whasq. La scelta della lingua dipende dalle lingue aggiunte nel tuo profilo.</string>
     <string name="TOOLTIP_PROFILE_PICTURE">Dai un po \'di vita all\'applicazione, aggiorna la tua immagine del profilo</string>
     <string name="TOOLTIP_PROFILE_ENRICH">Scorri verso sinistra per aggiungere i tuoi talenti e le lingue che parli.</string>
+
+    <string name="TOOLTIP_WHASQ_MEDIA_TYPES_EMOJI">Per illustrare la tua domanda puoi aggiungere un\'immagine, testo, video 🎬 o un messaggio vocale 🎙. Puoi anche usarli per rispondere a un whasq.</string>
+    <string name="TOOLTIP_WHASQ_ADD_LANGUAGE_EMOJI">Seleziona la lingua in cui è scritto il tuo whasq. La scelta della lingua dipende dalle lingue aggiunte nel tuo profilo 🇫🇷🇪🇸🇷🇺,..</string>
+    <string name="TOOLTIP_PROFILE_PICTURE_EMOJI">Dai un po \'di vita all\'applicazione, aggiorna la tua immagine del profilo 😎</string>
+    <string name="TOOLTIP_PROFILE_ENRICH_EMOJI">Scorri verso sinistra per aggiungere i tuoi talenti 🎻🎭 e le lingue che parli 🇫🇷🇪🇸🇷🇺,..!</string>
 
     <!-- WHASQ CREATION -->
     <string name="WHASQ_CREATION_TITLE">Whasq</string>
 </resources>
-
