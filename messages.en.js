@@ -84,6 +84,7 @@ const messages = {
     'whasq-media-video': 'Vidéo whasq', 
     'whasq-media-audio': 'Audio whasq', 
     'whasq-media-file': 'File whasq', 
+    'whasq-report-confirm': 'Are you sure you want to report this Whasq? The creator will be warned. Abusive reporting may result in deletion of account 🙄',
 
     // Profile
     'error-getting-user': 'An error has occured during the users profil recovery',

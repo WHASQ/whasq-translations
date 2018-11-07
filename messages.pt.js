@@ -84,6 +84,7 @@ const messages = {
     'whasq-media-video': 'Vídeo whasq',
     'whasq-media-audio': 'Audio whasq',
     'whasq-media-file': 'Ficheiro whasq',
+    'whasq-report-confirm': 'Tem a certeza que deseja denúnciar este Whasq? O criador vai ser notificado. As denúncias abusivas podem resultar na supressão da conta 🙄',
 
     // Profile
     'error-getting-user': 'Ocorreu um erro durante a recuperação do perfil do utilizador',
