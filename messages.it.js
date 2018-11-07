@@ -187,6 +187,7 @@ const messages = {
     'answer-media-attachment-no-preview': 'Non può visualizzare il whasq',
     'answer-empty-content': 'Devi scrivere un messaggio o aggiungere un file per inviare la tua risposta.', 
     'answer-error-usefull-current-user': 'Non ti piace il tuo commento 😉',
+    'answer-placeholder-label': 'Rispondere (Max. 255 caratt.)',
 
     // WhasqPerso
     'whasq-perso-read-times': 'Visto {readUsersCount} volte',
@@ -299,6 +300,10 @@ const messages = {
     
     // MyWhasqs
     'my-whasqs-title': 'I miei whasq',
+
+    // AddSkillModal
+    'add-skill-modal-title': 'Talenti',
+    'add-skill-modal-subtitle': 'I talenti interessati da questo whasq (massimo 3):',
 }
 
 export default messages

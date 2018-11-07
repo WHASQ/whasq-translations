@@ -187,6 +187,7 @@ const messages = {
     'answer-media-attachment-no-preview': 'Pré-visualização não está disponível',
     'answer-empty-content': 'Deve escrever uma mensagem ou adicionar um mídia para enviar sua resposta.',
     'answer-error-usefull-current-user': 'Não pode dar like no seu próprio comentário 😉',
+    'answer-placeholder-label': 'Resposta (255 caract. max)',
 
     // WhasqPerso
     'whasq-perso-read-times': 'Lido {readUsersCount} vezes',
@@ -299,6 +300,10 @@ const messages = {
     
     // MyWhasqs
     'my-whasqs-title': 'Meus whasqs',
+
+    // AddSkillModal
+    'add-skill-modal-title': 'Talentos',
+    'add-skill-modal-subtitle': 'Os talentos envolvidos neste whasq (3 no máximo):',
 }
 
 export default messages

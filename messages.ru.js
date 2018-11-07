@@ -187,6 +187,7 @@ const messages = {
     'answer-media-attachment-no-preview': 'Предосмотр не доступен',
     'answer-empty-content': 'Вы должны написать сообщение или добавить медиа для отправки ответа.',
     'answer-error-usefull-current-user': 'Извините, вы не можете оценить ваш собственный комментарий 😉',
+    'answer-placeholder-label': 'Ответить (Макс. 255 символов)',
 
     // WhasqPerso
     'whasq-perso-read-times': 'Прочитано {readUsersCount} раз',
@@ -299,6 +300,10 @@ const messages = {
     
     // MyWhasqs
     'my-whasqs-title': 'Мой wasqs',
+
+    // AddSkillModal
+    'add-skill-modal-title': 'таланты',
+    'add-skill-modal-subtitle': 'Таланты, связанные с этим whasq (3 максимум):',
 }
 
 export default messages
