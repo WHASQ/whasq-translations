@@ -85,6 +85,8 @@ const messages = {
     'whasq-media-audio': 'Audio whasq', 
     'whasq-media-file': 'Archivo whasq', 
     'whasq-report-confirm': '¿Quieres señalar este Whasq? El autor será contactado. El reporte abusivo puede provocar la eliminación de la cuenta 🙄',
+    'whasq-answers-count': '{count} respuestas',
+    'whasq-answer-count': '{count} respuesta',
 
     // Profile
     'error-getting-user': 'Un error se produjo al recuperar el profil del usuario',
