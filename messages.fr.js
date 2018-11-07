@@ -187,7 +187,7 @@ const messages = {
     'answer-media-attachment-no-preview': 'Pas de prévisualisation possible',
     'answer-empty-content': 'Votre devez rédiger un message ou ajouter un média pour pouvoir envoyer votre réponse.',
     'answer-error-usefull-current-user': 'Vous ne pouvez pas aimer votre propre commentaire 😉',
-    'answer-placeholder-label': 'Répondre (255 caractères max)',
+    'answer-placeholder-label': 'Répondre',
 
     // WhasqPerso
     'whasq-perso-read-times': 'Lu {readUsersCount} fois',

@@ -187,7 +187,7 @@ const messages = {
     'answer-media-attachment-no-preview': 'Oups, no preview possible',
     'answer-empty-content': 'You must write a message or add a media in order to send your reply.',
     'answer-error-usefull-current-user': 'Sorry, you can not like your own comment 😉',
-    'answer-placeholder-label': 'Reply (255 characters max)',
+    'answer-placeholder-label': 'Reply',
 
     // WhasqPerso
     'whasq-perso-read-times': 'Read {readUsersCount} times',

@@ -187,7 +187,7 @@ const messages = {
     'answer-media-attachment-no-preview': 'Vista previa no disponible',
     'answer-empty-content': 'Debes escribir un mensaje o agregar un archivo para enviar tu respuesta.',
     'answer-error-usefull-current-user': 'No puedes darle Like a tu propio comentario 😉',
-    'answer-placeholder-label': 'Responder (255 caract. max)',
+    'answer-placeholder-label': 'Responder',
 
     // WhasqPerso
     'whasq-perso-read-times': 'Leído {readUsersCount} veces',

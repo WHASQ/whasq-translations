@@ -187,7 +187,7 @@ const messages = {
     'answer-media-attachment-no-preview': 'Non può visualizzare il whasq',
     'answer-empty-content': 'Devi scrivere un messaggio o aggiungere un file per inviare la tua risposta.', 
     'answer-error-usefull-current-user': 'Non ti piace il tuo commento 😉',
-    'answer-placeholder-label': 'Rispondere (Max. 255 caratt.)',
+    'answer-placeholder-label': 'Rispondere',
 
     // WhasqPerso
     'whasq-perso-read-times': 'Visto {readUsersCount} volte',
