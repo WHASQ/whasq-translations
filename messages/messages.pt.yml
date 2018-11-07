@@ -5,8 +5,8 @@ error:
     user.profile.already.updated: O seu nome de perfil pode ser modificado apenas uma vez. Por favor, entre em contato com o administrador
     user.locked: Utilizador bloqueado 
     user.deleted: Utilizador surpimido
-    user.bad.credentials: "Falhou a autenticação. Confira os seus dados 😎  Dica: procure o mail de criação de conta. Se não o encontrar,  clique  em “ esqueci-me da palavra passe”
-    user.bad.credentials.warning: Falhou a autenticação. Confira os seus dados. Está é a sua ùltima tentativa antes que a sua conta seja bloqueada
+    user.bad.credentials: "Falhou a autenticação. Confira os seus dados 😎  Dica: procure o mail de criação de conta. Se não o encontrar,  clique  em 'esqueci-me da palavra passe'"
+    user.bad.credentials.warning: "Falhou a autenticação. Confira os seus dados. Está é a sua ùltima tentativa antes que a sua conta seja bloqueada"
     user.bad.credentials.locked: "Falhou a autenticação.A sua conta foi bloqueada. Por favor, contate o administrador : %adminEmail%"
     user.bad.checksum: Não conseguimos mudar a sua palavra-passe. O checksum está incorreto 
     user.account.bad.checksum: Impossível de activar a sua conta. Provavelmente , o link expirou.
@@ -43,7 +43,7 @@ error:
     recommendation.waiting: A recomendação já não está à espera de validação
     store.any.public: A loja física não existe 
     email.invalid: E-mail inválido
-    password.invalid: A palavra-passe deve conter pelo menos 8 letras, e destas 4 devem ser caractéres : maiúsculos, minúsculos, números e especiais 👀
+    password.invalid: "A palavra-passe deve conter pelo menos 8 letras, e destas 4 devem ser caractéres : maiúsculos, minúsculos, números e especiais 👀"
     fullname.invalid: Nome de utilizador inválido
     login:
         activation.title: Ativação da sua conta
@@ -59,7 +59,8 @@ push:
         new.answer.title: Tem uma resposta à sua espera  👌
         new.answer.body: Alguém respodeu ao seu whasq  😜
         report.title: O seu whasq foi denúnciado 👀
-        report.body: Não se preocupe, o seu administrador vai encarregar-se!:
+        report.body: "Não se preocupe, o seu administrador vai encarregar-se!:"
+    answer:
         champion.title: Parabéns ! A sua resposta corresponde à solução 🏆
         report.title: O seu comentário foi denúnciado 👀
         report.body: Não se preocupe, o seu administrador vai encarregar-se!
@@ -83,6 +84,8 @@ email:
         greeting: Bom dia !
         byebye: Até  já,
         signature: Jessie 😘
+        assistance: "Need assistance ? Please contact jessie@whasq.com (From monday to friday, 9am to 12am and 2pm to 6pm)" #todo
+        mentions: © 2018 Clic and Walk - 28 rue Pierre Mauroy, 59800 Lille, France #todo
     user:
         activate.account:
             title: Whasq - Ativação da conta
@@ -114,10 +117,10 @@ email:
             body.div1: Junte-se à comunidade Whasq e ajude os seus colegas com as suas competências!
             body.div2: "Como inscrever-se   :"
             body.div3: "Descarregar a aplicação :"
-            body.div4: 1. Descarregar a aplicação « Whasq » 
+            body.div4: 1. Descarregar a aplicação « Whasq » 
             body.div5: 2. Clique em  « Esqueci-me da palavra-passe ou modificar a palavra-passe »
             body.div6: 3. Vai receber um mail com a sua nova palavra-passe 
-            body.div7: 4. Fantástico! Voce é um Whasquer! ! 💪🙂
+            body.div7: 4. Fantástico! Voce é um Whasquer! ! 💪🙂
         footer:
             join.community: JUNTE-SE À COMUNIDADE %fullName%
             unsubscribe: Desinscrever-se 
@@ -144,3 +147,6 @@ email:
             body.div4: "Como registrar-se :"
             body.div5: https://www.youtube.com/watch?v=Fwkivlzmt3Q
             body.div6: https://api.whasq.com/bundles/app/images/tutorial-youtube-fr.jpeg
+        delete.admin:
+            title: Account Deleted #todo
+            body.div1: "We're sorry, the user %fullname% (%email%) just deleted his/her account." #todo
