@@ -36,7 +36,7 @@
 "alert-messsage-disconnect" = "Your session has expired. Do you want to login ?";
 "alert-warning-archive-whasq" = "Do you really want to archive this Whasq?";
 "alert-warning-delete-whasq" = "Do you really want to delete this Whasq?";
-"alert-warning-report-whasq" = "Do you really want to report this Whasq?";
+"alert-warning-report-whasq" = "Are you sure you want to report this Whasq? The creator will be warned. Abusive reporting may result in deletion of account 🙄";
 "all-wasq-title" = "All";
 "answer-placeholder-label" = "Reply (255 characters max)"; /* max 30 characters in this wording */
 "archive-whasq" = "Archive your whasq";
