@@ -36,7 +36,7 @@
 "alert-messsage-disconnect" = "La tua sessione è scaduta, bisogna registrare di nuovo.";
 "alert-warning-archive-whasq" = "Sicuro/a di voler archiviare questo Whasq?";
 "alert-warning-delete-whasq" = "Sicur/a di voler eliminare questo Whasq?";
-"alert-warning-report-whasq" = "Sicuro/a di voler segnalare questo whasq ? 🙄";
+"alert-warning-report-whasq" = "Sei sicuro di voler segnalare questo Whasq? Il creatore sarà avvisato. La segnalazione abusiva può comportare la cancellazione dell'account 🙄";
 "all-wasq-title" = "Tutto";
 "answer-placeholder-label" = "Rispondere (Max. 255 caratt.)"; /* max 30 characters in this wording */
 "archive-whasq" = "Archiviare il whasq?";
