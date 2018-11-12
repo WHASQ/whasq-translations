@@ -265,3 +265,5 @@
 "tooltip-profile-picture" = "Give a personal touch to the application, it's time to update your profile picture😎";
 "tooltip-profile-enrich" = "Swipe left to add your talents 🎻🎭 and the languages you speak 🇫🇷🇪🇸🇷🇺,..!";
 "podium-ytd" = "from the beginning";
+"alert-confirm-picker-avatart-title" = "Set your profile avatar";
+"alert-confirm-pick-avatar-message" = "Do you want to use this avatar as you profile picture?";
