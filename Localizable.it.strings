@@ -265,3 +265,6 @@
 "tooltip-profile-picture" = "Dai un po 'di vita all'applicazione, aggiorna la tua immagine del profilo 😎";
 "tooltip-profile-enrich" = "Scorri verso sinistra per aggiungere i tuoi talenti 🎻🎭 e le lingue che parli 🇫🇷🇪🇸🇷🇺,..!";
 "podium-ytd" = "dall'inizio";
+"registration-picture-avatar" = "Seleziona un avatar";
+"alert-confirm-picker-avatart-title" = "Scegli il tuo profilo avatar";
+"alert-confirm-pick-avatar-message" = "Vuoi utilizzare questo avatar come immagine del tuo profilo ?";
