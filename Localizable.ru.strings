@@ -265,3 +265,6 @@
 "tooltip-profile-picture" = "Добавьте некоторый цвет в приложение, обновив свой профиль 😎";
 "tooltip-profile-enrich" = "Проведите влево, чтобы добавить свои таланты 🎻🎭 и языки, на которых вы говорите 🇫🇷🇪🇸🇷🇺, ..!";
 "podium-ytd" = "c начала";
+"registration-picture-avatar" = "Выберите аватар";
+"alert-confirm-picker-avatart-title" = "Задайте свой аватар профиля";
+"alert-confirm-pick-avatar-message" = "Вы хотите использовать этот аватар в качестве изображения профиля ?";
