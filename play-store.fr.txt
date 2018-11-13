@@ -1,47 +1,41 @@
-L'appli d'entraide collaborative 3.0
+QUE SIGNIFIE WHASQ ? What A Simple Question 
+Vous avez une question sur les outils que vous utilisez au quotidien (bureautique, graphisme, etc),et vous ne savez plus où trouver la réponse ? La communauté Whasq est là pour vous aider et partager ses savoirs. 
+L'appli Whasq est le symbole de la #crosscollaboration et #partage 
 
-Envie d'aider ? C'est ici que ça se passe 
+Comment ÇA MARCHE ?
 
-Vous avez une question sur les outils que vous utilisez au quotidien (bureautique, graphisme, messagerie, pannes informatiques),  et vous ne savez plus où trouver la réponse ? La communauté Whasq est là pour vous aider. Pas d'argent à gagner mais la possibilité de développer positivement votre Karma. Fini la recherche d'expert, ce sont eux qui viennent à vous. L'appli Whasq est le symbole de la #crosscollaboration. Whasq est aussi disponible en version Pro.
-
-Comment ÇA MARCHE - VERSION PRO
-
-Votre entreprise est cliente de WHASQ ?
 1- Connectez-vous : Entrez votre email pro
-2- Cliquez sur "mot de passe oublié ou changement de mot de passe"
-3- Recevez votre mot de passe par mail
-
-Comment ça marche - VERSION PUBLIQUE
+2- Activez votre compte (un mail avec un lien vous sera envoyé)    
+3- Ca y est vous êtes un Whasqer
 
 Utilisez WHASQ quotidiennement
 
-1- Inscrivez vous - Complétez votre profil. Ne vous inquiétez pas, vous pourrez ensuite cacher tous les champs, sauf votre Nom ou pseudo. 100% confidentiel, nous ne revendons pas vos données !!! Ajoutez une photo, c'est plus sympa :-)
-2- Sélectionnez les langues que vous parlez ou comprenez
+1-Connectez-vous avec votre adresse mail pro et complétez votre profil. Ne vous inquiétez pas, vous pourrez ensuite cacher tous les champs, sauf votre Nom ou pseudo. 100% confidentiel, nous ne revendons pas vos données !!! 
 3- Complétez votre Profil avec VOS TALENTS (les sujets sur lesquels vous pourriez aider la Communauté. Exemple : Cliquez sur la catégorie bureautique, puis choissisez le Talent Excel)
-Voir la vidéo : 
+Voir la vidéo : https://www.youtube.com/watch?v=Fwkivlzmt3Q
 
 ÇA Y EST VOUS ÊTES WHASQER !
-Génial vous êtes sur Whasq !
+Génial vous êtes sur Whasq!
 Maintenant vous pouvez visualiser toutes les questions concernant vos talents et y répondre !
 
 VOUS VOULEZ RÉPONDRE À UNE QUESTION ?
-1- Cliquez sur le whasq
+1- Cliquez sur le Whasq
 2- Cliquez sur répondre - vous pouvez répondre à l'écrit, en postant une vidéo, un son ou une photo !
-Voir la vidéo :
+Voir la vidéo : https://www.youtube.com/watch?v=_jXQkLMKpyY
 
 VOUS VOULEZ POSER UNE QUESTION ?
 Cliquez sur le + en bas de la page
 1- Indiquez le titre
 2- Posez votre question à l'écrit en ajoutant ou non une photo, faites une vidéo ou enregistrez un son
-3- Choisissez la catégorie et les talents (3 max.) à qui vous souhaitez envoyer votre question
-4- Prévisualisez, validez C'EST PUBLIÉ !
-Voir la vidéo :
+3- Choisissez la catégorie et les talents ( 3 max.) à qui vous souhaitez envoyer votre question
+4 - Prévisualisez, validez C'EST PUBLIÉ !
+Voir la vidéo : https://www.youtube.com/watch?v=Zk8PpmA1eRY
 
 VOUS RECHERCHEZ DES EXPERTS À PROXIMITÉ ?
 Vous souhaitez que seuls les whasqers se trouvant à proximité de vous voient votre question ? Cliquez sur "notifier autour de moi" 
 
 C'EST URGENT ?
-Sélectionnez le bouton urgent en bas à gauche.
+Sélectionnez le bouton urgent en bas à droite.
 
 DEVENEZ EXPERT 
 Plus vous répondez à une question plus vous avez des chances de devenir expert.
@@ -51,12 +45,6 @@ Si les autres utilisateurs trouvent votre réponse utile, ils pourront vous attr
 
 NOTIFICATIONS
 A chaque point collecté ou réponses reçues, vous serez notifié en temps réel
-
-
-QUE SIGNIFIE WHASQ ?
-What A Simple Question ?
-
-Parce qu'aujourd'hui le meilleur moyen d'avoir une réponse,  c'est de poser la bonne question, au bon moment,  de manière simple à la bonne personne :-)
 
 A bientôt et si vous avez besoin d'aide, n'hésitez pas.
 
