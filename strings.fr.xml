@@ -400,6 +400,6 @@
     <string name="WHASQ_CREATION_TITLE">Whasq</string>
 
     <!-- PERMISSION -->
-    <string name="COMMON_ALERT_MUST_GRANT_PERMISSION_BODY"><![CDATA[Pour pouvoir accéder à cette fonctionnalité, vous devez accepter la permission <b>%s</b> dans les paramètres de l'application!]]></string>
-    <string name="COMMON_ALERT_MUST_GRANT_PERMISSION_TITLE">Permission</string><!
+    <string name="COMMON_ALERT_MUST_GRANT_PERMISSION_BODY"><![CDATA[Pour pouvoir accéder à cette fonctionnalité, vous devez accepter la permission <b>%s</b> dans les paramètres de l\'application!]]></string>
+    <string name="COMMON_ALERT_MUST_GRANT_PERMISSION_TITLE">Permission</string>
 </resources>

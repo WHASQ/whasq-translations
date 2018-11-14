@@ -399,5 +399,5 @@
 
     <!-- PERMISSION -->
     <string name="COMMON_ALERT_MUST_GRANT_PERMISSION_BODY"><![CDATA[Whasq needs <b>%s</b> permissions to function properly!]]></string>
-    <string name="COMMON_ALERT_MUST_GRANT_PERMISSION_TITLE">Permission</string><
+    <string name="COMMON_ALERT_MUST_GRANT_PERMISSION_TITLE">Permission</string>
 </resources>
