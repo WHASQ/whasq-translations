@@ -398,4 +398,8 @@
 
     <!-- WHASQ CREATION -->
     <string name="WHASQ_CREATION_TITLE">Whasq</string>
+
+    <!-- PERMISSION -->
+    <string name="COMMON_ALERT_MUST_GRANT_PERMISSION_BODY"><![CDATA[Whasq needs <b>%s</b> permissions to function properly!]]></string> <!-- TODO : to translate -->
+    <string name="COMMON_ALERT_MUST_GRANT_PERMISSION_TITLE">PERMISSION</string><!-- TODO : to translate -->
 </resources>

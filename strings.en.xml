@@ -81,7 +81,7 @@
     <string name="HINT_COMMENT">Reply (255 characters max)</string>
     <string name="HINT_TITLE">My title</string>
     <string name="HINT_MESSAGE">My message</string>
-    <string name="HINT_EXCHANGE">I offer in exchange… a coffee</string>
+    <string name="HINT_EXCHANGE">I offer in exchange� a coffee</string>
 
     <!-- EditTexts Labels -->
     <string name="LABEL_EMAIL">Email address *</string>
@@ -249,10 +249,10 @@
     <string name="TIME_GAIN_ANSWER_DIFFICULT">Difficult</string>
     <string name="TIME_GAIN_ANSWER_VERY_DIFFICULT">Very difficult</string>
 
-    <string name="TIME_GAIN_ANSWER_VERY_EASY_EMOJI">Very easy 🤩</string>
-    <string name="TIME_GAIN_ANSWER_EASY_EMOJI">Easy 😉</string>
-    <string name="TIME_GAIN_ANSWER_DIFFICULT_EMOJI">Difficult 😅</string>
-    <string name="TIME_GAIN_ANSWER_VERY_DIFFICULT_EMOJI">Very difficult 😱</string>
+    <string name="TIME_GAIN_ANSWER_VERY_EASY_EMOJI">Very easy ??</string>
+    <string name="TIME_GAIN_ANSWER_EASY_EMOJI">Easy ??</string>
+    <string name="TIME_GAIN_ANSWER_DIFFICULT_EMOJI">Difficult ??</string>
+    <string name="TIME_GAIN_ANSWER_VERY_DIFFICULT_EMOJI">Very difficult ??</string>
 
     <!-- Recommendations -->
     <string name="RECOMMENDATIONS_SKIP_BUTTON">Skip</string>
@@ -389,11 +389,15 @@
     <string name="TOOLTIP_PROFILE_PICTURE">Give a personal touch to the application, it\'s time to update your profile picture</string>
     <string name="TOOLTIP_PROFILE_ENRICH">Swipe left to add your talents and the languages you speak !</string>
 
-    <string name="TOOLTIP_WHASQ_MEDIA_TYPES_EMOJI">To illustrate your question you can add a / an image, text, video 🎬, or voice message 🎙. You can also use them to answer a whasq.</string>
-    <string name="TOOLTIP_WHASQ_ADD_LANGUAGE_EMOJI">Select the language in which your whasq is written. The choice of language depends on the languages added in your profile 🇫🇷🇪🇸🇷🇺,..</string>
-    <string name="TOOLTIP_PROFILE_PICTURE_EMOJI">Give a personal touch to the application, it\'s time to update your profile picture 😎</string>
-    <string name="TOOLTIP_PROFILE_ENRICH_EMOJI">Swipe left to add your talents 🎻🎭 and the languages you speak 🇫🇷🇪🇸🇷🇺,..!</string>
+    <string name="TOOLTIP_WHASQ_MEDIA_TYPES_EMOJI">To illustrate your question you can add a / an image, text, video ??, or voice message ??. You can also use them to answer a whasq.</string>
+    <string name="TOOLTIP_WHASQ_ADD_LANGUAGE_EMOJI">Select the language in which your whasq is written. The choice of language depends on the languages added in your profile ????????????,..</string>
+    <string name="TOOLTIP_PROFILE_PICTURE_EMOJI">Give a personal touch to the application, it\'s time to update your profile picture ??</string>
+    <string name="TOOLTIP_PROFILE_ENRICH_EMOJI">Swipe left to add your talents ???? and the languages you speak ????????????,..!</string>
 
     <!-- WHASQ CREATION -->
     <string name="WHASQ_CREATION_TITLE">Whasq</string>
+
+    <!-- PERMISSION -->
+    <string name="COMMON_ALERT_MUST_GRANT_PERMISSION_BODY"><![CDATA[Whasq needs <b>%s</b> permissions to function properly!]]></string> <!-- TODO : to translate -->
+    <string name="COMMON_ALERT_MUST_GRANT_PERMISSION_TITLE">PERMISSION</string><!-- TODO : to translate -->
 </resources>

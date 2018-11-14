@@ -393,7 +393,11 @@
     <string name="TOOLTIP_WHASQ_ADD_LANGUAGE_EMOJI">Выберите язык, на котором написан ваш whasq. Выбор языка зависит от языков, добавленных в ваш профиль 🇫🇷🇪🇸🇷🇺,..</string>
     <string name="TOOLTIP_PROFILE_PICTURE_EMOJI">Добавьте некоторый цвет в приложение, обновив свой профиль 😎</string>
     <string name="TOOLTIP_PROFILE_ENRICH_EMOJI">Проведите влево, чтобы добавить свои таланты 🎻🎭 и языки, на которых вы говорите 🇫🇷🇪🇸🇷🇺,..!</string>
+
     <!-- WHASQ CREATION -->
     <string name="WHASQ_CREATION_TITLE">Whasq</string>
 
+    <!-- PERMISSION -->
+    <string name="COMMON_ALERT_MUST_GRANT_PERMISSION_BODY"><![CDATA[Whasq needs <b>%s</b> permissions to function properly!]]></string> <!-- TODO : to translate -->
+    <string name="COMMON_ALERT_MUST_GRANT_PERMISSION_TITLE">PERMISSION</string><!-- TODO : to translate -->
 </resources>
