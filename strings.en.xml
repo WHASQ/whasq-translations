@@ -81,7 +81,7 @@
     <string name="HINT_COMMENT">Reply (255 characters max)</string>
     <string name="HINT_TITLE">My title</string>
     <string name="HINT_MESSAGE">My message</string>
-    <string name="HINT_EXCHANGE">I offer in exchange… a coffee</string>
+    <string name="HINT_EXCHANGE">I offer in exchangeâ€¦ a coffee</string>
 
     <!-- EditTexts Labels -->
     <string name="LABEL_EMAIL">Email address *</string>
@@ -398,6 +398,6 @@
     <string name="WHASQ_CREATION_TITLE">Whasq</string>
 
     <!-- PERMISSION -->
-    <string name="COMMON_ALERT_MUST_GRANT_PERMISSION_BODY"><![CDATA[Whasq needs <b>%s</b> permissions to function properly!]]></string> <!-- TODO : to translate -->
-    <string name="COMMON_ALERT_MUST_GRANT_PERMISSION_TITLE">PERMISSION</string><!-- TODO : to translate -->
+    <string name="COMMON_ALERT_MUST_GRANT_PERMISSION_BODY"><![CDATA[Whasq needs <b>%s</b> permissions to function properly!]]></string>
+    <string name="COMMON_ALERT_MUST_GRANT_PERMISSION_TITLE">Permission</string><
 </resources>
