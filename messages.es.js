@@ -120,6 +120,7 @@ const messages = {
     'add-user-skill-title': 'Agregar un talento',
     'add-user-skill-subtitle': '¡De seguro que tienes otros talentos, es hora que agregarlos !',
     'add-user-skill-subtitle-first-login': '¡ De seguro que tienes talentos, es hora de agregarlos !',
+    'add-user-skill-suggest': '¿Falta un talento?', 
     
     // AddUserChannelModal
     'add-user-channel-title': 'Agregar un idioma',
@@ -284,6 +285,7 @@ const messages = {
     'profile-image-size-limit': 'Solo se aceptan las fotos menores de 1MB..', 
     'error-importing-profile-image': 'Se produjo un error al importar la imagen. Por favor intentalo de nuevo.',
     'import-profile-image': 'Importa la foto', 
+    'pick-profile-avatar': 'Elige tu perfil de avatar',
     'choose-profile-image': 'Elige tu foto de perfil', 
     'profile-image-square-required': 'La imagen debe ser cuadrada.', 
     
@@ -306,7 +308,7 @@ const messages = {
 
     // AddSkillModal
     'add-skill-modal-title': 'Talentos',
-    'add-skill-modal-subtitle': 'Talentos afectados por este whasq (3 máximo):',
+    'add-skill-modal-subtitle': 'Los talentos afectados por este whasq (3 máximo):',
 }
 
 export default messages
