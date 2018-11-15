@@ -1,60 +1,60 @@
-Je crée mon profil 
+Eu crio o meu perfil 
 
-Téléchargez l'application Whasq
-cliquez sur mot de passe oublié 
-Entre votre adresse la redoute pour reinitialiser votre mot de passe 
-vérifiez vos mails et reinitialisez votre mot de passe 
-cliquez sur le lien
-tapez votre nouveau mot de passe 
-Connectez-vous 
-Merci de lire attentivement les CGU
-Application conforme au RGPD
-Identifiez vos talents pro ou perso
-Autorisez ou pas whasq à acceder 
-à vos données de localisation 
-cliquez ici pour modifier votre profil 
-complétez votre profil 
-vous pouvez chosir l'info visible par le public 
-La langue par défaut est le français 
-cliquez ici et indiquez les langues que vous parlez 
-Cliquez ici pour effacer la langue 
+Fazer download da aplicação Whasq
+Clique em palavra-passe esquecida  
+Escreva o seu endereço LaRedoute para redefinir a sua palavra-passe
+Verifique os seus e-mails e redefine a sua palavra-passe  
+Clique no link
+Escreva a sua nova palavra-passe 
+Iniciar sessão 
+Por favor, leia atentamente os Termos de Uso
+Aplicação conforme RGPD
+Especifique as suas comptências profissionais e pessoais 
+Autorizar Whasq a aceder 
+aos seus dados de localização
+clique aqui para editar o seu perfil 
+complete o seu perfil 
+escolha as infomações que deseja que sejam visíveis para o público  
+O idioma por defeito é o portugês 
+clique "aqui" e indique os idiomas que fala 
+Clique "aqui" para apagar o idioma  
 
-Je crée un whasq
+Eu crio um whasq
 
-Cliquez ici pour créer un whasq 
-indiquez le titre de votre whasq 
-Option 1: envoyez un texte 
-option 2: enregistrez une vidéo 
-Option 3: enregistrez un audio 
-Option 4: Prenez une photo 
-Option 5: Envoyez une photo depus la galerie de votre téléphone 
-Indiquez les telents concernés 
-indiquez la langue du whasq 
-selectionnez la langue du whasq 
-prévisualisez le whasq 
-cliquez ici pour publier votre whasq 
-recommandez des talents 
-voici votre whasq 
-ils ont un talent caché en commun , ils parlents "portugais" 
+Clique aqui para criar um whasq 
+indique o título do whasq 
+Opção 1: enviar um sms
+Opção 2: gravar um vídeo
+Opção 3: gravação audio
+Opção 4: tirar uma foto
+Opção 5: Enviar uma fotografia apartir da galeria do seu telémovel 
+Indique as competências relacionadas 
+indique o idioma do whasq 
+selecione o idioma do whasq 
+pré-visualizar o whasq 
+clique aqui para publicar o whasq 
+recomende competências 
+aqui está o seu whasq 
+eles têm um talento escondido em comum, eles falam "portugês" 
 
-Mes notifications et mon classement 
+Minhas notificações e classificação
 
-Cliquez ici pour afficher les notifications 
-Cliquez pour visualiser la notification 
-Likez les réponses 
-10 whasqpoints pour une réponse utile 
-indiquez le temps que vous avez gagné grâce à cette réponse
-Désignez " le champion" cliquez sur le trophée
-50 whasqpoints pour la solution 
+Clique aqui para ver as notificações 
+Clique para visualizar a notificação 
+Dê like nas respostas 
+10 whasqpontos por cada resposta útil 
+indique quanto tempo ganhou graças a esta resposta
+Designe " o campeão" clicando no troféu
+50 whasqpontos pela solução 
 
-Mon classement 
+Minha classificação 
 
-Gagnez 10 whasqpoints si votre réponse est utile 
-Gagnez 50 whasqpoints si votre réponse est la solution 
+Ganhe 10 whasqpontos se a sua resposta for útil 
+Ganhe 50 whasqpontos se a sua resposta é a solução
 
-Répondre un whasq 
+Responder o  whasq 
 
-Talent concerné "portugais"
-jessi a bien indiqué sur son profil le talent "portugais" 
-Il peut répondre au whasq 
-Repondez par: texte, audio, vidéo, photo 
+Competência escondida "português"
+jessie indicou um perfil com a competência "portugês" 
+Este poderá responder ao seu whasq 
+Responda através: sms, audio, vídeo, foto 
