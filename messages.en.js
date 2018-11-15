@@ -120,6 +120,7 @@ const messages = {
     'add-user-skill-title': 'You certaibly have other skills, just add them',
     'add-user-skill-subtitle': 'You surely have other talents, you can add them !',
     'add-user-skill-subtitle-first-login': 'You have talents, write them in your profile !', 
+    'add-user-skill-suggest': 'Want to add another skill, which is not in the list?', 
     
     // AddUserChannelModal
     'add-user-channel-title': 'Select then language you speak',
@@ -283,7 +284,8 @@ const messages = {
     'drop-file-here-or-click': 'Drop your file here or click to select the file to import.',
     'profile-image-size-limit': 'Only images smaller than 1MB are accepted.', 
     'error-importing-profile-image': 'the image could not be loaded, try again.', 
-    'import-profile-image': 'import the image',
+    'import-profile-image': 'Upload from computer',
+    'pick-profile-avatar': 'Pick un avatar',
     'choose-profile-image': 'Choose your profile picture', 
     'profile-image-square-required': 'The image must have a square format.', 
     
