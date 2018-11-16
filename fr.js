@@ -1,5 +1,5 @@
 const messages = {
-    
+
     // Login
     'Email': 'Email',
     'Login': 'Se connecter',
@@ -27,7 +27,7 @@ const messages = {
     'open': 'Ouvert',
     'fullname': 'Nom complet',
     'job-position': 'Position',
-    'assistance': 'Besoin d’aide ? Contactez jessie@whasq.com  ( Du lundi à vendredi de 9:00 à 12:00 et de 14:00 à 18:00) ',
+    'assistance': 'Besoin d’aide ? Contactez jessie@whasq.com (Du lundi à vendredi de 9:00 à 12:00 et de 14:00 à 18:00)',
     'download-attachment': 'Télécharger la pièce jointe',
 
     // Menu
@@ -377,7 +377,7 @@ const messages = {
     'targets-usefull-answer': 'Réponse utile',
     'targets-recommended-skill': 'Talent recommandé',
     'targets-points': 'points',
-    
+
     // Header
     'header-profile': 'Profil',
     'header-logout': 'Se déconnecter',
@@ -386,6 +386,7 @@ const messages = {
     'spanish': 'Espagnol',
     'italian': 'Italien',
     'russian': 'Russe',
+    'portuguese': 'Portugais',
 
     // Sidebar
     'sidebar-navigation': 'Navigation',
