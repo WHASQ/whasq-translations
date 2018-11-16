@@ -356,9 +356,6 @@ const messages = {
     'import-users-email': 'Email',
     'import-users-job-position': 'Job position',
     'import-users-phone': 'Number phone',
-    'import-users-download-exemple': 'Download example',
-    'import-users-instructions-part-1': 'Complete the downloaded example and save it in csv format (separated by semicolons)',
-    'import-users-instructions-part-2': '(4 columns ONLY in the order DEFINED)',
 
     // Targets 
     'targets-title': 'Objectives and Gamification',
@@ -386,6 +383,7 @@ const messages = {
     'spanish': 'Spanish',
     'italian': 'Italian',
     'russian': 'Russian',
+    'portuguese': 'Portuguese',
 
     // Sidebar 
     'sidebar-navigation': 'Navigation',
