@@ -386,6 +386,7 @@ const messages = {
     'spanish': 'Espanhol',
     'italian': 'Italiano',
     'russian': 'Russo',
+    'portuguese': 'Português',
 
     // Sidebar
     'sidebar-navigation': 'Navigação',
