@@ -1,0 +1,24 @@
+app:
+  form:
+    change.password:
+      title: Whasq - changement de mot de passe
+      label.password: Nouveau mot de passe
+      label.confirm.password: Confirmer le mot de passe
+      label.remark: Le mot de passe doit contenir au moins 8 lettres dont au moins 4 autres caractères (majuscule, miniscule, chiffre et caractère spécial).
+      button.submit: Effectuer le changement
+      link.go: Return to app #todo
+      result:
+        success: Le changement de votre mot de passe a bien été pris en compte
+        failure: Impossible de modifier le mot de passe. Le lien est peut-être erroné ou n\'est plus actif.
+    unsubscribe:
+      title: Whasq - se désinscrire
+      result:
+        success: Votre désinscription a bien été prise en compte
+        failure: Votre désinscription n\'a pas bien été prise en compte. Le lien est peut-être erroné ou n\'est plus actif. Ou vous avez tout simplement déjà été désinscrit(e).
+    activate.account:
+      title: Whasq - Activation du compte 
+      body.div1: Votre compte a été activé 😉 
+      body.div2: "La prochaine étape consiste à compléter votre profil."
+      body.div3: Poursuivre
+      result:
+        failure: Oups, impossible de créer un lien d'activation, réessayer s'il vous plaît
