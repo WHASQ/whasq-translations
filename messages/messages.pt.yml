@@ -148,5 +148,5 @@ email:
             body.div5: https://www.youtube.com/watch?v=Fwkivlzmt3Q
             body.div6: https://api.whasq.com/bundles/app/images/tutorial-youtube-fr.jpeg
         delete.admin:
-            title: Account Deleted #todo
-            body.div1: "We're sorry, the user %fullname% (%email%) just deleted his/her account." #todo
+            title: Conta excluída
+            body.div1: "Desculpe, o usuário %fullname% (%email%) acabou de excluir sua conta."
