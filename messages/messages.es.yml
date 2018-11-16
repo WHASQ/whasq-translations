@@ -84,6 +84,8 @@ email:
         greeting: Buenos días,
         byebye: Hasto pronto,
         signature: Jessie 😘
+        assistance: "Need assistance ? Please contact <span style='color: #adb2bd;'>jessie@whasq.com</span> (From monday to friday, 9am to 12am and 2pm to 6pm)"
+        mentions: © 2018 Clic and Walk - 28 rue Pierre Mauroy, 59800 Lille, France
     user:
         activate.account:
             title: Whasq - Activación de cuenta
@@ -145,3 +147,6 @@ email:
             body.div4: ¿Cómo conectarse?
             body.div5: https://www.youtube.com/watch?v=WzpKtooprkM
             body.div6: https://api.whasq.com/bundles/app/images/tutorial-youtube-es.jpeg
+        delete.admin:
+            title: Cuenta borrada
+            body.div1: "Lo sentimos, el usuario %fullname% (%email%) acaba de eliminar su cuenta."
