@@ -705,5 +705,5 @@
 </h2>
 <p>
     Les présentes <strong>Conditions Générales d’Utilisation</strong> sont exclusivement soumises à la Loi française.
-    Tout litige sera du ressort exclusif des juridictions de la Cour d’Appel de Lille. .
+    Tout litige sera du ressort exclusif des juridictions de la Cour d’Appel de Lille.
 </p>
