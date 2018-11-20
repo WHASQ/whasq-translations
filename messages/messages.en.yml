@@ -45,6 +45,12 @@ error:
     email.invalid: Invalid email address
     password.invalid: The password must contain at least 8 letters including at least 4 other characters (uppercase, lowercase, numeral and special character) 👀
     fullname.invalid: Invalid name
+login:
+        activation.title: Account activation
+        activation.message: An email with the link to validate your email address has just been sent to you 👌 
+    version:
+        optionalUpdateMessage: A new version of Whasq is available, do you want to update it now? 😜
+        mandatoryUpdateMessage: We have recently made a major upgrade. Please update your application to get the latest features please 👌
 push:
     whasq:
         new.title: A new whasq is available
@@ -78,6 +84,8 @@ email:
         greeting: Hello!
         byebye: See you soon,
         signature: Jessie 😘
+        assistance: "Need assistance ? Please contact <span style='color: #adb2bd;'>jessie@whasq.com</span> (From monday to friday, 9am to 12am and 2pm to 6pm)"
+        mentions: © 2018 Clic and Walk - 28 rue Pierre Mauroy, 59800 Lille, France
     user:
         activate.account:
             title: Whasq - Account activation
@@ -100,7 +108,7 @@ email:
             body.div1: Join Whasq and help your colleagues with your talents!
             body.div2: "How to join & complete my profile:"
             body.div3: "Donwload the app:"
-            body.div4: 1. Download the « Whasq » application
+            body.div4: 1. Download the « Whasq » application
             body.div5: 2. Click on « Password forgotten or change password »
             body.div6: 3. We will send you an email with your new password
             body.div7: "4. Great, you're Whasqer! 💪🙂"
@@ -140,3 +148,6 @@ email:
             body.div4: "How to join & complete my profile:"
             body.div5: https://www.youtube.com/watch?v=WUR2y_dSxJo
             body.div6: https://api.whasq.com/bundles/app/images/tutorial-youtube-en.jpeg
+         delete.admin:
+            title: Account deleted
+            body.div1: "Sorry, the user %fullname% (%email%) has just deleted its account."
