@@ -45,7 +45,7 @@ error:
     email.invalid: Invalid email address
     password.invalid: The password must contain at least 8 letters including at least 4 other characters (uppercase, lowercase, numeral and special character) 👀
     fullname.invalid: Invalid name
-login:
+    login:
         activation.title: Account activation
         activation.message: An email with the link to validate your email address has just been sent to you 👌 
     version:
