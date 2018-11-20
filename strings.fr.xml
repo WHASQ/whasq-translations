@@ -147,7 +147,7 @@
     <string name="LANGUAGE_TITLE_WHASQ">Langues</string>
     <string name="LANGUAGE_SUBTITLE_PROFILE">Sélectionnez les langues que vous parlez.</string>
     <string name="LANGUAGE_SUBTITLE_WHASQ">Sélectionnez la langue du whasq.</string>
-    <string name="LANGUAGE_ERROR_EMPTY_SELECTION">Vous devez sélectionner au moions une langue.</string>
+    <string name="LANGUAGE_ERROR_EMPTY_SELECTION">Vous devez sélectionner au moins une langue.</string>
     <string name="LANGUAGE_ERROR_NO_SELECTION">Oups, vous devez sélectionner au moins une langue</string>
 
 
@@ -214,7 +214,7 @@
     <string name="WHASQ_ANSWER_OPTION_REPORT">Signaler</string>
     <string name="WHASQ_ANSWER_OPTION_DELETE_MESSAGE_SUCCESS">Votre commentaire a été supprimé.</string>
     <string name="WHASQ_ANSWER_OPTION_REPORT_MESSAGE_SUCCESS">Votre signalement a été pris en compte.</string>
-    <string name="WHASQ_ANSWER_VALIDATE_CHAMPION_MESSAGE">Cette réponse es tune solution ?</string>
+    <string name="WHASQ_ANSWER_VALIDATE_CHAMPION_MESSAGE">Cette réponse est une solution ?</string>
     <string name="WHASQ_ANSWER_MEDIA_TITLE">Ajouter une pièce jointe</string>
     <string name="WHASQ_ANSWER_MEDIA_ENTRY_CAPTURE">Prendre une photo</string>
     <string name="WHASQ_ANSWER_MEDIA_ENTRY_IMPORT">Importer une photo</string>
@@ -223,7 +223,7 @@
 
     <!-- Geolocation -->
     <string name="GEOLOCATION_PERMISSION_TITLE">Facilitez vos échanges</string>
-    <string name="GEOLOCATION_PERMISSION_EXPLANATION">Pour solliciter les whasqueurs proches de vous, \npermettez à Whasq d\'accéder à votre géolocalisation</string>
+    <string name="GEOLOCATION_PERMISSION_EXPLANATION">Pour solliciter les whasquers proches de vous, \npermettez à Whasq d\'accéder à votre géolocalisation</string>
     <string name="GEOLOCATION_PERMISSION_ALLOW">Autoriser l’accès</string>
     <string name="GEOLOCATION_PERMISSION_NOT_ALLOW">Ne pas autoriser</string>
 
