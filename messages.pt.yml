@@ -1,24 +1,24 @@
 app:
   form:
     change.password:
-      title: Whasq - changement de mot de passe
-      label.password: Nouveau mot de passe
-      label.confirm.password: Confirmer le mot de passe
-      label.remark: Le mot de passe doit contenir au moins 8 lettres dont au moins 4 autres caractères (majuscule, miniscule, chiffre et caractère spécial).
-      button.submit: Effectuer le changement
-      link.go: Return to app #todo
+      title: Whasq - mudar a palavra-passe
+      label.password: Nova palavra-passe
+      label.confirm.password: Confirmar a palavra-passe
+      label.remark: A senha deve conter pelo menos 8 letras, destas pelo menos 4 outros caracteres (maiúscula, minúscula, números e caractere especial).
+      button.submit: Fazer a modificação
+      link.go: Voltar à aplicação #tudo
       result:
-        success: Le changement de votre mot de passe a bien été pris en compte
-        failure: Impossible de modifier le mot de passe. Le lien est peut-être erroné ou n\'est plus actif.
+        success: A mudança da sua palavra-passe foi tida em conta
+        failure: Impossível de mudar a palavra-passe. O link está incorreto ou expirou.
     unsubscribe:
-      title: Whasq - se désinscrire
+      title: Whasq - desinscrever-se
       result:
-        success: Votre désinscription a bien été prise en compte
-        failure: Votre désinscription n\'a pas bien été prise en compte. Le lien est peut-être erroné ou n\'est plus actif. Ou vous avez tout simplement déjà été désinscrit(e).
+        success: A anulação da sua inscrição foi tida em conta.
+        failure: A anulação da sua inscrição não foi tida em conta.  O link está incorreto ou expirou. Ou simplesmente já se desinscreveu.
     activate.account:
-      title: Whasq - Activation du compte 
-      body.div1: Votre compte a été activé 😉 
-      body.div2: "La prochaine étape consiste à compléter votre profil."
-      body.div3: Poursuivre
+      title: Whasq - Ativação da conta 
+      body.div1: A sua conta foi ativada 😉 
+      body.div2: "A próxima etapa é preencher o seu perfil."
+      body.div3: Continuar
       result:
-        failure: Oups, impossible de créer un lien d'activation, réessayer s'il vous plaît
+        failure: Ahh, não foi possível criar um link de ativação. Tente novamente 
