@@ -125,6 +125,7 @@ email:
             join.community: ÚNETE A LA COMUNIDAD %fullName%
             unsubscribe: Darse de baja
             how.it.works: ¿Cómo funciona?
+            with.love: Enviado con ♥ por Whasq
     gdpr:
         title: Whasq - recuperación de datos
         body.div1: "Solicitaste los datos personales almacenados en la aplicación de whasq de la cuenta: %email%"
