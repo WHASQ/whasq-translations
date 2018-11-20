@@ -123,6 +123,7 @@ email:
             join.community: ДОБРО ПОЖАЛОВАТЬ В СООБЩЕСТВО %fullName%
             unsubscribe: Отменить подписку
             how.it.works: Как это работает?
+            with.love: Отправлено с ♥ by Whasq
     gdpr:
         title: Whasq - восстановление данных
         body.div1: "Вы попросили прислать ваши персональные данные, которые мы храним в приложении Whasq для учетной записи: %email%"
