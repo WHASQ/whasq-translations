@@ -117,6 +117,7 @@ email:
             join.community: JOIN %fullName% COMMUNITY
             unsubscribe: Unsubscribe
             how.it.works: How it works?
+            with.love: Sent with ♥ by Whasq
     gdpr:
         title: Whasq - your requested data
         body.div1: "You have requested to receive your personal data we store in Whasq application for the account: %email%"
