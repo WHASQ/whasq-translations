@@ -120,6 +120,7 @@ const messages = {
     'add-user-skill-title': 'Ajout d\'un talent',
     'add-user-skill-subtitle': 'Vous avez sûrement d\'autres talents, vous pouvez les ajouter !',
     'add-user-skill-subtitle-first-login': 'Vous avez des talents, inscrivez les dans votre profil !',
+    'add-user-skill-suggest': 'Il manque un talent ?',
     
     // AddUserChannelModal
     'add-user-channel-title': 'Ajout d\'une langue',
@@ -285,6 +286,7 @@ const messages = {
     'profile-image-size-limit': 'Seuls les fichiers images d\'une taille inférieure à 1Mo sont acceptés.',
     'error-importing-profile-image': 'Une erreur s\'est produite lors de l\'import de l\'image. Veuillez réessayer.',
     'import-profile-image': 'Importer l\'image',
+    'pick-profile-avatar': 'Choisir un avatar',
     'choose-profile-image': 'Choisissez votre image de profil',
     'profile-image-square-required': 'L\'image doit avoir un format carré.',
 

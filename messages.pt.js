@@ -120,6 +120,7 @@ const messages = {
     'add-user-skill-title': 'Adicionar competência',
     'add-user-skill-subtitle': 'Você tem outras competências, pode adicioná-las !',
     'add-user-skill-subtitle-first-login': 'Você tem outras competências, especifique-as no seu perfil !',
+    'add-user-skill-suggest': 'Falta alguma competência ?', 
     
     // AddUserChannelModal
     'add-user-channel-title': 'Adicionar idioma',
@@ -285,6 +286,7 @@ const messages = {
     'profile-image-size-limit': 'Apenas os ficheiros imagem inferiores a 1 MB serão aceites.',
     'error-importing-profile-image': 'Ocorreu um erro ao importar a imagem. Por favor, tente novamente.',
     'import-profile-image': 'Importar imagem',
+    'pick-profile-avatar': 'Defina seu avatar de perfil',
     'choose-profile-image': 'Escolher a imagem do perfil',
     'profile-image-square-required': 'A imagem deve ter um formato quadrado.',
     
