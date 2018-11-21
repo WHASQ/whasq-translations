@@ -170,6 +170,7 @@ const messages = {
     'whasq-write-error-channel-required': 'Em idioma deve ser especificado no whasq',
     'error-getting-usersskills': 'Ocorreu um erro na recuperação das informações do utilizador.',
     'whasq-write-media-attachment-no-preview': 'Visualização indisponível',
+    'whasq-write-required-fields': 'Campos marcados com um asterisco (*) são obrigatórios.',
 
     // PreviewWhasqModal
     'preview-whasq-title': 'Visualizar o whasq',

@@ -170,6 +170,7 @@ const messages = {
     'whasq-write-error-channel-required': 'Пожалуйста, укажите язык для whasq',
     'error-getting-usersskills':'Произошла ошибка при сохранении информации о пользователе.',
     'whasq-write-media-attachment-no-preview': 'Предварительный просмотр недоступен',
+    'whasq-write-required-fields': 'Поля, отмеченные звездочкой (*), обязательны для заполнения.',
 
     // PreviewWhasqModal
     'preview-whasq-title': 'Предварительный просмотр whasq',

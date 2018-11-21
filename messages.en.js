@@ -170,6 +170,7 @@ const messages = {
     'whasq-write-error-channel-required': 'Oups, you need to attribute the language to your Whasq',
     'error-getting-usersskills': 'An error has occured during the user informations\'s recovery.',
     'whasq-write-media-attachment-no-preview': 'Oups, no preview possible',
+    'whasq-write-required-fields': 'Fields marked with an asterisk (*) are required.',
 
     // PreviewWhasqModal
     'preview-whasq-title': 'whasq\'s preview',
