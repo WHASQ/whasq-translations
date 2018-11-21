@@ -59,6 +59,7 @@ const messages = {
 
     // WhasqDetails
     'whasq-not-found': 'Il whasq che cerca non è stato trovato.',
+    'eror-whasq-deleted': 'Il whasq che stai cercando è stato rimosso 😕',
 
     // Whasq
     'whasq-days-ago': 'Ci sono {days} giorni',
