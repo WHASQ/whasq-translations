@@ -416,9 +416,8 @@
 <p>
     Le <strong>ClicWalker</strong> peut demander la libération des montants qui lui reviennent à partir d'un seuil
     supérieur à 4 €.
-    <strong>Clic and Walk</strong> procède hebdomadairement au paiement des <strong>ClicWalkers</strong> ayant demandé
-    une libération
-    des fonds leur revenant.
+    <strong>Les paiements sont effectués </strong> dans les quinze jours (ouvrés) suivants votre demande <strong>(généralement le mardi)</strong> 
+    
 </p>
 <p>
     Après 12 mois consécutifs d'inactivité (aucune participation validée durant cette période), le
