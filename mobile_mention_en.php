@@ -361,8 +361,7 @@
 </p>
 <p>
     The <strong>ClicWalker</strong> may demand payment of sums due to him/her once a minimum payout threshold of 4 Euros
-    is reached. <strong>Clic and Walk</strong> proceeds on a weekly basis to pay <strong>ClicWalkers</strong> who have
-    requested the release of funds due to them.
+    is reached. <strong> Payments </strong>  are made every 15 working days after your request <strong>(usually on Tuesdays)</strong>
 </p>
 <p>
     After 12 consecutive months of inactivity, (no participation validated during this period), the virtual wallet of
