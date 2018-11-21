@@ -363,8 +363,7 @@
 </p>
 <p>
     Il <strong>ClicWalker</strong> può chiedere la liberazione delle somme spettanti a partire da una soglia superiore a 4 €.
-    I pagamenti in favore dei <strong>ClicWalkers</strong> che hanno richiesto la liberazione dei fondi loro spettanti
-    sono eseguiti da <strong>Clic and Walk</strong> settimanalmente.
+    I pagamenti vengono effettuati<strong>ogni 15 giorni lavorativi </strong> dopo la richiesta (comunemente il martedì)<strong>
 </p>
 <p>
     Dopo 12 mesi consecutivi di inattività (nessuna partecipazione convalidata nel periodo),
