@@ -373,7 +373,6 @@
 <p>
     El <strong>ClicWalker</strong> podrá solicitar la liberación de los importes que le corresponden
     a partir de un límite superior a 4 €. <strong>Los pagos se realizan </strong> todos los 15 días hábiles <strong> posteriores a tu solicitud (generalmente los martes)</strong> 
-    que les correspondan.
 </p>
 <p>
     Tras 12 meses consecutivos de inactividad (ninguna participación validada
