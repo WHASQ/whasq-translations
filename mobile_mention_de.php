@@ -369,8 +369,8 @@
 </p>
 <p>
     Der <strong>ClicWalker</strong> kann die Freigabe der ihm zugewiesenen Beträge ab einer bestimmten Summe, die sich
-    auf mindestens 4 EUR beläuft, einfordern. <strong>Clic and Walk</strong> nimmt wöchentlich die Zahlung an die
-    <strong>ClicWalker</strong> vor, die die Freigabe der ihnen zustehenden Guthaben eingefordert haben.
+    auf mindestens 4 EUR beläuft, einfordern. <strong>Die Zahlungen</strong>  erfolgen alle 15 Werktage nach Ihrer Anfrage
+    <strong>(in der Regel dienstags)</strong>
 </p>
 <p>
     Nach einer Inaktivität von zwölf (12) aufeinanderfolgenden Monaten (keine bestätigte Teilnahme in diesem Zeitraum)
