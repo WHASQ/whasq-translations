@@ -62,7 +62,7 @@ const messages = {
     'whasqs-search-all-filter': 'Tutto',
     'error-searching-whasqs': 'Si è verificato un errore durante la ricerca dei whasqs',
     'whasqs-more-whasqs-add-skill': 'Per vedere più whasq, aggiunge talenti al Suo profilo.',
-    'whasq-search-filter-label': 'Filtrer', /* TODO */
+    'whasq-search-filter-label': 'Filtro',
 
     // WhasqDetails
     'whasq-not-found': 'Il whasq che cerca non è stato trovato.',
@@ -123,10 +123,10 @@ const messages = {
     'profile-email-not-available': 'Manca l\'email non o non è disponibile',
     'profile-phone-not-available': 'Manca il numero di telefono o non è disponibile',
     'profile-job-position-not-available': 'Manca il posto o non è disponibile',
-    'profile-edit-label': 'Modifier le profil', /* TODO */
-    'profile-save-label': 'Sauvegarder le profil', /* TODO */
-    'profile-anonymous-label': 'Cacher aux autres utilisateurs', /* TODO */
-    'profile-not-anonymous-label': 'Montrer aux autres utilisateurs', /* TODO */
+    'profile-edit-label': 'Modifica il profilo',
+    'profile-save-label': 'Salva il profilo', 
+    'profile-anonymous-label': 'Nascondere gli utenti', 
+    'profile-not-anonymous-label': 'Mostra gli altri utenti', 
 
     // AddUserSkillModal
     'add-user-skill-title': 'Aggiunta di un talento',
@@ -205,11 +205,11 @@ const messages = {
     'answer-empty-content': 'Devi scrivere un messaggio o aggiungere un file per inviare la tua risposta.', 
     'answer-error-usefull-current-user': 'Non ti piace il tuo commento 😉',
     'answer-placeholder-label': 'Rispondere',
-    'answer-champion-label': 'Considérer la réponse comme solution', /* TODO */
-    'answer-usefull-label': 'Considérer la réponse utile', /* TODO */
-    'answer-delete-label': 'Supprimer la réponse', /* TODO */
-    'answer-report-label': 'Signaler la réponse', /* TODO */
-    'answer-attachment-label': 'Ajouter une pièce jointe', /* TODO */
+    'answer-champion-label': 'Considera la risposta come una soluzione', /
+    'answer-usefull-label': 'Considera la risposta utile', 
+    'answer-delete-label': 'Cancella la risposta',
+    'answer-report-label': 'Segnalare la risposta', 
+    'answer-attachment-label': 'Aggiungi un file', 
 
     // WhasqPerso
     'whasq-perso-read-times': 'Visto {readUsersCount} volte',
