@@ -62,7 +62,7 @@ const messages = {
     'whasqs-search-all-filter': 'Tudo',
     'error-searching-whasqs': 'Ocorreu um erro durante a procura do whasqs',
     'whasqs-more-whasqs-add-skill': 'Para ver mais whasqs, adicione mais competências ao seu perfil.',
-    'whasq-search-filter-label': 'Filtrer', /* TODO */
+    'whasq-search-filter-label': 'Filtrar', 
 
     // WhasqDetails
     'whasq-not-found': 'O whasq que à está procura não foi encontrado.',
@@ -123,10 +123,10 @@ const messages = {
     'profile-email-not-available': 'O e-mail não foi especificado ou não está disponível',
     'profile-phone-not-available': 'O número de telefone não foi especificado ou não está disponível',
     'profile-job-position-not-available': 'O cargo/emprego não foi especificado ou não está disponível ',
-    'profile-edit-label': 'Modifier le profil', /* TODO */
-    'profile-save-label': 'Sauvegarder le profil', /* TODO */
-    'profile-anonymous-label': 'Cacher aux autres utilisateurs', /* TODO */
-    'profile-not-anonymous-label': 'Montrer aux autres utilisateurs', /* TODO */
+    'profile-edit-label': 'Modificar o perfil', 
+    'profile-save-label': 'Salvar perfil', 
+    'profile-anonymous-label': 'Ocultar outros usuários', 
+    'profile-not-anonymous-label': 'Mostrar outros usuários', 
 
     // AddUserSkillModal
     'add-user-skill-title': 'Adicionar competência',
@@ -205,11 +205,11 @@ const messages = {
     'answer-empty-content': 'Deve escrever uma mensagem ou adicionar um mídia para enviar sua resposta.',
     'answer-error-usefull-current-user': 'Não pode dar like no seu próprio comentário 😉',
     'answer-placeholder-label': 'Resposta',
-    'answer-champion-label': 'Considérer la réponse comme solution', /* TODO */
-    'answer-usefull-label': 'Considérer la réponse utile', /* TODO */
-    'answer-delete-label': 'Supprimer la réponse', /* TODO */
-    'answer-report-label': 'Signaler la réponse', /* TODO */
-    'answer-attachment-label': 'Ajouter une pièce jointe', /* TODO */
+    'answer-champion-label': 'Considere a resposta como uma solução',
+    'answer-usefull-label': 'Considere a resposta como útil',
+    'answer-delete-label': 'Elimine a resposta', 
+    'answer-report-label': 'Aponte a resposta', 
+    'answer-attachment-label': 'Adicione um arquivo', 
 
     // WhasqPerso
     'whasq-perso-read-times': 'Lido {readUsersCount} vezes',
