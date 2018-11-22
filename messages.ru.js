@@ -62,6 +62,7 @@ const messages = {
     'whasqs-search-all-filter': 'Все',
     'error-searching-whasqs': 'Произошла ошибка при поиске whasqs',
     'whasqs-more-whasqs-add-skill': 'Чтобы увидеть больше whasqs, добавьте ваши таланты.',
+    'whasq-search-filter-label': 'Filtrer', /* TODO */
 
     // WhasqDetails
     'whasq-not-found': 'Данный whasq не был найден.',
@@ -122,6 +123,10 @@ const messages = {
     'profile-email-not-available': 'Эл.почта не добавлена или не доступна.',
     'profile-phone-not-available': 'Номер телефона не добавлен или не доступен.',
     'profile-job-position-not-available': 'Должность не добавлена или не доступна.',
+    'profile-edit-label': 'Modifier le profil', /* TODO */
+    'profile-save-label': 'Sauvegarder le profil', /* TODO */
+    'profile-anonymous-label': 'Cacher aux autres utilisateurs', /* TODO */
+    'profile-not-anonymous-label': 'Montrer aux autres utilisateurs', /* TODO */
 
     // AddUserSkillModal
     'add-user-skill-title': 'Добавить талант',
@@ -200,6 +205,11 @@ const messages = {
     'answer-empty-content': 'Вы должны написать сообщение или добавить медиа для отправки ответа.',
     'answer-error-usefull-current-user': 'Извините, вы не можете оценить ваш собственный комментарий 😉',
     'answer-placeholder-label': 'Ответить',
+    'answer-champion-label': 'Considérer la réponse comme solution', /* TODO */
+    'answer-usefull-label': 'Considérer la réponse utile', /* TODO */
+    'answer-delete-label': 'Supprimer la réponse', /* TODO */
+    'answer-report-label': 'Signaler la réponse', /* TODO */
+    'answer-attachment-label': 'Ajouter une pièce jointe', /* TODO */
 
     // WhasqPerso
     'whasq-perso-read-times': 'Прочитано {readUsersCount} раз',

@@ -62,6 +62,7 @@ const messages = {
     'whasqs-search-all-filter': 'All',
     'error-searching-whasqs': 'An error has occured during wasqs search.',
     'whasqs-more-whasqs-add-skill': 'To see more whasqs, please add skills to your profil.',
+    'whasq-search-filter-label': 'Filtrer', /* TODO */
 
     // WhasqDetails
     'whasq-not-found': 'The wasq you search was not found.',
@@ -122,6 +123,10 @@ const messages = {
     'profile-email-not-available': 'The email is not specified or available',
     'profile-phone-not-available': 'The phone number is not specified or available',
     'profile-job-position-not-available': 'The job position is not specified or available',
+    'profile-edit-label': 'Modifier le profil', /* TODO */
+    'profile-save-label': 'Sauvegarder le profil', /* TODO */
+    'profile-anonymous-label': 'Cacher aux autres utilisateurs', /* TODO */
+    'profile-not-anonymous-label': 'Montrer aux autres utilisateurs', /* TODO */
 
     // AddUserSkillModal
     'add-user-skill-title': 'You certaibly have other skills, just add them',
@@ -200,6 +205,11 @@ const messages = {
     'answer-empty-content': 'You must write a message or add a media in order to send your reply.',
     'answer-error-usefull-current-user': 'Sorry, you can not like your own comment 😉',
     'answer-placeholder-label': 'Reply',
+    'answer-champion-label': 'Considérer la réponse comme solution', /* TODO */
+    'answer-usefull-label': 'Considérer la réponse utile', /* TODO */
+    'answer-delete-label': 'Supprimer la réponse', /* TODO */
+    'answer-report-label': 'Signaler la réponse', /* TODO */
+    'answer-attachment-label': 'Ajouter une pièce jointe', /* TODO */
 
     // WhasqPerso
     'whasq-perso-read-times': 'Read {readUsersCount} times',

@@ -62,6 +62,7 @@ const messages = {
     'whasqs-search-all-filter': 'Tout',
     'error-searching-whasqs': 'Une erreur s\'est produite lors de la recherche de whasqs',
     'whasqs-more-whasqs-add-skill': 'Pour voir plus de whasqs, ajoutez des talents à votre profil.',
+    'whasq-search-filter-label': 'Filtrer',
 
     // WhasqDetails
     'whasq-not-found': 'Le whasq que vous cherchez n\'a pas été trouvé.',
@@ -122,6 +123,10 @@ const messages = {
     'profile-email-not-available': 'L\'email n\'est pas renseigné ou n\'est pas disponible',
     'profile-phone-not-available': 'Le numéro de téléphone n\'est pas renseigné ou n\'est pas disponible',
     'profile-job-position-not-available': 'Le poste n\'est pas renseigné ou n\'est pas disponible',
+    'profile-edit-label': 'Modifier le profil',
+    'profile-save-label': 'Sauvegarder le profil',
+    'profile-anonymous-label': 'Cacher aux autres utilisateurs',
+    'profile-not-anonymous-label': 'Montrer aux autres utilisateurs',
 
     // AddUserSkillModal
     'add-user-skill-title': 'Ajout d\'un talent',
@@ -200,6 +205,11 @@ const messages = {
     'answer-empty-content': 'Votre devez rédiger un message ou ajouter un média pour pouvoir envoyer votre réponse.',
     'answer-error-usefull-current-user': 'Vous ne pouvez pas aimer votre propre commentaire 😉',
     'answer-placeholder-label': 'Répondre',
+    'answer-champion-label': 'Considérer la réponse comme solution',
+    'answer-usefull-label': 'Considérer la réponse utile',
+    'answer-delete-label': 'Supprimer la réponse',
+    'answer-report-label': 'Signaler la réponse',
+    'answer-attachment-label': 'Ajouter une pièce jointe',
 
     // WhasqPerso
     'whasq-perso-read-times': 'Lu {readUsersCount} fois',

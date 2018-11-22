@@ -62,6 +62,7 @@ const messages = {
     'whasqs-search-all-filter': 'Todo',
     'error-searching-whasqs': 'Un error se produjo al buscar los whasqs',
     'whasqs-more-whasqs-add-skill': 'Agrega más talentos a tu perfil para ver mas whasqs.',
+    'whasq-search-filter-label': 'Filtrer', /* TODO */
 
     // WhasqDetails
     'whasq-not-found': 'No hemos encontrado el whasq que estabas buscando.',
@@ -122,6 +123,10 @@ const messages = {
     'profile-email-not-available': 'El e-mail no esta indicado o disponible',
     'profile-phone-not-available': 'El número de telefono no esta indicado o disponible',
     'profile-job-position-not-available': 'El puesto de trabajo no esta indicado o disponible',
+    'profile-edit-label': 'Modifier le profil', /* TODO */
+    'profile-save-label': 'Sauvegarder le profil', /* TODO */
+    'profile-anonymous-label': 'Cacher aux autres utilisateurs', /* TODO */
+    'profile-not-anonymous-label': 'Montrer aux autres utilisateurs', /* TODO */
 
     // AddUserSkillModal
     'add-user-skill-title': 'Agregar un talento',
@@ -200,6 +205,11 @@ const messages = {
     'answer-empty-content': 'Debes escribir un mensaje o agregar un archivo para enviar tu respuesta.',
     'answer-error-usefull-current-user': 'No puedes darle Like a tu propio comentario 😉',
     'answer-placeholder-label': 'Responder',
+    'answer-champion-label': 'Considérer la réponse comme solution', /* TODO */
+    'answer-usefull-label': 'Considérer la réponse utile', /* TODO */
+    'answer-delete-label': 'Supprimer la réponse', /* TODO */
+    'answer-report-label': 'Signaler la réponse', /* TODO */
+    'answer-attachment-label': 'Ajouter une pièce jointe', /* TODO */
 
     // WhasqPerso
     'whasq-perso-read-times': 'Leído {readUsersCount} veces',
