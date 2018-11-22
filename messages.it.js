@@ -45,6 +45,12 @@ const messages = {
     'header-information-asked': 'I Suoi dati sono stati inviati sul Suo indirizzo email.',
     'header-account-deleted': 'Il Suo account è stato cancellato.',
     'header-password-changed': 'Si è stata inviata un\'email per resettare la Sua password',
+    'header-menu-whasq-write': 'Scrivi un whasq',
+    'header-menu-home': 'Accoglienza',
+    'header-menu-notifications': 'Notifiche',
+    'header-menu-podium': 'Podio',
+    'header-menu-language': 'Mostra la lingua',
+    'header-menu-profile': 'Profilo',
 
     // Footer
     'footer-privacy-policy': 'Informativa sulla privacy',

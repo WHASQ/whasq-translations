@@ -45,6 +45,12 @@ const messages = {
     'header-information-asked': 'Ваши данные были отправлены на ваш адрес эл. почты.',
     'header-account-deleted': 'Ваш аккаунт был удачно удалён.',
     'header-password-changed': 'Вам было отправлено письмо для смены пароля.',
+    'header-menu-whasq-write': 'Написать whasq',
+    'header-menu-home': 'добро пожаловать',
+    'header-menu-notifications': 'Уведомления',
+    'header-menu-podium': 'подиум',
+    'header-menu-language': 'Язык отображения',
+    'header-menu-profile': 'профиль',
 
     // Footer
     'footer-privacy-policy': 'Политика конфиденциальности',

@@ -45,6 +45,12 @@ const messages = {
     'header-information-asked': 'Your data has been sent to your email adress.',
     'header-account-deleted': 'Your account has been successfully deleted.',
     'header-password-changed': 'An email has been sent to reset your password.',
+    'header-menu-whasq-write': 'Write a whasq',
+    'header-menu-home': 'Home',
+    'header-menu-notifications': 'Notifications',
+    'header-menu-podium': 'Podium',
+    'header-menu-language': 'Display language',
+    'header-menu-profile': 'Profile',
 
     // Footer
     'footer-privacy-policy': 'Privacy policy',
