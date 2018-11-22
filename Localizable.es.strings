@@ -128,7 +128,7 @@
 "geoloc-not-allow-button" = "No permitir";
 "geoloc-title-label" = "Facilita tus discusiones";
 "historic-title" = "Mis whasqpuntos";
-"home-search-placeholder" = "Ej: necesito ayuda en excel ...";
+"home-search-placeholder" = "Ej: viajes";
 "hours" = "Hora";
 "leader-history-empty-label" = "Diviertete e interactua con la comunidad para ganar puntos";
 "leader-top-empty-label" = "El podio aún no se ha definido este mes";
@@ -157,7 +157,7 @@
 "miss-skill-email-title" = "Sugerencia de talento";
 "no" = "No";
 "notification-allow-button" = "Permitir";
-"notification-answer" = " ha respondido a tu Whasq :";
+"notification-answer" = "ha respondido a tu Whasq :";
 "notification-champion" = "¡Te ha nombrado campeón de su Whasq! +50 whasqpuntos";
 "notification-description-label" = "Autorise Whasq a enviarle notificaciones cuando alguien responda a tu whasq,";
 "notification-match" = "ha creado un Whasq que podría interesarte ";
