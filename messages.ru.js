@@ -62,7 +62,7 @@ const messages = {
     'whasqs-search-all-filter': 'Все',
     'error-searching-whasqs': 'Произошла ошибка при поиске whasqs',
     'whasqs-more-whasqs-add-skill': 'Чтобы увидеть больше whasqs, добавьте ваши таланты.',
-    'whasq-search-filter-label': 'Filtrer', /* TODO */
+    'whasq-search-filter-label': 'Фильтр',
 
     // WhasqDetails
     'whasq-not-found': 'Данный whasq не был найден.',
@@ -123,10 +123,10 @@ const messages = {
     'profile-email-not-available': 'Эл.почта не добавлена или не доступна.',
     'profile-phone-not-available': 'Номер телефона не добавлен или не доступен.',
     'profile-job-position-not-available': 'Должность не добавлена или не доступна.',
-    'profile-edit-label': 'Modifier le profil', /* TODO */
-    'profile-save-label': 'Sauvegarder le profil', /* TODO */
-    'profile-anonymous-label': 'Cacher aux autres utilisateurs', /* TODO */
-    'profile-not-anonymous-label': 'Montrer aux autres utilisateurs', /* TODO */
+    'profile-edit-label': 'Изменить профиль',
+    'profile-save-label': 'Sauvegarder le profil',
+    'profile-anonymous-label': 'Сохранить профиль',
+    'profile-not-anonymous-label': 'Показать других пользователей',
 
     // AddUserSkillModal
     'add-user-skill-title': 'Добавить талант',
@@ -205,11 +205,11 @@ const messages = {
     'answer-empty-content': 'Вы должны написать сообщение или добавить медиа для отправки ответа.',
     'answer-error-usefull-current-user': 'Извините, вы не можете оценить ваш собственный комментарий 😉',
     'answer-placeholder-label': 'Ответить',
-    'answer-champion-label': 'Considérer la réponse comme solution', /* TODO */
-    'answer-usefull-label': 'Considérer la réponse utile', /* TODO */
-    'answer-delete-label': 'Supprimer la réponse', /* TODO */
-    'answer-report-label': 'Signaler la réponse', /* TODO */
-    'answer-attachment-label': 'Ajouter une pièce jointe', /* TODO */
+    'answer-champion-label': 'Рассмотрите ответ как решение',
+    'answer-usefull-label': 'Рассмотрите полезный ответ',
+    'answer-delete-label': 'Удалить ответ',
+    'answer-report-label': 'Сообщить о ответе',
+    'answer-attachment-label': 'Добавить приложение',
 
     // WhasqPerso
     'whasq-perso-read-times': 'Прочитано {readUsersCount} раз',
