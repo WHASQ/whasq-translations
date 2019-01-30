@@ -126,8 +126,8 @@ const messages = {
     'profile-edit-label': 'Cambiar el perfil', 
     'profile-save-label': 'Guardar el perfil', 
     'profile-anonymous-label': 'Esconder a los otros usuarios', 
-
     'profile-not-anonymous-label': 'Mostrar a los otros usuarios', 
+
     // AddUserSkillModal
     'add-user-skill-title': 'Agregar un talento',
     'add-user-skill-subtitle': '¡De seguro que tienes otros talentos, es hora que agregarlos !',

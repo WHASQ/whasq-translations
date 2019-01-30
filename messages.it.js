@@ -205,7 +205,7 @@ const messages = {
     'answer-empty-content': 'Devi scrivere un messaggio o aggiungere un file per inviare la tua risposta.', 
     'answer-error-usefull-current-user': 'Non ti piace il tuo commento 😉',
     'answer-placeholder-label': 'Rispondere',
-    'answer-champion-label': 'Considera la risposta come una soluzione', /
+    'answer-champion-label': 'Considera la risposta come una soluzione',
     'answer-usefull-label': 'Considera la risposta utile', 
     'answer-delete-label': 'Cancella la risposta',
     'answer-report-label': 'Segnalare la risposta', 
