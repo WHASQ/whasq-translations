@@ -59,6 +59,7 @@ const messages = {
 
     // WhasqsSearch
     'whasqs-search-my-skills-filter': 'For my skills',
+    'whasqs-search-training-filter': 'Formation', /* TODO */
     'whasqs-search-all-filter': 'All',
     'error-searching-whasqs': 'An error has occured during wasqs search.',
     'whasqs-more-whasqs-add-skill': 'To see more whasqs, please add skills to your profil.',
@@ -67,6 +68,7 @@ const messages = {
     // WhasqDetails
     'whasq-not-found': 'The wasq you search was not found.',
     'eror-whasq-deleted': 'The whasq you are looking for has been removed 😕',
+    'error-whasq-unavailable': 'Le whasq que vous cherchez n\'est pas disponible 😕', /* TODO */
 
     // Whasq
     'whasq-days-ago': '{days} ago',
@@ -156,6 +158,7 @@ const messages = {
     'notification-message-blacklist': '{fullname} has reported your whasq',
     'notification-message-admin-whasq': '{fullname} has posted a new whasq',
     'notification-message-tag-user': 'You have been recommended by {fullname} for the whasq',
+    'notification-message-new-training-whasq': 'Un nouveau whasq de formation vous attend ! ', /* TODO */
     'notification-days-ago': '{days} days ago',
 
     // WhasqWrite
@@ -327,6 +330,20 @@ const messages = {
     // AddSkillModal
     'add-skill-modal-title': 'Skills',
     'add-skill-modal-subtitle': 'Talents concerned by this whasq (3 maximum):',
+
+    // TrainingWhasqDetails
+    'training-whasq-details-explanations': 'Explications :', /* TODO */
+    'training-whasq-details-see-results': 'Voir les résultats', /* TODO */
+    'training-whasq-details-validate': 'Valider', /* TODO */
+    'training-whasq-details-right-answer': '👍 Bravo ! Vous avez bien répondu à la question !', /* TODO */
+    'training-whasq-details-bad-answer': '😢 Oups ! Votre réponse n\'est pas correcte...', /* TODO */
+
+    // TrainingWhasqResultsModal
+    'training-whasq-results-modal-title': 'Résumé de toutes les réponses', /* TODO */
+    
+    // TrainingEvalModal
+    'training-eval-title': 'Evaluation : "{title}"', /* TODO */
+    'training-eval-modal-form-error': 'Merci de répondre à toutes les questions pour pouvoir envoyer votre évaluation.', /* TODO */
 }
 
 export default messages

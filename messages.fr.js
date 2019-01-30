@@ -59,6 +59,7 @@ const messages = {
 
     // WhasqsSearch
     'whasqs-search-my-skills-filter': 'Pour mes talents',
+    'whasqs-search-training-filter': 'Formation',
     'whasqs-search-all-filter': 'Tout',
     'error-searching-whasqs': 'Une erreur s\'est produite lors de la recherche de whasqs',
     'whasqs-more-whasqs-add-skill': 'Pour voir plus de whasqs, ajoutez des talents à votre profil.',
@@ -67,6 +68,7 @@ const messages = {
     // WhasqDetails
     'whasq-not-found': 'Le whasq que vous cherchez n\'a pas été trouvé.',
     'eror-whasq-deleted': 'Le whasq que vous cherchez a été supprimé 😕',
+    'error-whasq-unavailable': 'Le whasq que vous cherchez n\'est pas disponible 😕',
 
     // Whasq
     'whasq-days-ago': 'Il y a {days} jours',
@@ -156,6 +158,7 @@ const messages = {
     'notification-message-blacklist': '{fullname} a signalé votre whasq',
     'notification-message-admin-whasq': '{fullname} a posté un nouveau whasq',
     'notification-message-tag-user': 'Vous avez été recommandé par {fullname} pour le whasq',
+    'notification-message-new-training-whasq': 'Un nouveau whasq de formation vous attend ! ',
     'notification-days-ago': 'Il y a {days} jours',
 
     // WhasqWrite
@@ -327,6 +330,20 @@ const messages = {
     // AddSkillModal
     'add-skill-modal-title': 'Talents',
     'add-skill-modal-subtitle': 'Les talents concernés par ce whasq (3 maximum) :',
+
+    // TrainingWhasqDetails
+    'training-whasq-details-explanations': 'Explications :',
+    'training-whasq-details-see-results': 'Voir les résultats',
+    'training-whasq-details-validate': 'Valider',
+    'training-whasq-details-right-answer': '👍 Bravo ! Vous avez bien répondu à la question !',
+    'training-whasq-details-bad-answer': '😢 Oups ! Votre réponse n\'est pas correcte...',
+
+    // TrainingWhasqResultsModal
+    'training-whasq-results-modal-title': 'Résumé de toutes les réponses',
+    
+    // TrainingEvalModal
+    'training-eval-title': 'Evaluation : "{title}"',
+    'training-eval-modal-form-error': 'Merci de répondre à toutes les questions pour pouvoir envoyer votre évaluation.',
 }
 
 export default messages
