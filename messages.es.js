@@ -59,7 +59,7 @@ const messages = {
 
     // WhasqsSearch
     'whasqs-search-my-skills-filter': 'De acuerdo a mis talentos',
-    'whasqs-search-training-filter': 'Formation', /* TODO */
+    'whasqs-search-training-filter': 'Formación ', 
     'whasqs-search-all-filter': 'Todo',
     'error-searching-whasqs': 'Un error se produjo al buscar los whasqs',
     'whasqs-more-whasqs-add-skill': 'Agrega más talentos a tu perfil para ver mas whasqs.',
@@ -68,7 +68,7 @@ const messages = {
     // WhasqDetails
     'whasq-not-found': 'No hemos encontrado el whasq que estabas buscando.',
     'eror-whasq-deleted': 'El whasq que buscas ha sido eliminado 😕',
-    'error-whasq-unavailable': 'Le whasq que vous cherchez n\'est pas disponible 😕', /* TODO */
+    'error-whasq-unavailable': 'Le whasq que vous cherchez n\'est pas disponible 😕',
 
     // Whasq
     'whasq-days-ago': 'Hace unos {days} días',
@@ -158,7 +158,7 @@ const messages = {
     'notification-message-blacklist': '{fullname} ha señalado el whasq',
     'notification-message-admin-whasq': '{fullname} ha publicado un nuevo whasq',
     'notification-message-tag-user': 'Has sido recomendado por {fullname} para el whasq', 
-    'notification-message-new-training-whasq': 'Un nouveau whasq de formation vous attend ! ', /* TODO */
+    'notification-message-new-training-whasq': '¡Un nuevo whasq formación te espera! ', 
     'notification-days-ago': 'Hace {days} dias',
 
     // WhasqWrite
@@ -243,7 +243,7 @@ const messages = {
     'gdpr-decline-btn': 'Rechazar',
     'gdpr-authorize-btn': 'Autorizar',
     'gdpr-decline-title': 'Es necesaria la autorización',
-    'gdpr-decline-message': 'Para poder utilizar la aplicación Whasq, es necesaria la autorización acerca de la uso de los datos.',
+    'gdpr-decline-message': 'Para poder utilizar la aplicación Whasq, es necesaria la autorización acerca del uso de los datos.',
 
     // Register
     'register-title': 'Inscripción',
@@ -332,18 +332,18 @@ const messages = {
     'add-skill-modal-subtitle': 'Los talentos afectados por este whasq (3 máximo):',
 
     // TrainingWhasqDetails
-    'training-whasq-details-explanations': 'Explications :', /* TODO */
-    'training-whasq-details-see-results': 'Voir les résultats', /* TODO */
-    'training-whasq-details-validate': 'Valider', /* TODO */
-    'training-whasq-details-right-answer': '👍 Bravo ! Vous avez bien répondu à la question !', /* TODO */
-    'training-whasq-details-bad-answer': '😢 Oups ! Votre réponse n\'est pas correcte...', /* TODO */
+    'training-whasq-details-explanations': 'Explicaciones :', 
+    'training-whasq-details-see-results': 'Ver los resultados', 
+    'training-whasq-details-validate': 'Aceptar', 
+    'training-whasq-details-right-answer': '👍 Bravo ¡Has respondido a la pregunta!', 
+    'training-whasq-details-bad-answer': '😢 Oups ¡La respuesta no es correcta! ...', 
 
     // TrainingWhasqResultsModal
-    'training-whasq-results-modal-title': 'Résumé de toutes les réponses', /* TODO */
+    'training-whasq-results-modal-title': '¡Resumen de todas las respuestas!',
     
     // TrainingEvalModal
-    'training-eval-title': 'Evaluation : "{title}"', /* TODO */
-    'training-eval-modal-form-error': 'Merci de répondre à toutes les questions pour pouvoir envoyer votre évaluation.', /* TODO */
+    'training-eval-title': 'Evaluación : "{title}"', 
+    'training-eval-modal-form-error': 'Por favor responde a todas las respuestas para así poder enviar tu evaluación.', 
 }
 
 export default messages
