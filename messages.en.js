@@ -68,7 +68,7 @@ const messages = {
     // WhasqDetails
     'whasq-not-found': 'The wasq you search was not found.',
     'eror-whasq-deleted': 'The whasq you are looking for has been removed 😕',
-    'error-whasq-unavailable': 'Le whasq que vous cherchez n\'est pas disponible 😕', /* TODO */
+    'error-whasq-unavailable': 'Le whasq que vous cherchez n\'est pas disponible 😕',
 
     // Whasq
     'whasq-days-ago': '{days} ago',
