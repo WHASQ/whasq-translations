@@ -59,7 +59,7 @@ const messages = {
 
     // WhasqsSearch
     'whasqs-search-my-skills-filter': 'For my skills',
-    'whasqs-search-training-filter': 'Formation', /* TODO */
+    'whasqs-search-training-filter': 'Training',
     'whasqs-search-all-filter': 'All',
     'error-searching-whasqs': 'An error has occured during wasqs search.',
     'whasqs-more-whasqs-add-skill': 'To see more whasqs, please add skills to your profil.',
@@ -158,7 +158,7 @@ const messages = {
     'notification-message-blacklist': '{fullname} has reported your whasq',
     'notification-message-admin-whasq': '{fullname} has posted a new whasq',
     'notification-message-tag-user': 'You have been recommended by {fullname} for the whasq',
-    'notification-message-new-training-whasq': 'Un nouveau whasq de formation vous attend ! ', /* TODO */
+    'notification-message-new-training-whasq': 'A new training whasq is waiting for you ', 
     'notification-days-ago': '{days} days ago',
 
     // WhasqWrite
@@ -332,18 +332,18 @@ const messages = {
     'add-skill-modal-subtitle': 'Talents concerned by this whasq (3 maximum):',
 
     // TrainingWhasqDetails
-    'training-whasq-details-explanations': 'Explications :', /* TODO */
-    'training-whasq-details-see-results': 'Voir les résultats', /* TODO */
-    'training-whasq-details-validate': 'Valider', /* TODO */
-    'training-whasq-details-right-answer': '👍 Bravo ! Vous avez bien répondu à la question !', /* TODO */
-    'training-whasq-details-bad-answer': '😢 Oups ! Votre réponse n\'est pas correcte...', /* TODO */
+    'training-whasq-details-explanations': 'Explanation :', 
+    'training-whasq-details-see-results': 'View the results', 
+    'training-whasq-details-validate': 'Validate', 
+    'training-whasq-details-right-answer': '👍 Great, your answer is correct',
+    'training-whasq-details-bad-answer': '😢 Oups, your answer is not correct...',
 
     // TrainingWhasqResultsModal
-    'training-whasq-results-modal-title': 'Résumé de toutes les réponses', /* TODO */
+    'training-whasq-results-modal-title': 'Summary of all responses', 
     
     // TrainingEvalModal
-    'training-eval-title': 'Evaluation : "{title}"', /* TODO */
-    'training-eval-modal-form-error': 'Merci de répondre à toutes les questions pour pouvoir envoyer votre évaluation.', /* TODO */
+    'training-eval-title': 'training test : "{title}"', 
+    'training-eval-modal-form-error': 'Thank you for answering all the questions to be able to send your training test.', 
 }
 
 export default messages
