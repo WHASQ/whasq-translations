@@ -59,7 +59,7 @@ const messages = {
 
     // WhasqsSearch
     'whasqs-search-my-skills-filter': 'Мои таланты',
-    'whasqs-search-training-filter': 'Formation', /* TODO */
+    'whasqs-search-training-filter': 'Oбучение',
     'whasqs-search-all-filter': 'Все',
     'error-searching-whasqs': 'Произошла ошибка при поиске whasqs',
     'whasqs-more-whasqs-add-skill': 'Чтобы увидеть больше whasqs, добавьте ваши таланты.',
@@ -68,7 +68,7 @@ const messages = {
     // WhasqDetails
     'whasq-not-found': 'Данный whasq не был найден.',
     'eror-whasq-deleted': 'Вопрос, который вы ищете, удален 😕',
-    'error-whasq-unavailable': 'Le whasq que vous cherchez n\'est pas disponible 😕', /* TODO */
+    'error-whasq-unavailable': 'Whasq, что вы ищете, не доступен 😕',
 
     // Whasq
     'whasq-days-ago': '{days} дня назад',
@@ -158,7 +158,7 @@ const messages = {
     'notification-message-blacklist': '{fullname} пожаловался(-ась) на ваш whasq',
     'notification-message-admin-whasq': '{fullname} опубликовал(-а) новый whasq',
     'notification-message-tag-user': '{fullname} рекомендовал вас для whasq',
-    'notification-message-new-training-whasq': 'Un nouveau whasq de formation vous attend ! ', /* TODO */
+    'notification-message-new-training-whasq': 'Вас ждет новый whasq!',
     'notification-days-ago': '{days} дн. назад',
 
     // WhasqWrite
@@ -332,18 +332,18 @@ const messages = {
     'add-skill-modal-subtitle': 'Таланты, связанные с этим whasq (3 максимум):',
 
     // TrainingWhasqDetails
-    'training-whasq-details-explanations': 'Explications :', /* TODO */
-    'training-whasq-details-see-results': 'Voir les résultats', /* TODO */
-    'training-whasq-details-validate': 'Valider', /* TODO */
-    'training-whasq-details-right-answer': '👍 Bravo ! Vous avez bien répondu à la question !', /* TODO */
-    'training-whasq-details-bad-answer': '😢 Oups ! Votre réponse n\'est pas correcte...', /* TODO */
+    'training-whasq-details-explanations': 'Oбъяснения :',
+    'training-whasq-details-see-results': 'Посмотреть результаты',
+    'training-whasq-details-validate': 'Поддерживать',
+    'training-whasq-details-right-answer': '👍 Вы правильно ответили на вопрос !',
+    'training-whasq-details-bad-answer': '😢 Ваш ответ не верный...',
 
     // TrainingWhasqResultsModal
-    'training-whasq-results-modal-title': 'Résumé de toutes les réponses', /* TODO */
+    'training-whasq-results-modal-title': 'Резюме всех ответов',
     
     // TrainingEvalModal
-    'training-eval-title': 'Evaluation : "{title}"', /* TODO */
-    'training-eval-modal-form-error': 'Merci de répondre à toutes les questions pour pouvoir envoyer votre évaluation.', /* TODO */
+    'training-eval-title': 'Oценка : "{title}"',
+    'training-eval-modal-form-error': 'Спасибо за ответы на все вопросы, чтобы иметь возможность отправить свою оценку.',
 }
 
 export default messages
