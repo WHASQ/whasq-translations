@@ -15,8 +15,8 @@ error:
   user.email.inexisting.store.domain: Клиент с доменом @%domain% еще не существует. Пожалуйста, напишите нам на jessie@whasq.com
   user.email.unknow: Не удалось найти пользователя по указанному адресу электронной почты
   user.search.empty: Ничего не выбрано
-  user.trainer.already.added: This trainer has been already added. #todo
-  user.not.trainer: "Sorry, this user is not a trainer for this training center. Hint: Maybe you can set him trainer in user dashboard." #todo
+  user.trainer.already.added: Этот тренер уже добавлен.
+  user.not.trainer: "Извините, этот пользователь не является тренером этого учебного центра. Подсказка: может быть, вы можете установить его тренера в панели пользователя."
   answer.not.champion: Этот ответ не является решением
   answer.useful.exists: Тебе уже понравился этот комментарий 😛
   answer.not.found: Этот ответ удален
@@ -24,8 +24,8 @@ error:
   answer.deletion.by.author: Только автор может удалить этот ответ
   answer.edition.by.author: Только автор может изменить этот ответ
   answer.report.himself: Пользователь не может оставить отзыв на свой ответ
-  answer.missing.responses: Missing responses for this question type #todo
-  answer.bad.responses: Bad response (option) supplied for this whasq #todo
+  answer.missing.responses: Отсутствуют ответы на этот тип вопроса
+  answer.bad.responses: Плохой ответ (опция) для этого вопроса
   answer.lower.level.unanswered: "This answer shouldn't be supplied as the lower level questions are still not answered for user #%userId%, training #%trainingId%, level #%level%" #todo
   whasq.already.champion: Этот вопрос был уже решен
   whasq.answer.same.user: Автором запроса и ответа является один и тот же пользователь
@@ -51,16 +51,16 @@ error:
   password.invalid: Пароль должен содержать не менее 8 букв, включая как минимум 4 других символа (прописные, строчные, цифровые и специальные) 👀
   fullname.invalid: Неверное имя
   training:
-    delete.notemty: "Sorry, can't delete this training as some levels are still linked. Tip: Delete those levels first." #todo
-    level.delete.notemty: "Sorry, can't delete this level as some questions are still linked. Tip: Delete those questions first." #todo
-    center.delete.notemty: "Sorry, can't delete this training center as some trainings are still linked. Tip: Delete those trainings first." #todo
-    eval.delete.notemty: "Sorry, can't delete this training evaluation as some questions are still linked. Tip: Delete those questions first." #todo
-    whasq.options.bad.assert: "Sorry, can't add/modify this whasq as some assertions are not completed. Tip: Add one or more assertions according to question type." #todo
-    whasq.already.answered: Sorry, this training whasq was already answered ! #todo
-    eval.question.delete.notemty: "Sorry, can't delete this training evaluation question as some options are still linked. Tip: Delete those options first." #todo
-    eval.option.delete.notemty: "Sorry, can't delete this evaluation option as some responses are still linked." #todo
-    error.training.not.exists: "Sorry, this training doesn't exist. Tip: Create it first." #todo
-    parameter.not.found: "Sorry, one of the supplied parameters was not found as entity." #todo
+    delete.notemty: "К сожалению, не могу удалить это обучение, так как некоторые уровни все еще связаны. Совет: сначала удалите эти уровни."
+    level.delete.notemty: "Извините, не могу удалить этот уровень, так как некоторые вопросы все еще связаны. Совет: сначала удалите эти вопросы."
+    center.delete.notemty: "Извините, не могу удалить этот учебный центр, так как некоторые тренинги все еще связаны. Совет: сначала удалите эти тренинги."
+    eval.delete.notemty: "Извините, не могу удалить эту оценку тренинга, так как некоторые вопросы все еще связаны. Совет: сначала удалите эти вопросы."
+    whasq.options.bad.assert: "Извините, я не могу добавить / изменить этот запрос, так как некоторые утверждения не выполнены. Совет: добавьте одно или несколько утверждений в соответствии с типом вопроса."
+    whasq.already.answered: Извините, этот тренинг был уже отвечен!
+    eval.question.delete.notemty: "К сожалению, не удалось удалить этот вопрос об обучении, так как некоторые опции все еще связаны. Совет: сначала удалите эти параметры."
+    eval.option.delete.notemty: "Извините, не могу удалить этот вариант оценки, так как некоторые ответы все еще связаны."
+    error.training.not.exists: "Извините, это обучение не существует. Совет: сначала создайте его."
+    parameter.not.found: "Извините, один из предоставленных параметров не был найден как объект."
   login:
     activation.title: Активация аккаунта
     activation.message: ам отправлено электронное письмо со ссылкой для подтверждения вашего адреса электронной почты 👌
@@ -70,8 +70,8 @@ error:
 push:
   whasq:
     new.title: Доступен новый запрос
-    new.training.title: A new training whasq is available #todo
-    new.training.body: New question waits for you answer 😜  #todo
+    new.training.title: Oступна новая обучающая программа
+    new.training.body: Новый вопрос ждет вашего ответа 😜
     new.arround.body: Кому-то недалеко нужен ваш совет
     new.same.skill.body: Кому-то требуется ваше эксперное мнение 😎
     new.answer.title: Вы получили ответ 👌
@@ -118,22 +118,22 @@ email:
       body.div1: Вам предоставлен доступ администратора к
       body.div2: https://bo.whasq.com
     set.trainer:
-      title: You've been invited as trainer ! #todo
-      body.div1: You've been invited to join « %trainingCenterName% » training as a trainer. #todo
-      body.div2: You can open now https://bo.whasq.com with your credentials and head to "Learning" then "Training" section to manage your trainings. #todo
+      title: Вы были приглашены в качестве тренера !
+      body.div1: Вы были приглашены присоединиться « %trainingCenterName% » обучение в качестве тренера.
+      body.div2: Вы можете открыть https://bo.whasq.com со своими учетными данными и перейти в раздел « Обучение », а затем « Обучение », чтобы управлять своими тренировками.
     set.user:
-      title: You've been granted a role user! #todo
-      body.div1: You've been granted an user role now. #todo
+      title: Вы получили роль пользователя !
+      body.div1: Вам предоставлена ​​роль пользователя.
     admin:
       activity.summary:
-        title: "Resumé de l'activité « %storeName% » de la semaine %weekNumber%"
+        title: "Краткое описание деятельности « %storeName% » недели %weekNumber%"
         kpi:
-          nbNewUsers: Nombre de nouveaux utilisateurs
-          nbConnectedUsers: "Nombre d'utilisateurs connectés"
-          nbNewWhasqs: Nombre de nouveaux whasqs
-          nbNewAnswers: Nombre de nouvelles réponses
-          nbNewSolutions: Nombre de nouvelles solutions
-          nbNewLinkedSkills: Nombre de nouveaux talents attachés au profil des utilisaters
+          nbNewUsers: Количество новых пользователей
+          nbConnectedUsers: Количество подключенных пользователей
+          nbNewWhasqs: Количество новых whasqs
+          nbNewAnswers: Количество новых ответов
+          nbNewSolutions: Количество новых решений
+          nbNewLinkedSkills: Количество новых талантов, прикрепленных к профилю пользователя
   mailing:
     whasq.activity:
       title.nocount: "%param% tребуется ваша экспертиза"
@@ -187,27 +187,27 @@ email:
       body.div4: "Как зарегистрироваться и создать профиль:"
       body.div5: https://www.youtube.com/watch?v=VRpspKEsseQ
       body.div6: https://api.whasq.com/bundles/app/images/tutorial-youtube-en.jpeg
-      body.div7: You've been invited to join « %trainingCenterName% » training as a trainer.
-      body.div8: You can open now https://bo.whasq.com with your credentials and head to "Learning" then "Training" section to manage your trainings. #todo
+      body.div7: Вас пригласили принять участие в тренинге "%trainingCenterName%" в качестве тренера.
+      body.div8: Вы можете открыть https://bo.whasq.com со своими учетными данными и перейти в раздел «Обучение», а затем «Обучение», чтобы управлять своими тренировками.
     delete.admin:
-      title: Account Deleted
-      body.div1: "We're sorry, the user %fullname% (%email%) just deleted his/her account."
+      title: Аккаунт удален
+      body.div1: К сожалению, пользователь %fullname% (%email%) только что удалил свою учетную запись.
   training:
     missing:
-      title: Missing questions schedule for the training %name% 💪 #todo
-      body.div1: Please schedule all the question in calendar (https://bo.whasq.com).
+      title: Расписание пропущенных вопросов для тренинга %name% 💪
+      body.div1: Пожалуйста, запланируйте все вопросы в календаре (https://bo.whasq.com).
     available:
-      title: New question available for the training %name% 💪 #todo
-      body.div1: The question is <b>%title%</b> ! Question %index%/%nbQuestions%. #todo
-      body.div2: This training ends by <b>%supportEndsAt%</b>. #todo
-      body.div3: Good luck. #todo
+      title: Новый вопрос доступен для тренинга %name% 💪
+      body.div1: Вопрос <b>%title%</b> (%index%/%nbQuestions%) !
+      body.div2: Эта тренировка заканчивается <b>%supportEndsAt%</b>.
+      body.div3: Удачи !
     accomplished:
-      title: Congratulations! You have successfully completed the training %name%. #todo
-      body.div1: You've answered all the questions (%numberQuestions%/%numberAnsweredQuestions%) for the training %name%. You've reached the level %level% ! #todo
+      title: Поздравляем! Вы успешно завершили тренинг %name%.
+      body.div1: Вы ответили на все вопросы (%numberQuestions%/%numberAnsweredQuestions%) для обучения %name%. Вы достигли уровня %level% !
     unaccomplished:
-      title: The support period for %name% training is over. #todo
-      body.div1: You've answered %numberQuestions%/%numberAnsweredQuestions% questions for the training %name%. You still had some uncompleted/incorrect answers. You've reached the level %level% ! #todo
+      title: Период поддержки для обучения %name% закончен.
+      body.div1: Вы ответили %numberQuestions%/%numberAnsweredQuestions% вопросы к тренингу %name%. У вас остались неполные/неправильные ответы. Вы достигли уровня %level% !
     level:
       accomplished:
-        title: Congratulations! You have successfully reached level %reachedLevel% of training %name%. #todo
-        body.div1: You've answered (%numberQuestions%/%numberAnsweredQuestions%) for the training %name%. You've reached the level %reachedLevel%/%highestLevel% ! #todo  
+        title: Поздравляем! Вы успешно достигли уровня %reachedLevel% обучения %name%..
+        body.div1: Вы ответили (%numberQuestions%/%numberAnsweredQuestions%) вопросы к тренингу %name%. Вы достигли уровня %reachedLevel%/%highestLevel% !
