@@ -29,9 +29,9 @@ const messages = {
     'job-position': 'Должность',
     'assistance': 'Вам нужна помощь? Свяжитесь с jessie@whasq.com (с понедельника по пятницу с 9:00 до 12:00 и с 14:00 до 18:00 Время в Париже)',
     'download-attachment': 'Загрузить приложение',
-    'day': 'jour', /* TODO */
-    'days': 'jours', /* TODO */
-    'waiting': 'En attente...', /* TODO */
+    'day': 'день',
+    'days': 'дней',
+    'waiting': 'Ожидание ...',
 
     // Menu 
     'activity': 'Активность',
@@ -52,9 +52,9 @@ const messages = {
     'admin': 'Администрация',
     'targets': 'Цели и Gamification',
     'notifications': 'Уведомления',
-    'learning': 'Formation', /* TODO */
-    'training-centers': 'Centres de formation', /* TODO */
-    'trainings': 'Formations', /* TODO */
+    'learning': 'Oбучение',
+    'training-centers': 'Учебные центры',
+    'trainings': 'Обученя',
 
     // Activity 
     'eve-computed-kpi': 'показатель посчитан на D-1',
@@ -349,18 +349,18 @@ const messages = {
     'users-confirm-dont-consider-admin': 'Вы уверены, что не хотите рассматривать этого пользователя как администратора?', 
     'users-action-consider-user-admin-success': 'Пользователь id {userId} теперь является администратором.', 
     'users-action-stop-consider-user-admin-success': 'Пользователь id {userId} больше не является администратором.', 
-    'users-action-switch-role': 'Changer le rôle de cet utilisateur', /* TODO */
+    'users-action-switch-role': 'Изменить роль этого пользователя',
     'users-column-geolocated': 'Местоположение определено',
     'error-file-format': 'Формат файла неверен',
-    'users-roles-filter': 'Rôles', /* TODO */
-    'users-roles-filter-all': 'TOUS', /* TODO */
-    'users-roles-filter-user': 'UTILISATEUR', /* TODO */
-    'users-roles-filter-admin': 'ADMINISTRATEUR', /* TODO */
-    'users-roles-filter-trainer': 'FORMATEUR', /* TODO */
-    'users-actives-filter': 'Utilisateurs actifs', /* TODO */
-    'users-actives-filter-all': 'TOUS', /* TODO */
-    'users-actives-filter-actives': 'ACTIFS', /* TODO */
-    'users-actives-filter-deleted': 'ARCHIVES', /* TODO */
+    'users-roles-filter': 'Роли',
+    'users-roles-filter-all': 'Все',
+    'users-roles-filter-user': 'Пользователь',
+    'users-roles-filter-admin': 'Администратор',
+    'users-roles-filter-trainer': 'Tренер',
+    'users-actives-filter': 'Активные пользователи',
+    'users-actives-filter-all': 'Все',
+    'users-actives-filter-actives': 'Активные',
+    'users-actives-filter-deleted': 'Архивные',
   
     // ImportUsersModal
     'users-import-title': 'Импорт пользователя', 
@@ -426,22 +426,22 @@ const messages = {
     'profile-user-archived': 'Этот пользователь отправлен в архив',
     'profile-skills-subtitle': 'Ее / Его таланты',
     'profile-no-listed-skill': 'Навыки не указаны',    
-    'profile-no-listed-channel': 'Aucune langue répertoriée', /* TODO */
-    'profile-no-listed-training': 'Aucune formation répertoriée', /* TODO */
-    'profile-languages-subtitle': 'Ses langues', /* TODO */
-    'profile-trainings-subtitle': 'Ses formations', /* TODO */
-    'profile-remove-channel-confirm': 'Etes-vous sûr de vouloir supprimer la langue "{name}" de votre profil ?', /* TODO */
-    'profile-training-col-id': 'Id', /* TODO */
-    'profile-training-col-name': 'Nom', /* TODO */
-    'profile-training-col-role': 'Rôle', /* TODO */
-    'profile-training-col-levels-count': 'Nb de niveaux', /* TODO */
-    'profile-training-col-participants-count': 'Nb de participants', /* TODO */
-    'profile-training-col-answerings-count': 'Nb de répondants', /* TODO */
-    'profile-training-col-whasqs-count': 'Nb de whasqs', /* TODO */
-    'profile-training-col-success-rate': 'Taux de réussite', /* TODO */
-    'profile-training-col-start': 'Début', /* TODO */
-    'profile-training-col-end': 'Fin', /* TODO */
-    'profile-training-col-end-support': 'Fin de support', /* TODO */
+    'profile-no-listed-channel': 'Язык не указан',
+    'profile-no-listed-training': 'Нет обучения в списке',
+    'profile-languages-subtitle': 'Его языки',
+    'profile-trainings-subtitle': 'Его обученя',
+    'profile-remove-channel-confirm': 'Вы уверены, что хотите удалить язык "{name}" из своего профиля?',
+    'profile-training-col-id': 'ид.',
+    'profile-training-col-name': 'Имя',
+    'profile-training-col-role': 'Роль',
+    'profile-training-col-levels-count': 'Кол. уровней',
+    'profile-training-col-participants-count': 'Кол. участников',
+    'profile-training-col-answerings-count': 'Кол. респондентов',
+    'profile-training-col-whasqs-count': 'Кол? заданий',
+    'profile-training-col-success-rate': 'Показатель успеха',
+    'profile-training-col-start': 'Начало',
+    'profile-training-col-end': 'Конец',
+    'profile-training-col-end-support': 'Конец поддержки',
 
     // AddUserSkillModal 
     'add-skill-for-user': 'Добавить навык для {fullname}',
@@ -473,283 +473,283 @@ const messages = {
     'notifications-no-data': 'В настоящее время у вас нет уведомлений',
     
     // TrainingCenters
-    'training-centers-title': 'Centres de formation', /* TODO */
-    'training-centers-add-btn': 'Ajouter un centre de formation', /* TODO */
-    'training-centers-not-defined': 'Aucun organisme de formation n\'est défini à ce jour. Veuilez en ajouter.', /* TODO */
-    'training-centers-archive-confirm': 'Etes-vous sûr de vouloir archiver ce centre de formation ?', /* TODO */
-    'training-centers-name-col': 'Nom', /* TODO */
-    'training-centers-url-col': 'Url', /* TODO */
-    'training-centers-date-col': 'Date de création', /* TODO */
-    'training-centers-success-rate-col': 'Taux de réussite', /* TODO */
-    'training-centers-actions-col': 'Actions', /* TODO */
+    'training-centers-title': 'Учебные центры',
+    'training-centers-add-btn': 'Добавить учебный центр',
+    'training-centers-not-defined': 'На сегодняшний день ни одна организация обучения не определена. Пожалуйста, добавьте немного.',
+    'training-centers-archive-confirm': 'Вы уверены, что хотите заархивировать этот учебный центр?',
+    'training-centers-name-col': 'Имя',
+    'training-centers-url-col': 'URL-ссылка',
+    'training-centers-date-col': 'Дата создания',
+    'training-centers-success-rate-col': 'Показатель успеха',
+    'training-centers-actions-col': 'Aкции',
 
     // Trainings
-    'trainings-title': 'Formations', /* TODO */
-    'trainings-add-btn': 'Ajouter une session de formation', /* TODO */
-    'trainings-name-col': 'Libellé', /* TODO */
-    'trainings-training-center-col': 'Centre de formation', /* TODO */
-    'trainings-start-col': 'Début', /* TODO */
-    'trainings-end-col': 'Fin', /* TODO */
-    'trainings-support-end-col': 'Fin support', /* TODO */
-    'trainings-trainers-count-col': 'Nb de formateurs', /* TODO */
-    'trainings-participants-count-col': 'Nb de participants', /* TODO */
-    'trainings-whasqs-count-col': 'Nb de whasqs', /* TODO */
-    'trainings-remaining-days-col': 'Jours restants', /* TODO */
-    'trainings-success-rate-col': 'Taux de réussite', /* TODO */
-    'trainings-language-col': 'Langue', /* TODO */
-    'trainings-actions-col': 'Actions', /* TODO */
-    'trainings-not-defined': 'Aucune session de formation n\'est définie à ce jour. Veuillez en ajouter.', /* TODO */
-    'trainings-archive-confirm': 'Etes-vous sûr de vouloir archiver cette session de formation ?', /* TODO */
-    'trainings-action-plan': 'Planifier les réponses', /* TODO */
-    'trainings-action-update': 'Modifier la session de formation', /* TODO */
-    'trainings-action-duplicate': 'Dupliquer la session de formation', /* TODO */
-    'trainings-action-reporting': 'Accèder au reporting de la session de formation', /* TODO */
-    'trainings-action-evaluation': 'Accèder à l\'évaluation de la session de formation', /* TODO */
-    'trainings-action-archive': 'Archiver la session de formation', /* TODO */
-    'trainings-whasqs-count-insufficient': '⚠ Vous ne pouvez pas accèder à la planification des questions tant que vous n\'avez pas ajouté au moins 10 questions à la session de formation.', /* TODO */
+    'trainings-title': 'Oбучение',
+    'trainings-add-btn': 'Добавить oбучение',
+    'trainings-name-col': 'Метка',
+    'trainings-training-center-col': 'Учебный Центр',
+    'trainings-start-col': 'Начало',
+    'trainings-end-col': 'Конец',
+    'trainings-support-end-col': 'Конец поддержки',
+    'trainings-trainers-count-col': 'Количество тренеров',
+    'trainings-participants-count-col': 'Количество участников',
+    'trainings-whasqs-count-col': 'Количество whasqs',
+    'trainings-remaining-days-col': 'Дней осталось',
+    'trainings-success-rate-col': 'Показатель успеха',
+    'trainings-language-col': 'Язык',
+    'trainings-actions-col': 'Aкции',
+    'trainings-not-defined': 'Тренировки пока не определены. Пожалуйста добавьте.',
+    'trainings-archive-confirm': 'Вы уверены, что хотите заархивировать эту тренировку?',
+    'trainings-action-plan': 'План ответов',
+    'trainings-action-update': 'Изменить тренировку',
+    'trainings-action-duplicate': 'Дублируйте тренировку',
+    'trainings-action-reporting': 'Доступ к отчетам о тренинге',
+    'trainings-action-evaluation': 'Доступ к оценке тренинга',
+    'trainings-action-archive': 'Архив тренировки',
+    'trainings-whasqs-count-insufficient': 'Вы не сможете получить доступ к вопросам планирования, пока не добавите не менее 10 вопросов в учебное занятие.',
 
     // AddTrainingCenterModal
-    'add-training-center-modal-title': 'Ajout d\'un organisme de formation', /* TODO */
-    'add-training-center-modal-title-edit': 'Edition d\'un organisme de formation', /* TODO */
-    'add-training-center-modal-desc-tab': 'Description', /* TODO */
-    'add-training-center-modal-trainers-tab': 'Formateurs', /* TODO */
-    'add-training-center-modal-name': 'Nom :', /* TODO */
-    'add-training-center-modal-url': 'Url :', /* TODO */
-    'add-training-center-modal-validate': 'Valider', /* TODO */
-    'add-training-center-modal-col-name': 'Nom', /* TODO */
-    'add-training-center-modal-col-email': 'Email', /* TODO */
-    'add-training-center-modal-col-job': 'Poste', /* TODO */
-    'add-training-center-modal-col-actions': 'Actions', /* TODO */
-    'add-training-center-modal-delete-trainer-confirm': 'Etes-vous sûr de vouloir retirer ce formateur de ce centre de formation ?', /* TODO */
-    'add-training-center-modal-update-successful': '👍 Le centre de formation "{name}" a bien été mis à jour !', /* TODO */
-    'add-training-center-modal-insert-successful': '👍 Le centre de formation "{name}" a bien été créé !', /* TODO */
-    'add-training-center-modal-trainer-deleted': '👍 Le formateur d\'email "{email}" a bien été supprimé de ce centre de formation.', /* TODO */
-    'add-training-center-modal-trainer-added': '👍 Le formateur d\'email "{email}" a bien été ajouté à ce centre de formation.', /* TODO */
+    'add-training-center-modal-title': 'Добавление обучающей организации',
+    'add-training-center-modal-title-edit': 'Издание учебной организации',
+    'add-training-center-modal-desc-tab': 'Oписание',
+    'add-training-center-modal-trainers-tab': 'Тренеры',
+    'add-training-center-modal-name': 'Имя :',
+    'add-training-center-modal-url': 'URL-ссылка :',
+    'add-training-center-modal-validate': 'Утверждать',
+    'add-training-center-modal-col-name': 'Имя',
+    'add-training-center-modal-col-email': 'Эл. почта',
+    'add-training-center-modal-col-job': 'Позиция',
+    'add-training-center-modal-col-actions': 'Aкции',
+    'add-training-center-modal-delete-trainer-confirm': 'Вы уверены, что хотите удалить этого тренера из этого учебного центра?',
+    'add-training-center-modal-update-successful': '👍 Учебный центр "{name}" обновлен!',
+    'add-training-center-modal-insert-successful': '👍 Учебный центр "{name}" создан!',
+    'add-training-center-modal-trainer-deleted': '👍 Инструктор электронной почты "{email}" был удален из этого учебного центра.',
+    'add-training-center-modal-trainer-added': '👍 Электронный тренер "{email}" был добавлен в этот учебный центр.',
 
     // AddTrainerModal
-    'add-trainer-modal-training-center-title': 'Ajouter un formateur au centre de formation', /* TODO */
-    'add-trainer-modal-training-title': 'Ajouter un formateur à la session de formation', /* TODO */
-    'add-trainer-modal-participant-title': 'Ajouter un participant à la session de formation', /* TODO */
-    'add-trainer-modal-trainer-email': 'Email du formateur', /* TODO */
-    'add-trainer-modal-participant-email': 'Email du participant', /* TODO */
-    'add-trainer-modal-no-matched-trainer': 'Aucun formateur correspond à l\'email renseigné', /* TODO */
-    'add-trainer-modal-validate': 'Validate', /* TODO */
-    'add-trainer-modal-email-invalid': 'L\'adresse email n\'est pas valide', /* TODO */
-    'add-trainer-modal-grant-user-confirm': 'Vous êtes sur le point de donner le rôle FORMATEUR à un utilisateur. Etes-vous sûr de vouloir continuer ?', /* TODO */
-    'add-trainer-modal-at-least-three': 'Veuillez renseigner au moins 3 caractères pour lancer la recherche.', /* TODO */
+    'add-trainer-modal-training-center-title': 'Добавить тренера в учебный центр',
+    'add-trainer-modal-training-title': 'Добавить тренера в тренировку',
+    'add-trainer-modal-participant-title': 'Добавить участника на тренинг',
+    'add-trainer-modal-trainer-email': 'Электронная почта тренера',
+    'add-trainer-modal-participant-email': 'Электронная почта участника',
+    'add-trainer-modal-no-matched-trainer': 'Ни один тренер не соответствует заполненному письму.',
+    'add-trainer-modal-validate': 'Утверждать',
+    'add-trainer-modal-email-invalid': 'Адрес электронной почты недействителен',
+    'add-trainer-modal-grant-user-confirm': 'Вы собираетесь передать роль TRAINER пользователю. Вы уверены, что хотите продолжить?',
+    'add-trainer-modal-at-least-three': 'Пожалуйста, введите не менее 3 символов, чтобы начать поиск.',
 
     // AddTrainingModal
-    'add-training-modal-title': 'Ajout d\'une session de formation', /* TODO */
-    'add-training-modal-edit-title': 'Edition d\'une session de formation', /* TODO */
-    'add-training-modal-desc-tab': 'Description', /* TODO */
-    'add-training-modal-trainers-tab': 'Formateurs', /* TODO */
-    'add-training-modal-participants-tab': 'Participants', /* TODO */
-    'add-training-modal-memory-quiz-tab': 'Quiz mémoriel', /* TODO */
-    'add-training-modal-levels-tab': 'Niveaux', /* TODO */
-    'add-training-modal-name': 'Libellé', /* TODO */
-    'add-training-modal-description': 'Description', /* TODO */
-    'add-training-modal-add-skill': 'Ajouter', /* TODO */
-    'add-training-modal-skills': 'Talents', /* TODO */
-    'add-training-modal-language': 'Langue', /* TODO */
-    'add-training-modal-start': 'Début', /* TODO */
-    'add-training-modal-end': 'Fin', /* TODO */
-    'add-training-modal-end-support': 'Fin du support', /* TODO */
-    'add-training-modal-start-placeholder': 'Cliquez ici pour sélectionner une date...', /* TODO */
-    'add-training-modal-end-placeholder': 'Cliquez ici pour sélectionner une date...', /* TODO */
-    'add-training-modal-time': 'Heure', /* TODO */
-    'add-training-modal-validate': 'Valider', /* TODO */
-    'add-training-modal-trainers-name-col': 'Nom', /* TODO */
-    'add-training-modal-trainers-email-col': 'Email', /* TODO */
-    'add-training-modal-trainers-job-col': 'Poste', /* TODO */
-    'add-training-modal-trainers-actions-col': 'Actions', /* TODO */
-    'add-training-modal-add-trainer-btn': 'Ajouter un formateur', /* TODO */
-    'add-training-modal-add-participant-btn': 'Ajouter un participant', /* TODO */
-    'add-training-modal-import-participant-btn': 'Import CSV', /* TODO */
-    'add-training-modal-participants-name-col': 'Nom', /* TODO */
-    'add-training-modal-participants-email-col': 'Email', /* TODO */
-    'add-training-modal-participants-job-col': 'Poste', /* TODO */
-    'add-training-modal-participants-actions-col': 'Actions', /* TODO */
-    'add-training-modal-add-question-btn': 'Ajouter', /* TODO */
-    'add-training-modal-edit-question-planning-btn': 'Planning', /* TODO */
-    'add-training-modal-quiz-index-col': 'Index', /* TODO */
-    'add-training-modal-quiz-question-col': 'Question', /* TODO */
-    'add-training-modal-quiz-type-col': 'Type', /* TODO */
-    'add-training-modal-quiz-scheduled-col': 'Planifié le', /* TODO */
-    'add-training-modal-quiz-level-col': 'Niveau', /* TODO */
-    'add-training-modal-quiz-actions-col': 'Actions', /* TODO */
-    'add-training-modal-delete-question-confirm': 'Etes-vous sûr de vouloir supprimer cette question ?', /* TODO */
-    'add-training-modal-delete-participant-confirm': 'Etes-vous sûr de vouloir supprimer ce participant ?', /* TODO */
-    'add-training-modal-delete-trainer-confirm': 'Etes-vous sûr de vouloir supprimer ce formateur ?', /* TODO */
-    'add-training-modal-level-lvl-col': 'Niveau', /* TODO */
-    'add-training-modal-level-label-col': 'Label', /* TODO */
-    'add-training-modal-level-succes-threshold-col': 'Taux de réussite attendu', /* TODO */
-    'add-training-modal-level-actions-col': 'Actions', /* TODO */
-    'add-training-modal-remove-lvl-confirm': 'Etes-vous sûr de vouloir supprimer ce niveau ?', /* TODO */
-    'add-training-modal-add-lvl-btn': 'Ajouter', /* TODO */
-    'add-training-modal-add-question-no-level': 'Vous devez ajouter des niveaux avant de créer vos questions 😉', /* TODO */
-    'add-training-modal-training-center': 'Centre de formation', /* TODO */
-    'add-training-modal-training-center-placeholder': 'Choisissez votre centre de formation ! 😃', /* TODO */
-    'add-training-modal-missing-field': 'Le champs "{field}" est requis. Merci de le compléter pour pouvoir créer la session de formation 😉', /* TODO */
-    'add-training-modal-invalid-field': 'Le champs "{field}" est invalide. Merci de le corriger pour pouvoir créer la session de formation 😉', /* TODO */
-    'add-training-modal-insert-successfull': 'La session de formation a bien été créée ! 😃', /* TODO */
-    'add-training-modal-update-successfull': 'La session de formation a bien été mise à jour ! 😃', /* TODO */
-    'add-training-modal-trainer-added': 'Le formateur a bien été ajouté à la session de formation ! 😃', /* TODO */
-    'add-training-modal-trainer-deleted': 'Le formateur a bien été retiré de la session de formation ! 😃', /* TODO */
-    'add-training-modal-participant-added': 'Le participant a bien été ajouté à la session de formation ! 😃', /* TODO */
-    'add-training-modal-participant-deleted': 'Le participant a bien été retiré de la session de formation ! 😃', /* TODO */
-    'add-training-modal-level-added': 'Le niveau {level} a bien été ajouté ! 😃', /* TODO */
-    'add-training-modal-level-updated': 'Le niveau {level} a bien été modifié ! 😃', /* TODO */
-    'add-training-modal-level-deleted': 'Le niveau {level} a bien été supprimé ! 😃', /* TODO */
-    'add-training-modal-question-deleted': 'La question a bien été supprimée ! 😃', /* TODO */
-    'add-training-modal-minimum-whasqs': 'Attention, vous devez ajouter au moins 10 questions à la session de formation', /* TODO */
-    'add-training-modal-qcm': 'Choix multiple', /* TODO */
-    'add-training-modal-qcu': 'Choix unique', /* TODO */
-    'add-training-modal-planification-tab': 'Planification', /* TODO */
+    'add-training-modal-title': 'Добавление тренировки',
+    'add-training-modal-edit-title': 'Редактирование тренировки',
+    'add-training-modal-desc-tab': 'Oписание',
+    'add-training-modal-trainers-tab': 'Tренеры',
+    'add-training-modal-participants-tab': 'Участники',
+    'add-training-modal-memory-quiz-tab': 'Тест памяти',
+    'add-training-modal-levels-tab': 'Уровни',
+    'add-training-modal-name': 'Метка',
+    'add-training-modal-description': 'Oписание',
+    'add-training-modal-add-skill': 'Добавлять',
+    'add-training-modal-skills': 'Таланты',
+    'add-training-modal-language': 'Язык',
+    'add-training-modal-start': 'Начало',
+    'add-training-modal-end': 'Конец',
+    'add-training-modal-end-support': 'Конец поддержки',
+    'add-training-modal-start-placeholder': 'Нажмите здесь, чтобы выбрать дату...',
+    'add-training-modal-end-placeholder': 'Нажмите здесь, чтобы выбрать дату...',
+    'add-training-modal-time': 'Время',
+    'add-training-modal-validate': 'Утверждать',
+    'add-training-modal-trainers-name-col': 'Имя',
+    'add-training-modal-trainers-email-col': 'Эл. почта',
+    'add-training-modal-trainers-job-col': 'Позиция',
+    'add-training-modal-trainers-actions-col': 'Aкции',
+    'add-training-modal-add-trainer-btn': 'Добавить тренера',
+    'add-training-modal-add-participant-btn': 'Добавить участника',
+    'add-training-modal-import-participant-btn': 'Импортировать CSV',
+    'add-training-modal-participants-name-col': 'Имя',
+    'add-training-modal-participants-email-col': 'Эл. почта',
+    'add-training-modal-participants-job-col': 'Позиция',
+    'add-training-modal-participants-actions-col': 'Aкции',
+    'add-training-modal-add-question-btn': 'Добавить',
+    'add-training-modal-edit-question-planning-btn': 'Планирование',
+    'add-training-modal-quiz-index-col': 'Индекс',
+    'add-training-modal-quiz-question-col': 'Вопрос',
+    'add-training-modal-quiz-type-col': 'Тип',
+    'add-training-modal-quiz-scheduled-col': 'Запланировано в',
+    'add-training-modal-quiz-level-col': 'Уровень',
+    'add-training-modal-quiz-actions-col': 'Aкции', 
+    'add-training-modal-delete-question-confirm': 'Вы уверены, что хотите удалить этот вопрос?',
+    'add-training-modal-delete-participant-confirm': 'Вы уверены, что хотите удалить этого участника?',
+    'add-training-modal-delete-trainer-confirm': 'Вы уверены, что хотите удалить этот тренер?',
+    'add-training-modal-level-lvl-col': 'Уровень',
+    'add-training-modal-level-label-col': 'Этикетка',
+    'add-training-modal-level-succes-threshold-col': 'Ожидаемый успех',
+    'add-training-modal-level-actions-col': 'Aкции',
+    'add-training-modal-remove-lvl-confirm': 'Вы уверены, что хотите удалить этот уровень?',
+    'add-training-modal-add-lvl-btn': 'Добавить',
+    'add-training-modal-add-question-no-level': 'Вы должны добавить уровни, прежде чем создавать свои вопросы 😉',
+    'add-training-modal-training-center': 'Учебный Центр',
+    'add-training-modal-training-center-placeholder': 'Выберите свой учебный центр! 😃',
+    'add-training-modal-missing-field': 'Поле "{field}" обязательно для заполнения. Спасибо за завершение создания учебного занятия 😉',
+    'add-training-modal-invalid-field': 'Поле "{field}" недопустимо. Пожалуйста, исправьте это, чтобы создать тренировку 😉',
+    'add-training-modal-insert-successfull': 'Тренинг создан! 😃',
+    'add-training-modal-update-successfull': 'Тренировка была обновлена! 😃',
+    'add-training-modal-trainer-added': 'Тренер добавлен в тренировку! 😃',
+    'add-training-modal-trainer-deleted': 'Тренер был снят с тренировки! 😃',
+    'add-training-modal-participant-added': 'Участник добавлен в тренировку! 😃',
+    'add-training-modal-participant-deleted': 'Участник был удален с тренинга! 😃',
+    'add-training-modal-level-added': 'Уровень {level} был добавлен! 😃',
+    'add-training-modal-level-updated': 'Уровень {level} был изменен ! 😃',
+    'add-training-modal-level-deleted': 'Уровень {level} был удален ! 😃',
+    'add-training-modal-question-deleted': 'Вопрос был удален ! 😃',
+    'add-training-modal-minimum-whasqs': 'Внимание, вы должны добавить как минимум 10 вопросов к тренировке.',
+    'add-training-modal-qcm': 'Множественный выбор',
+    'add-training-modal-qcu': 'Одиночный выбор',
+    'add-training-modal-planification-tab': 'Планирование',
 
     // AddQuestionModal
-    'add-question-modal-title': 'Ajout d\'une question au quiz', /* TODO */
-    'add-question-modal-edit-title': 'Edition d\'une question du quiz', /* TODO */
-    'add-question-modal-type': 'Type', /* TODO */
-    'add-question-modal-options': 'Options', /* TODO */
-    'add-question-modal-qcm': 'Questionnaire à choix multiple', /* TODO */
-    'add-question-modal-qcu': 'Questionnaire à choix unique', /* TODO */
-    'add-question-modal-open': 'Question ouverte', /* TODO */
-    'add-question-modal-add-option': 'Ajouter une option', /* TODO */
-    'add-question-modal-whasq-title': 'Titre du whasq', /* TODO */
-    'add-question-modal-whasq-message': 'Message du whasq', /* TODO */
-    'add-question-modal-save': 'Enregistrer la question', /* TODO */
-    'add-question-modal-option-label-col': 'Label', /* TODO */
-    'add-question-modal-option-solution-col': 'Solution', /* TODO */
-    'add-question-modal-option-explanation-col': 'Explication', /* TODO */
-    'add-question-modal-option-order-col': 'Ordre', /* TODO */
-    'add-question-modal-option-actions-col': 'Actions', /* TODO */
-    'add-question-modal-explanations': 'Explications', /* TODO */
-    'add-question-modal-level': 'Niveau', /* TODO */
-    'add-question-modal-whasq-media': 'Media', /* TODO */
-    'add-question-modal-import-drop-here': 'Déposez ici votre média.', /* TODO */
-    'add-question-modal-import-size-limit': 'La taille maximale du fichier est 1Mo', /* TODO */
-    'add-question-modal-error-importing-file': 'Une erreur s\'est produite lors de l\'import du fichier.', /* TODO */
-    'add-question-modal-import-file-button': 'Importer le fichier', /* TODO */
-    'add-question-modal-skills': 'Talents', /* TODO */
-    'add-question-modal-skills-add': 'Ajouter', /* TODO */
-    'add-question-modal-media-attachment-no-preview': 'Pas de prévisualisation possible', /* TODO */
-    'add-question-modal-change-attachment': 'Changer de fichier', /* TODO */
-    'add-question-modal-delete-option-confirm': 'Etes-vous sûr de vouloir supprimer cette option ?', /* TODO */
-    'add-question-modal-missing-title': 'Le titre de la question est obligatoire', /* TODO */
-    'add-question-modal-missing-message-or-media': 'Vous devez renseigner soit un message, soit un media pour valider ce formulaire', /* TODO */
-    'add-question-modal-missing-skill': 'Au moins un talent est requis pour valider ce formulaire', /* TODO */
-    'add-question-modal-missing-options': 'Au moins deux options doivent être renseignées', /* TODO */
-    'add-question-modal-missing-assert-options': 'Parmi les options, au moins une doit être une solution', /* TODO */
-    'add-question-modal-qcu-bad-assert-options': 'Votre question étant de type choix unique, vous devez avoir une unique solution parmi les options', /* TODO */
+    'add-question-modal-title': 'Добавить вопрос теста',
+    'add-question-modal-edit-title': 'Изменить тест',
+    'add-question-modal-type': 'тип',
+    'add-question-modal-options': 'Oпции',
+    'add-question-modal-qcm': 'Вопросник с множественным выбором',
+    'add-question-modal-qcu': 'Единый выбор анкеты',
+    'add-question-modal-open': 'Открытый вопрос',
+    'add-question-modal-add-option': 'Добавить опцию',
+    'add-question-modal-whasq-title': 'Название whasq',
+    'add-question-modal-whasq-message': 'Сообщение от whasq',
+    'add-question-modal-save': 'Сохранить вопрос',
+    'add-question-modal-option-label-col': 'Этикетка',
+    'add-question-modal-option-solution-col': 'Pешение',
+    'add-question-modal-option-explanation-col': 'Oбъяснение',
+    'add-question-modal-option-order-col': 'Cословие',
+    'add-question-modal-option-actions-col': 'Aкции',
+    'add-question-modal-explanations': 'Oбъяснения',
+    'add-question-modal-level': 'Уровень',
+    'add-question-modal-whasq-media': 'Тип файла',
+    'add-question-modal-import-drop-here': 'Оставьте свой файл здесь.',
+    'add-question-modal-import-size-limit': 'Максимальный размер файла составляет 1 МБ.',
+    'add-question-modal-error-importing-file': 'Произошла ошибка при импорте файла.',
+    'add-question-modal-import-file-button': 'Импортировать файл',
+    'add-question-modal-skills': 'Tаланты',
+    'add-question-modal-skills-add': 'Добавить',
+    'add-question-modal-media-attachment-no-preview': 'Предварительный просмотр невозможен',
+    'add-question-modal-change-attachment': 'Изменить файл',
+    'add-question-modal-delete-option-confirm': 'Вы уверены, что хотите удалить эту опцию?',
+    'add-question-modal-missing-title': 'Название вопроса обязательно',
+    'add-question-modal-missing-message-or-media': 'Вы должны ввести либо сообщение, либо СМИ, чтобы проверить эту форму.',
+    'add-question-modal-missing-skill': 'Для подтверждения этой формы требуется как минимум один талант',
+    'add-question-modal-missing-options': 'Необходимо заполнить как минимум два варианта',
+    'add-question-modal-missing-assert-options': 'Из вариантов хотя бы один должен быть решением',
+    'add-question-modal-qcu-bad-assert-options': 'Поскольку ваш вопрос относится к одному типу выбора, у вас должно быть уникальное решение среди вариантов',
 
     // AddTrainingSkillModal
-    'add-training-skill-modal-title': 'Ajout de talents à la session de formation', /* TODO */
-    'add-training-skill-modal-suggest': 'Un talent est manquant ? Demandez l\'ajout', /* TODO */
+    'add-training-skill-modal-title': 'Добавление таланта на тренировку',
+    'add-training-skill-modal-suggest': 'Талант отсутствует? Спроси дополнение',
 
     // EditPlanningModal
-    'edit-planning-modal-title': 'Planification des questions', /* TODO */
-    'edit-planning-modal-legend-title': 'Légende', /* TODO */
-    'edit-planning-modal-legend-level': 'Niveau {level}', /* TODO */
-    'edit-planning-modal-bad-date': 'Vous ne pouvez pas déplacer la planification de cette question à cette date. Veuillez la modifier. 😉', /* TODO */
+    'edit-planning-modal-title': 'Вопросы планирования',
+    'edit-planning-modal-legend-title': 'Легенда',
+    'edit-planning-modal-legend-level': 'Уровень {level}',
+    'edit-planning-modal-bad-date': 'Вы не можете переместить расписание для этого вопроса на эту дату. Пожалуйста, отредактируйте его 😉',
 
     // AddLevelModal
-    'add-level-modal-title': 'Ajout du niveau {level}', /* TODO */
-    'add-level-modal-edit-title': 'Edition du niveau {level}', /* TODO */
-    'add-lvl-modal-label': 'Label', /* TODO */
-    'add-lvl-modal-success-treshold': 'Taux de réussite attendu (en %)', /* TODO */
-    'add-lvl-modal-validate-btn': 'Valider', /* TODO */
-    'add-level-modal-fields-required': 'Merci de compléter tous les champs pour pouvoir valider ce formulaire.', /* TODO */
+    'add-level-modal-title': 'Добавленный уровень {level}',
+    'add-level-modal-edit-title': 'Редактирование уровня {level}',
+    'add-lvl-modal-label': 'Этикетка',
+    'add-lvl-modal-success-treshold': 'Ожидаемый показатель успеха (в%)',
+    'add-lvl-modal-validate-btn': 'Утверждать',
+    'add-level-modal-fields-required': 'Пожалуйста, заполните все поля, чтобы подтвердить эту форму.',
 
     // PlanQuestionModal
-    'plan-question-modal-title': 'Planifier une question le {date}', /* TODO */
-    'plan-question-modal-move-question-title': 'Déplacer la question {question} au {date}', /* TODO */
-    'plan-question-modal-move-question-title-unknown-date': 'Déplacer la question {question}', /* TODO */
-    'plan-question-modal-plan-btn': 'Planifier', /* TODO */
-    'plan-question-modal-move-btn': 'Déplacer', /* TODO */
-    'plan-question-modal-question': 'Question {question}', /* TODO */
-    'plan-question-modal-question-level': 'niveau {level}', /* TODO */
-    'plan-question-modal-choose-question': 'Quelle question souhaitez-vous planifier ?', /* TODO */
-    'plan-question-modal-prior-warning-confirm': '⚠ Attention ⚠\r\nVous êtes sur le point de planifier une questions de difficulté {level} après une ou plusieurs questions de niveau supérieur.\r\nEtez-vous sûr de vouloir confirmer cette opération ?', /* TODO */
-    'plan-question-modal-later-warning-confirm': '⚠ Attention ⚠\r\nVous êtes sur le point de planifier une questions de difficulté {level} avant une ou plusieurs questions de niveau inférieur.\r\nEtez-vous sûr de vouloir confirmer cette opération ?', /* TODO */
-    'edit-planning-modal-all-questions-planned': 'Toutes les questions sont planifiées 😃', /* TODO */
-    'plan-question-modal-date-placeholder': 'Date de report', /* TODO */
-    'plan-question-modal-select-move-date': 'Nouvelle date de planification', /* TODO */
-    'plan-question-modal-question-title': 'Titre', /* TODO */
-    'plan-question-modal-question-message': 'Détails', /* TODO */
-    'plan-question-modal-bad-date': 'Vous ne pouvez pas déplacer la planification de cette question à cette date. Veuillez la modifier. 😉', /* TODO */
+    'plan-question-modal-title': 'Запланируйте вопрос на {date}',
+    'plan-question-modal-move-question-title': 'Переместить вопрос {question} в {date}',
+    'plan-question-modal-move-question-title-unknown-date': 'Переместить {question}',
+    'plan-question-modal-plan-btn': 'План',
+    'plan-question-modal-move-btn': 'Переместить',
+    'plan-question-modal-question': 'Вопрос {question}',
+    'plan-question-modal-question-level': 'Уровень {level}',
+    'plan-question-modal-choose-question': 'Какой вопрос вы бы хотели запланировать?',
+    'plan-question-modal-prior-warning-confirm':'⚠ Внимание ⚠ \r\nВы собираетесь спланировать сложность {level} после одного или нескольких вопросов более высокого уровня.\r\nВы уверены, что хотите это подтвердить?',
+    'plan-question-modal-later-warning-confirm':'⚠ Внимание ⚠\r\nВы собираетесь спланировать вопросы сложности {level} перед одним или несколькими вопросами более низкого уровня.\r\nВы уверены, что хотите это подтвердить?',
+    'edit-planning-modal-all-questions-planned': 'Все вопросы запланированы 😃',
+    'plan-question-modal-date-placeholder': 'Дата отсрочки',
+    'plan-question-modal-select-move-date': 'Новая дата планирования',
+    'plan-question-modal-question-title': 'Название',
+    'plan-question-modal-question-message': 'Детали',
+    'plan-question-modal-bad-date': 'Вы не можете переместить расписание для этого вопроса на эту дату. Пожалуйста, отредактируйте его. 😉',
 
     // AddQuestionSkillModal
-    'add-question-skill-modal-title': 'Ajout d\'un talent', /* TODO */
-    'add-question-skill-modal-conditions': 'Vous pouvez ajouter jusqu\'à 3 talents sur cette question', /* TODO */
+    'add-question-skill-modal-title': 'Добавление таланта',
+    'add-question-skill-modal-conditions': 'Вы можете добавить до 3 талантов на этот вопрос',
 
     // AddQuestionOptionModal
-    'add-question-option-modal-title': 'Ajout d\'une option', /* TODO */
-    'add-question-option-modal-title-update': 'Edition d\'une option', /* TODO */
-    'add-question-option-modal-label': 'Label', /* TODO */
-    'add-question-option-modal-assert': 'Solution', /* TODO */
-    'add-question-option-modal-explanation': 'Explication', /* TODO */
-    'add-question-option-modal-add': '+ Ajouter', /* TODO */
-    'add-question-option-modal-update': 'Editer', /* TODO */
-    'add-question-option-modal-solution-ever-defined': '(une option est déjà définie comme solution de la question)', /* TODO */
+    'add-question-option-modal-title': 'Добавление опции',
+    'add-question-option-modal-title-update': 'Редактирование опции',
+    'add-question-option-modal-label': 'Этикетка',
+    'add-question-option-modal-assert': 'Pешение',
+    'add-question-option-modal-explanation': 'Oбъяснение',
+    'add-question-option-modal-add': '+ Добавить',
+    'add-question-option-modal-update': 'Pедактировать',
+    'add-question-option-modal-solution-ever-defined': '(вариант уже определен как решение вопроса)',
 
     // TrainingReporting
-    'training-reporting-title': 'Reporting de session de formation', /* TODO */
-    'training-reporting-title-name': 'Reporting "{name}"', /* TODO */
-    'training-reporting-participants-count-kpi-title': 'Nombre de participants', /* TODO */
-    'training-reporting-participants-count-help-title': 'Nombre de participants', /* TODO */
-    'training-reporting-participants-count-help-message': 'Cet indicateur représente le nombre de participants pour la formation.', /* TODO */
-    'training-reporting-sent-whasqs-count-kpi-title': 'Nombre de whasqs envoyés', /* TODO */
-    'training-reporting-sent-whasqs-count-help-title': 'Nombre de whasqs envoyés', /* TODO */
-    'training-reporting-sent-whasqs-count-help-message': 'Cet indicateur représente le nombre de whasqs envoyés dans le cadre de la formation.', /* TODO */
-    'training-reporting-whasqs-count-kpi-title': 'Nombre de whasqs', /* TODO */
-    'training-reporting-whasqs-count-help-title': 'Nombre de whasqs', /* TODO */
-    'training-reporting-whasqs-count-help-message': 'Cet indicateur représente le nombre de whasqs de la formation.', /* TODO */
-    'training-reporting-users-giving-answers-count-kpi-title': 'Nombre de répondants', /* TODO */
-    'training-reporting-users-giving-answers-count-help-title': 'Nombre de répondants', /* TODO */
-    'training-reporting-users-giving-answers-count-help-message': 'Cet indicateur représente le nombre de répondants de la formation.', /* TODO */
-    'training-reporting-users-reached-max-level-count-kpi-title': 'Nombre d\'utilisateurs au niveau max', /* TODO */
-    'training-reporting-users-reached-max-level-count-help-title': 'Nombre d\'utilisateurs au niveau max', /* TODO */
-    'training-reporting-users-reached-max-level-count-help-message': 'Cet indicateur représente le nombre de participants qui ont atteint le niveau maximal de la formation.', /* TODO */
-    'training-reporting-whasqs-answered-count-kpi-title': 'Nb de réponses du formateur', /* TODO */
-    'training-reporting-whasqs-answered-count-help-title': 'Nb de réponses du formateur', /* TODO */
-    'training-reporting-whasqs-answered-count-help-message': 'Cet indicateur représente le nombre de réponses données par le formateur.', /* TODO */
-    'training-reporting-participation-rate-kpi-title': 'Taux de participation', /* TODO */
-    'training-reporting-participation-rate-help-title': 'Taux de participation', /* TODO */
-    'training-reporting-participation-rate-help-message': 'Cet indicateur représente le nombre de répondants par rapport au nombre total de participants à la formation.', /* TODO */
-    'training-reporting-success-rate-kpi-title': 'Taux de réussite', /* TODO */
-    'training-reporting-success-rate-help-title': 'Taux de réussite', /* TODO */
-    'training-reporting-success-rate-help-message': 'Cet indicateur représente le nombre de bonnes réponses par rapport au produit du nombre de questions envoyées et du nombre de participants.', /* TODO */
-    'training-reporting-levels-tab-title': 'Chiffres-clefs concernant les niveaux', /* TODO */
-    'training-reporting-levels-tab-id-col': 'Id', /* TODO */
-    'training-reporting-levels-tab-title-col': 'Titre', /* TODO */
-    'training-reporting-levels-tab-whasqs-count-col': 'Nb de whasqs', /* TODO */
-    'training-reporting-levels-tab-participants-count-col': 'Nb de participants', /* TODO */
-    'training-reporting-levels-tab-participants-giving-answers-count-col': 'Nb de répondants', /* TODO */
-    'training-reporting-levels-tab-participation-rate-col': 'Taux de participation', /* TODO */
-    'training-reporting-whasqs-tab-title': 'Chiffres-clefs concernant les whasqs', /* TODO */
-    'training-reporting-whasqs-tab-id-col': 'Id', /* TODO */
-    'training-reporting-whasqs-tab-title-col': 'Titre', /* TODO */
-    'training-reporting-whasqs-tab-level-col': 'Niveau', /* TODO */
-    'training-reporting-whasqs-tab-participants-giving-answers-count-col': 'Nb de répondants', /* TODO */
-    'training-reporting-whasqs-tab-sent-on-col': 'Date d\'envoi', /* TODO */
-    'training-reporting-whasqs-tab-participation-rate-col': 'Taux de participation', /* TODO */
-    'training-reporting-whasqs-tab-success-rate-col': 'Taux de succès', /* TODO */
+    'training-reporting-title': 'Отчет о тренинге',
+    'training-reporting-title-name': 'Отчетность "{name}"',
+    'training-reporting-participants-count-kpi-title': 'Количество участников',
+    'training-reporting-participants-count-help-title': 'Количество участников',
+    'training-reporting-participants-count-help-message': 'Этот показатель представляет количество участников для обучения.',
+    'training-reporting-sent-whasqs-count-kpi-title': 'Количество отправленных whasqs',
+    'training-reporting-sent-whasqs-count-help-title': 'Количество отправленных whasqs',
+    'training-reporting-sent-whasqs-count-help-message': 'Этот индикатор представляет количество заданий, отправленных в рамках обучения.',
+    'training-reporting-whasqs-count-kpi-title': 'Количество whasqs',
+    'training-reporting-whasqs-count-help-title': 'Количество whasqs',
+    'training-reporting-whasqs-count-help-message': 'Этот показатель представляет количество тренировочных задач.',
+    'training-reporting-users-giving-answers-count-kpi-title': 'Количество респондентов',
+    'training-reporting-users-giving-answers-count-help-title': 'Количество респондентов',
+    'training-reporting-users-giving-answers-count-help-message': 'Этот показатель представляет количество респондентов на тренинге.',
+    'training-reporting-users-reached-max-level-count-kpi-title': 'Количество пользователей на максимальном уровне',
+    'training-reporting-users-reached-max-level-count-help-title': 'Количество пользователей на максимальном уровне',
+    'training-reporting-users-reached-max-level-count-help-message': 'Этот показатель представляет количество участников, которые достигли максимального уровня обучения.',
+    'training-reporting-whasqs-answered-count-kpi-title': 'Количество ответов тренера',
+    'training-reporting-whasqs-answered-count-help-title': 'Количество ответов тренера',
+    'training-reporting-whasqs-answered-count-help-message': 'Этот показатель представляет количество ответов, данных тренером.',
+    'training-reporting-participation-rate-kpi-title': 'Коэффициент участия',
+    'training-reporting-participation-rate-help-title': 'Коэффициент участия',
+    'training-reporting-participation-rate-help-message': 'Этот показатель представляет количество респондентов по отношению к общему количеству участников тренинга.',
+    'training-reporting-success-rate-kpi-title': 'Показатель успеха',
+    'training-reporting-success-rate-help-title': 'Показатель успеха',
+    'training-reporting-success-rate-help-message': 'Этот показатель представляет количество правильных ответов на произведение, количество отправленных вопросов и количество участников.',
+    'training-reporting-levels-tab-title': 'Ключевые показатели относительно уровней',
+    'training-reporting-levels-tab-id-col': 'ид',
+    'training-reporting-levels-tab-title-col': 'Название',
+    'training-reporting-levels-tab-whasqs-count-col': 'Кол. заданий',
+    'training-reporting-levels-tab-participants-count-col': 'Кол. участников',
+    'training-reporting-levels-tab-participants-giving-answers-count-col': 'Кол. участников',
+    'training-reporting-levels-tab-participation-rate-col': 'Коэффициент участия',
+    'training-reporting-whasqs-tab-title': 'Ключевые цифры для whasqs',
+    'training-reporting-whasqs-tab-id-col': 'ид',
+    'training-reporting-whasqs-tab-title-col': 'Название',
+    'training-reporting-whasqs-tab-level-col': 'Уровень',
+    'training-reporting-whasqs-tab-participants-giving-answers-count-col': 'Кол. респондентов',
+    'training-reporting-whasqs-tab-sent-on-col': 'Дата отправки',
+    'training-reporting-whasqs-tab-participation-rate-col': 'Коэффициент участия',
+    'training-reporting-whasqs-tab-success-rate-col': 'Показатель успеха',
 
     // TrainingEvaluation
-    'training-evaluation-title': 'Evaluation de session de formation', /* TODO */
-    'training-evaluation-title-name': 'Evaluation de la session de formation "{name}"', /* TODO */
+    'training-evaluation-title': 'Оценка тренинга',
+    'training-evaluation-title-name': 'Оценка тренинга "{name}"',
 
     // SwitchUserRoleModal
-    'switch-user-role-modal-title': 'Changement de rôle pour l\'utilisateur "{name}"', /* TODO */
-    'switch-user-role-modal-new-role': 'Nouveau rôle :', /* TODO */
-    'switch-user-role-modal-role-user': 'Utilisateur', /* TODO */
-    'switch-user-role-modal-role-trainer': 'Formateur', /* TODO */
-    'switch-user-role-modal-role-admin': 'Administrateur', /* TODO */
-    'switch-user-role-modal-validate': 'Valider', /* TODO */
-    'switch-user-role-modal-training-center': 'Centre de formation', /* TODO */
+    'switch-user-role-modal-title': 'Изменение роли для пользователя "{name}"',
+    'switch-user-role-modal-new-role': 'Новая роль:',
+    'switch-user-role-modal-role-user': 'Пользователь',
+    'switch-user-role-modal-role-trainer': 'Tренер',
+    'switch-user-role-modal-role-admin': 'Aдминистратор',
+    'switch-user-role-modal-validate': 'Утверждать',
+    'switch-user-role-modal-training-center': 'Учебный Центр',
 
     // ProfileAddChannel
-    'profile-add-channel-title': 'Ajout de langue sur votre profil', /* TODO */
+    'profile-add-channel-title': 'Добавление языка в вашем профиле',
 }
 
 export default messages
