@@ -61,6 +61,7 @@ error:
     eval.option.delete.notemty: "Sorry, can't delete this evaluation option as some responses are still linked." #todo
     error.training.not.exists: "Sorry, this training doesn't exist. Tip: Create it first." #todo
     parameter.not.found: "Sorry, one of the supplied parameters was not found as entity." #todo
+    not.created: "Sorry, not training evaluation is created for the training %name%." #todo
   login:
     activation.title: Ativação da sua conta
     activation.message: Um e-mail com o link para autenticar o seu endereço de e-mail foi enviado 👌
@@ -106,6 +107,7 @@ email:
     assistance: "Need assistance ? Please contact jessie@whasq.com (From monday to friday, 9am to 12am and 2pm to 6pm)" #todo
     mentions: © 2018 Clic and Walk - 28 rue Pierre Mauroy, 59800 Lille, France #todo
     happy.new.year: Que este novo ano veja seus sonhos e seu sucesso se tornar realidade. Feliz ano novo 2019! 🎉
+    open.in.browser: Click here to open #todo
   user:
     activate.account:
       title: Whasq - Ativação da conta
@@ -119,7 +121,7 @@ email:
       body.div2: https://bo.whasq.com
     set.trainer:
       title: You've been invited as trainer ! #todo
-      body.div1: You've been invited to join « %trainingCenterName% » training as a trainer. #todo
+      body.div1: You've been invited to join « %trainingCenterName% » training center as a trainer. #todo
       body.div2: You can open now https://bo.whasq.com with your credentials and head to "Learning" then "Training" section to manage your trainings. #todo
     set.user:
       title: You've been granted a role user! #todo
@@ -194,10 +196,10 @@ email:
       body.div1: "Desculpe, o usuário %fullname% (%email%) acabou de excluir sua conta."
   training:
     missing:
-      title: Missing questions schedule for the training %name% 💪 #todo
+      title: Missing questions schedule for the training « %name% » 💪 #todo
       body.div1: Please schedule all the question in calendar (https://bo.whasq.com).
     available:
-      title: New question available for the training %name% 💪 #todo
+      title: New question available for the training « %name% » 💪 #todo
       body.div1: The question is <b>%title%</b> ! Question %index%/%nbQuestions%. #todo
       body.div2: This training ends by <b>%supportEndsAt%</b>. #todo
       body.div3: Good luck. #todo
