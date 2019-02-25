@@ -478,11 +478,14 @@ const messages = {
     'training-centers-archive-confirm': 'Etes-vous sûr de vouloir archiver ce centre de formation ?',
     'training-centers-name-col': 'Nom',
     'training-centers-url-col': 'Url',
+    'training-centers-training-count-col': 'Nombre de formations', //new
     'training-centers-date-col': 'Date de création',
     'training-centers-success-rate-col': 'Taux de réussite',
     'training-centers-actions-col': 'Actions',
 
     // Trainings
+    'trainings-id-col': 'Id', //todo
+    'trainings-state-col': 'Status', //todo
     'trainings-title': 'Sessions de formations',
     'trainings-add-btn': 'Ajouter une session de formation',
     'trainings-name-col': 'Libellé',
@@ -493,9 +496,11 @@ const messages = {
     'trainings-trainers-count-col': 'Nb de formateurs',
     'trainings-participants-count-col': 'Nb de participants',
     'trainings-whasqs-count-col': 'Nb de whasqs',
+    'trainings-respondents-count-col': 'Nb de répondants', //todo
     'trainings-remaining-days-col': 'Jours restants',
     'trainings-success-rate-col': 'Taux de réussite',
     'trainings-language-col': 'Langue',
+    'trainings-respondents-count-col': 'Nb de répondants', //todo
     'trainings-actions-col': 'Actions',
     'trainings-not-defined': 'Aucune session de formation n\'est définie à ce jour. Veuillez en ajouter.',
     'trainings-archive-confirm': 'Etes-vous sûr de vouloir archiver cette session de formation ?',
@@ -570,6 +575,7 @@ const messages = {
     'add-training-modal-participants-actions-col': 'Actions',
     'add-training-modal-add-question-btn': 'Ajouter',
     'add-training-modal-edit-question-planning-btn': 'Planning',
+    'add-training-modal-quiz-question-number-col': 'N°', // todo
     'add-training-modal-quiz-index-col': 'Index',
     'add-training-modal-quiz-question-col': 'Question',
     'add-training-modal-quiz-type-col': 'Type',
@@ -607,6 +613,7 @@ const messages = {
 
     // AddQuestionModal
     'add-question-modal-title': 'Ajout d\'une question au quiz',
+    'add-question-modal-duplicate-title': 'Duplication d\'une question du quiz', //todo
     'add-question-modal-edit-title': 'Edition d\'une question du quiz',
     'add-question-modal-type': 'Type',
     'add-question-modal-options': 'Options',
@@ -690,6 +697,7 @@ const messages = {
     'add-question-option-modal-add': '+ Ajouter',
     'add-question-option-modal-update': 'Editer',
     'add-question-option-modal-solution-ever-defined': '(une option est déjà définie comme solution de la question)',
+    'add-question-option-modal-error': 'Merci de renseigner le label pour pouvoir valider ce formulaire', //todo
 
     // TrainingReporting
     'training-reporting-title': 'Reporting de session de formation',
@@ -733,11 +741,23 @@ const messages = {
     'training-reporting-whasqs-tab-sent-on-col': 'Date d\'envoi',
     'training-reporting-whasqs-tab-participation-rate-col': 'Taux de participation',
     'training-reporting-whasqs-tab-success-rate-col': 'Taux de succès',
+    'training-reporting-users-tab-title': 'Chiffres-clefs concernant les utilisateurs',
+    'training-reporting-users-tab-id-col': 'Id', // todo
+    'training-reporting-users-tab-fullname-col': 'Nom', // todo
+    'training-reporting-users-tab-nb-answered-whasqs-col': 'Nombre de questions répondues', // todo
 
     // TrainingEvaluation
     'training-evaluation-title': 'Evaluation de session de formation',
     'training-evaluation-title-name': 'Evaluation de la session de formation "{name}"',
-
+    'training-evaluation-label-col': 'Label', // todo
+    'training-evaluation-participants-count-col': 'Nb de participants', // todo
+    'training-evaluation-participants-rate-col': '% de participants', // todo
+    'training-evaluation-not-available': 'L\'évaluation de cette session de formation n\'est pas encore disponible', //todo
+    'training-reporting-users-tab-answered-whasqs-rate-col': 'Taux de réponses', // todo
+    'training-reporting-users-tab-last-answer-date-col': 'Date de la derniére réponse', // todo
+    'training-reporting-users-tab-max-reached-level-col': 'Le niveau atteint', // todo
+    'training-reporting-users-tab-success-rate-col': 'Taux de succès', // todo
+    
     // SwitchUserRoleModal
     'switch-user-role-modal-title': 'Changement de rôle pour l\'utilisateur "{name}"',
     'switch-user-role-modal-new-role': 'Nouveau rôle :',
