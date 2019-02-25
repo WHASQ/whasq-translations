@@ -67,16 +67,17 @@ const messages = {
     'actives-kpi-help-message': 'Cet indicateur représente le nombre d\'utilisateurs qui se sont connectés au moins une fois au mois de "{month}".',
     'actives-dda-kpi-title': 'Actifs depuis le début',
     'actives-dda-kpi-help-title': 'Actifs depuis le Début',
-    'actives-dda-kpi-help-message': 'Cet indicateur représente le nombre d\'utilisateurs qui se sont connectés au moins 1 fois depuis le lancement de l\application.',
+    'actives-dda-kpi-help-message': 'Cet indicateur représente le nombre d\'utilisateurs qui se sont connectés au moins 1 fois depuis le lancement de l\'application.',
     'actives-target-kpi-title': 'Actifs/Objectifs du trimestre',
     'actives-target-kpi-help-title': 'Actifs/Objectifs du trimestre',
-    'actives-target-kpi-help-message': 'Cet indicateur représente le % entre le nombre d\'utilisateurs qui se sont connectés au moins une fois au mois de "{month}" par rapport à l\'objectif défini par l\administrateur (voir onglet administration).',
+    'actives-target-kpi-help-message': 'Cet indicateur représente le % entre le nombre d\'utilisateurs qui se sont connectés au moins une fois au mois de "{month}" par rapport à l\'objectif défini par l\'administrateur (voir onglet administration).',
     'actives-evolution-title': 'Evolution des actifs',
     'actives-evolution-help-title': 'Evolution des actifs',
     'actives-evolution-help-message': 'Cet indicateur représente le nombre d\'utilisateurs actifs.',
     'actives-dda-evolution-title': 'Evolution des actifs cumulés depuis le début',
+    'actives-dda-evolution-period-selector' : "FILTRER PAR DATE", //todo
     'actives-dda-evolution-help-title': 'Evolution des actifs depuis le début',
-    'actives-dda-evolution-help-message': 'Cet indicateur représente le nombre d\'utilisateurs qui se sont connectés au moins une fois dans la journée cumulé depuis le lancement de l\application.',
+    'actives-dda-evolution-help-message': 'Cet indicateur représente le nombre d\'utilisateurs qui se sont connectés au moins une fois dans la journée cumulé depuis le lancement de l\'application.',
     'actives-notregistered-evolution-title': 'Evolution des actifs - inscription',
     'actives-notregistered-evolution-help-title': 'Evolution des actifs - inscription',
     'actives-notregistered-evolution-help-message': 'Cet indicateur représente le nombre d\'utilisateurs actifs en soustrayant les utilisateurs inscrits.',
@@ -95,7 +96,7 @@ const messages = {
 
     // ActivityWhasqs
     'whasqs-answers-title': 'Whasqs & Réponses - {month}',
-    'whasqs-answers-kpi-title': 'Nombre total de Whasqs et de réponses',
+    'whasqs-answers-kpi-title': 'Nombre total de Whasqs et de réponses ce mois-ci',
     'whasqs-answers-kpi-help-title': 'Nombre total de Whasqs et de réponses ce mois-ci',
     'whasqs-answers-kpi-help-message': 'Cet indicateur représente le nombre de whasqs et de réponses postés au mois de "{month}".',
     'whasqs-by-whasqer-kpi-title': 'Nombre de Whasqs / Whasqers actif ce mois-ci',
@@ -112,13 +113,13 @@ const messages = {
     'whasqs-with-contribution-kpi-help-message': 'Cet indicateur représente le % de whasqs qui ont reçu au moins une réponse au mois de "{month}".',
     'whasqs-with-contribution-dda-kpi-title': 'Pourcentage de Whasqs avec réponse depuis le début',
     'whasqs-with-contribution-dda-kpi-help-title': 'Pourcentage de Whasqs avec réponse depuis le début',
-    'whasqs-with-contribution-dda-kpi-help-message': 'Cet indicateur représente le % de whasqs qui ont reçu au moins une réponse depuis le lancement de l\application.',
+    'whasqs-with-contribution-dda-kpi-help-message': 'Cet indicateur représente le % de whasqs qui ont reçu au moins une réponse depuis le lancement de l\'application.',
     'whasqs-resolved-part-kpi-title': 'Pourcentage de Whasqs résolus ce mois-ci',
     'whasqs-resolved-part-kpi-help-title': 'Pourcentage de Whasqs résolus',
     'whasqs-resolved-part-kpi-help-message': 'Cet indicateur représente le % de whasqs qui ont été résolus au mois de "{month}".',
     'whasqs-resolved-part-dda-kpi-title': 'Pourcentage de Whasqs résolus depuis le début',
     'whasqs-resolved-part-dda-kpi-help-title': 'Pourcentage de Whasqs résolus depuis le début',
-    'whasqs-resolved-part-dda-kpi-help-message': 'Cet indicateur représente le % du nombre de whasqs qui ont été résolus depuis le lancement de l\application.',
+    'whasqs-resolved-part-dda-kpi-help-message': 'Cet indicateur représente le % du nombre de whasqs qui ont été résolus depuis le lancement de l\'application.',
     'whasqs-evolution-title': 'Suivi du nombre de whasqs/jour',
     'whasqs-evolution-help-title': 'Suivi du nombre de whasqs/jour',
     'whasqs-evolution-help-message': 'Cet indicateur représente le nombre de whasqs/jour.',
@@ -133,7 +134,7 @@ const messages = {
     'skills-dda-kpi-help-message': 'Cet indicateur représente le nombre total de savoirs qui ont été identifiés par les whasqers depuis le lancement de l\'application.',
     'skills-part-kpi-title': '% de savoirs uniques identifiés',
     'skills-part-kpi-help-title': '% de savoirs uniques identifiés',
-    'skills-part-kpi-help-message': 'Cet indicateur représente le % de savoirs uniques qui ont été identifiés par les whasqers par rapport au nombre de savoirs existants depuis le lancement de l\application.',
+    'skills-part-kpi-help-message': 'Cet indicateur représente le % de savoirs uniques qui ont été identifiés par les whasqers par rapport au nombre de savoirs existants depuis le lancement de l\'application.',
     'skills-evolution-title': 'Suivi du nombre de savoirs identifiés dans les whasqs/jour',
     'skills-evolution-help-title': 'Suivi du nombre de savoirs identifiés dans les whasqs/jour',
     'skills-evolution-help-message': 'Cet indicateur représente le nombre de savoirs identifiés dans les whasqs/jour.',
@@ -209,6 +210,7 @@ const messages = {
     // CreateLanguageModal
     'add-new-lang': 'Ajout d\'une nouvelle langue',
     'already-implemented-langs': 'Langues déjà implémentées',
+    'add-new-lang-helper': 'Contacter "Whasq Support" si vous souhaitez ajouter des langues supplémentaires non-présentes dans la liste.', //todo
 
     // WhasqsList
     'whasqs-title': 'Whasqs',
@@ -264,7 +266,8 @@ const messages = {
     'add-whasq-item-first-skill': 'Premier savoir',
     'add-whasq-item-second-skill': 'Second savoir',
     'add-whasq-item-third-skill': 'Troisième savoir',
-    'add-whasq-item-notify-around': 'Notifier autour de vous? ',
+    'add-whasq-item-notify-around': 'Notifier autour de vous ?',
+    'add-whasq-item-notify-around-helper': '* Ne fonctionne que vous avez accepté la géolocation',
     'add-whasq-item-urgent': 'Urgent ?',
     'add-whasq-item-send-everyone': 'Envoyer à tout le monde ?',
     'add-whasq-skill-required': 'Il est obligatoire de renseigner au moins un savoir.',
@@ -324,6 +327,10 @@ const messages = {
 
     // Users
     'users-title': 'Utilisateurs',
+    'helper-filter-roles-title': 'Filter les utilisateurs selon le rôle', //todo
+    'helper-filter-roles-message': 'Applique le filtre sur le rôle choisie', //todo
+    'helper-user-status-title': 'Filter les utilisateurs selon leur status', //todo
+    'helper-user-status-message': 'Applique le filtre sur le status choisie', //todo
     'users-ban-confirm-message': 'Etes-vous sûr de vouloir bannir cet utilisateur ?',
     'users-unban-confirm-message': 'Etes-vous sûr de vouloir retirer le bannissement de cet utilisateur ?',
     'users-archive-confirm-message': 'Etes-vous sur de vouloir archiver cet utilisateur ?',
@@ -422,8 +429,16 @@ const messages = {
     'profile-solutions-column': 'SOLUTIONS',
     'profile-block-button': 'Bloquer',
     'profile-archive-button': 'Archiver',
+    'helper-actions-profile-user-title': 'Actions sur l\'utilisateur',
+    'helper-actions-profile-user-message-1': 'Bloquer = Bloquer l\'accès à Whasq à ce utilisateur',
+    'helper-actions-profile-user-message-2': 'Archiver = Archiver un utilisateur',
     'profile-user-archived': 'Cet utilisateur est archivé',
     'profile-skills-subtitle': 'Ses savoirs',
+    'helper-profile-add-skills-title': 'Ajout Savoirs',
+    'helper-profile-add-skills-message-1': '1. Afin de mofidier votre profil, veuiilez vous connectez à l\'application (https://app.whasq.com)',
+    'helper-profile-add-skills-message-2': '2. Vous ne pouvez pas modifier le profil d\'un autre utilisateur',
+    'helper-profile-add-languages-title': 'Ajouts Langues',
+    'helper-profile-add-languages-message': 'helper-profile-add-languages-message',
     'profile-no-listed-skill': 'Aucun savoir répertorié',
     'profile-no-listed-channel': 'Aucune langue répertoriée',
     'profile-no-listed-training': 'Aucune formation répertoriée',
@@ -446,6 +461,7 @@ const messages = {
     'add-skill-for-user': 'Ajout d\'un savoir pour {fullname}',
     'already-existing-skills-for-user': 'Savoir(s) déjà existant(s) pour l\'utilisateur',
     'available-skills-for-user': 'Savoir(s) disponible(s) pour l\'utilisateur',
+    'search-skills-for-user': 'Tapez le nom du savoir pour filter', //todo
 
     // SuperAdminStores
     'store-selection': 'Choix du store',
@@ -478,11 +494,16 @@ const messages = {
     'training-centers-archive-confirm': 'Etes-vous sûr de vouloir archiver ce centre de formation ?',
     'training-centers-name-col': 'Nom',
     'training-centers-url-col': 'Url',
+    'training-centers-training-count-col': 'Nombre de formations', //new
     'training-centers-date-col': 'Date de création',
     'training-centers-success-rate-col': 'Taux de réussite',
     'training-centers-actions-col': 'Actions',
+    'helper-training-tutorial-title': 'Tutoriel d\'utilisation',
+    'helper-training-tutorial-message': 'La vidéo est en cours de création.. En attendant vous pouvez nous écrire sur jessie@whasq.com si vous avez une question.',
 
     // Trainings
+    'trainings-id-col': 'Id', //todo
+    'trainings-state-col': 'Status', //todo
     'trainings-title': 'Sessions de formations',
     'trainings-add-btn': 'Ajouter une session de formation',
     'trainings-name-col': 'Libellé',
@@ -496,6 +517,7 @@ const messages = {
     'trainings-remaining-days-col': 'Jours restants',
     'trainings-success-rate-col': 'Taux de réussite',
     'trainings-language-col': 'Langue',
+    'trainings-respondents-count-col': 'Nb de répondants', //todo
     'trainings-actions-col': 'Actions',
     'trainings-not-defined': 'Aucune session de formation n\'est définie à ce jour. Veuillez en ajouter.',
     'trainings-archive-confirm': 'Etes-vous sûr de vouloir archiver cette session de formation ?',
@@ -513,6 +535,7 @@ const messages = {
     'add-training-center-modal-desc-tab': 'Description',
     'add-training-center-modal-trainers-tab': 'Contact organisme',
     'add-training-center-modal-name': 'Nom :',
+    'add-training-center-modal-name-helper': '(* obligatoire)', // todo
     'add-training-center-modal-url': 'Url :',
     'add-training-center-modal-validate': 'Valider',
     'add-training-center-modal-col-name': 'Nom',
@@ -536,6 +559,7 @@ const messages = {
     'add-trainer-modal-email-invalid': 'L\'adresse email n\'est pas valide',
     'add-trainer-modal-grant-user-confirm': 'Vous êtes sur le point de donner le rôle FORMATEUR à un utilisateur. Etes-vous sûr de vouloir continuer ?',
     'add-trainer-modal-at-least-three': 'Veuillez renseigner au moins 3 caractères pour lancer la recherche parmi les utilisateurs déjà inscrits.',
+    'add-trainer-modal-external-trainer': 'Si le contact est extérieur à votre organisation, écrivez l\'email complet. Une invitation lui sera envoyée.',
 
     // AddTrainingModal
     'add-training-modal-title': 'Ajout d\'une session de formation',
@@ -570,6 +594,7 @@ const messages = {
     'add-training-modal-participants-actions-col': 'Actions',
     'add-training-modal-add-question-btn': 'Ajouter',
     'add-training-modal-edit-question-planning-btn': 'Planning',
+    'add-training-modal-quiz-question-number-col': 'N°', // todo
     'add-training-modal-quiz-index-col': 'Index',
     'add-training-modal-quiz-question-col': 'Question',
     'add-training-modal-quiz-type-col': 'Type',
@@ -607,6 +632,7 @@ const messages = {
 
     // AddQuestionModal
     'add-question-modal-title': 'Ajout d\'une question au quiz',
+    'add-question-modal-duplicate-title': 'Duplication d\'une question du quiz', //todo
     'add-question-modal-edit-title': 'Edition d\'une question du quiz',
     'add-question-modal-type': 'Type',
     'add-question-modal-options': 'Options',
@@ -654,10 +680,11 @@ const messages = {
     // AddLevelModal
     'add-level-modal-title': 'Ajout du niveau {level}',
     'add-level-modal-edit-title': 'Edition du niveau {level}',
-    'add-lvl-modal-label': 'Label',
+    'add-lvl-modal-label': 'Titre du niveau', //todo
     'add-lvl-modal-success-treshold': 'Taux de réussite attendu (en %)',
     'add-lvl-modal-validate-btn': 'Valider',
     'add-level-modal-fields-required': 'Merci de compléter tous les champs pour pouvoir valider ce formulaire.',
+    'add-lvl-modal-helper': 'Un niveau est un indication du niveau de difficulté qui sera attribué à vos questions.', // todo
 
     // PlanQuestionModal
     'plan-question-modal-title': 'Planifier une question le {date}',
@@ -690,6 +717,7 @@ const messages = {
     'add-question-option-modal-add': '+ Ajouter',
     'add-question-option-modal-update': 'Editer',
     'add-question-option-modal-solution-ever-defined': '(une option est déjà définie comme solution de la question)',
+    'add-question-option-modal-error': 'Merci de renseigner le label pour pouvoir valider ce formulaire', //todo
 
     // TrainingReporting
     'training-reporting-title': 'Reporting de session de formation',
@@ -725,6 +753,7 @@ const messages = {
     'training-reporting-levels-tab-participants-count-col': 'Nb de participants',
     'training-reporting-levels-tab-participants-giving-answers-count-col': 'Nb de répondants',
     'training-reporting-levels-tab-participation-rate-col': 'Taux de participation',
+    'training-reporting-levels-tab-success-rate-col': 'Taux de succès',
     'training-reporting-whasqs-tab-title': 'Chiffres-clefs concernant les whasqs',
     'training-reporting-whasqs-tab-id-col': 'Id',
     'training-reporting-whasqs-tab-title-col': 'Titre',
@@ -733,11 +762,23 @@ const messages = {
     'training-reporting-whasqs-tab-sent-on-col': 'Date d\'envoi',
     'training-reporting-whasqs-tab-participation-rate-col': 'Taux de participation',
     'training-reporting-whasqs-tab-success-rate-col': 'Taux de succès',
+    'training-reporting-users-tab-title': 'Chiffres-clefs concernant les utilisateurs',
+    'training-reporting-users-tab-id-col': 'Id', // todo
+    'training-reporting-users-tab-fullname-col': 'Nom', // todo
+    'training-reporting-users-tab-nb-answered-whasqs-col': 'Nombre de questions répondues', // todo
 
     // TrainingEvaluation
     'training-evaluation-title': 'Evaluation de session de formation',
     'training-evaluation-title-name': 'Evaluation de la session de formation "{name}"',
-
+    'training-evaluation-label-col': 'Label', // todo
+    'training-evaluation-participants-count-col': 'Nb de participants', // todo
+    'training-evaluation-participants-rate-col': '% de participants', // todo
+    'training-evaluation-not-available': 'L\'évaluation de cette session de formation n\'est pas encore disponible', //todo
+    'training-reporting-users-tab-answered-whasqs-rate-col': 'Taux de réponses', // todo
+    'training-reporting-users-tab-last-answer-date-col': 'Date de la derniére réponse', // todo
+    'training-reporting-users-tab-max-reached-level-col': 'Le niveau atteint', // todo
+    'training-reporting-users-tab-success-rate-col': 'Taux de succès', // todo
+    
     // SwitchUserRoleModal
     'switch-user-role-modal-title': 'Changement de rôle pour l\'utilisateur "{name}"',
     'switch-user-role-modal-new-role': 'Nouveau rôle :',
