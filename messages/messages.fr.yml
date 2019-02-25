@@ -15,8 +15,8 @@ error:
   user.email.inexisting.store.domain: Le client avec le domaine @%domain% n'existe pas encore. Contactez-nous sur jessie@whasq.com pour plus d'info !
   user.search.empty: Pas de recherche saisie
   user.email.unknow: Aucun utilisateur trouvé pour cet email
-  user.trainer.already.added: This trainer has been already added. #todo
-  user.not.trainer: "Sorry, this user is not a trainer for this training center. Hint: Maybe you can set him trainer in user dashboard." #todo
+  user.trainer.already.added: Ce formateur a déjà été ajouté. 
+  user.not.trainer: "Désolé, cet utilisateur n'est pas formateur pour ce centre de formation.Astuce: vous-pouvez l\ajouter comme formateur en cliquant sur l'onglet "Gestion de la platerforme". "
   answer.not.champion: Cette réponse n'est pas une solution
   answer.useful.exists: Vous avez déjà liké ce commentaire 😛
   answer.not.found: Cette réponse n'existe pas ou a été supprimée
@@ -24,7 +24,7 @@ error:
   answer.deletion.by.author: Seul l'auteur peut supprimer une réponse
   answer.edition.by.author: Seul l'auteur peut modifier une réponse
   answer.report.himself: Un utilisateur ne peut pas signaler sa propre réponse
-  answer.missing.responses: Missing responses for this question type #todo
+  answer.missing.responses: Il manque des réponses pour cette question 
   answer.bad.responses: Bad response (option) supplied for this whasq #todo
   answer.lower.level.unanswered: "This answer shouldn't be supplied as the lower level questions are still not answered for user #%userId%, training #%trainingId%, level #%level%" #todo
   whasq.already.champion: Ce whasq a déjà été solutionné
@@ -44,14 +44,14 @@ error:
   whasq.create.missing.language: Un whasq doit avoir une langue de rédaction définie 😜
   recommendation.already.exist: Vous avez déjà recommandé cette compétence
   recommendation.accept: Seul un utilisateur recommandé peut accepter une recommandation
-  recommendation.refuse: L'utilisateur a déjà ce talent. La recommandation a été définie comme "refusée"
+  recommendation.refuse: L'utilisateur a déjà ce savoir. La recommandation a été définie comme "refusée"
   recommendation.waiting: La recommandation n'est plus en attente de validation
   store.any.public: Il n'existe aucun store publique
   email.invalid: Adresse e-mail non valide
   password.invalid: Le mot de passe doit contenir au moins 8 lettres dont au moins 4 autres caractères (majuscule, minuscule, chiffre et caractère spécial) 👀
   fullname.invalid: Invalid name
   training:
-    delete.notemty: "Sorry, can't delete this training as some levels are still linked. Tip: Delete those levels first." #todo
+    delete.notemty: "Désolé, impossible de supprimer cette formation car certains niveaux sont encore liés. Astuce: supprimez les niveaux." 
     level.delete.notemty: "Sorry, can't delete this level as some questions are still linked. Tip: Delete those questions first." #todo
     center.delete.notemty: "Sorry, can't delete this training center as some trainings are still linked. Tip: Delete those trainings first." #todo
     eval.delete.notemty: "Sorry, can't delete this training evaluation as some questions are still linked. Tip: Delete those questions first." #todo
@@ -71,8 +71,8 @@ error:
 push:
   whasq:
     new.title: Un Whasq vous attend
-    new.training.title: A new training whasq is available #todo
-    new.training.body: New question waits for you answer 😜  #todo
+    new.training.title: Une nouvelle formation est disponible 
+    new.training.body: Une nouvelle question attend votre réponse😜  
     new.arround.body: Quelqu'un à proximité a besoin de vos conseils
     new.same.skill.body: Quelqu'un a besoin de vous 😎
     new.answer.title: Une réponse vous attend 👌
@@ -88,9 +88,9 @@ push:
     new.body: Quelqu'un a liké votre réponse !
   reco:
     new.title: Nouvelle recommendation
-    new.body: Quelqu'un a recommandé vos talents !
+    new.body: Quelqu'un a recommandé vos savoirs !
   skill:
-    new.title: Nouveau talent vient d'être ajouté
+    new.title: Un nouveau savoir vient d'être ajouté
     new.body: Enrichi ton profil 💪
   user.tagged:
     new.title: Vous avez été recommandé 💪
@@ -100,31 +100,31 @@ push:
     new.body: Découvrez le 👀
 email:
   general:
-    from: Jessie de Whasq #todo
+    from: Jessie de Whasq 
     greeting: Bonjour !
     byebye: A bientôt,
     signature: Jessie 😘
-    assistance: "Need assistance ? Please contact <span style='color: #adb2bd;'>jessie@whasq.com</span> (From monday to friday, 9am to 12am and 2pm to 6pm)"
+    assistance: "Besoin d'aide ? Contactez <span style='color: #adb2bd;'>jessie@whasq.com</span> (Du lundi au vendredi de 9:00 à 12:00 et de 14:00 à 18:00)"
     mentions: © 2018 Clic and Walk - 28 rue Pierre Mauroy, 59800 Lille, France
     happy.new.year: Que cette nouvelle année voit s'accomplir vos rêves et réussir vos projets. Bonne année 2019! 🎉
-    open.in.browser: Click here to open #todo
+    open.in.browser: Cliquez ici pour ouvrir 
   user:
     activate.account:
       title: Whasq - Activation du compte
       body.div1: "Super ! Vous avez demandé à créer votre compte Whasq ! Pour continuer, activez-le en cliquant sur ce "
       body.div2: lien d'activation
       body.div3: Si vous rencontrez des difficultés, copiez et collez le lien ci-dessous dans votre navigateur.
-      body.div4: You've been invited to join « %trainingCenterName% » training as trainer. #todo
+      body.div4: Vous avez été invité à rejoinde l'organisme de formation « %trainingCenterName% » en tant que formateur. 
     set.admin:
       title: Admin priviledge granted for %storeName%
       body.div1: Vous avez un accès administrateur à
       body.div2: https://bo.whasq.com
     set.trainer:
-      title: You've been invited as trainer ! #todo
-      body.div1: You've been invited to join « %trainingCenterName% » training center as a trainer. #todo
-      body.div2: You can open now https://bo.whasq.com with your credentials and head to "Learning" then "Training" section to manage your trainings. #todo
+      title: Super, vous avez été invité en tant que formateur ! 
+      body.div1: Vous avez été invité à rejoinde l'organisme de formation « %trainingCenterName% » en tant que formateur.
+      body.div2: Il est temps de vous connecter, cliquez-ici https://bo.whasq.com  rentrez vos identifiants et cliquez sur l'onglet "Formation" puis "Formations" ça y est vous pouvez gérer vos formations. 
     set.user:
-      title: You've been granted a role user! #todo
+      title: Génial! Vous avez obtenu le rol d'utilisateur.
       body.div1: You've been granted an user role now. #todo
     admin:
       activity.summary:
@@ -189,27 +189,27 @@ email:
       body.div4: "Comment se connecter :"
       body.div5: https://www.youtube.com/watch?v=LxyNT-kwGk4
       body.div6: https://api.whasq.com/bundles/app/images/tutorial-youtube-fr.jpeg
-      body.div7: You've been invited to join « %trainingCenterName% » training as a trainer.
-      body.div8: You can open now https://bo.whasq.com with your credentials and head to "Learning" then "Training" section to manage your trainings. #todo
+      body.div7: Vous avez été invité à rejoindre l'organisme de formation « %trainingCenterName% » en tant que formateur.
+      body.div8: Il est temps de vous connecter, cliquez-ici https://bo.whasq.com rentrez vos identifiants et cliquez sur l'onglet "Formation" puis "Formations" ça y est vous pouvez gérer vos formations.
     delete.admin:
       title: Compte supprimé
       body.div1: "Nous sommes désolés, l'utilisateur %fullname% (%email%) vient de supprimer son compte."
   training:
     missing:
-      title: Missing questions schedule for the training « %name% » 💪 #todo
-      body.div1: Please schedule all the question in calendar (https://bo.whasq.com).
+      title: Questions manquantes pour la formation « %name% » 💪 
+      body.div1: Merci de programmer 🤓 toutes les questions dans le calendrier (https://bo.whasq.com).
     available:
-      title: New question available for the training « %name% » 💪 #todo
-      body.div1: The question is <b>%title%</b> ! Question %index%/%nbQuestions%. #todo
-      body.div2: This training ends by <b>%supportEndsAt%</b>. #todo
-      body.div3: Good luck. #todo
+      title: Super, une nouvelle question est disponible pour la formation « %name% » 💪 
+      body.div1: La question %title% ! Question %index%/%nbQuestions%.
+      body.div2: La formation se termine <b>%supportEndsAt%</b>.
+      body.div3: Bonne chance. 
     accomplished:
-      title: Congratulations! You have successfully completed the training %name%. #todo
-      body.div1: You've answered all the questions (%numberQuestions%/%numberAnsweredQuestions%) for the training %name%. You've reached the level %level% ! #todo
+      title: Génial! Vous avez terminé la formation %name% avec succès.
+      body.div1: Vous avez répondu à toutes les questions(%numberQuestions%/%numberAnsweredQuestions%) pour la formation %name%. Vous avez atteint le niveau %level% !
     unaccomplished:
-      title: The support period for %name% training is over. #todo
-      body.div1: You've answered %numberQuestions%/%numberAnsweredQuestions% questions for the training %name%. You still had some uncompleted/incorrect answers. You've reached the level %level% ! #todo
+      title: La periode de support pour la formation %name% est terminée.
+      body.div1: Vous avez répondu %numberQuestions%/%numberAnsweredQuestions% questions pour la formation %name%.Vous n'avez pas répondu à toutes les questions ou certaines sont incorrectes. Vous avez atteint le niveau %level% !
     level:
       accomplished:
-        title: Congratulations! You have successfully reached level %reachedLevel% of training %name%. #todo
-        body.div1: You've answered (%numberQuestions%/%numberAnsweredQuestions%) for the training %name%. You've reached the level %reachedLevel%/%highestLevel% ! #todo  
+        title: Félicitations! Vous avez atteint avec succès le niveau %reachedLevel% de la formation %name%.
+        body.div1: Vous avez répondu (%numberQuestions%/%numberAnsweredQuestions%) questions pour la formation %name%. Vous avez atteint le niveau %reachedLevel%/%highestLevel% !  
