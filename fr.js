@@ -149,7 +149,7 @@ const messages = {
     'most-used-whasqers-kpi-title': 'Top 5 des savoirs les plus déclarés par les whasqers',
     'most-used-whasqers-kpi-help-title': 'Top 5 des savoirs les plus déclarés par les whasqers',
     'most-used-whasqers-kpi-help-message-1': 'Vous trouverez dans ce tableau les 5 savoirs les plus identifiés par les whasqers dans le profil.',
-    'most-used-whasqers-kpi-help-message-2': 'Les pastilles colorées représentent le nombre de fois où le savoir a été utilisé dans le profil d\'whasqer.',
+    'most-used-whasqers-kpi-help-message-2': 'Les pastilles colorées représentent le nombre de fois où le savoir a été utilisé dans le profil d\'un whasqer.',
     'less-used-whasqers-kpi-title': 'Top 5 des savoirs les moins déclarés par les whasqers',
     'less-used-whasqers-kpi-help-title': 'Top 5 des savoirs les moins déclarés par les whasqers',
     'less-used-whasqers-kpi-help-message-1': 'Vous trouverez dans ce tableau les 5 savoirs les moins identifiés par les whasqers dans leur profil.',
@@ -205,7 +205,7 @@ const messages = {
     'already-existing-cat': 'Catégorie(s) déjà existante(s)',
     'already-existing-skill': 'Savoir(s) déjà existant(s)',
     'no-existing-cat': 'Aucune catégorie existante',
-    'no-existing-skill': 'Aucun  existant',
+    'no-existing-skill': 'Aucun existant',
 
     // CreateLanguageModal
     'add-new-lang': 'Ajout d\'une nouvelle langue',
@@ -490,7 +490,7 @@ const messages = {
     // TrainingCenters
     'training-centers-title': 'Centres de formation',
     'training-centers-add-btn': 'Ajouter un centre de formation',
-    'training-centers-not-defined': 'Aucun organisme de formation n\'est défini à ce jour. Veuilez en ajouter.',
+    'training-centers-not-defined': 'Aucun organisme de formation n\'est défini à ce jour. Veuillez en ajouter.',
     'training-centers-archive-confirm': 'Etes-vous sûr de vouloir archiver ce centre de formation ?',
     'training-centers-name-col': 'Nom',
     'training-centers-url-col': 'Url',
