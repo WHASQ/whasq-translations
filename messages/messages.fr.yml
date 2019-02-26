@@ -62,6 +62,12 @@ error:
     error.training.not.exists: "Sorry, this training doesn't exist. Tip: Create it first." #todo
     parameter.not.found: "Sorry, one of the supplied parameters was not found as entity." #todo
     not.created: "Sorry, not training evaluation is created for the training %name%." #todo
+    missing.questions: 👉 Missing questions. #todo
+    missing.participants: 👉 Missing participants. #todo
+    missing.trainers: 👉 Missing trainers. #todo
+    missing.skills: 👉 Missing skills. #todo
+    missing.evalution.form: 👉 Missing evaluation form. #todo
+    missing.scheduled.questions: 👉 Missing questions schedule. #todo
   login:
     activation.title: Activation de votre compte
     activation.message: Un email avec le lien pour valider votre adresse email vient de vous être envoyé 👌
