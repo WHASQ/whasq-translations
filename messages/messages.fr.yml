@@ -16,7 +16,7 @@ error:
   user.search.empty: Pas de recherche saisie
   user.email.unknow: Aucun utilisateur trouvé pour cet email
   user.trainer.already.added: Ce formateur a déjà été ajouté. 
-  user.not.trainer: "Désolé, cet utilisateur n'est pas formateur pour ce centre de formation.Astuce: vous-pouvez l\ajouter comme formateur en cliquant sur l'onglet "Gestion de la platerforme". "
+  user.not.trainer: "Désolé, cet utilisateur n'est pas formateur pour ce centre de formation. Astuce: vous-pouvez l'ajouter comme formateur en cliquant sur l'onglet « Gestion de la platforme »"
   answer.not.champion: Cette réponse n'est pas une solution
   answer.useful.exists: Vous avez déjà liké ce commentaire 😛
   answer.not.found: Cette réponse n'existe pas ou a été supprimée
@@ -122,7 +122,7 @@ email:
       body.div3: Si vous rencontrez des difficultés, copiez et collez le lien ci-dessous dans votre navigateur.
       body.div4: Vous avez été invité à rejoinde l'organisme de formation « %trainingCenterName% » en tant que formateur. 
     set.admin:
-      title: Admin priviledge granted for %storeName%
+      title: Admin priviledge granted for « %storeName% »
       body.div1: Vous avez un accès administrateur à
       body.div2: https://bo.whasq.com
     set.trainer:
@@ -218,4 +218,4 @@ email:
     level:
       accomplished:
         title: Félicitations! Vous avez atteint avec succès le niveau %reachedLevel% de la formation %name%.
-        body.div1: Vous avez répondu (%numberQuestions%/%numberAnsweredQuestions%) questions pour la formation %name%. Vous avez atteint le niveau %reachedLevel%/%highestLevel% !  
+        body.div1: Vous avez répondu (%numberQuestions%/%numberAnsweredQuestions%) questions pour la formation %name%. Vous avez atteint le niveau %reachedLevel%/%highestLevel% !
