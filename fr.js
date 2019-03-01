@@ -633,7 +633,7 @@ const messages = {
     // AddQuestionModal
     'add-question-modal-title': 'Ajout d\'une question au quiz',
     'add-question-modal-duplicate-title': 'Duplication d\'une question du quiz',
-    'add-question-modal-edit-title': 'Edition d\'une question du quiz'
+    'add-question-modal-edit-title': 'Edition d\'une question du quiz',
     'add-question-modal-type': 'Type',
     'add-question-modal-options': 'Options',
     'add-question-modal-qcm': 'Questionnaire à choix multiple',
