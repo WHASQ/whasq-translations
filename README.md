@@ -1,1 +1,0 @@
-# whasq-translations
