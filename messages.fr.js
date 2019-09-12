@@ -6,7 +6,7 @@ const messages = {
     'no-identification-info': 'Si vous n\'avez pas vos identifiants, veuillez contacter votre administrateur',
     'login-next': 'Suivant',
     'login-unrecognized-email-title': 'Le client "{domain}" n\'existe pas',
-    'login-unrecognized-email-message': 'Veuillez envoyer un email à jessie@whasq.com.',
+    'login-unrecognized-email-message': 'Veuillez envoyer un email à <a href="mailto:jessie@whasq.com">jessie@whasq.com</a>.',
     'login-code-sent-title': 'Confirmation de votre compte',
     'login-code-sent-message': 'Un email avec le lien pour valider votre adresse email vient de vous être envoyé.',
     'login': 'Se connecter',
@@ -17,6 +17,7 @@ const messages = {
     'login-password-see-password': 'Voir le mot de passe',
     'login-password-not-see-password': 'Cacher le mot de passe',
     'login-forgotten-or-change-password': 'Mot de passe oublié ou changement de mot de passe ?',
+    'login-locked-user': 'Votre compte a été bloqué. Merci de contacter votre administrateur.',
   
     //  Global
     'search': 'Recherche',
@@ -28,8 +29,14 @@ const messages = {
     'second-ranking-suffix': 'ème',
     'third-ranking-suffix': 'ème',
     'default-ranking-suffix': 'ème',
+    'first-ranking-suffix-short': 'e',
+    'second-ranking-suffix-short': 'e',
+    'third-ranking-suffix-short': 'e',
+    'default-ranking-suffix-short': 'e',
     'back-to-homepage': 'Retour à l\'accueil',
     'loading': 'Chargement...',
+    'yes': 'Oui',
+    'no': 'Non',
 
     // Header
     'header-profile': 'Profil',
@@ -47,22 +54,32 @@ const messages = {
     'header-password-changed': 'Un email vous a été envoyé pour réinitialiser votre mot de passe.',
     'header-menu-whasq-write': 'Ecrire un whasq',
     'header-menu-home': 'Accueil',
+    'header-menu-flow': 'Mon flux',
+    'header-menu-validations': 'Mes validations',
     'header-menu-notifications': 'Notifications',
     'header-menu-podium': 'Podium',
     'header-menu-language': 'Langue d\'affichage',
     'header-menu-profile': 'Profil',
+    'header-choose-lang': 'Choisir la langue',
+    'header-french': 'Français',
+    'header-spanish': 'Español',
+    'header-english': 'English',
+    'header-italian': 'Italiano',
+    'header-portuguese': 'Português',
+    'header-russian': 'русский',
 
     // Footer
     'footer-privacy-policy': 'Politique de confidentialité',
-    'footer-assistance': 'Besoin d’aide ? Contactez jessie@whasq.com (Du lundi à vendredi de 9:00 à 12:00 et de 14:00 à 18:00)',
+    'footer-assistance': 'Besoin d’aide ? Contactez jessie@whasq.com (Du lundi à vendredi de 9:00 à 12:00 et de 14:00 à 18:00). Plus d\'info sur https://whasq.com.',
     'footer-follow-us': 'Suivez-nous :',
 
     // WhasqsSearch
-    'whasqs-search-my-skills-filter': 'Pour mes talents',
+    'whasqs-search-my-skills-filter': 'Pour mes savoirs',
     'whasqs-search-training-filter': 'Formation',
     'whasqs-search-all-filter': 'Tout',
     'error-searching-whasqs': 'Une erreur s\'est produite lors de la recherche de whasqs',
-    'whasqs-more-whasqs-add-skill': 'Pour voir plus de whasqs, ajoutez des talents à votre profil.',
+    'whasqs-more-whasqs-add-skill': 'Pour voir plus de whasqs, ajoutez des savoirs à votre profil.',
+    'whasqs-no-more-training-whasqs': 'Vous n\'avez plus de question de formation en attente.',
     'whasq-search-filter-label': 'Filtrer',
 
     // WhasqDetails
@@ -71,8 +88,14 @@ const messages = {
     'error-whasq-unavailable': 'Le whasq que vous cherchez n\'est pas disponible 😕',
 
     // Whasq
+    'whasq-years-ago': 'Il y a {years} années',
+    'whasq-months-ago': 'Il y a {months} mois',
+    'whasq-weeks-ago': 'Il y a {weeks} semaines',
     'whasq-days-ago': 'Il y a {days} jours',
+    'whasq-hours-ago': 'Il y a {hours} heures',
+    'whasq-minutes-ago': 'Il y a {minutes} minutes',
     'whasq-read': 'lu',
+    'whasq-unread': 'non lu',
     'whasq-read-count': 'Consulté {count} fois',
     'whasq-answers-count': 'Nombre de réponses',
     'whasq-whasqpoints-solution': 'whasqpoints pour la solution',
@@ -90,6 +113,7 @@ const messages = {
     'whasq-urgent': 'Urgent',
     'whasq-channel': 'Langue du whasq',
     'whasq-no-media': 'Pas de média',
+    'whasq-media': 'Média',
     'whasq-media-image': 'Photo whasq',
     'whasq-media-video': 'Vidéo whasq',
     'whasq-media-audio': 'Audio whasq',
@@ -97,20 +121,36 @@ const messages = {
     'whasq-report-confirm': 'Voulez-vous vraiment signaler ce Whasq ? Le créateur va être prévenu. Le signalement abusif pourra entraîner la suppression du compte 🙄',
     'whasq-answers-count-label': '{count} réponses',
     'whasq-answer-count-label': '{count} réponse',
+    'whasq-new-answer-placeholder': 'Répondre...',
+    'whasq-reload-talk': 'Recharger la conversation',
+    'whasq-preassessment-badge': 'Positionnement',
+    'whasq-remedial-badge': 'Soutien',
+    'whasq-training-badge': 'Formation',
+    'whasq-force-display-theme': 'Appel à la communauté',
+    'whasq-community-theme': 'Entraide collaborative',
+    'whasq-training-theme': 'Whasqs de formation',
+    'whasq-resolved': 'résolu',
+    'whasq-remaining-display-time': '{hours} restant(e)s',
 
     // Profile
     'error-getting-user': 'Une erreur s\'est produite lors de la récupération du profil de l\'utilisateur',
     'user-information-title': 'Mes informations',
-    'user-skills-title': 'Mes talents',
+    'user-skills-title': 'Mes savoirs',
+    'user-pending-trainings-title': 'Validations en attente',
     'user-channels-title': 'Mes langues',
+    'user-kpi-title': 'Mes KPI validations',
+    'user-radar-title': 'Niveaux de savoirs',
+    'user-learning-commmunity-title': 'Communauté apprenanate',
+    'user-badges-title': 'Mes savoirs collaboratifs',
+    'user-ranking': 'classement',
     'user-points': 'points',
     'user-answers': 'réponses',
     'user-whasqs': 'whasqs',
-    'user-skill-added': 'Le talent \'{skillName}\' a bien été ajouté.',
-    'error-adding-skill': 'Une erreur s\'est produite lors de l\'ajout du talent \'{skillName}\'.',
-    'user-skill-removed': 'Le talent \'{skillName}\' a bien été supprimé.',
-    'error-removing-skill': 'Une erreur s\'est produite lors de la suppression du talent \'{skillName}\'.',
-    'error-getting-available-skills': 'Une erreur s\'est produite lors de la récupération des talents disponibles.',
+    'user-skill-added': 'Le savoir \'{skillName}\' a bien été ajouté.',
+    'error-adding-skill': 'Une erreur s\'est produite lors de l\'ajout du savoir \'{skillName}\'.',
+    'user-skill-removed': 'Le savoir \'{skillName}\' a bien été supprimé.',
+    'error-removing-skill': 'Une erreur s\'est produite lors de la suppression du savoir \'{skillName}\'.',
+    'error-getting-available-skills': 'Une erreur s\'est produite lors de la récupération des savoirs disponibles.',
     'error-removing-channel': 'Une erreur s\'est produite lors de la suppression de la langue \'{channelName}\'.',
     'user-channel-removed': 'La langue \'{channelName}\' a bien été supprimée.',
     'error-adding-channel': 'Une erreur s\'est produite lors de l\'ajout de la langue \'{channelName}\'.',
@@ -119,22 +159,65 @@ const messages = {
     'error-updating-gdpr': 'Une erreur s\'est produite lors de la mise à jour des données GDPR',
     'user-updated': 'L\'utilisateur a bien été modifié',
     'error-updating-user': 'Une erreur s\'est produite lors de la modification de l\'utilisateur',
-    'user-delete-skill-confirm': 'Etes-vous sûr de vouloir supprimer le talent "{skillName}" ?',
+    'user-delete-skill-confirm': 'Etes-vous sûr de vouloir supprimer le savoir "{skillName}" ?',
     'user-delete-channel-confirm': 'Etes-vous sûr de vouloir supprimer la langue "{channelName}" ?',
     'user-delete-last-channel-impossible': 'Désolé, vous devez avoir au moins une langue dans votre profil.',
     'profile-email-not-available': 'L\'email n\'est pas renseigné ou n\'est pas disponible',
     'profile-phone-not-available': 'Le numéro de téléphone n\'est pas renseigné ou n\'est pas disponible',
+    'profile-fixed-line-phone-not-available': 'Le numéro de téléphone fixe n\'est pas renseigné ou n\'est pas disponible',
+    'profile-fixed-line-phone-placeholder' : 'Numéro de téléphone fixe',
     'profile-job-position-not-available': 'Le poste n\'est pas renseigné ou n\'est pas disponible',
+    'profile-place-not-available': 'Le lie de travail n\'est pas renseigné ou n\'est pas disponible',
+    'profile-manager-not-available': 'Le manager pas renseigné ou n\'est pas disponible',
     'profile-edit-label': 'Modifier le profil',
     'profile-save-label': 'Sauvegarder le profil',
     'profile-anonymous-label': 'Cacher aux autres utilisateurs',
     'profile-not-anonymous-label': 'Montrer aux autres utilisateurs',
+    'profile-trainings-count': 'Nombre de formations suivies',
+    'profile-success-rate': 'Taux de réussite global',
+    'profile-skills-count': 'Nombre de savoirs',
+    'profile-training-whasqs': 'Whasqs formation en attente',
+    'profile-trainings-name-col': 'Formation',
+    'profile-trainings-start-col': 'Début',
+    'profile-trainings-remaining-days-col': 'Jours restants',
+    'profile-trainings-skills-col': 'Savoirs acquis',
+    'profile-trainings-actions-col': 'Actions',
+    'profile-participation-rate': 'Taux de participation',
+    'profile-mean-success-rate': 'Taux de réussite moyen',
+    'profile-evolution-rate': 'Evolution Q1/Q2',
+    'profile-training-planned': '(à venir)',
+    'profile-collaborative-trace': 'Mon suivi collaboratif',
+    'profile-training-trace': 'Mon suivi formation',
+    'profile-whasqs-count': 'Nombre de whasqs envoyés',
+    'profile-answers-count': 'Nombre de réponses données',
+    'profile-likes-count': 'Nombre de likes reçus',
+    'profile-solutions-count': 'Nombre de solutions trouvées',
+    'profile-no-skill-added': 'Il n\'y a pas encore de savoir ajouté à ce profil.',
+    'profile-no-channel-added': 'Il n\'y a pas encore de langue ajoutée à ce profil.',
+    'profile-manager-label': 'Manager :',
+    'profile-add-manager': 'Ajouter un manager',
+    'profile-set-manager-succeeded': 'Le manager {fullname} a bien été ajouté.',
+    'profile-set-manager-failed': 'Une erreur s\'est produite lors de l\'ajout du manager',
+    'profile-phone-placeholder': 'Numéro de téléphone',
+    'profile-job-placeholder': 'Poste',
+    'profile-place-placeholder': 'Lieu de travail',
+    'profile-training-display-trainings-button' : 'Afficher',
+    'profile-view-public': 'Voir mon profil public',
+    'profile-view-pending-trainings': '...',
+    'profile-pending-trainings-responses': 'réponses',
+    'profile-help-pending-trainings-title': 'Aide sur les Validations en attente',
+    'profile-help-pending-trainings-message-1': 'Message',
+    'profile-help-pending-trainings-message-2': 'Message suite',
+    'profile-learning-community-ask-question': "Poser une question",
+    'profile-learning-community-answer-question': "Répondre à ce whasq",
+    'profile-radar-no-data': 'Il vous faut au moins de savoir pour voir le graphique.',
+    
 
     // AddUserSkillModal
-    'add-user-skill-title': 'Ajout d\'un talent',
-    'add-user-skill-subtitle': 'Vous avez sûrement d\'autres talents, vous pouvez les ajouter !',
-    'add-user-skill-subtitle-first-login': 'Vous avez des talents, inscrivez les dans votre profil !',
-    'add-user-skill-suggest': 'Il manque un talent ?',
+    'add-user-skill-title': 'Ajout d\'un savoir',
+    'add-user-skill-subtitle': 'Vous avez sûrement d\'autres savoirs, vous pouvez les ajouter !',
+    'add-user-skill-subtitle-first-login': 'Vous avez des savoirs, inscrivez les dans votre profil !',
+    'add-user-skill-suggest': 'Il manque un savoir ?',
     
     // AddUserChannelModal
     'add-user-channel-title': 'Ajout d\'une langue',
@@ -153,13 +236,15 @@ const messages = {
     'notification-message-add-points': '+{whasqPoints} whasqpoints',
     'notification-message-usefull': '{fullname} a trouvé votre réponse utile !',
     'notification-message-match': '{fullname} a créé un whasq pouvant vous intéresser',
-    'notification-message-recommendation': '{fullname} vous a recommandé le talent',
-    'notification-message-suggest': '{fullname} vous a suggéré le talent',
+    'notification-message-recommendation': '{fullname} vous a recommandé le savoir',
+    'notification-message-suggest': '{fullname} vous a suggéré le savoir',
     'notification-message-blacklist': '{fullname} a signalé votre whasq',
     'notification-message-admin-whasq': '{fullname} a posté un nouveau whasq',
     'notification-message-tag-user': 'Vous avez été recommandé par {fullname} pour le whasq',
     'notification-message-new-training-whasq': 'Un nouveau whasq de formation vous attend ! ',
     'notification-days-ago': 'Il y a {days} jours',
+    'notification-message-correct-answer': 'Vous avez gagné {notifiableReward} points pour votre bonne réponse {notifiableTitle} !',
+    'notification-message-completed-skill': 'Vous avez gagné {notifiableReward} points car vous avez acquis le savoir {notifiableTitle} !',
 
     // WhasqWrite
     'whasq-write-title': 'Titre *',
@@ -176,15 +261,16 @@ const messages = {
     'whasq-write-import-file-button': 'Importer le fichier',
     'whasq-write-import-requirements': 'Votre fichier doit être de type image, vidéo, audio ou Microsoft Office.',
     'whasq-write-import-size-limit': 'La taille maximale du fichier est 1mo.',
-    'whasq-write-linked-skills': 'Talents concernés',
+    'whasq-write-linked-skills': 'Savoirs concernés',
     'whasq-write-linked-channel': 'Ecrit en',
     'whasq-write-change-attachment': 'Changer de fichier',
     "whasq-write-preview-whasq": 'Prévisualiser le whasq',
     'whasq-write-error-title-required': 'Le titre du whasq est obligatoire',
     'whasq-write-error-message-required': 'Le message du whasq est obligatoire',
-    'whasq-write-error-skill-required': 'Au moins un talent doit être ajouté au whasq',
+    'whasq-write-error-message-attachment-required': 'Vous devez ajouter un message ou un fichier pour valider ce formulaire',
+    'whasq-write-error-skill-required': 'Au moins un savoir doit être ajouté au whasq',
     'whasq-write-error-channel-required': 'Une langue est à définir pour le whasq',
-    'error-getting-usersskills': 'Une erreur s\'est produite lors de la récupération des informations utilisateur.',
+    'error-getting-users-skills': 'Une erreur s\'est produite lors de la récupération des informations utilisateur.',
     'whasq-write-media-attachment-no-preview': 'Pas de prévisualisation possible',
     'whasq-write-required-fields': 'Les champs suivis d\'un astérisque (*) sont obligatoires.',
 
@@ -220,8 +306,8 @@ const messages = {
     'whasq-perso-answer': 'réponse',
 
     // Podium
-    'podium-ranking-tab-title': 'CLASSEMENT',
-    'podium-whasqpoints-tab-title': 'MES WHASQPOINTS',
+    'podium-ranking-tab-title': 'Classement',
+    'podium-whasqpoints-tab-title': 'Mes Whasqpoints',
 
     // TimeSavingsModal
     'time-savings-title': 'Aidez-nous à nous améliorer',
@@ -234,14 +320,14 @@ const messages = {
     // TermOfUse
     'term-of-use-title': 'Conditions générales d\'utilisation',
     'term-of-use-decline-btn': 'Décliner',
-    'term-of-use-authorize-btn': 'Autoriser',
+    'term-of-use-authorize-btn': 'Accepter',
     'tof-decline-title': 'L\'acceptation des CGU est obligatoire',
     'tof-decline-message': 'Pour pouvoir utiliser l\'application Whasq, l\'acceptation des Conditions générales d\'utilisation est requise',
 
     // Gdpr
     'gdpr-title': 'Consentement',
     'gdpr-decline-btn': 'Décliner',
-    'gdpr-authorize-btn': 'Autoriser',
+    'gdpr-authorize-btn': 'Accepter',
     'gdpr-decline-title': 'Le consentement est obligatoire',
     'gdpr-decline-message': 'Pour pouvoir utiliser l\'application Whasq, vous devez donner votre consentement relatif à l\'utilisation de vos données.',
 
@@ -263,17 +349,21 @@ const messages = {
     'register-password-not-see-password': 'Cacher le mot de passe',
 
     // Ranking
-    'ranking-answers-label': 'REPONSES',
-    'ranking-solutions-label': 'SOLUTIONS',
+    'ranking-answers-label': 'réponses',
+    'ranking-solutions-label': 'solutions',
     'ranking-see-profile': 'Voir le profil',
     'ranking-no-podium-for-selected-month': 'Il n\'y a pas de classement pour le mois sélectionné',
     'ranking-ytd-label': 'Depuis le début {year}',
+    'ranking-all-label': 'Depuis le début de l\'activité',
 
     // Whasqpoint
-    'whasqpoint-message-usefull': '{fullname} a trouvé votre réponse utile !',
-    'whasqpoint-message-solution': '{fullname} vous a désigné champion de son whasq !',
-    'whasqpoint-message-recommend': 'Vous avez été recommandé par {fullname}',
+    'whasqpoint-message-usefull': ' a trouvé votre réponse utile !',
+    'whasqpoint-message-solution': ' vous a désigné champion de son whasq !',
+    'whasqpoint-message-recommend': 'Vous avez été recommandé par ',
+    'whasqpoint-message-correct-answer': 'Vous avez répondu correctement à un whasq de formation !',
+    'whasqpoint-message-level-reached': 'Vous avez atteint un niveau de formation !',
     'whasqpoint-days-ago': 'Il y a {days} jours',
+    'whasqpoint-no-data': 'Pas de whasqpoints à ce jour.',
 
     // Faq
     'faq-title': 'Foire aux questions',
@@ -295,8 +385,8 @@ const messages = {
     // SuggestionsModal
     'suggestions-modal-title': 'Suggestions',
     'suggestions-modal-subtitle': 'Il est temps d\'enrichir votre profil',
-    'suggestions-modal-other-skills': 'Autres talents pouvant vous intéresser :',
-    'suggestions-modal-recommended-by': '{fullname} vous a recommendé pour ces talents :',
+    'suggestions-modal-other-skills': 'Autres savoirs pouvant vous intéresser :',
+    'suggestions-modal-recommended-by': '{fullname} vous a recommendé pour ces savoirs :',
 
     // ZoomImageModal
     'zoom-image-modal-title': 'Zoom de l\'image',
@@ -317,10 +407,10 @@ const messages = {
     // TutoModal
     'tuto-modal-title': 'Conseils et astuces',
     'tuto-modal-homepage-ask-whasq': 'Posez votre question.',
-    'tuto-modal-homepage-my-skills': 'Affichez les whasqs concernant vos talents et rédigés dans la langue ajoutée dans votre profil.',
+    'tuto-modal-homepage-my-skills': 'Affichez les whasqs concernant vos savoirs et rédigés dans la langue ajoutée dans votre profil.',
     'tuto-modal-homepage-all-skills': 'Affichez les whasqs dans la langue ajoutée dans votre profil.',
     'tuto-modal-add-whasq-add-media': 'Ajoutez des médias pour illustrer votre question. Par exemple image, texte, vidéo ou juste son. Vous pouvez les utiliser aussi pour répondre à un whasq.',
-    'tuto-modal-add-whasq-add-skill': 'Choisissez 3 talents qui pourront vous aider à résoudre votre whasq.',
+    'tuto-modal-add-whasq-add-skill': 'Choisissez 3 savoirs qui pourront vous aider à résoudre votre whasq.',
     'tuto-modal-add-whasq-add-channel': 'Sélectionnez la langue dans laquelle votre whasq est rédigé. Le choix de la langue dépend des langues ajoutées dans votre profil : fr, es, ru, ...',
     'tuto-modal-profile-update': 'Ajoutez un peu de couleur sur l\'app en mettant à jour votre profil.',
 
@@ -328,8 +418,8 @@ const messages = {
     'my-whasqs-title': 'Mes whasqs',
 
     // AddSkillModal
-    'add-skill-modal-title': 'Talents',
-    'add-skill-modal-subtitle': 'Les talents concernés par ce whasq (3 maximum) :',
+    'add-skill-modal-title': 'Savoirs',
+    'add-skill-modal-subtitle': 'Les savoirs concernés par ce whasq (3 maximum) :',
 
     // TrainingWhasqDetails
     'training-whasq-details-explanations': 'Explications :',
@@ -339,11 +429,32 @@ const messages = {
     'training-whasq-details-bad-answer': '😢 Oups ! Votre réponse n\'est pas correcte...',
 
     // TrainingWhasqResultsModal
-    'training-whasq-results-modal-title': 'Résumé de toutes les réponses',
+    'training-whasq-results-modal-success-message': 'Vous avez la bonne réponse',
+    'training-whasq-results-modal-fail-message': 'Vous avez la mauvaise réponse',
+    'training-whasq-results-modal-level-completed': 'Vous avez atteint le niveau {label} !',
+    'training-whasq-results-modal-training-completed': 'Vous avez complété la formation {name} !',
     
     // TrainingEvalModal
     'training-eval-title': 'Evaluation : "{title}"',
     'training-eval-modal-form-error': 'Merci de répondre à toutes les questions pour pouvoir envoyer votre évaluation.',
+
+    // ImportAnswerAttachmentModal
+    'import-answer-attachment-modal-title': 'Import d\'une pièce jointe dans la réponse',
+
+    // ProfileStat
+    'profile-stat-consult': 'Consulter',
+
+    // CardUser
+    'card-user-community': 'Communauté',
+    'card-user-training': 'Formation',
+    'card-user-collaborative-actions': 'Actions collaboratives',
+
+    // AddManagerModal
+    'add-manager-modal-title': 'Ajout d\'un manager',
+    'add-manager-modal-update-title': 'Modification d\'un manager',
+    'add-manager-modal-select': 'Veuillez choisir un manager dans la liste déroulante :',
+    'add-manager-modal-select-placeholder': 'Cliquer pour sélectionner un manager',
+    'add-manager-modal-validate': 'Valider',
 }
 
 export default messages
