@@ -1252,7 +1252,7 @@ const messages = {
     'add-manager-modal-validate': 'Valider',
 
     // AddWhasqSkillModal
-    'add-whasq-skill-title': 'Vous pouvez ajouter 3 Skills maximum',
+    'add-whasq-skill-title': 'Vous pouvez ajouter jusqu\'à 3 Skills maximum',
 
     // UploadProfileImageModal
     'choose-profile-image': 'Choisissez votre image de profil',
