@@ -182,7 +182,7 @@ const messages = {
     'most-used-skills-whasqs-kpi-help-message-2': 'Les pastilles colorées représentent le nombre de fois où le Skill est utilisé dans un Whasq.',
     'most-used-whasqers-kpi-title': 'Top 5 Skills dans les profils',
     'most-used-whasqers-kpi-help-title': 'Les 5 Skills les plus présents dans les profils',
-    'most-used-whasqers-kpi-help-message-1': 'Vous trouverez dans ce tableau les 5 skills les plus présents dans les profils .'
+    'most-used-whasqers-kpi-help-message-1': 'Vous trouverez dans ce tableau les 5 skills les plus présents dans les profils.',
     'most-used-whasqers-kpi-help-message-2': 'Les pastilles colorées représentent le nombre de fois où le skill est présent dans les profils.',
     'less-used-whasqers-kpi-title': 'Flop 5 Skills dans les profils',
     'less-used-whasqers-kpi-help-title': 'Les 5 Skills les moins utilisés dans les profils',
@@ -612,7 +612,7 @@ const messages = {
     'helper-training-tutorial-title': 'Tutoriel d\'utilisation',
     'helper-training-tutorial-message': 'La vidéo est en cours de création. En attendant, si vous avez une question, contactez nous sur jessie@whasq.com .',
     'training-center-action-show-trainings' : 'Voir les formations de cet OF ',
-    'training-center-action-no-trainings': 'Cet OF n\'a aucune formation rattachée pour l\'instant,
+    'training-center-action-no-trainings': 'Cet OF n\'a aucune formation rattachée pour l\'instant',
     'training-centers-import-btn': 'Importer un fichier CSV',
     'training-centers-recommendation-rate-col': 'Taux de recommandation',
     'training-centers-acquired-skills-col': 'Nombre moyen de Skills acquis par les stagiaires',
@@ -828,7 +828,7 @@ const messages = {
 
     // AddTrainingSkillModal
     'add-training-skill-modal-title': 'Ajouter un Skill à la session de formation',
-    'add-training-skill-modal-suggest': 'Un Skill est manquant ? Demandez à votre administrateur de l\'ajouter :-),
+    'add-training-skill-modal-suggest': 'Un Skill est manquant ? Demandez à votre administrateur de l\'ajouter :-)',
 
     // EditPlanningModal
     'edit-planning-modal-title': 'Planification des questions',
@@ -900,7 +900,7 @@ const messages = {
     'training-reporting-satisfaction-rate-help-title': '% des avis positifs des stagiaires suite à la formation',
     'training-reporting-satisfaction-rate-help-message': 'Somme des avis positifs (3 et/ou 4 étoiles données à la 1ère question du questionnaire de satisfaction)/ Somme des avis  du questionnaire de satisfaction reçus * 100',
     'training-reporting-attendance-rate-kpi-title': 'Taux de présence à la session',
-    'training-reporting-attendance-rate-help-title': '% des stagiaires présents à cette session,
+    'training-reporting-attendance-rate-help-title': '% des stagiaires présents à cette session',
     'training-reporting-attendance-rate-help-message': 'Somme des stagiaires encore inscrits à la session, 1 jour après la fin de la formation / Somme des stagiaires inscrits à la session 1 jour avant son début * 100',
     'training-reporting-acquired-skills-participant-kpi-title': 'Nombre moyen de Skills acquis',
     'training-reporting-acquired-skills-participant-help-title': 'Permet de savoir combien de skills les stagiaires ont acquis grâce à la formation ',
@@ -1116,14 +1116,14 @@ const messages = {
     'my-kpis-participants-count-contact-of-help-message': 'Somme de tous les stagiaires inscrits à vos sessions de formation au cours de l\'année sélectionnée, ayant validés ou non leurs comptes',
     'my-kpis-success-rate-kpi-title': 'Taux de réussite général (après formation)',
     'my-kpis-success-rate-help-title': '% de bonnes réponses aux questionnaires de validation',
-    'my-kpis-success-rate-help-message': 'Somme des bonnes réponses données à tous les questionnaires de validation / Somme de toutes les réponses données à tous les questionnaires de validation * 100, au cours de l\'année séléctionnée,
+    'my-kpis-success-rate-help-message': 'Somme des bonnes réponses données à tous les questionnaires de validation / Somme de toutes les réponses données à tous les questionnaires de validation * 100, au cours de l\'année séléctionnée',
     'my-kpis-success-rate-trainer-help-message': 'Somme des bonnes réponses données à tous vos questionnaires de validation / Somme de toutes les réponses données à tous vos questionnaires de validation * 100, au cours de l\'année séléctionnée, pour vos sessions de formation ',
     'my-kpis-success-rate-contact-of-help-message': 'Somme des bonnes réponses données à tous les questionnaires de validation / Somme de toutes les réponses données à tous les questionnaires de validation * 100, au cours de  l\'année séléctionnée, pour votre OF',
     'my-kpis-commitment-rate-kpi-title': 'Taux d\'engagement des stagiaires',
     'my-kpis-commitment-rate-help-title': '% des stagiaires ayant répondu au minimum à un questionnaire',
     'my-kpis-commitment-rate-help-message': 'Somme de tous les stagiaires ayant répondu à au moins 1 questionnaire, avant formation ( positionnement), de satisfaction ou après formation ( validation) / Somme de tous les stagiaires inscrits à une session de formation * 100, au cours de  l\'année séléctionnée',
     'my-kpis-commitment-rate-contact-of-help-message': 'Somme de tous les stagiaires ayant répondu à au moins 1 questionnaire, avant formation ( positionnement), de satisfaction ou après formation ( validation) / Somme de tous les stagiaires inscrits à une session de formation * 100, au cours de  l\'année séléctionnée, pour votre OF',
-    'my-kpis-commitment-rate-trainer-help-message': 'Somme de tous les stagiaires ayant répondu à au moins 1 questionnaire, avant formation ( positionnement), de satisfaction ou après formation ( validation) / Somme de tous les stagiaires inscrits à une session de formation * 100, au cours de  l\'année séléctionnée, pour vos sessions de formation,
+    'my-kpis-commitment-rate-trainer-help-message': 'Somme de tous les stagiaires ayant répondu à au moins 1 questionnaire, avant formation ( positionnement), de satisfaction ou après formation ( validation) / Somme de tous les stagiaires inscrits à une session de formation * 100, au cours de  l\'année séléctionnée, pour vos sessions de formation',
     'my-kpis-satisfaction-rate-kpi-title': 'Taux de satisfaction',
     'my-kpis-satisfaction-rate-help-title': '% des avis positifs des stagiaires suite aux sessions de formation',
     'my-kpis-satisfaction-rate-help-message': 'Somme de tous les avis positifs (3 et/ou 4 étoiles données à la 1ère question du questionnaire de satisfaction)/ Somme des avis  du questionnaire de satisfaction reçus * 100, au cours de  l\'année séléctionnée',
