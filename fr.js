@@ -162,10 +162,10 @@ const messages = {
     //'answers-evolution-help-message': 'Cet indicateur représente le nombre de réponses par jour.',
 
     // ActivitySkills
-    //'skills-title': 'Skills',
-    //'skills-dda-kpi-title': 'Nombre total de Skills dans votre organisation ',
-    //'skills-dda-kpi-help-title': 'Somme de tous Skills de votre organisation',
-    //'skills-dda-kpi-help-message': 'Cet indicateur représente la somme de tous de Skills présents dans les profils de vos collaborateurs, depuis le lancement de l\'application.',
+    'skills-title': 'Skills',
+    'skills-dda-kpi-title': 'Nombre total de Skills dans votre organisation ',
+    'skills-dda-kpi-help-title': 'Somme de tous Skills de votre organisation',
+    'skills-dda-kpi-help-message': 'Cet indicateur représente la somme de tous de Skills présents dans les profils de vos collaborateurs, depuis le lancement de l\'application.',
     //'skills-part-kpi-title': '% de Skills uniques identifiés',
     //'skills-part-kpi-help-title': '% de Skills uniques identifiés',
     //'skills-part-kpi-help-message': 'Cet indicateur représente le % de Skills uniques présents dans les profils de vos collaborateurs par rapport au nombre de Skills existants depuis le lancement de l\'application.',
